@@ -1,0 +1,61 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "minerao"
+	group: "0A7DD7E798DF1611"
+	id: "33D82341FAF62606"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "23F98ADC1B6770F2"
+			tasks: [{
+				id: "6E9A46F36A07B0EF"
+				item: { }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["23F98ADC1B6770F2"]
+			id: "0087B63E9899007A"
+			tasks: [{
+				id: "1A2A107CD117146F"
+				item: { }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"0087B63E9899007A"
+				"23F98ADC1B6770F2"
+			]
+			id: "4C8681BA5FCDDC63"
+			tasks: [{
+				id: "276716A352B5B21F"
+				item: { }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"4C8681BA5FCDDC63"
+				"0087B63E9899007A"
+				"23F98ADC1B6770F2"
+			]
+			id: "04C268A9EFB022F0"
+			tasks: [{
+				id: "38CF34E0971B19A3"
+				item: { }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.5d
+		}
+	]
+}

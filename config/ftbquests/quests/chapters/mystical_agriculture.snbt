@@ -1,0 +1,1270 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mystical_agriculture"
+	group: "455999BBFBEF424D"
+	icon: {
+		id: "mysticalagriculture:uraninite_seeds"
+	}
+	id: "33FC8A3723E3C8B7"
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3EEFB65D2229BDE8"
+			rewards: [{
+				description: ""
+				id: "42D670AD42B12374"
+				type: "toast"
+			}]
+			tasks: [{
+				id: "1C064DB141FC3E6A"
+				type: "checkmark"
+			}]
+			x: -8.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"3EEFB65D2229BDE8"
+				"487DF3E4593DC16C"
+			]
+			id: "631FE9EF1E0EF562"
+			min_width: 460
+			rewards: [{
+				description: ""
+				id: "7D27B282E547EADB"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "7DB5721F3D367AB7"
+					item: { count: 1, id: "mysticalagriculture:inferium_essence" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "125B5E11772F4C55"
+					item: { count: 1, id: "mysticalagriculture:soulium_dust" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "2B28A61541E93431"
+					item: { count: 1, id: "mysticalagriculture:prosperity_shard" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -6.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"3EEFB65D2229BDE8"
+				"631FE9EF1E0EF562"
+			]
+			id: "6BEC64C811D2F687"
+			rewards: [{
+				description: ""
+				id: "3E19785FEFFBE437"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "044CA5226E544E4E"
+					item: { count: 1, id: "farmingforblockheads:red_fertilizer" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "673BA93219DAD9E9"
+					item: { count: 1, id: "minecraft:lily_pad" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 3L
+					id: "40DD69707799677A"
+					item: { count: 1, id: "reliquary:fertile_essence" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "7DF5834B5D27F394"
+					item: { count: 1, id: "reliquary:fertile_lily_pad" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "2E2900990B9FB557"
+					item: { count: 1, id: "mysticalagriculture:inferium_seeds" }
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"6BEC64C811D2F687"
+				"631FE9EF1E0EF562"
+				"3EEFB65D2229BDE8"
+			]
+			icon: {
+				id: "mysticalagriculture:prudentium_essence"
+			}
+			id: "349718B52A81A860"
+			min_width: 390
+			rewards: [{
+				description: ""
+				id: "6368E4856359410B"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "6EC233525828B998"
+					item: { count: 1, id: "mysticalagriculture:prudentium_essence" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6822373008FD5067"
+					item: { count: 1, id: "matc:inferium_crystal" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "5221E9F83EBAE437"
+					item: { count: 1, id: "mysticalagriculture:prosperity_gemstone" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6A69253115A019FB"
+					item: { count: 1, id: "mysticalagriculture:inferium_gemstone" }
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["349718B52A81A860"]
+			icon: {
+				id: "mysticalagriculture:tertium_essence"
+			}
+			id: "7305E40E78D85CEE"
+			rewards: [{
+				description: ""
+				id: "462305B5B9D85A1D"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "751D96A3E7A0723B"
+					item: { count: 1, id: "mysticalagriculture:tertium_essence" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "3B2ECD14FB366B8A"
+					item: { count: 1, id: "matc:prudentium_crystal" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "7FF27CBAB85333A3"
+					item: { count: 1, id: "mysticalagriculture:prudentium_essence" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"7305E40E78D85CEE"
+				"349718B52A81A860"
+			]
+			icon: {
+				id: "mysticalagriculture:imperium_essence"
+			}
+			id: "2D327BD55796D3C4"
+			rewards: [{
+				description: ""
+				id: "5CEBA54F8C581936"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "3648BBA318159EA0"
+					item: { count: 1, id: "mysticalagriculture:imperium_essence" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "13F42C31A9E02DF2"
+					item: { count: 1, id: "matc:tertium_crystal" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "14184A371DA70DA7"
+					item: { count: 1, id: "mysticalagriculture:tertium_essence" }
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"2D327BD55796D3C4"
+				"7305E40E78D85CEE"
+				"349718B52A81A860"
+			]
+			icon: {
+				id: "mysticalagriculture:supremium_essence"
+			}
+			id: "763D3B797A6F686F"
+			rewards: [{
+				description: ""
+				id: "57AC5F9A0686BB77"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "2E91F24CF4EDC669"
+					item: { count: 1, id: "mysticalagriculture:supremium_essence" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "0BEAC861E61600BF"
+					item: { count: 1, id: "matc:imperium_crystal" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "276DEFBD9712B7A1"
+					item: { count: 1, id: "mysticalagriculture:imperium_essence" }
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"090833590D4B9F7F"
+				"2D327BD55796D3C4"
+			]
+			icon: {
+				id: "mysticalagriculture:fluix_essence"
+			}
+			id: "3A917438C23DE7F5"
+			rewards: [{
+				description: ""
+				id: "27535CD77F6EE729"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "4C3EC592E691626F"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "2D93DCA6B1776F56"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "1AA97E6912FE6BFB"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "02F28AFDF61478C1"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"349718B52A81A860"
+				"6BEC64C811D2F687"
+			]
+			id: "090833590D4B9F7F"
+			rewards: [{
+				description: ""
+				id: "40021E0DC0D889BE"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "156A36ED5262CD88"
+					item: { count: 1, id: "mysticalagriculture:infusion_altar" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 8L
+					id: "2F2303544073A68D"
+					item: { count: 1, id: "mysticalagriculture:infusion_pedestal" }
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"090833590D4B9F7F"
+				"7305E40E78D85CEE"
+			]
+			icon: {
+				id: "mysticalagriculture:certus_quartz_essence"
+			}
+			id: "4042EEE7D524E350"
+			rewards: [{
+				description: ""
+				id: "243236303A299281"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "0B8E5975A0AFC79F"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "64AC4A5FCE568883"
+					item: { count: 1, id: "ae2:certus_quartz_crystal" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "640565134CE07D1F"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6354F3740D67CCBB"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -8.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"2D327BD55796D3C4"
+				"090833590D4B9F7F"
+			]
+			icon: {
+				id: "mysticalagriculture:gold_essence"
+			}
+			id: "28E8127403676E79"
+			rewards: [{
+				description: ""
+				id: "3FCF1C79D8D8B45F"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "066B83DF4F71ABBD"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "1010533619A476D2"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "4E0D4512D839A760"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "674A1FD4BF09CFF9"
+					item: { count: 1, id: "minecraft:gold_ingot" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -6.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"763D3B797A6F686F"
+				"090833590D4B9F7F"
+			]
+			icon: {
+				id: "mysticalagriculture:diamond_essence"
+			}
+			id: "3E0836B8591C09DE"
+			rewards: [{
+				description: ""
+				id: "44812AFF9301A597"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "7FC7D0FCE0A30684"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "55F7D373B18A57DB"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "7529304FB42B023E"
+					item: { count: 1, id: "minecraft:diamond" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "41F1A75671121D9C"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"763D3B797A6F686F"
+				"090833590D4B9F7F"
+			]
+			icon: {
+				id: "mysticalagriculture:netherite_essence"
+			}
+			id: "5351E73408E413AD"
+			rewards: [{
+				description: ""
+				id: "241BDFEB4B6EAF15"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "2492F1DB0EFC81E6"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "102BE9053CFF5C3F"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "14183F6F75BB5376"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "67B2976A23097F48"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"2D327BD55796D3C4"
+				"090833590D4B9F7F"
+			]
+			icon: {
+				id: "mysticalagriculture:lapis_lazuli_essence"
+			}
+			id: "1F1DD2AA453D635C"
+			rewards: [{
+				description: ""
+				id: "578D07B38BBE62E6"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "3149EF8ED8AA2267"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "5060AA48F0BC13EF"
+					item: { count: 1, id: "minecraft:lapis_lazuli" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "4C027800CDC10801"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "03782CB40D6B88D1"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -5.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"7305E40E78D85CEE"
+				"090833590D4B9F7F"
+			]
+			icon: {
+				id: "mysticalagriculture:redstone_essence"
+			}
+			id: "2A0E53BFD6A760F0"
+			rewards: [{
+				description: ""
+				id: "6A5EBB1126E193F3"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "3B82E4B1E60B754C"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "385F7C12C284014C"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "2DAC5DCE33B36DBE"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "507771138F93A1F9"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -11.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"7305E40E78D85CEE"
+				"090833590D4B9F7F"
+			]
+			icon: {
+				id: "mysticalagriculture:glowstone_essence"
+			}
+			id: "334D946AEB4AE8D8"
+			rewards: [{
+				description: ""
+				id: "5ACDB777012DE8F1"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "39FEF78260586929"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "325DCE4AA8DDE98D"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "7115242ADD41BC8C"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "5AAA35F925DB8DBE"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -10.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"090833590D4B9F7F"
+				"763D3B797A6F686F"
+			]
+			icon: {
+				id: "mysticalagriculture:emerald_essence"
+			}
+			id: "7F141832A6DFC33F"
+			rewards: [{
+				description: ""
+				id: "18EB713989A489E1"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "1ED1080B833100F6"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "6CF6BDF674D3BE21"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "2A065C934A9BB6A2"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "1CCD12E67DDDD1BE"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"090833590D4B9F7F"
+				"349718B52A81A860"
+			]
+			icon: {
+				id: "mysticalagriculture:dye_essence"
+			}
+			id: "61CCF9B533FEBEAE"
+			rewards: [{
+				description: ""
+				id: "3A35E343477A0A65"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "5ACB37E6ABBD8A0F"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "01F23645D2089E42"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "4806E03954292445"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "334A75746972CBDD"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -12.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"7305E40E78D85CEE"
+				"090833590D4B9F7F"
+			]
+			icon: {
+				id: "mysticalagriculture:nether_quartz_essence"
+			}
+			id: "05051280013A3620"
+			rewards: [{
+				description: ""
+				id: "00C35B60E3E06826"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "72F18F06ADDEFEE7"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "45D53645CF4CBD88"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "6A93B24B8A23EE9E"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "2C33E571E3460645"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -9.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"763D3B797A6F686F"
+				"090833590D4B9F7F"
+			]
+			icon: {
+				id: "mysticalagriculture:uraninite_essence"
+			}
+			id: "7589333C2F97F7FE"
+			rewards: [{
+				description: ""
+				id: "5C89DC7B0EEA4FC3"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "063858FCD9C60F34"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "2FFF23B53F556B71"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "60C9A787981C2606"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "181E778EE36AE2A6"
+					item: { count: 1, id: "mysticalagriculture:uraninite_seeds" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"2D327BD55796D3C4"
+				"090833590D4B9F7F"
+			]
+			icon: {
+				id: "mysticalagriculture:osmium_essence"
+			}
+			id: "29E72CC768AF39BD"
+			rewards: [{
+				description: ""
+				id: "11A541C79CB9A799"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "599646DB81600EC9"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "5683FF10A3684255"
+					item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "17EDDC4ED1F0F6CA"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "13BC61795C1EDDF3"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["631FE9EF1E0EF562"]
+			icon: {
+				id: "mysticalagriculture:soul_extractor"
+			}
+			id: "1049BF448D128D8B"
+			rewards: [{
+				description: ""
+				id: "200B7E6AAAF5AF6C"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "33FAD9555D82578C"
+					item: { count: 1, id: "mysticalagriculture:soul_extractor" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "4C5F50BC5AB57F52"
+					item: { count: 1, id: "mysticalagriculture:soulium_ingot" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "61F626224B023BD2"
+					item: { count: 1, id: "mysticalagriculture:soulium_dagger" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "0E10F15DB2A3F3F1"
+					item: { count: 1, id: "mysticalagriculture:machine_frame" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "26D25F9B8212E3B3"
+					item: { count: 1, id: "minecraft:iron_ingot" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -6.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["1049BF448D128D8B"]
+			icon: {
+				id: "mysticalagriculture:soul_jar"
+			}
+			id: "684E6C87AE85E9E4"
+			rewards: [{
+				description: ""
+				icon: {
+					id: "mysticalagriculture:soul_jar"
+				}
+				id: "14842B19E285EF68"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "511BE895E78ABDE6"
+					item: { count: 1, id: "mysticalagriculture:soul_jar" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "5B4FFA2702E7E0B7"
+					item: { count: 1, id: "mysticalagriculture:soul_glass" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "0AA9B77F3A3A111C"
+					item: { count: 1, id: "mysticalagriculture:soul_dust" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "04AA2D756073F10B"
+					item: { count: 1, id: "minecraft:glass" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "69983B7D1C975759"
+					item: { count: 1, id: "mysticalagriculture:soulium_ingot" }
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: -6.5d
+		}
+		{
+			dependencies: [
+				"7305E40E78D85CEE"
+				"1049BF448D128D8B"
+				"684E6C87AE85E9E4"
+			]
+			icon: {
+				id: "mysticalagriculture:zombie_essence"
+			}
+			id: "2A5135F0ACE9306F"
+			rewards: [{
+				description: ""
+				id: "78AEB69F97B24A13"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "39E97B02D53DE9B8"
+					item: { count: 1, id: "mysticalagriculture:zombie_seeds" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "76BF80684F5DAEEF"
+					item: { components: { "mysticalagriculture:soul_jar": { souls: 10.0d, type: "mysticalagriculture:zombie" } }, count: 1, id: "mysticalagriculture:soul_jar" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "005D9CD467730D4C"
+					item: { count: 1, id: "mysticalagriculture:tertium_essence" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "2671FA7CCCF781BE"
+					item: { count: 1, id: "mysticalagriculture:soulium_seed_base" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					id: "1580E4C4C1CB1FA4"
+					item: { count: 1, id: "mysticalagriculture:prosperity_seed_base" }
+					type: "item"
+				}
+			]
+			x: -7.5d
+			y: -8.5d
+		}
+		{
+			dependencies: [
+				"1049BF448D128D8B"
+				"684E6C87AE85E9E4"
+				"349718B52A81A860"
+			]
+			icon: {
+				id: "mysticalagriculture:chicken_essence"
+			}
+			id: "72EA57F767C54DFA"
+			rewards: [{
+				description: ""
+				id: "2B5AAEAAA4DFEC6F"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "201D0DEF2D732434"
+					item: { count: 1, id: "mysticalagriculture:chicken_seeds" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "24162848D52D0741"
+					item: { count: 1, id: "mysticalagriculture:soul_jar" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "2201E118DA07BFE4"
+					item: { count: 1, id: "mysticalagriculture:prudentium_essence" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "7CCE7DCDA30529FF"
+					item: { count: 1, id: "mysticalagriculture:soulium_seed_base" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -5.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["6BEC64C811D2F687"]
+			hide_dependency_lines: true
+			id: "413BC9DFDCDDB029"
+			optional: true
+			rewards: [{
+				description: ""
+				id: "6D0F974AC3FDD03E"
+				type: "toast"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "335A02ED224CD840"
+				item: { count: 1, id: "mysticalagriculture:inferium_growth_accelerator" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: -10.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["349718B52A81A860"]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:prudentium_growth_accelerator"
+			}
+			id: "0111ED82436B21A6"
+			optional: true
+			tasks: [{
+				consume_items: false
+				id: "1DD4C8650A2F5192"
+				item: { count: 1, id: "mysticalagriculture:prudentium_growth_accelerator" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: -9.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7305E40E78D85CEE"]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:tertium_growth_accelerator"
+			}
+			id: "3F6F1BE627049203"
+			optional: true
+			rewards: [{
+				description: ""
+				id: "57D83A92BE4246ED"
+				type: "toast"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "26C700D436CC780E"
+				item: { count: 1, id: "mysticalagriculture:tertium_growth_accelerator" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: -8.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2D327BD55796D3C4"]
+			hide_dependency_lines: true
+			icon: {
+				id: "mysticalagriculture:imperium_growth_accelerator"
+			}
+			id: "21D487EC4578C9E8"
+			optional: true
+			rewards: [{
+				description: ""
+				id: "7C3DA0C11411B161"
+				type: "toast"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "179701077B48D434"
+				item: { count: 1, id: "mysticalagriculture:imperium_growth_accelerator" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: -7.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["763D3B797A6F686F"]
+			hide_dependency_lines: true
+			id: "1519839FB38D9377"
+			optional: true
+			rewards: [{
+				description: ""
+				id: "75B313E4C4CF2416"
+				type: "toast"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "18803025AE238ABC"
+				item: { count: 1, id: "mysticalagriculture:supremium_growth_accelerator" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: -6.5d
+			y: -0.5d
+		}
+	]
+}

@@ -1,0 +1,295 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "evil_craft"
+	group: "455999BBFBEF424D"
+	icon: {
+		id: "evilcraft:dark_power_gem"
+	}
+	id: "1543E1B7B93CFE05"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1722EAA94A958616"
+			rewards: [{
+				description: ""
+				id: "64B6056AE46464E0"
+				type: "toast"
+			}]
+			tasks: [{
+				consume_items: false
+				count: 4L
+				id: "2335C42752BDB0B6"
+				item: { count: 1, id: "evilcraft:dark_gem" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: -12.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1722EAA94A958616"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "19B5049C8457C301"
+			optional: true
+			rewards: [{
+				description: ""
+				id: "5D7990F76A49F6E7"
+				type: "toast"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "3DFBD9F47705E920"
+				item: { count: 1, id: "evilcraft:darkened_apple" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: -10.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["1722EAA94A958616"]
+			icon: {
+				id: "evilcraft:blood_extractor"
+			}
+			id: "4129EC0CE1149A28"
+			rewards: [{
+				description: ""
+				icon: {
+					id: "evilcraft:blood_extractor"
+				}
+				id: "3B863E6E104EA257"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "5C08A7B27C68BF0A"
+					item: { count: 1, id: "evilcraft:blood_extractor" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "77A7A0081211598C"
+					item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 3L
+					id: "7AA64AA2F0F6F439"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "388526AF40816845"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "36F5F78C7E30D66E"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -10.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1722EAA94A958616"]
+			hide_dependency_lines: true
+			id: "662E4B1D0B214490"
+			optional: true
+			rewards: [{
+				description: ""
+				icon: {
+					id: "evilcraft:weather_container"
+				}
+				id: "4DE9512D52450594"
+				type: "toast"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "76D17EDFFA7FC982"
+				item: { count: 1, id: "evilcraft:weather_container" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: -9.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"4129EC0CE1149A28"
+				"1722EAA94A958616"
+			]
+			id: "70C04B244273D066"
+			rewards: [{
+				description: ""
+				id: "15585FE5C0C595DD"
+				type: "toast"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "70960070C64655A6"
+				item: { count: 1, id: "evilcraft:dark_power_gem" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: -9.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"70C04B244273D066"
+				"4129EC0CE1149A28"
+				"1722EAA94A958616"
+			]
+			id: "6E7A980C3105109E"
+			rewards: [{
+				description: ""
+				id: "28B226022D52DE28"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					count: 9L
+					id: "5A49E7646855883C"
+					item: { count: 1, id: "evilcraft:hardened_blood_shard" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "27330B16D024FE3C"
+					item: { count: 1, id: "minecraft:flint_and_steel" }
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			x: -7.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"6E7A980C3105109E"
+				"70C04B244273D066"
+				"1722EAA94A958616"
+			]
+			id: "3AA2CD75D53BD56D"
+			rewards: [{
+				description: ""
+				id: "31D00370F96182AB"
+				type: "toast"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "1C6438F7A8ABE911"
+				item: { count: 1, id: "evilcraft:blood_infusion_core" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"3AA2CD75D53BD56D"
+				"6E7A980C3105109E"
+				"1722EAA94A958616"
+				"70C04B244273D066"
+				"4129EC0CE1149A28"
+			]
+			icon: {
+				id: "evilcraft:blood_infuser"
+			}
+			id: "6E12D7A4BC930291"
+			rewards: [{
+				description: ""
+				icon: {
+					id: "evilcraft:blood_infuser"
+				}
+				id: "1885496B49BF4077"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "1C44753A3B33BC7D"
+					item: { count: 1, id: "evilcraft:blood_infuser" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "1F0602A91A9D40D9"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 8L
+					id: "4D17E3DE578C4B9C"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"6E12D7A4BC930291"
+				"3AA2CD75D53BD56D"
+				"6E7A980C3105109E"
+				"70C04B244273D066"
+				"4129EC0CE1149A28"
+				"1722EAA94A958616"
+			]
+			id: "2B4A113A56A15894"
+			rewards: [{
+				description: ""
+				id: "0FFEFBC2339A974F"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "58E93C17049FB1EB"
+					item: { count: 1, id: "minecraft:dead_bush" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "2BC072A516702052"
+					item: { count: 1, id: "minecraft:shears" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "55293E01DDA9BF7B"
+					item: { count: 1, id: "evilcraft:undead_sapling" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -2.0d
+		}
+	]
+}

@@ -1,0 +1,455 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "enchanting_module"
+	group: "7F298F3A58653C61"
+	id: "320111664615CD36"
+	images: [{
+		click: "https://encurtador.net/IAXhC"
+		height: 1.0d
+		hover: ["Tutorial Automatic Enchantment Setup for Apotheosis by EpicEnchants"]
+		image: "hikaripackmodern:textures/automatic_apotheosis_enchanting_table_area.png"
+		rotation: 0.0d
+		width: 1.783457249070632d
+		x: 7.5d
+		y: -0.5d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["4ECC9844C7099540"]
+			id: "19014DE75E77FC01"
+			rewards: [{
+				command: "/tellraw @p [\"\",{\"text\":\"Clique Aqui para Assistir ao Tutorial\",\"color\":\"purple\",\"bold\":true,\"underlined\":true,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/watch?v=CkS9LqSSpDU\"}}] "
+				feedback_message: ""
+				id: "0E3720BCFE680624"
+				type: "command"
+			}]
+			shape: "pentagon"
+			tasks: [{
+				id: "20187F39F7FD6DB0"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["19014DE75E77FC01"]
+			id: "6002588C6DDE266F"
+			tasks: [{
+				consume_items: false
+				count: 15L
+				id: "17EF6F11C9E11883"
+				item: { }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"6002588C6DDE266F"
+				"19014DE75E77FC01"
+			]
+			id: "0E5974FFA1F908F0"
+			tasks: [{
+				id: "72E3507431CF1E76"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"0E5974FFA1F908F0"
+				"19014DE75E77FC01"
+				"6002588C6DDE266F"
+			]
+			id: "3A23434628C513B6"
+			tasks: [{
+				consume_items: false
+				count: 5L
+				id: "590954B219DFDD60"
+				item: { }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"3A23434628C513B6"
+				"0E5974FFA1F908F0"
+				"19014DE75E77FC01"
+				"6002588C6DDE266F"
+			]
+			id: "1C0D6270CE601427"
+			tasks: [
+				{
+					consume_items: false
+					id: "36F99C38944D13EA"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 15L
+					id: "2771B19CBFCF5AE3"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"1C0D6270CE601427"
+				"3A23434628C513B6"
+				"0E5974FFA1F908F0"
+				"6002588C6DDE266F"
+				"19014DE75E77FC01"
+			]
+			id: "46FE564542415315"
+			tasks: [
+				{
+					consume_items: false
+					count: 15L
+					id: "648A58961AD2DCB7"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 14L
+					id: "1211D9FDDF50AA3A"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "1F8F6C4BD3193A3F"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"46FE564542415315"
+				"1C0D6270CE601427"
+				"3A23434628C513B6"
+				"0E5974FFA1F908F0"
+				"19014DE75E77FC01"
+				"6002588C6DDE266F"
+			]
+			id: "45BCDD817840060D"
+			tasks: [
+				{
+					consume_items: false
+					count: 9L
+					id: "4DCB6C785D280B33"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 8L
+					id: "5E2160C2B2BAF178"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "361E7EBD6A1CAC85"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["45BCDD817840060D"]
+			id: "7844540E3ABAD16D"
+			tasks: [
+				{
+					consume_items: false
+					id: "7BE0F97F262F6B1D"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "28DBBA61E3C0D53C"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["45BCDD817840060D"]
+			id: "6686BF075CD0D898"
+			tasks: [{
+				consume_items: false
+				count: 3L
+				id: "053AA28F7D651FFF"
+				item: { }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6686BF075CD0D898"]
+			id: "2FDABC030FD27618"
+			tasks: [{
+				consume_items: false
+				count: 3L
+				id: "7F46656DF5996269"
+				item: { }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7844540E3ABAD16D"]
+			id: "630051B3CB223CF9"
+			tasks: [{
+				consume_items: false
+				id: "2EE7C7B7EB03B11C"
+				item: { }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 7.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"630051B3CB223CF9"
+				"7844540E3ABAD16D"
+			]
+			id: "5715EEBC4F8AB296"
+			tasks: [{
+				consume_items: false
+				count: 4L
+				id: "5BAD646E48D1C64C"
+				item: { }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: -2.0d
+		}
+		{
+			id: "787FFC1A16AF2AEC"
+			shape: "diamond"
+			tasks: [
+				{
+					consume_items: false
+					id: "191A0A22EDF69AC6"
+					item: { count: 1, id: "minecraft:chorus_fruit" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "2FF38BAD53D296C4"
+					item: { count: 1, id: "minecraft:comparator" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "235DAB0F923D7A77"
+					item: { count: 1, id: "minecraft:dragon_egg" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6568975715E0F346"
+					item: { count: 1, id: "minecraft:sugar_cane" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "79903AA2393516BF"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6AD2C33035961F9E"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "614C3C90A8C13115"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "7B2143811370F518"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"5715EEBC4F8AB296"
+				"2FDABC030FD27618"
+			]
+			id: "02B7DBFB1D2BB53F"
+			rewards: [{
+				command: "/tellraw @p [\"\",{\"text\":\"Clique Aqui para Assistir ao Tutorial\",\"color\":\"red\",\"bold\":true,\"underlined\":true,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/watch?v=yv5nTWXJjBk\"}}] "
+				feedback_message: ""
+				id: "17E3D9FACA013334"
+				type: "command"
+			}]
+			shape: "gear"
+			tasks: [
+				{
+					consume_items: false
+					count: 15L
+					id: "04F4976AD37E3E1A"
+					item: { count: 1, id: "minecraft:sticky_piston" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 5L
+					id: "793E2DB4FACFB396"
+					item: { components: { "ftbquests:missing_item": "apotheosis:draconic_endshelf" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 7L
+					id: "45906F93873D1991"
+					item: { components: { "ftbquests:missing_item": "apotheosis:echoing_deepshelf" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 6L
+					id: "060F26A3257BA683"
+					item: { components: { "ftbquests:missing_item": "apotheosis:soul_touched_deepshelf" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "09534A4CB028F770"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "298BA771D5FC4CBA"
+					item: { components: { "ftbquests:missing_item": "apotheosis:rectifier_t3" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 3L
+					id: "259C18EB023EDF18"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "1ED8EA599AF7B165"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 5L
+					id: "7C866DD16A70774C"
+					item: { components: { "ftbquests:missing_item": "rftoolsutility:redstone_transmitter" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 5L
+					id: "4E243C5991EB1523"
+					item: { count: 1, id: "minecraft:glow_item_frame" }
+					only_from_crafting: false
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "725E60BA760E034C"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "31CBA151076711F9"
+					item: { components: { "ftbquests:missing_item": "rftoolsutility:redstone_information" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "3E2485646A5AC3AB"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "5674F87FA8935E32"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -0.5d
+		}
+	]
+}

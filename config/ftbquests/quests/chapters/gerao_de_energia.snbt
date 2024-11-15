@@ -1,0 +1,257 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "gerao_de_energia"
+	group: "35520D5EE1C6AE96"
+	id: "35332B0CB83271CE"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"21BB60520638E008"
+				"124D708F7A16B52A"
+				"22BD549A06A95F6C"
+				"0AA512252248E3FD"
+			]
+			id: "72A8ACF7B6448830"
+			rewards: [
+				{
+					id: "441217BDACA63253"
+					type: "xp"
+					xp: 50
+				}
+				{
+					auto: "disabled"
+					description: ""
+					id: "137FF06517AE578B"
+					team_reward: true
+					type: "toast"
+				}
+			]
+			tasks: [
+				{
+					consume_items: false
+					id: "3CDADE1542510CD1"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "7ABFCB2E102F4EAF"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "2508819B156167EB"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "042910FB0A82F6F4"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: -6.5d
+		}
+		{
+			id: "21BB60520638E008"
+			shape: "gear"
+			tasks: [{
+				id: "0D72139CBAF20A4A"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["21BB60520638E008"]
+			id: "124D708F7A16B52A"
+			rewards: [{
+				auto: "disabled"
+				description: ""
+				id: "240B0C7E186DF495"
+				team_reward: true
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					count: 2L
+					id: "42D7C69598253ED4"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "4B2BD3C96BD7C215"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "587E5E917C5BB856"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "6ED4ED744D4B14AF"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"124D708F7A16B52A"
+				"21BB60520638E008"
+			]
+			id: "22BD549A06A95F6C"
+			rewards: [{
+				auto: "disabled"
+				description: ""
+				id: "38A9CAFF2DF8CAEE"
+				team_reward: true
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					count: 2L
+					id: "50925B47D75763A3"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "3F8D77C959B362B2"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "0B6A55B9387BBEB8"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "07C7B0EAB689C877"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"22BD549A06A95F6C"
+				"124D708F7A16B52A"
+				"21BB60520638E008"
+				"157598D1F68B822F"
+			]
+			id: "0AA512252248E3FD"
+			rewards: [{
+				auto: "disabled"
+				description: ""
+				id: "762F3C849C636859"
+				team_reward: true
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					count: 2L
+					id: "19A52192DCF13D10"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "1F992B6795776132"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "3B28EF89FEDA4D0C"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "39FB67ADC858DD6A"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "0246FC8CDD01B571"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "082390602E0A2984"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["22BD549A06A95F6C"]
+			id: "157598D1F68B822F"
+			rewards: [{
+				auto: "disabled"
+				description: ""
+				id: "671FBDBAD24FC82E"
+				team_reward: true
+				type: "toast"
+			}]
+			tasks: [{
+				id: "2870F1F6D10E3FBE"
+				item: { }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+	]
+}

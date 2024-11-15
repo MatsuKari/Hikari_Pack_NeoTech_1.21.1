@@ -1,0 +1,98 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "energia_end_game"
+	group: "35520D5EE1C6AE96"
+	icon: {
+		id: "mekanismgenerators:turbine_blade"
+	}
+	id: "6A3A1ACFF432B9EE"
+	images: [{
+		click: "https://encurtador.net/OZJVN"
+		height: 1.0d
+		hover: ["Mais Informações sobre o Setup Aqui"]
+		image: "hikaripackmodern:textures/mekanism_logo.png"
+		rotation: 0.0d
+		width: 1.0d
+		x: -2.0d
+		y: -0.5d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		id: "2BC9A4BFD24E4E6F"
+		rewards: [{
+			command: "/tellraw @p {\"text\":\"Clique Aqui para Saber como fazer!\",\"color\":\"green\",\"underlined\":\"true\",\"bold\":\"true\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://encurtador.net/OZJVN\"}}]"
+			feedback_message: ""
+			id: "4AD076FC5EDEBAF8"
+			type: "command"
+		}]
+		tasks: [
+			{
+				consume_items: false
+				count: 192L
+				id: "24A363ECEFF18272"
+				item: { count: 1, id: "mekanismgenerators:turbine_casing" }
+				only_from_crafting: false
+				type: "item"
+			}
+			{
+				consume_items: false
+				count: 345L
+				id: "5850EAFF1EFA7B17"
+				item: { count: 1, id: "mekanismgenerators:turbine_vent" }
+				only_from_crafting: false
+				type: "item"
+			}
+			{
+				consume_items: false
+				count: 14L
+				id: "0BF3E5D260DE341B"
+				item: { count: 1, id: "mekanismgenerators:turbine_rotor" }
+				only_from_crafting: false
+				type: "item"
+			}
+			{
+				consume_items: false
+				count: 28L
+				id: "4F5BF0BE6504F876"
+				item: { count: 1, id: "mekanismgenerators:turbine_blade" }
+				only_from_crafting: false
+				type: "item"
+			}
+			{
+				consume_items: false
+				count: 7L
+				id: "69FE174DBF99BA34"
+				item: { count: 1, id: "mekanismgenerators:electromagnetic_coil" }
+				only_from_crafting: false
+				type: "item"
+			}
+			{
+				consume_items: false
+				count: 224L
+				id: "1C41CB55B66611D6"
+				item: { count: 1, id: "mekanism:pressure_disperser" }
+				only_from_crafting: false
+				type: "item"
+			}
+			{
+				consume_items: false
+				id: "2CF09E80F66D4440"
+				item: { count: 1, id: "mekanismgenerators:rotational_complex" }
+				only_from_crafting: false
+				type: "item"
+			}
+			{
+				consume_items: false
+				count: 2L
+				id: "7CFFCFFF5C2C4F26"
+				item: { count: 1, id: "mekanismgenerators:turbine_valve" }
+				only_from_crafting: false
+				type: "item"
+			}
+		]
+		x: -3.5d
+		y: -0.5d
+	}]
+}

@@ -1,0 +1,78 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "transporte"
+	group: "0A7DD7E798DF1611"
+	icon: {
+		components: {
+			"ftbquests:missing_item": "rftoolsutility:advanced_charged_porter"
+		}
+		id: "ftbquests:missing_item"
+	}
+	id: "424EE6D57C144C83"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "671B6DDBE6F42D42"
+			tasks: [{
+				id: "2C1E60C6C5C7FAC6"
+				item: { }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["671B6DDBE6F42D42"]
+			id: "2C36763470F4887C"
+			optional: true
+			tasks: [{
+				id: "627C7679B0065FAE"
+				item: { }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"2C36763470F4887C"
+				"671B6DDBE6F42D42"
+			]
+			id: "4C3321E7E9DE18AD"
+			optional: true
+			tasks: [{
+				id: "40B8142658CDF2F1"
+				item: { }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			id: "7320612C2346F6AE"
+			tasks: [{
+				id: "282AF42905A99271"
+				item: { components: { "ftbquests:missing_item": "rftoolsutility:charged_porter" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"7320612C2346F6AE"
+				"671B6DDBE6F42D42"
+			]
+			id: "1D5EEA7CE46EE65E"
+			tasks: [{
+				id: "0A75D701A1960A1D"
+				item: { components: { "ftbquests:missing_item": "rftoolsutility:advanced_charged_porter" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 1.0d
+		}
+	]
+}

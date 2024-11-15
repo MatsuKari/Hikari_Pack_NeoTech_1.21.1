@@ -1,0 +1,409 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "silent_gear"
+	group: "455999BBFBEF424D"
+	icon: {
+		id: "silentgear:blueprint_book"
+	}
+	id: "7FB32760B8306C86"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"73EAE6785C2DAD8F"
+				"2A988E8A5B673108"
+				"4BF05168940386D6"
+			]
+			icon: {
+				id: "silentgear:crimson_steel_ingot"
+			}
+			id: "1118838078F27BA9"
+			tasks: [
+				{
+					consume_items: false
+					count: 3L
+					id: "19555BEB34F13F36"
+					item: { count: 1, id: "silentgear:crimson_steel_ingot" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 16L
+					id: "081E31A0C54B5962"
+					item: { count: 1, id: "silentgear:crimson_iron_ingot" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 8L
+					id: "0DDD12BB656266BC"
+					item: { count: 1, id: "minecraft:blaze_rod" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "0621023840206251"
+					item: { count: 1, id: "minecraft:magma_cream" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"1118838078F27BA9"
+				"73EAE6785C2DAD8F"
+				"2A988E8A5B673108"
+				"4BF05168940386D6"
+			]
+			id: "3FE9C482C589265F"
+			rewards: [{
+				description: ""
+				id: "4A23C854C7426D1C"
+				type: "toast"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "7F8AFA5FB5473A36"
+				item: { count: 1, id: "silentgear:alloy_forge" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			id: "73EAE6785C2DAD8F"
+			rewards: [{
+				description: ""
+				icon: {
+					id: "silentgear:blueprint_book"
+				}
+				id: "4D5C34E4FE43D1E3"
+				type: "toast"
+			}]
+			tasks: [{
+				id: "734BD90F56A5FED2"
+				type: "checkmark"
+			}]
+			x: -10.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"73EAE6785C2DAD8F"
+				"4BF05168940386D6"
+			]
+			icon: {
+				id: "silentgear:blueprint_book"
+			}
+			id: "2A988E8A5B673108"
+			rewards: [{
+				description: ""
+				icon: {
+					id: "silentgear:blueprint_package"
+				}
+				id: "3568040BA7817FA9"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "64281CF34BF79E43"
+					item: { count: 1, id: "silentgear:blueprint_book" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "5234204B098101F9"
+					item: { count: 1, id: "silentgear:template_board" }
+					type: "item"
+				}
+			]
+			x: -7.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"73EAE6785C2DAD8F"
+				"3FE9C482C589265F"
+				"2A988E8A5B673108"
+				"1118838078F27BA9"
+				"4BF05168940386D6"
+			]
+			icon: {
+				id: "silentgear:azure_silver_ingot"
+			}
+			id: "6B4A6344F016E213"
+			rewards: [{
+				description: ""
+				id: "26B211D7ACA584EB"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "368D32193F1E80A2"
+					item: { count: 1, id: "silentgear:raw_azure_silver" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 3L
+					id: "7F01EE3BABB1E1DB"
+					item: { count: 1, id: "silentgear:azure_silver_dust" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					dimension: "minecraft:the_end"
+					id: "046F062187746CAF"
+					type: "dimension"
+				}
+				{
+					count: 3L
+					id: "7D6BC22A6822EDB0"
+					item: { count: 1, id: "silentgear:azure_silver_ingot" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"6B4A6344F016E213"
+				"3FE9C482C589265F"
+				"73EAE6785C2DAD8F"
+				"1118838078F27BA9"
+				"2A988E8A5B673108"
+				"4BF05168940386D6"
+			]
+			id: "575E190813E57907"
+			rewards: [{
+				description: ""
+				id: "197EC4664C7CE2AE"
+				type: "toast"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "1542C5B9B8A4454A"
+				item: { count: 1, id: "silentgear:azure_electrum_ingot" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"3FE9C482C589265F"
+				"73EAE6785C2DAD8F"
+				"2A988E8A5B673108"
+				"6B4A6344F016E213"
+				"575E190813E57907"
+				"1118838078F27BA9"
+				"0AF5AC6FF447F592"
+			]
+			icon: {
+				id: "silentgear:tyrian_steel_ingot"
+			}
+			id: "2AB75E5CECD9BE37"
+			rewards: [{
+				description: ""
+				id: "170F187D2BCE8359"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "29D9BCD23FA28BC4"
+					item: { count: 1, id: "silentgear:crimson_steel_ingot" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "2E0E5D0DDEC6D4EB"
+					item: { count: 1, id: "silentgear:azure_electrum_ingot" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "0F9F90F649C498D3"
+					item: { count: 1, id: "silentgear:crushed_shulker_shell" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "267CC679AF94C2E3"
+					item: { count: 1, id: "minecraft:netherite_scrap" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "3ADBBDECFD11E204"
+					item: { count: 1, id: "silentgear:tyrian_steel_ingot" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			hide_dependency_lines: true
+			id: "14E76204210BCDFF"
+			shape: "pentagon"
+			tasks: [{
+				id: "709DF8BF53983CB2"
+				type: "checkmark"
+			}]
+			x: -9.0d
+			y: -2.5d
+		}
+		{
+			hide_dependency_lines: true
+			id: "5AB7773062E2CF20"
+			min_width: 300
+			rewards: [{
+				description: ""
+				id: "2114B3A7809C66CB"
+				type: "toast"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "247F85DD07B23644"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"2AB75E5CECD9BE37"
+				"3FE9C482C589265F"
+				"6B4A6344F016E213"
+				"575E190813E57907"
+				"2A988E8A5B673108"
+				"1118838078F27BA9"
+				"73EAE6785C2DAD8F"
+				"0AF5AC6FF447F592"
+			]
+			icon: {
+				id: "silentgear:material_grader"
+			}
+			id: "043226DBFE4E8B4E"
+			rewards: [{
+				description: ""
+				id: "119E1E9A05E79B09"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "439F7DF3D49EE1EF"
+					item: { count: 1, id: "silentgear:material_grader" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "018477E4429FE4B5"
+					item: { count: 1, id: "silentgear:glittery_dust" }
+					only_from_crafting: true
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "31C67E6C9608F447"
+					item: { count: 1, id: "silentgear:blazing_dust" }
+					only_from_crafting: true
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "0C52651C10E6498F"
+					item: { count: 1, id: "silentgear:glowing_dust" }
+					only_from_crafting: true
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"2AB75E5CECD9BE37"
+				"3FE9C482C589265F"
+				"2A988E8A5B673108"
+				"73EAE6785C2DAD8F"
+				"043226DBFE4E8B4E"
+				"575E190813E57907"
+				"6B4A6344F016E213"
+				"1118838078F27BA9"
+				"0AF5AC6FF447F592"
+			]
+			id: "731F31702DBF898D"
+			rewards: [{
+				description: ""
+				id: "1FA7FB2249A8417E"
+				type: "toast"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "30081408CD7A81BC"
+				item: { count: 1, id: "silentgear:salvager" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["73EAE6785C2DAD8F"]
+			id: "4BF05168940386D6"
+			tasks: [
+				{
+					id: "37DFEB31CE0AB66E"
+					item: { count: 1, id: "silentgear:stone_anvil" }
+					type: "item"
+				}
+				{
+					id: "70E64B8852244ED5"
+					item: { count: 1, id: "silentgear:crude_knife" }
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["73EAE6785C2DAD8F"]
+			id: "0AF5AC6FF447F592"
+			tasks: [{
+				id: "697C61F5B9050460"
+				item: { count: 1, id: "silentgear:crude_hammer" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+	]
+}

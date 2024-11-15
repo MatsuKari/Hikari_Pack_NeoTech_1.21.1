@@ -1,0 +1,50 @@
+/tp @s -560 80 1072
+/locate biome minecraft:mushroom_fields
+/tp @s 381 64 911
+/give MatsuKari minecraft:golden_apple 5
+/give MatsuKari minecraft:golden_apple 1
+/datapack list enabled
+/datapack list available
+/kubejs hand
+/reload
+/kubejs hand
+/reload
+/locate structure minecraft:ancient_city
+/tp @s 2912 ~ -912
+/gamemode spectator
+/gamemode survival
+/reload
+/gamemode spectator
+/gamemode survival
+/gamemode spectator
+/gamemode survival
+/locate biome minecraft:end_highlands
+/tp @s -565 76 1077
+/locate structure minecraft:bastion_remnant
+/tp @s -1120 ~ -688
+/tp 1109 80 -713
+/tp 1109 55 -713
+/locate structure minecraft:bastion_remnant
+/tp @s 896 ~ -1024
+/tp 1530 50 2011
+/locate structure minecraft:bastion_remnant
+/tp @s 1024 ~ 2416
+/gamemode creative
+/gamemode survival
+/xp set MatsuKari 47 levels
+/kill
+/xp set MatsuKari 47 levels
+/summon minecraft:chicken
+/kubejs hand
+/reload
+/kill
+/summon minecraft:wither
+/reload
+/summon minecraft:wither
+/gamemode
+/gamemode survival
+/reload
+/gamemode creative
+/summon minecraft:wither
+/time set midnight
+/gamerule doDaylightCycle false

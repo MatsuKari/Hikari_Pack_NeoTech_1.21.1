@@ -1,0 +1,387 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "applied_energistics_2"
+	group: "5684DBC9C605DBF3"
+	id: "2BA73598999659E0"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "70F65307F87FA488"
+			rewards: [{
+				auto: "disabled"
+				description: ""
+				id: "799778FF40C9C78D"
+				team_reward: true
+				type: "toast"
+			}]
+			tasks: [
+				{
+					id: "137A8BCBE526AD17"
+					structure: "ae2:meteorite"
+					type: "structure"
+				}
+				{
+					consume_items: false
+					id: "5C0BB25723515D06"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -18.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["70F65307F87FA488"]
+			id: "5C83928B48FB2EEA"
+			rewards: [{
+				description: ""
+				id: "620F941E731E4D0A"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					count: 4L
+					id: "5B79972DD1A09031"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "1A7BFE008CA48889"
+					item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -17.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"5C83928B48FB2EEA"
+				"70F65307F87FA488"
+			]
+			id: "55F53AB24B9C3432"
+			rewards: [{
+				description: ""
+				id: "24CD58E5E20A03AF"
+				type: "toast"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "78216FEFE16371E6"
+				item: { }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: -15.5d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"55F53AB24B9C3432"
+				"5C83928B48FB2EEA"
+				"70F65307F87FA488"
+			]
+			id: "7AC29AD9F7F9DE89"
+			rewards: [{
+				auto: "disabled"
+				description: ""
+				id: "4857D1BD3277BAC4"
+				team_reward: true
+				type: "toast"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "4B4112BB6FE40F4D"
+				item: { }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: -14.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"7AC29AD9F7F9DE89"
+				"55F53AB24B9C3432"
+				"5C83928B48FB2EEA"
+				"70F65307F87FA488"
+				"67C91D09D1FFD815"
+				"149170E20633AF66"
+			]
+			id: "062ECFDC41C0E0DE"
+			rewards: [{
+				description: ""
+				id: "70032ADB8DFE070F"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "2403B452343F062D"
+					item: { }
+					only_from_crafting: false
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "289865B61716165F"
+					item: { count: 1, id: "ae2:item_storage_cell_4k" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "70FCD3580393C79E"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 16L
+					id: "53E8EDF96896A72B"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "40694126997350DE"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -9.5d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"062ECFDC41C0E0DE"
+				"70F65307F87FA488"
+				"7AC29AD9F7F9DE89"
+				"55F53AB24B9C3432"
+				"5C83928B48FB2EEA"
+				"149170E20633AF66"
+				"67C91D09D1FFD815"
+			]
+			id: "30E853C64AC38CA4"
+			min_width: 410
+			rewards: [{
+				description: ""
+				id: "02D7E99F4B82E8F5"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "7B6A22AE78B66D0B"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "25FA3D6A613F7B0F"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "1201CB3404CAB50B"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "6550E1E7E132BED5"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "5FE338C5CD70E335"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "4DCF38076A475B59"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "55FEB335B960D8CF"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -8.0d
+			y: -4.0d
+		}
+		{
+			id: "18035329AE40249A"
+			tasks: [{
+				consume_items: false
+				id: "439F765971C7FFA5"
+				item: { components: { "ftbquests:missing_item": "enderchests:ender_chest" }, count: 1, id: "ftbquests:missing_item" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: -18.5d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"30E853C64AC38CA4"
+				"062ECFDC41C0E0DE"
+				"7AC29AD9F7F9DE89"
+				"55F53AB24B9C3432"
+				"5C83928B48FB2EEA"
+				"70F65307F87FA488"
+				"149170E20633AF66"
+				"67C91D09D1FFD815"
+			]
+			id: "6F2536A720181E1A"
+			rewards: [{
+				auto: "disabled"
+				description: ""
+				id: "2340D4717FE95890"
+				team_reward: true
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "7976593CAA64E51A"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "36196222B662E6BC"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "0E05BD7309F82DDD"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "32D107A09EB410D7"
+					item: { components: { "ftbquests:missing_item": "betterp2p:advanced_memory_card" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "64C1F2EDED3044EF"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -6.5d
+			y: -4.0d
+		}
+		{
+			id: "58063C92BF648B25"
+			tasks: [{
+				id: "71F130DD1DE2C3BE"
+				item: { }
+				type: "item"
+			}]
+			x: -17.0d
+			y: -6.0d
+		}
+		{
+			id: "0E3C4503DA1F5DEA"
+			tasks: [{
+				id: "31C966331A4B7FA7"
+				item: { }
+				type: "item"
+			}]
+			x: -18.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0E3C4503DA1F5DEA"]
+			id: "733A545F30D3A469"
+			tasks: [{
+				id: "77042D5B6C5F6718"
+				item: { }
+				type: "item"
+			}]
+			x: -17.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"7AC29AD9F7F9DE89"
+				"55F53AB24B9C3432"
+				"5C83928B48FB2EEA"
+				"70F65307F87FA488"
+			]
+			id: "149170E20633AF66"
+			tasks: [{
+				id: "06CDDBA06FD9A169"
+				item: { }
+				type: "item"
+			}]
+			x: -12.5d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"149170E20633AF66"
+				"7AC29AD9F7F9DE89"
+				"55F53AB24B9C3432"
+				"5C83928B48FB2EEA"
+				"70F65307F87FA488"
+			]
+			id: "67C91D09D1FFD815"
+			tasks: [{
+				id: "1AE837C86828BB97"
+				item: { }
+				type: "item"
+			}]
+			x: -11.0d
+			y: -4.0d
+		}
+		{
+			id: "0462EFC5AC7ACA4E"
+			tasks: [{
+				id: "391FC940633CA61E"
+				item: { }
+				type: "item"
+			}]
+			x: -15.5d
+			y: -2.5d
+		}
+	]
+}

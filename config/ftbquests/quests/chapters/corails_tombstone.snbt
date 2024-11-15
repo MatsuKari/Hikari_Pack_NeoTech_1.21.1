@@ -1,0 +1,180 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "corails_tombstone"
+	group: "455999BBFBEF424D"
+	icon: {
+		components: {
+			"tombstone:tb_model_texture": 2
+		}
+		id: "tombstone:decorative_subaraki_grave"
+	}
+	id: "0AED9A1A2DF988EB"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["3527EE9B7938538C"]
+			id: "194BB3DDCA56717F"
+			optional: true
+			rewards: [
+				{
+					count: 4
+					id: "4D706691B8BF207C"
+					type: "item"
+				}
+				{
+					description: ""
+					icon: {
+						id: "tombstone:decorative_grave_simple"
+					}
+					id: "265D05091162F553"
+					type: "toast"
+				}
+			]
+			tasks: [
+				{
+					consume_items: false
+					count: 4L
+					id: "3672A5F4FDED22E4"
+					item: { count: 1, id: "tombstone:grave_dust" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					entity: "minecraft:zombie"
+					id: "16D028FD6C2AD6C2"
+					type: "kill"
+					value: 7L
+				}
+				{
+					entity: "minecraft:skeleton"
+					id: "5F069BD579BCA026"
+					type: "kill"
+					value: 7L
+				}
+			]
+			x: -9.5d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"194BB3DDCA56717F"
+				"3527EE9B7938538C"
+			]
+			icon: {
+				id: "tombstone:carmin_marble"
+			}
+			id: "5784A0443C32187A"
+			rewards: [{
+				description: ""
+				id: "143C60D930D89429"
+				type: "toast"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "2A7947FB8CC169CD"
+				item: { count: 1, id: "tombstone:carmin_marble" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: -8.0d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"194BB3DDCA56717F"
+				"6883215A6BDC26F2"
+				"5784A0443C32187A"
+				"3527EE9B7938538C"
+			]
+			icon: {
+				id: "tombstone:decorative_subaraki_grave"
+			}
+			id: "67DABB540EFD3B01"
+			rewards: [{
+				description: ""
+				icon: {
+					id: "tombstone:decorative_subaraki_grave"
+				}
+				id: "3475D21373157AEB"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "3691535DDE6C53D7"
+					item: { components: { "tombstone:tb_model_texture": 4 }, count: 1, id: "tombstone:decorative_subaraki_grave" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "69921DBE9FDF13A3"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"194BB3DDCA56717F"
+				"13DEDA7224348135"
+				"3527EE9B7938538C"
+				"5784A0443C32187A"
+			]
+			id: "6883215A6BDC26F2"
+			rewards: [{
+				description: ""
+				id: "5EE9962814406CD2"
+				type: "toast"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "4DEBACB4FBE13AD3"
+				item: { }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: -6.5d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"6883215A6BDC26F2"
+				"67DABB540EFD3B01"
+				"5784A0443C32187A"
+				"3527EE9B7938538C"
+			]
+			id: "59F169FD06C35E83"
+			rewards: [{
+				description: ""
+				id: "2DE95581AE3B3EB0"
+				type: "toast"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "7681D1EEB934B700"
+				item: { count: 1, id: "tombstone:book_of_disenchantment" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: -3.5d
+			y: -6.0d
+		}
+		{
+			id: "3527EE9B7938538C"
+			shape: "gear"
+			tasks: [{
+				id: "00BED89C6DB733A2"
+				type: "checkmark"
+			}]
+			x: -11.0d
+			y: -6.0d
+		}
+	]
+}

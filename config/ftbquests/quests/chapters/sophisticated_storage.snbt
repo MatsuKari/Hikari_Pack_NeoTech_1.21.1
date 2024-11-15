@@ -1,0 +1,272 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "sophisticated_storage"
+	group: "73D975CA3E22D3D7"
+	icon: {
+		id: "sophisticatedbackpacks:backpack"
+	}
+	id: "63579105D7471B83"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["4AF141BC1EBDC358"]
+			icon: {
+				id: "sophisticatedbackpacks:backpack"
+			}
+			id: "5A4F7BB11B433548"
+			tasks: [{
+				id: "67D289AFA5333BFB"
+				type: "checkmark"
+			}]
+			x: -7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5A4F7BB11B433548"]
+			id: "21657A124025926C"
+			tasks: [{
+				consume_items: false
+				id: "728F8A5C8F8AA183"
+				item: { }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"21657A124025926C"
+				"5A4F7BB11B433548"
+			]
+			id: "2C90A56CCA5DCC95"
+			tasks: [{
+				id: "102F7B649F35D7DF"
+				item: { }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"2C90A56CCA5DCC95"
+				"21657A124025926C"
+				"5A4F7BB11B433548"
+			]
+			id: "24C1CDD25F4512AA"
+			tasks: [{
+				id: "27F97FC214365C35"
+				item: { }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"24C1CDD25F4512AA"
+				"2C90A56CCA5DCC95"
+				"21657A124025926C"
+				"5A4F7BB11B433548"
+			]
+			id: "23F07221910C5363"
+			tasks: [{
+				id: "447B51AADBC0A0E8"
+				item: { }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"23F07221910C5363"
+				"24C1CDD25F4512AA"
+				"2C90A56CCA5DCC95"
+				"21657A124025926C"
+				"5A4F7BB11B433548"
+			]
+			id: "677B0F2BF3B99245"
+			tasks: [{
+				id: "06EE336AFF6EFDBC"
+				item: { }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"607BE3BFC6A50B01"
+				"5A4F7BB11B433548"
+			]
+			id: "573279AAE5F87D93"
+			tasks: [{
+				consume_items: false
+				id: "2048EF11056ECFA5"
+				item: { }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: -5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5A4F7BB11B433548"]
+			id: "607BE3BFC6A50B01"
+			tasks: [{
+				id: "6668A7E09AEA1340"
+				item: { }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"573279AAE5F87D93"
+				"607BE3BFC6A50B01"
+				"5A4F7BB11B433548"
+			]
+			id: "4C39C08067828793"
+			tasks: [{
+				id: "6D30277DD9AD5B39"
+				item: { }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"4C39C08067828793"
+				"573279AAE5F87D93"
+				"607BE3BFC6A50B01"
+				"5A4F7BB11B433548"
+			]
+			id: "4B0EC205E61BE0B8"
+			tasks: [{
+				id: "04FED0596D4AD64E"
+				item: { }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"14C902E41A0A1AB2"
+				"5A4F7BB11B433548"
+			]
+			id: "242AA40EC5E93C8D"
+			tasks: [{
+				id: "1F5FE46622CFF7E4"
+				item: { }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"242AA40EC5E93C8D"
+				"14C902E41A0A1AB2"
+				"5A4F7BB11B433548"
+			]
+			id: "470ED63973B70395"
+			tasks: [{
+				id: "4EFC2AFBE84C2D69"
+				item: { }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["5A4F7BB11B433548"]
+			id: "14C902E41A0A1AB2"
+			tasks: [{
+				id: "0A9EE738C0EFDE6B"
+				item: { }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5A4F7BB11B433548"]
+			id: "54B046DCB2EC6425"
+			tasks: [{
+				id: "1202351E55FA5EBB"
+				item: { }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"54B046DCB2EC6425"
+				"5A4F7BB11B433548"
+			]
+			id: "499B3B791C25E4CE"
+			tasks: [{
+				id: "62EE564702EA71C8"
+				item: { }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5A4F7BB11B433548"]
+			id: "0D74B479E8335568"
+			tasks: [{
+				id: "42965A7C7B01BDE7"
+				item: { }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5A4F7BB11B433548"]
+			id: "73DF3BD382B70A58"
+			tasks: [{
+				id: "51C725F666A35945"
+				item: { }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5A4F7BB11B433548"]
+			id: "6E62586CA49DF0EB"
+			tasks: [{
+				id: "3E3A7A3177C8FA6A"
+				item: { }
+				type: "item"
+			}]
+			x: -10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6E62586CA49DF0EB"
+				"5A4F7BB11B433548"
+			]
+			id: "106DAD9FD0153B11"
+			tasks: [{
+				id: "21E8A42228972E57"
+				item: { }
+				type: "item"
+			}]
+			x: -11.5d
+			y: 0.0d
+		}
+	]
+}

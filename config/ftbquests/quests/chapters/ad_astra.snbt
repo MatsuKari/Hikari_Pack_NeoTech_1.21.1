@@ -1,0 +1,777 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ad_astra"
+	group: "455999BBFBEF424D"
+	id: "5F4CAEEFC614C882"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "6E1B63FF3F91E31D"
+			tasks: [{
+				id: "4C8D6A130F64DA68"
+				type: "checkmark"
+			}]
+			x: -8.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["6E1B63FF3F91E31D"]
+			id: "011E8793FE9AEA02"
+			rewards: [{
+				description: ""
+				id: "57124179998A046C"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "24D4B7D43CD6032F"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "4CD210EB29B2EC18"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "2E879F94D6459705"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			x: -6.5d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"011E8793FE9AEA02"
+				"6E1B63FF3F91E31D"
+			]
+			id: "621FB4DD80802572"
+			rewards: [{
+				description: ""
+				id: "214F70345B2AAD1F"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "7ABEEF0678ED5255"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "1E20965D7CF4557E"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "6A20A2AFC40F24DF"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "710105DAFB4BD3C2"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "022CE57FBE018395"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "5DF777AF929B21D0"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "65F78F2A42148003"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:missing_item": "ad_astra:tier_1_rocket"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "45BE17CEBF3D756A"
+			rewards: [{
+				description: ""
+				icon: {
+					components: {
+						"ftbquests:missing_item": "ad_astra:tier_1_rocket"
+					}
+					id: "ftbquests:missing_item"
+				}
+				id: "08B85E65F3E871AC"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "2560E1C3A8FBCF7F"
+					item: { components: { "ftbquests:missing_item": "ad_astra:tier_1_rocket" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "38107F5B4F502F6E"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 6L
+					id: "48C22D264F7C96D5"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "73726FABA751C3A2"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "784C7282F6A8C9AF"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "7B396C8086884801"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: -7.5d
+		}
+		{
+			dependencies: [
+				"6E1B63FF3F91E31D"
+				"011E8793FE9AEA02"
+				"45BE17CEBF3D756A"
+				"621FB4DD80802572"
+			]
+			id: "78D9D3EEB91DAF63"
+			rewards: [{
+				description: ""
+				id: "4698DBFBACC041BB"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "4C90F67355D0BC6C"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 5L
+					id: "7F5D2D8FC1337AAE"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "5FE9C4C9274F7E1B"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["56966804775BEDB5"]
+			id: "5D558A7F1508BBEC"
+			min_width: 560
+			rewards: [{
+				description: ""
+				icon: {
+					components: {
+						"ftbquests:missing_item": "ad_astra:space_helmet"
+					}
+					id: "ftbquests:missing_item"
+				}
+				id: "7E0DFBFC675D07E6"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					dimension: "ad_astra:earth_orbit"
+					id: "30AEC53EAC64A160"
+					type: "dimension"
+				}
+				{
+					consume_items: false
+					count: 32L
+					id: "762BAE1481ACF7E6"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 32L
+					id: "28380EB41C6225E6"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 64L
+					id: "7AE4BB12BD4F7737"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 32L
+					id: "4570BBCC25231627"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "03AA5769B35949A0"
+					item: { components: { "ftbquests:missing_item": "ad_astra:space_helmet" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "0DCC0607FE4F36F6"
+					item: { components: { "ftbquests:missing_item": "ad_astra:space_suit" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "002182B7C5D8AE43"
+					item: { components: { "ftbquests:missing_item": "ad_astra:space_pants" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "05E084CCCDC8174B"
+					item: { components: { "ftbquests:missing_item": "ad_astra:space_boots" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "779167CAB7FE28E5"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6ED7737145615C19"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: -9.0d
+		}
+		{
+			dependencies: [
+				"1CCE7BBCC9294C54"
+				"3C9572F61C11442F"
+				"5D558A7F1508BBEC"
+				"56966804775BEDB5"
+			]
+			id: "13A9E5A2B8CD3625"
+			tasks: [
+				{
+					consume_items: false
+					id: "7D4C7B0A881FDDA9"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "21E64592BC3351A1"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["56966804775BEDB5"]
+			id: "3C9572F61C11442F"
+			rewards: [{
+				description: ""
+				id: "197C9C747420129C"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "7A2777937AD4EB22"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "57636176FA54A9CC"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "14859C5FBB3FDDC7"
+					item: { }
+					only_from_crafting: true
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: -9.0d
+		}
+		{
+			dependencies: [
+				"3C9572F61C11442F"
+				"5D558A7F1508BBEC"
+				"56966804775BEDB5"
+			]
+			icon: {
+				components: {
+					"ftbquests:missing_item": "ad_astra:tier_2_rocket"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "1CCE7BBCC9294C54"
+			rewards: [{
+				description: ""
+				icon: {
+					components: {
+						"ftbquests:missing_item": "ad_astra:tier_2_rocket"
+					}
+					id: "ftbquests:missing_item"
+				}
+				id: "2508C665D6A3CEC0"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "0925849D53D29D31"
+					item: { components: { "ftbquests:missing_item": "ad_astra:tier_2_rocket" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 6L
+					id: "6EE6004F56107962"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "1E22020B94689538"
+					item: { components: { "ftbquests:missing_item": "ad_astra:desh_tank" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "130E164C7F74DED0"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "62A0937268ADA943"
+					item: { components: { "ftbquests:missing_item": "ad_astra:rocket_fin" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "085A57216A146729"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: -9.0d
+		}
+		{
+			dependencies: [
+				"13A9E5A2B8CD3625"
+				"1CCE7BBCC9294C54"
+				"3C9572F61C11442F"
+				"5D558A7F1508BBEC"
+				"56966804775BEDB5"
+			]
+			icon: {
+				components: {
+					"ftbquests:missing_item": "ad_astra:tier_3_rocket"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "048E76348C4D3244"
+			rewards: [{
+				auto: "disabled"
+				description: ""
+				icon: {
+					components: {
+						"ftbquests:missing_item": "ad_astra:tier_3_rocket"
+					}
+					id: "ftbquests:missing_item"
+				}
+				id: "5B79A31240AB8D11"
+				team_reward: true
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "25C01A81C7B56430"
+					item: { components: { "ftbquests:missing_item": "ad_astra:tier_3_rocket" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 6L
+					id: "78EB05FA9E5424FF"
+					item: { components: { "ftbquests:missing_item": "ad_astra:ostrum_block" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "53B59C966430B87E"
+					item: { components: { "ftbquests:missing_item": "ad_astra:ostrum_tank" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6C5291C5C100FA46"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "792E7B26E8477CA1"
+					item: { components: { "ftbquests:missing_item": "ad_astra:rocket_fin" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "3D91166584BE9712"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -9.0d
+		}
+		{
+			dependencies: [
+				"048E76348C4D3244"
+				"13A9E5A2B8CD3625"
+				"1CCE7BBCC9294C54"
+				"3C9572F61C11442F"
+				"5D558A7F1508BBEC"
+				"56966804775BEDB5"
+			]
+			icon: {
+				components: {
+					"ftbquests:missing_item": "ad_astra:netherite_space_helmet"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "56018673E5C37024"
+			rewards: [{
+				auto: "disabled"
+				description: ""
+				icon: {
+					components: {
+						"ftbquests:missing_item": "ad_astra:netherite_space_helmet"
+					}
+					id: "ftbquests:missing_item"
+				}
+				id: "6A655964F5881D4A"
+				team_reward: true
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "01C44700F85EC627"
+					item: { components: { "ftbquests:missing_item": "ad_astra:netherite_space_helmet" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "0C22896A348D050F"
+					item: { components: { "ftbquests:missing_item": "ad_astra:netherite_space_suit" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "59B24CEE4D392D61"
+					item: { components: { "ftbquests:missing_item": "ad_astra:netherite_space_pants" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6224CA017CB0B9DA"
+					item: { components: { "ftbquests:missing_item": "ad_astra:netherite_space_boots" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["56018673E5C37024"]
+			id: "554ADCC09024A861"
+			rewards: [{
+				description: ""
+				id: "4D539057DA099417"
+				type: "toast"
+			}]
+			tasks: [{
+				dimension: "ad_astra:venus"
+				id: "659EE2CE126679EB"
+				type: "dimension"
+			}]
+			x: 5.5d
+			y: -7.5d
+		}
+		{
+			dependencies: [
+				"554ADCC09024A861"
+				"56018673E5C37024"
+			]
+			id: "665E69E0B3D0FD62"
+			rewards: [{
+				description: ""
+				id: "5B00CD9C601001C4"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "23F497B114801146"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "66A2B37F9620B51C"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["665E69E0B3D0FD62"]
+			icon: {
+				components: {
+					"ftbquests:missing_item": "ad_astra:tier_4_rocket"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "66890B4D00C6F89E"
+			rewards: [{
+				auto: "disabled"
+				description: ""
+				icon: {
+					components: {
+						"ftbquests:missing_item": "ad_astra:tier_4_rocket"
+					}
+					id: "ftbquests:missing_item"
+				}
+				id: "20AE4D64BF2DB9B4"
+				team_reward: true
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "68CCA7A756DE2B5D"
+					item: { components: { "ftbquests:missing_item": "ad_astra:tier_4_rocket" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 6L
+					id: "5A943F5517F3BC49"
+					item: { components: { "ftbquests:missing_item": "ad_astra:calorite_block" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "7CB7BB08B6F0B706"
+					item: { components: { "ftbquests:missing_item": "ad_astra:calorite_tank" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "31710CB48886F318"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "0A26E8099E2113CB"
+					item: { components: { "ftbquests:missing_item": "ad_astra:rocket_fin" }, count: 1, id: "ftbquests:missing_item" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "14C290551F6099E5"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"665E69E0B3D0FD62"
+				"66890B4D00C6F89E"
+			]
+			id: "1632DADE0E4E134C"
+			rewards: [{
+				auto: "disabled"
+				description: ""
+				id: "4803592BAC29488A"
+				team_reward: true
+				type: "toast"
+			}]
+			tasks: [{
+				dimension: "ad_astra:glacio"
+				id: "3CED534CA1007280"
+				type: "dimension"
+			}]
+			x: 2.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["45BE17CEBF3D756A"]
+			id: "56966804775BEDB5"
+			tasks: [{
+				dimension: "ad_astra:moon"
+				id: "76FDF19F0EC92D5E"
+				type: "dimension"
+			}]
+			x: -3.5d
+			y: -9.0d
+		}
+		{
+			id: "5D453D652B3C49C7"
+			tasks: [{
+				id: "0DECA9F6CFC3305C"
+				item: { components: { "ftbquests:missing_item": "ad_astra_giselle_addon:netherite_oxygen_can" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -6.0d
+		}
+		{
+			id: "46F5746713D52F4B"
+			tasks: [{
+				id: "5A30220E4A523867"
+				item: { components: { "ftbquests:missing_item": "ad_astra_giselle_addon:oxygen_can" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -6.0d
+		}
+	]
+}

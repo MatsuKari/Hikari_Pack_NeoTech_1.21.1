@@ -1,0 +1,170 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "sistema_a_distncia"
+	group: "5684DBC9C605DBF3"
+	id: "393E23110478A270"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["65FAAC5DFECE2C78"]
+			id: "69DE597E3185C339"
+			tasks: [
+				{
+					consume_items: false
+					count: 8L
+					id: "730FC6EFAADBE359"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "4ED5E927554DB9CC"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 0.5d
+		}
+		{
+			id: "65FAAC5DFECE2C78"
+			tasks: [
+				{
+					consume_items: false
+					id: "555579909396C896"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "1ABE29F2554DF714"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "5AAE15848981B819"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "2DB3F8E5A90B948A"
+					item: { count: 1, id: "ae2:quantum_entangled_singularity" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "0E291858F08C6C0C"
+					item: { }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					id: "6055BA1907FEC79D"
+					item: { }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "0F1F2F62A4B94442"
+					item: { }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "133D13362FA2B475"
+					item: { }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "58BAF46375BC676E"
+					item: { }
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "5D0AF7CA5117B4D1"
+					item: { }
+					only_from_crafting: false
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"69DE597E3185C339"
+				"65FAAC5DFECE2C78"
+			]
+			id: "43E30A778612CC67"
+			tasks: [
+				{
+					consume_items: false
+					id: "2186E65069ECC44A"
+					item: { }
+					only_from_crafting: false
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "60B0DA807EAA8ECA"
+					item: { }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "75803C36CA5868FE"
+					item: { }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "72135C5C67070101"
+					item: { }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "19B3E65871908623"
+					item: { }
+					only_from_crafting: false
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"69DE597E3185C339"
+				"43E30A778612CC67"
+				"65FAAC5DFECE2C78"
+			]
+			id: "50BFC10A112CB5B1"
+			tasks: [{
+				consume_items: false
+				id: "30D72D4B01CE75B2"
+				item: { }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+	]
+}

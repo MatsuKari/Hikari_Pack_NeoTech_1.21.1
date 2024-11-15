@@ -1,0 +1,25 @@
+.probe
+/backups
+/crash-reports
+/defaultconfigs
+/icon-exports-x64
+/jarmods
+/journeymap
+/mods
+/kubejs
+/kubejs/config
+/kubejs/jsconfig.json
+/kubejs/probe
+/kubejs/README.txt
+/local
+/logs
+/patchouli_books
+/saves
+
+#ignorando arquivos
+patchouli_data.json
+usercache.json
+usernamecache.json
+
+#ignorando extensões de arquivos
+*.log

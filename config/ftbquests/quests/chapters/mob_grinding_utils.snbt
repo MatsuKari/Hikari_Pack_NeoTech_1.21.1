@@ -1,0 +1,88 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mob_grinding_utils"
+	group: "455999BBFBEF424D"
+	icon: {
+		id: "mob_grinding_utils:mob_swab_used"
+	}
+	id: "3BF7BE14ED569DF8"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"33459383821A4A0D"
+				"52F1FE8FD35FDFC2"
+			]
+			id: "74AF1A747D9150E8"
+			rewards: [{
+				description: ""
+				id: "036EB54DFAFD67FA"
+				type: "toast"
+			}]
+			tasks: [{
+				id: "7BACD829B18A8A83"
+				item: { count: 1, id: "minecraft:wither_skeleton_spawn_egg" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			id: "52F1FE8FD35FDFC2"
+			rewards: [{
+				description: ""
+				id: "7D17CB58347513D5"
+				type: "toast"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "7CAEB2FFCA09E006"
+				item: { count: 1, id: "mob_grinding_utils:mob_swab" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: -5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["52F1FE8FD35FDFC2"]
+			id: "33459383821A4A0D"
+			rewards: [{
+				description: ""
+				id: "3664DB2B5E2F2DCA"
+				type: "toast"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "60CC4DD4CC5390A7"
+				item: { count: 1, id: "mob_grinding_utils:gm_chicken_feed" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"74AF1A747D9150E8"
+				"33459383821A4A0D"
+				"52F1FE8FD35FDFC2"
+			]
+			id: "5C3AC53B2E55793D"
+			min_width: 300
+			rewards: [{
+				description: ""
+				id: "43284FB108DCBD18"
+				type: "toast"
+			}]
+			tasks: [{
+				id: "700E1D4BEDBC066B"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+	]
+}

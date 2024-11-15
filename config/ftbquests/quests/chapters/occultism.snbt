@@ -1,0 +1,442 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "occultism"
+	group: "455999BBFBEF424D"
+	icon: {
+		id: "occultism:dictionary_of_spirits"
+	}
+	id: "312AFDCFA0BE452B"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			hide_until_deps_visible: false
+			icon: {
+				id: "occultism:dictionary_of_spirits"
+			}
+			id: "7F5FBE804EA53148"
+			rewards: [{
+				description: ""
+				icon: {
+					id: "occultism:dictionary_of_spirits"
+				}
+				id: "1EA08DE514B52453"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "48922A3F137842DC"
+					item: { count: 1, id: "occultism:dictionary_of_spirits" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "3CA4D65FDD83A542"
+					item: { count: 1, id: "occultism:datura_seeds" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "4A4B1F4B7690CD6C"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"7F5FBE804EA53148"
+				"017B4E4AFCD9379C"
+				"29842928B6D1EC93"
+				"1A75C0408EDEC843"
+			]
+			hide_until_deps_visible: true
+			id: "6E3E82927F857651"
+			tasks: [{
+				id: "6FF7DBA69B1D7314"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["7F5FBE804EA53148"]
+			id: "242F5C223BA3B36C"
+			rewards: [{
+				description: ""
+				id: "691238CE88D55089"
+				type: "toast"
+			}]
+			tasks: [{
+				consume_items: false
+				count: 32L
+				id: "792CEA77AECF4565"
+				item: { count: 1, id: "occultism:otherworld_log" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: -7.5d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"242F5C223BA3B36C"
+				"7F5FBE804EA53148"
+			]
+			id: "2C07D627583B7A94"
+			rewards: [{
+				description: ""
+				id: "65AE5730BDF32E91"
+				type: "toast"
+			}]
+			tasks: [{
+				id: "0B250470F7B604CB"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"7F5FBE804EA53148"
+				"242F5C223BA3B36C"
+				"2C07D627583B7A94"
+				"770D1C8FE88CC6B1"
+			]
+			icon: {
+				id: "occultism:chalk_white"
+			}
+			id: "1A75C0408EDEC843"
+			rewards: [{
+				description: ""
+				icon: {
+					id: "occultism:chalk_white"
+				}
+				id: "5F9ACF6CD60978B4"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "27BA874C4316E226"
+					item: { count: 1, id: "occultism:chalk_white" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "1CA27B1B0F5F473E"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 3L
+					id: "05127E203D62F445"
+					item: { count: 1, id: "occultism:burnt_otherstone" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 3L
+					id: "1671B510C269B646"
+					item: { count: 1, id: "occultism:otherworld_ashes" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "4A452648C0A73893"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"1A75C0408EDEC843"
+				"242F5C223BA3B36C"
+				"7F5FBE804EA53148"
+				"2C07D627583B7A94"
+			]
+			icon: {
+				id: "occultism:chalk_gold"
+			}
+			id: "3F464AB7A152C11F"
+			rewards: [{
+				description: ""
+				icon: {
+					id: "occultism:chalk_gold"
+				}
+				id: "7A7A51406604FCF0"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					id: "4FCA70128FF64A6E"
+					item: { count: 1, id: "occultism:chalk_gold" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "2F894F262A79351E"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "3852F3EF1B8E1229"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					id: "3A3A7D9F9E00425D"
+					item: { }
+					type: "item"
+				}
+				{
+					id: "759F5014BD599C22"
+					item: { }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"2C07D627583B7A94"
+				"7F5FBE804EA53148"
+				"3F464AB7A152C11F"
+			]
+			id: "2E80BDDAB239606C"
+			rewards: [{
+				description: ""
+				id: "19F45F189792911B"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					count: 2L
+					id: "16179B048465799C"
+					item: { count: 1, id: "occultism:spirit_attuned_crystal" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 8L
+					id: "7EBAA6BC83087415"
+					item: { count: 1, id: "occultism:spirit_attuned_gem" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 8L
+					id: "0E44C0AEB5CEF392"
+					item: { count: 1, id: "minecraft:diamond" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"7F5FBE804EA53148"
+				"2C07D627583B7A94"
+				"2E80BDDAB239606C"
+			]
+			id: "29842928B6D1EC93"
+			rewards: [{
+				description: ""
+				id: "0BA77184E1CE5077"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					count: 12L
+					id: "4C2479F0A2176779"
+					item: { count: 1, id: "occultism:sacrificial_bowl" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 60L
+					id: "1F43E996FE151966"
+					item: { count: 1, id: "occultism:otherstone" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "29C28588E590AC2A"
+					item: { count: 1, id: "occultism:golden_sacrificial_bowl" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 8L
+					id: "0A40FC580C1289B3"
+					item: { count: 1, id: "minecraft:gold_ingot" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"29842928B6D1EC93"
+				"7F5FBE804EA53148"
+				"2E80BDDAB239606C"
+				"3F464AB7A152C11F"
+			]
+			id: "017B4E4AFCD9379C"
+			rewards: [{
+				description: ""
+				id: "4E500E04EFB385DA"
+				type: "toast"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					count: 8L
+					id: "0CD16A94C43E9BEB"
+					item: { count: 1, id: "occultism:large_candle" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 8L
+					id: "4EA434935AC95F38"
+					item: { count: 1, id: "occultism:tallow" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "0CF113337EFB949F"
+					item: { count: 1, id: "occultism:butcher_knife" }
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 8L
+					id: "6BDB6B3FA15CC4C2"
+					item: { count: 1, id: "minecraft:string" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "01C0D15076C3ECBF"
+					item: { count: 1, id: "minecraft:iron_ingot" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 3L
+					id: "06D4551FC4DCD125"
+					item: { }
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"017B4E4AFCD9379C"
+				"7F5FBE804EA53148"
+				"6E3E82927F857651"
+			]
+			hide_until_deps_visible: true
+			id: "5501E6215350526B"
+			rewards: [{
+				description: ""
+				id: "3068025D464A1EEB"
+				type: "toast"
+			}]
+			tasks: [{
+				id: "40E70C9E8138819D"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"2C07D627583B7A94"
+				"242F5C223BA3B36C"
+				"7F5FBE804EA53148"
+			]
+			id: "770D1C8FE88CC6B1"
+			rewards: [{
+				description: ""
+				id: "759D76ABA5A095D5"
+				type: "toast"
+			}]
+			tasks: [{
+				consume_items: false
+				count: 32L
+				id: "6B9E156CC01CC8EB"
+				item: { count: 1, id: "occultism:otherstone" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: -4.5d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"770D1C8FE88CC6B1"
+				"2C07D627583B7A94"
+				"242F5C223BA3B36C"
+				"7F5FBE804EA53148"
+			]
+			id: "4449A5B631F02EE7"
+			rewards: [{
+				description: ""
+				id: "6D5AAC8DB7B5839A"
+				type: "toast"
+			}]
+			tasks: [{
+				consume_items: false
+				count: 16L
+				id: "75AFE07B92383446"
+				item: { count: 1, id: "occultism:otherworld_ashes" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: -3.0d
+			y: -8.0d
+		}
+	]
+}
