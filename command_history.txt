@@ -1,50 +1,50 @@
-/tp @s -560 80 1072
-/locate biome minecraft:mushroom_fields
-/tp @s 381 64 911
-/give MatsuKari minecraft:golden_apple 5
-/give MatsuKari minecraft:golden_apple 1
-/datapack list enabled
-/datapack list available
-/kubejs hand
-/reload
-/kubejs hand
-/reload
-/locate structure minecraft:ancient_city
-/tp @s 2912 ~ -912
-/gamemode spectator
-/gamemode survival
-/reload
-/gamemode spectator
-/gamemode survival
-/gamemode spectator
-/gamemode survival
-/locate biome minecraft:end_highlands
-/tp @s -565 76 1077
-/locate structure minecraft:bastion_remnant
-/tp @s -1120 ~ -688
-/tp 1109 80 -713
-/tp 1109 55 -713
-/locate structure minecraft:bastion_remnant
-/tp @s 896 ~ -1024
-/tp 1530 50 2011
-/locate structure minecraft:bastion_remnant
-/tp @s 1024 ~ 2416
-/gamemode creative
-/gamemode survival
-/xp set MatsuKari 47 levels
-/kill
-/xp set MatsuKari 47 levels
-/summon minecraft:chicken
-/kubejs hand
-/reload
-/kill
-/summon minecraft:wither
-/reload
-/summon minecraft:wither
-/gamemode
-/gamemode survival
-/reload
-/gamemode creative
 /summon minecraft:wither
 /time set midnight
 /gamerule doDaylightCycle false
+/gamerule doDaylightCycle true
+/sgear_mats dump true
+/give MatsuKari silentgear:glittery_dust 4
+/give MatsuKari allthemodium:unobtainium_ingot 3
+/kubejs hand
+/twitch connect
+/twitch fix badges
+/twitch fix emotes
+/time set day
+/time set midnight
+/time set day
+/weather clear
+/give MatsuKari quarryplus:mover 1
+/kubejs hand
+/reload
+/locate structure minecraft:monument
+/tp @s -320 ~ 224
+/gamerule doDaylightCycle false
+/locate structure ae2:meteorite
+/tp @s -1888 ~ -1488
+/tp @s -1888 50 -1488
+/locate structure ae2:meteorite
+/tp @s -672 ~ -496
+/tp @s -672 50 -496
+/tp 692 70 500
+/locate structure ae2:meteorite
+/tp @s 768 ~ 48
+/give MatsuKari ae2:flawless_budding_quartz
+/reload
+/locate biome integrateddynamics:meneglin
+/locate biome minecraft:meadow
+/tp @s 666 -46 -1308
+/tp @s 666 70 -1308
+/locate biome integrateddynamics:meneglin
+/locate structure allthemodium:ancient_pyramid
+/tp @s -736 70 -768
+/tp @s -736 90 -768
+/tp @s -736 110 -768
+/tp @s -736 140 -768
+/tp @s -736 170 -768
+/ae2 channelmode x2
+/xp set MatsuKari 70 levels
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/kubejs hand
+/reload

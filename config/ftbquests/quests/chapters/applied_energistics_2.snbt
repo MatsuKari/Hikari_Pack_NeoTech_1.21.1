@@ -8,6 +8,9 @@
 	quest_links: [ ]
 	quests: [
 		{
+			icon: {
+				id: "ae2:mysterious_cube"
+			}
 			id: "70F65307F87FA488"
 			rewards: [{
 				auto: "disabled"
@@ -18,15 +21,17 @@
 			}]
 			tasks: [
 				{
+					icon: {
+						id: "ae2:mysterious_cube"
+					}
 					id: "137A8BCBE526AD17"
 					structure: "ae2:meteorite"
 					type: "structure"
 				}
 				{
-					consume_items: false
-					id: "5C0BB25723515D06"
-					item: { }
-					only_from_crafting: false
+					id: "6D1098716277D67E"
+					item: { count: 1, id: "ae2:meteorite_compass" }
+					optional_task: true
 					type: "item"
 				}
 			]
@@ -35,6 +40,9 @@
 		}
 		{
 			dependencies: ["70F65307F87FA488"]
+			icon: {
+				id: "mekanism:cardboard_box"
+			}
 			id: "5C83928B48FB2EEA"
 			rewards: [{
 				description: ""
@@ -46,14 +54,14 @@
 					consume_items: false
 					count: 4L
 					id: "5B79972DD1A09031"
-					item: { }
+					item: { count: 1, id: "mekanism:cardboard_box" }
 					only_from_crafting: false
 					type: "item"
 				}
 				{
 					consume_items: false
 					id: "1A7BFE008CA48889"
-					item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "mekanism:sawdust" }
 					only_from_crafting: false
 					type: "item"
 				}
@@ -75,7 +83,7 @@
 			tasks: [{
 				consume_items: false
 				id: "78216FEFE16371E6"
-				item: { }
+				item: { count: 1, id: "ae2:certus_quartz_crystal" }
 				only_from_crafting: false
 				type: "item"
 			}]
@@ -99,7 +107,7 @@
 			tasks: [{
 				consume_items: false
 				id: "4B4112BB6FE40F4D"
-				item: { }
+				item: { count: 1, id: "ae2:fluix_crystal" }
 				only_from_crafting: false
 				type: "item"
 			}]
@@ -115,6 +123,9 @@
 				"67C91D09D1FFD815"
 				"149170E20633AF66"
 			]
+			icon: {
+				id: "ae2:drive"
+			}
 			id: "062ECFDC41C0E0DE"
 			rewards: [{
 				description: ""
@@ -125,7 +136,7 @@
 				{
 					consume_items: false
 					id: "2403B452343F062D"
-					item: { }
+					item: { count: 1, id: "ae2:drive" }
 					only_from_crafting: false
 					optional_task: true
 					type: "item"
@@ -140,7 +151,7 @@
 				{
 					consume_items: false
 					id: "70FCD3580393C79E"
-					item: { }
+					item: { count: 1, id: "ae2:storage_bus" }
 					only_from_crafting: false
 					type: "item"
 				}
@@ -148,14 +159,14 @@
 					consume_items: false
 					count: 16L
 					id: "53E8EDF96896A72B"
-					item: { }
+					item: { count: 1, id: "ae2:fluix_glass_cable" }
 					only_from_crafting: false
 					type: "item"
 				}
 				{
 					consume_items: false
 					id: "40694126997350DE"
-					item: { }
+					item: { count: 1, id: "ae2:crafting_terminal" }
 					only_from_crafting: false
 					type: "item"
 				}
@@ -173,6 +184,9 @@
 				"149170E20633AF66"
 				"67C91D09D1FFD815"
 			]
+			icon: {
+				id: "ae2:4k_crafting_storage"
+			}
 			id: "30E853C64AC38CA4"
 			min_width: 410
 			rewards: [{
@@ -184,7 +198,7 @@
 				{
 					consume_items: false
 					id: "7B6A22AE78B66D0B"
-					item: { }
+					item: { count: 1, id: "ae2:4k_crafting_storage" }
 					only_from_crafting: false
 					type: "item"
 				}
@@ -192,7 +206,7 @@
 					consume_items: false
 					count: 2L
 					id: "25FA3D6A613F7B0F"
-					item: { }
+					item: { count: 1, id: "ae2:crafting_accelerator" }
 					only_from_crafting: false
 					type: "item"
 				}
@@ -200,7 +214,7 @@
 					consume_items: false
 					count: 2L
 					id: "1201CB3404CAB50B"
-					item: { }
+					item: { count: 1, id: "ae2:pattern_provider" }
 					only_from_crafting: false
 					type: "item"
 				}
@@ -208,28 +222,28 @@
 					consume_items: false
 					count: 2L
 					id: "6550E1E7E132BED5"
-					item: { }
+					item: { count: 1, id: "ae2:molecular_assembler" }
 					only_from_crafting: false
 					type: "item"
 				}
 				{
 					consume_items: false
 					id: "5FE338C5CD70E335"
-					item: { }
+					item: { count: 1, id: "ae2:cable_pattern_provider" }
 					only_from_crafting: false
 					type: "item"
 				}
 				{
 					consume_items: false
 					id: "4DCF38076A475B59"
-					item: { }
+					item: { count: 1, id: "ae2:16k_crafting_storage" }
 					only_from_crafting: false
 					type: "item"
 				}
 				{
 					consume_items: false
 					id: "55FEB335B960D8CF"
-					item: { }
+					item: { count: 1, id: "ae2:pattern_encoding_terminal" }
 					only_from_crafting: false
 					type: "item"
 				}
@@ -242,8 +256,7 @@
 			tasks: [{
 				consume_items: false
 				id: "439F765971C7FFA5"
-				item: { components: { "ftbquests:missing_item": "enderchests:ender_chest" }, count: 1, id: "ftbquests:missing_item" }
-				only_from_crafting: true
+				item: { count: 1, id: "dimstorage:dimensional_chest" }
 				type: "item"
 			}]
 			x: -18.5d
@@ -260,6 +273,9 @@
 				"149170E20633AF66"
 				"67C91D09D1FFD815"
 			]
+			icon: {
+				id: "extendedae:ex_pattern_provider"
+			}
 			id: "6F2536A720181E1A"
 			rewards: [{
 				auto: "disabled"
@@ -272,14 +288,14 @@
 				{
 					consume_items: false
 					id: "7976593CAA64E51A"
-					item: { }
+					item: { count: 1, id: "extendedae:ex_pattern_provider" }
 					only_from_crafting: false
 					type: "item"
 				}
 				{
 					consume_items: false
 					id: "36196222B662E6BC"
-					item: { }
+					item: { count: 1, id: "extendedae:ex_molecular_assembler" }
 					only_from_crafting: false
 					type: "item"
 				}
@@ -287,21 +303,21 @@
 					consume_items: false
 					count: 2L
 					id: "0E05BD7309F82DDD"
-					item: { }
+					item: { count: 1, id: "ae2:me_p2p_tunnel" }
 					only_from_crafting: false
 					type: "item"
 				}
 				{
 					consume_items: false
 					id: "32D107A09EB410D7"
-					item: { components: { "ftbquests:missing_item": "betterp2p:advanced_memory_card" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "ae2:memory_card" }
 					only_from_crafting: false
 					type: "item"
 				}
 				{
 					consume_items: false
 					id: "64C1F2EDED3044EF"
-					item: { }
+					item: { count: 1, id: "ae2:controller" }
 					only_from_crafting: false
 					type: "item"
 				}
@@ -323,7 +339,7 @@
 			id: "0E3C4503DA1F5DEA"
 			tasks: [{
 				id: "31C966331A4B7FA7"
-				item: { }
+				item: { count: 1, id: "ae2:io_port" }
 				type: "item"
 			}]
 			x: -18.5d
@@ -334,7 +350,7 @@
 			id: "733A545F30D3A469"
 			tasks: [{
 				id: "77042D5B6C5F6718"
-				item: { }
+				item: { count: 1, id: "ae2:cell_workbench" }
 				type: "item"
 			}]
 			x: -17.0d
@@ -350,7 +366,7 @@
 			id: "149170E20633AF66"
 			tasks: [{
 				id: "06CDDBA06FD9A169"
-				item: { }
+				item: { count: 1, id: "ae2:inscriber" }
 				type: "item"
 			}]
 			x: -12.5d
@@ -365,9 +381,10 @@
 				"70F65307F87FA488"
 			]
 			id: "67C91D09D1FFD815"
+			optional: true
 			tasks: [{
 				id: "1AE837C86828BB97"
-				item: { }
+				item: { count: 1, id: "extendedae:ex_inscriber" }
 				type: "item"
 			}]
 			x: -11.0d

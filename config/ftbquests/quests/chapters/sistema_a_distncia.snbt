@@ -9,20 +9,23 @@
 	quests: [
 		{
 			dependencies: ["65FAAC5DFECE2C78"]
+			icon: {
+				id: "ae2:quantum_ring"
+			}
 			id: "69DE597E3185C339"
 			tasks: [
 				{
 					consume_items: false
 					count: 8L
 					id: "730FC6EFAADBE359"
-					item: { }
+					item: { count: 1, id: "ae2:quantum_ring" }
 					only_from_crafting: false
 					type: "item"
 				}
 				{
 					consume_items: false
 					id: "4ED5E927554DB9CC"
-					item: { }
+					item: { count: 1, id: "ae2:quantum_link" }
 					only_from_crafting: false
 					type: "item"
 				}
@@ -31,26 +34,29 @@
 			y: 0.5d
 		}
 		{
+			icon: {
+				id: "ae2:singularity"
+			}
 			id: "65FAAC5DFECE2C78"
 			tasks: [
 				{
 					consume_items: false
 					id: "555579909396C896"
-					item: { }
+					item: { count: 1, id: "ae2:condenser" }
 					only_from_crafting: false
 					type: "item"
 				}
 				{
 					consume_items: false
 					id: "1ABE29F2554DF714"
-					item: { }
+					item: { count: 1, id: "ae2:cell_component_64k" }
 					only_from_crafting: false
 					type: "item"
 				}
 				{
 					consume_items: false
 					id: "5AAE15848981B819"
-					item: { }
+					item: { count: 1, id: "ae2:singularity" }
 					only_from_crafting: false
 					type: "item"
 				}
@@ -65,38 +71,38 @@
 				{
 					consume_items: false
 					id: "0E291858F08C6C0C"
-					item: { }
+					item: { count: 1, id: "cookingforblockheads:sink" }
 					only_from_crafting: false
 					type: "item"
 				}
 				{
 					id: "6055BA1907FEC79D"
-					item: { }
+					item: { count: 1, id: "integratedtunnels:part_importer_fluid" }
 					optional_task: true
 					type: "item"
 				}
 				{
 					id: "0F1F2F62A4B94442"
-					item: { }
+					item: { count: 1, id: "integratedtunnels:part_interface_fluid" }
 					optional_task: true
 					type: "item"
 				}
 				{
 					id: "133D13362FA2B475"
-					item: { }
+					item: { count: 1, id: "integrateddynamics:cable" }
 					optional_task: true
 					type: "item"
 				}
 				{
 					id: "58BAF46375BC676E"
-					item: { }
+					item: { count: 1, id: "integrateddynamics:variable" }
 					optional_task: true
 					type: "item"
 				}
 				{
 					consume_items: false
 					id: "5D0AF7CA5117B4D1"
-					item: { }
+					item: { count: 1, id: "mekanism:basic_mechanical_pipe" }
 					only_from_crafting: false
 					optional_task: true
 					type: "item"
@@ -110,37 +116,40 @@
 				"69DE597E3185C339"
 				"65FAAC5DFECE2C78"
 			]
+			icon: {
+				id: "ae2wtlib:wireless_universal_terminal"
+			}
 			id: "43E30A778612CC67"
 			tasks: [
 				{
 					consume_items: false
 					id: "2186E65069ECC44A"
-					item: { }
+					item: { count: 1, id: "ae2:wireless_crafting_terminal" }
 					only_from_crafting: false
 					optional_task: true
 					type: "item"
 				}
 				{
 					id: "60B0DA807EAA8ECA"
-					item: { }
+					item: { count: 1, id: "ae2wtlib:wireless_pattern_encoding_terminal" }
 					optional_task: true
 					type: "item"
 				}
 				{
 					id: "75803C36CA5868FE"
-					item: { }
+					item: { count: 1, id: "extendedae:wireless_ex_pat" }
 					optional_task: true
 					type: "item"
 				}
 				{
 					id: "72135C5C67070101"
-					item: { }
+					item: { count: 1, id: "ae2:wireless_access_point" }
 					type: "item"
 				}
 				{
 					consume_items: false
 					id: "19B3E65871908623"
-					item: { }
+					item: { count: 1, id: "ae2wtlib:wireless_universal_terminal" }
 					only_from_crafting: false
 					optional_task: true
 					type: "item"
@@ -159,7 +168,7 @@
 			tasks: [{
 				consume_items: false
 				id: "30D72D4B01CE75B2"
-				item: { }
+				item: { count: 1, id: "ae2wtlib:quantum_bridge_card" }
 				only_from_crafting: false
 				type: "item"
 			}]

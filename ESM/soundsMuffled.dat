@@ -1,6 +1,7 @@
 {
   "mekanism:tile.machine.precision_sawmill": 0.0,
   "mekanism:tile.machine.crusher": 0.0,
+  "mekanism:item.jetpack": 0.0,
   "mekanism:tile.machine.compressor": 0.0,
   "mekanism:tile.machine.energized_smelter": 0.0,
   "mekanism:tile.machine.electrolytic_separator": 0.0,
