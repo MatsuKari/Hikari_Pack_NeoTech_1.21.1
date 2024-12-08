@@ -57,6 +57,9 @@
   "apothic_spawners": {
     "spawner": true
   },
+  "tombstone": {
+    "graves": true
+  },
   "jade_access": {
     "held_item": true,
     "sign": true,

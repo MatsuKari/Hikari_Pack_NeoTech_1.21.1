@@ -34,10 +34,6 @@
 	# Default: 30
 	# Range: 0 ~ 100
 	pvp_stolen_xp = 30
-	#Knowledge of Death loss on death [0..500|default:0]
-	# Default: 0
-	# Range: 0 ~ 500
-	knowledge_loss = 0
 	#The chance that some items are lost on death [0..100|default:0]
 	# Default: 0
 	# Range: 0 ~ 100
@@ -48,6 +44,10 @@
 	percent_loss_on_death = 0
 	#Graveless Dimensions
 	no_grave_dimension = []
+	#Knowledge of Death loss on death [0..500|default:0]
+	# Default: 0
+	# Range: 0 ~ 500
+	knowledge_loss = 0
 
 #Options related to player's alignment
 [alignment]

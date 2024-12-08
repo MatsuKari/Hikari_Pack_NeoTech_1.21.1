@@ -4,11 +4,10 @@
 	# Default: -1
 	# Range: > -1
 	decay_time = -1
-
-#Miscellaneous options
-[general]
-	#Always Keep xp on death [false/true|default:false]
-	always_keep_xp_on_death = true
+	#Experience lost on death [0..100|default:95]
+	# Default: 95
+	# Range: 0 ~ 100
+	xp_loss_on_death = 0
 	#The duration of the Ghostly Shape effect in seconds [0..MAX|default:120]
 	# Default: 120
 	# Range: > 0
@@ -20,6 +19,22 @@
 	plague_bringer_combining_magic_siphon = false
 	#Allows Frostbite to combine with Fire Aspect [false/true|default:false]
 	frostbite_combining_fire_aspect = true
+	#Allows Soulbound at enchanting table [false/true|default:false]
+	soulbound_enchanting_table = true
+	#Allows Spectral Bite at enchanting table [false/true|default:false]
+	spectral_bite_enchanting_table = true
+	#Allows Magic Siphon at enchanting table [false/true|default:false]
+	magic_siphon_enchanting_table = true
+	#Allows Plague Bringer at enchanting table [false/true|default:false]
+	plague_bringer_enchanting_table = true
+	#Allows Curse of Bones at enchanting table [false/true|default:false]
+	curse_of_bones_enchanting_table = true
+	#Allows Blessing at enchanting table [false/true|default:false]
+	blessing_enchanting_table = true
+	#Allows Frostbite at enchanting table [false/true|default:false]
+	frostbite_enchanting_table = true
+	#Allows Spectral Conjurer at enchanting table [false/true|default:false]
+	spectral_conjurer_enchanting_table = true
 
 #Allows to customize or disable the potions
 [potions]

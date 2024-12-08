@@ -18,5 +18,6 @@
   "c:ingots/brass": "alltheores:brass_ingot",
   "c:rubbers": "null",
   "c:gems/peridot": "alltheores:peridot",
-  "c:ingots/nickel": "alltheores:nickel_ingot"
+  "c:ingots/nickel": "alltheores:nickel_ingot",
+  "c:silicon": "enderio:silicon"
 }

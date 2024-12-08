@@ -1,50 +1,50 @@
-/summon minecraft:wither
-/time set midnight
-/gamerule doDaylightCycle false
-/gamerule doDaylightCycle true
-/sgear_mats dump true
-/give MatsuKari silentgear:glittery_dust 4
-/give MatsuKari allthemodium:unobtainium_ingot 3
-/kubejs hand
-/twitch connect
-/twitch fix badges
-/twitch fix emotes
-/time set day
-/time set midnight
-/time set day
-/weather clear
-/give MatsuKari quarryplus:mover 1
+/gamemode survival
 /kubejs hand
 /reload
-/locate structure minecraft:monument
-/tp @s -320 ~ 224
-/gamerule doDaylightCycle false
-/locate structure ae2:meteorite
-/tp @s -1888 ~ -1488
-/tp @s -1888 50 -1488
-/locate structure ae2:meteorite
-/tp @s -672 ~ -496
-/tp @s -672 50 -496
-/tp 692 70 500
-/locate structure ae2:meteorite
-/tp @s 768 ~ 48
-/give MatsuKari ae2:flawless_budding_quartz
+/locate structure minecraft:fortress
+/tp @s 544 70 2208
+/tp 1439 50 3265
+/locate structure
+/locate structure minecraft:fortress
+/tp @s 1616 ~ 3184
 /reload
-/locate biome integrateddynamics:meneglin
-/locate biome minecraft:meadow
-/tp @s 666 -46 -1308
-/tp @s 666 70 -1308
-/locate biome integrateddynamics:meneglin
-/locate structure allthemodium:ancient_pyramid
-/tp @s -736 70 -768
-/tp @s -736 90 -768
-/tp @s -736 110 -768
-/tp @s -736 140 -768
-/tp @s -736 170 -768
-/ae2 channelmode x2
-/xp set MatsuKari 70 levels
+/gamemode creative
 /gamemode survival
 /gamemode creative
 /gamemode survival
-/kubejs hand
+/gamemode creative
+/gamemode survival
+/give MatsuKari minecraft:sculk 4
+/give MatsuKari minecraft:sculk_sensor 4
+/locate poi minecraft:beehive
+/locate poi minecraft:bee_nest
+/tp @s -13 70 -436
+/give MatsuKari minecraft:bee_nest 1
+/locate poi minecraft:bee_nest
+/tp @s -89 ~ -278
+/give MatsuKari minecraft:bee_nest 1
+/locate poi minecraft:bee_nest
+/tp @s -301 ~ -280
+/locate poi minecraft:bee_nest
+/gamerule doDaylightCycle
+/gamerule doDaylightCycle true
+/gamerule doDaylightCycle
+/gamerule doInsomnia
+/gamerule doInsomnia false
+/tp @s -13 70 -436
+/tp @s -89 ~ -278
+/tp @s -301 ~ -280
+/tp @s -301 70 -280
+/gamerule doDaylightCycle false
+/locate poi minecraft:bee_nest
+/tp @s -144 ~ -700
+/tp @s -144 90 -700
+/reload
+/locate biome minecraft:dark_forest
+/tp @s -8 64 -83
+/kubejs errors server
+/kubejs reload server-scripts
+/reload
+/gamerule doDaylightCycle
+/gamerule doDaylightCycle true
 /reload
