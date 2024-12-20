@@ -1,0 +1,3 @@
+[submodule "kubejs"]
+	path = kubejs
+	url = https://github.com/AndreCelso/My-KubeJS-Scripts-for-Minecraft-1.21.1
