@@ -1,5 +1,3 @@
-/gamemode survival
-/kubejs hand
 /reload
 /locate structure minecraft:fortress
 /tp @s 544 70 2208
@@ -48,3 +46,5 @@
 /gamerule doDaylightCycle
 /gamerule doDaylightCycle true
 /reload
+/gamerule doDaylightCycle false
+/give MatsuKari minecraft:budding_amethyst 2
