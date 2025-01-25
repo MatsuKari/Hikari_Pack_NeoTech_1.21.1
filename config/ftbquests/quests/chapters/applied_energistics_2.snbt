@@ -256,7 +256,7 @@
 			tasks: [{
 				consume_items: false
 				id: "439F765971C7FFA5"
-				item: { count: 1, id: "dimstorage:dimensional_chest" }
+				item: { count: 1, id: "enderstorage:ender_chest" }
 				type: "item"
 			}]
 			x: -18.5d

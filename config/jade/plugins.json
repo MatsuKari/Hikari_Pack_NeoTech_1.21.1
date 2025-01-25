@@ -5,6 +5,7 @@
     "harvest_tool.show_unbreakable": false,
     "animal_owner": true,
     "harvest_tool.effective_tool": true,
+    "energy_storage.style": "PROGRESS_BAR",
     "item_storage": true,
     "item_storage.normal_amount": 9,
     "harvest_tool": true,
@@ -31,6 +32,7 @@
     "brewing_stand": true,
     "energy_storage.detailed": false,
     "note_block": true,
+    "fluid_storage.style": "PROGRESS_BAR",
     "beehive": true,
     "item_storage.detailed_amount": 54,
     "player_head": true,
@@ -67,6 +69,9 @@
     "entity": true,
     "entity_variant": true
   },
+  "mekanismcovers": {
+    "cover_component": true
+  },
   "jade": {
     "coordinates.rel": false,
     "registry_name.special": false,
@@ -78,12 +83,23 @@
     "block_properties": false,
     "mod_name": true
   },
+  "apotheosis": {
+    "adventure": true
+  },
   "extendedae": {
     "jade_chamber": true,
     "jade_wireless": true
   },
   "apothic_enchanting": {
     "ench": true
+  },
+  "integrateddynamicscompat": {
+    "proxy": true,
+    "mechanical_squeezer": true,
+    "mechanical_drying_basin": true,
+    "drying_basin": true,
+    "part": true,
+    "squeezer": true
   },
   "ae2": {
     "part_icon": true,
@@ -100,7 +116,6 @@
   "productivebees": {
     "bee": true,
     "solitary_nest": true,
-    "jar": true,
     "canvas_beehive": true,
     "bee_attributes": true
   },
@@ -150,6 +165,9 @@
     "infused_farmland": true,
     "crop": true,
     "inferium_crop": true
+  },
+  "modular_machinery_reborn": {
+    "machine_component_provider": true
   },
   "storagedrawers": {
     "display.stacklimit": true,

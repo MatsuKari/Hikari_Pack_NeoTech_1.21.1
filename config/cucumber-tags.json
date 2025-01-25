@@ -19,5 +19,5 @@
   "c:rubbers": "null",
   "c:gems/peridot": "alltheores:peridot",
   "c:ingots/nickel": "alltheores:nickel_ingot",
-  "c:silicon": "enderio:silicon"
+  "c:silicon": "ae2:silicon"
 }

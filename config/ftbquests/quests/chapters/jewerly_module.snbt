@@ -112,7 +112,6 @@
 			id: "55D5718C6D48EE1C"
 			rewards: [{
 				command: "/tellraw @p [\"\",{\"text\":\"Clique Aqui para Assistir ao Tutorial\",\"color\":\"lime\",\"bold\":true,\"underlined\":true,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://youtu.be/nh8voJScSbw?si=dfdvUQAVz65f9nyd\"}}] "
-				feedback_message: ""
 				id: "624832F218FBD64E"
 				type: "command"
 			}]

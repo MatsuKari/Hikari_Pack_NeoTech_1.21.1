@@ -22,7 +22,6 @@
 			id: "19014DE75E77FC01"
 			rewards: [{
 				command: "/tellraw @p [\"\",{\"text\":\"Clique Aqui para Assistir ao Tutorial\",\"color\":\"purple\",\"bold\":true,\"underlined\":true,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/watch?v=CkS9LqSSpDU\"}}] "
-				feedback_message: ""
 				id: "0E3720BCFE680624"
 				type: "command"
 			}]
@@ -334,7 +333,6 @@
 			id: "02B7DBFB1D2BB53F"
 			rewards: [{
 				command: "/tellraw @p [\"\",{\"text\":\"Clique Aqui para Assistir ao Tutorial\",\"color\":\"red\",\"bold\":true,\"underlined\":true,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/watch?v=yv5nTWXJjBk\"}}] "
-				feedback_message: ""
 				id: "17E3D9FACA013334"
 				type: "command"
 			}]

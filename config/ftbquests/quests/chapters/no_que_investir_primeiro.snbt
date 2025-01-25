@@ -331,19 +331,16 @@
 			rewards: [
 				{
 					command: "/gamerule keepInventory true"
-					feedback_message: ""
 					id: "60353785AFB37EBA"
 					type: "command"
 				}
 				{
 					command: "/gamerule doWeatherCycle false"
-					feedback_message: ""
 					id: "4F3543E2194FE7D6"
 					type: "command"
 				}
 				{
 					command: "/gamerule doDaylightCycle false"
-					feedback_message: ""
 					id: "4FBE48224CC2D1E2"
 					type: "command"
 				}

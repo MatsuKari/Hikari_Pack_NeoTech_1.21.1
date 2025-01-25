@@ -56,7 +56,7 @@
 	#Delay between harvest attempts (in ticks).
 	# Default: 60
 	# Range: 10 ~ 120
-	harvesterWorkDelay = 60
+	harvesterWorkDelay = 10
 	#Whether the harvester requires a hoe to work.
 	#If enabled, it will use 1 durability per harvest action
 	harvesterRequiresTool = true

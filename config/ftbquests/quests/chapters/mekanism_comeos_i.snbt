@@ -565,7 +565,7 @@
 			id: "17B3215638411AE3"
 			tasks: [{
 				id: "40D53EA31751318B"
-				item: { }
+				item: { count: 1, id: "mekanism:alloy_atomic" }
 				type: "item"
 			}]
 			x: -3.0d

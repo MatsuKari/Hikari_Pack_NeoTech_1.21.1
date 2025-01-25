@@ -36,6 +36,8 @@ rebornEnergyConversionCoefficient = 0.0625
 	quarry = true
 	#flexible_marker Default: true
 	flexible_marker = true
+	#remote_placer Default: false
+	remote_placer = false
 
 	[powerMap.quarry]
 		#maxEnergy. Default: 10000.000000, Min: 0.0, Max: 10000000000.0

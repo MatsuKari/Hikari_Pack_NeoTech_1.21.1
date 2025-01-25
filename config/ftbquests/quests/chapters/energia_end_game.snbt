@@ -23,7 +23,6 @@
 		id: "2BC9A4BFD24E4E6F"
 		rewards: [{
 			command: "/tellraw @p {\"text\":\"Clique Aqui para Saber como fazer!\",\"color\":\"green\",\"underlined\":\"true\",\"bold\":\"true\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://encurtador.net/OZJVN\"}}]"
-			feedback_message: ""
 			id: "4AD076FC5EDEBAF8"
 			type: "command"
 		}]

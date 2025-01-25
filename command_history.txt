@@ -1,50 +1,50 @@
+/locate structure minecraft:monument
+/tp @s -320 ~ 224
+/summon minecraft:chicken
 /reload
-/locate structure minecraft:fortress
-/tp @s 544 70 2208
-/tp 1439 50 3265
-/locate structure
-/locate structure minecraft:fortress
-/tp @s 1616 ~ 3184
+/time set midnight
 /reload
-/gamemode creative
+/locate biome minecraft:flower_forest
+/tp @s -85 71 -505
+/gamemode spectator
+/time set day
 /gamemode survival
-/gamemode creative
-/gamemode survival
-/gamemode creative
-/gamemode survival
-/give MatsuKari minecraft:sculk 4
-/give MatsuKari minecraft:sculk_sensor 4
-/locate poi minecraft:beehive
-/locate poi minecraft:bee_nest
-/tp @s -13 70 -436
-/give MatsuKari minecraft:bee_nest 1
-/locate poi minecraft:bee_nest
-/tp @s -89 ~ -278
-/give MatsuKari minecraft:bee_nest 1
-/locate poi minecraft:bee_nest
-/tp @s -301 ~ -280
-/locate poi minecraft:bee_nest
-/gamerule doDaylightCycle
+/summon minecraft:bee
+/summon minecraft:chicken
+/time set midnight
+/time set day
+/locate biome minecraft:river
+/tp @s 130 80 -213
 /gamerule doDaylightCycle true
+/gamemode creative
+/gamemode survival
 /gamerule doDaylightCycle
-/gamerule doInsomnia
-/gamerule doInsomnia false
-/tp @s -13 70 -436
-/tp @s -89 ~ -278
-/tp @s -301 ~ -280
-/tp @s -301 70 -280
-/gamerule doDaylightCycle false
-/locate poi minecraft:bee_nest
-/tp @s -144 ~ -700
-/tp @s -144 90 -700
+/gamerule randomTickSpeed
+/gamerule randomTickSpeed 6
+/gamerule randomTickSpeed 9
+/gamerule randomTickSpeed 3
+/gamerule randomTickSpeed
+/kubejs hand
 /reload
-/locate biome minecraft:dark_forest
-/tp @s -8 64 -83
-/kubejs errors server
+/kubejs hand
+/reload
+/kubejs hand
+/reload
+/tp 199 242 -301
+/reload
+/locate biome minecraft:cherry_grove
+/tp @s 99 72 -605
+/gamemode spectator
+/gamemode survival
+/time set day
+/reload
+/kubejs hand
+/reload
+/locate biome minecraft:snowy_taiga
+/tp @s -1142 71 -633
+/time set day
+/locate biome ars_nouveau:archwood_forest
+/tp PKFGAMER
 /kubejs reload server-scripts
+/kubejs errors server
 /reload
-/gamerule doDaylightCycle
-/gamerule doDaylightCycle true
-/reload
-/gamerule doDaylightCycle false
-/give MatsuKari minecraft:budding_amethyst 2
