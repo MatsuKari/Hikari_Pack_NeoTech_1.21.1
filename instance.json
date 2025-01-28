@@ -22,7 +22,9 @@
     "javaPath": "C:/Users/André Celso/AppData/Roaming/PrismLauncher/java/eclipse_temurin_jre21.0.6+7",
     "account": "edf8239c-99a3-4d66-906a-8a95b77aee75",
     "enableDiscordIntegration": false,
-    "quickPlay": {},
+    "quickPlay": {
+      "worldName": "HikariWorld1211-2024"
+    },
     "useJavaProvidedByMinecraft": false,
     "isDev": false,
     "isPlayable": true,
@@ -60768,8 +60770,8 @@
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1737730274300,
-    "numPlays": 232
+    "lastPlayed": 1737949163256,
+    "numPlays": 238
   },
   "id": "1.21.1",
   "complianceLevel": 1,

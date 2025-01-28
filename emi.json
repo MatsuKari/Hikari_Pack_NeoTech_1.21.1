@@ -65,9 +65,6 @@
       "stack": "item:mekanismtools:refined_obsidian_sword"
     },
     {
-      "stack": "item:mekanism:ingot_refined_obsidian"
-    },
-    {
       "stack": "item:mekanismtools:refined_obsidian_sword",
       "recipe": "mekanismtools:refined_obsidian/tools/sword"
     },
@@ -305,9 +302,6 @@
     },
     {
       "stack": "item:ae2:condenser"
-    },
-    {
-      "stack": "item:integratedtunnels:part_importer_fluid"
     },
     {
       "stack": "item:integrateddynamics:variable"
@@ -788,371 +782,265 @@
       "stack": "item:mekanism:resistive_heater"
     },
     {
-      "stack": "item:occultism:chalk_blue_impure"
+      "stack": "item:mekanism:basic_thermodynamic_conductor"
     },
     {
-      "stack": "item:occultism:research_fragment_dust"
+      "stack": "item:mekanism:advanced_thermodynamic_conductor"
     },
     {
-      "stack": "item:occultism:book_of_binding_foliot"
+      "stack": "item:mekanism:elite_thermodynamic_conductor"
     },
     {
-      "stack": "item:forbidden_arcanus:eternal_stella"
+      "stack": "item:mekanism:ultimate_thermodynamic_conductor"
     },
     {
-      "stack": "item:forbidden_arcanus:hephaestus_forge_tier_1"
+      "stack": "item:integratedtunnels:part_importer_fluid"
     },
     {
-      "stack": "item:forbidden_arcanus:polished_darkstone"
+      "stack": "item:integratedtunnels:part_interface_fluid"
     },
     {
-      "stack": "item:forbidden_arcanus:gilded_chiseled_polished_darkstone"
+      "stack": "item:minecraft:iron_ingot"
     },
     {
-      "stack": "item:forbidden_arcanus:chiseled_arcane_polished_darkstone"
+      "stack": "item:minecraft:raw_iron"
     },
     {
-      "stack": "item:forbidden_arcanus:arcane_polished_darkstone_slab"
+      "stack": "item:mekanism:rotary_condensentrator"
     },
     {
-      "stack": "item:forbidden_arcanus:arcane_polished_darkstone"
+      "stack": "item:mekanism:basic_fluid_tank"
     },
     {
-      "stack": "item:forbidden_arcanus:deorum_ingot"
+      "stack": "item:mekanism:basic_chemical_tank"
     },
     {
-      "stack": "item:forbidden_arcanus:deorum_ingot",
-      "recipe": "forbidden_arcanus:deorum_ingot"
+      "stack": "item:mekanism:chemical_crystallizer"
     },
     {
-      "stack": "item:forbidden_arcanus:arcane_crystal_ore"
+      "stack": "item:mekanism:ultimate_control_circuit"
     },
     {
-      "stack": "item:forbidden_arcanus:mundabitur_dust"
+      "stack": "item:mekanism:ingot_refined_obsidian"
     },
     {
-      "stack": "item:forbidden_arcanus:arcane_crystal_dust"
+      "stack": "item:mekanism:fluorite_gem"
     },
     {
-      "stack": "item:forbidden_arcanus:chiseled_polished_darkstone"
+      "stack": "item:appmek:chemical_storage_cell_16k"
     },
     {
-      "stack": "item:forbidden_arcanus:darkstone_pedestal"
+      "stack": "item:appmek:chemical_cell_housing"
     },
     {
-      "stack": "item:forbidden_arcanus:arcane_polished_darkstone_pillar"
+      "stack": "item:mekanism:induction_casing"
     },
     {
-      "stack": "item:forbidden_arcanus:arcane_crystal_obelisk"
+      "stack": "item:mekanism:induction_port"
     },
     {
-      "stack": "item:forbidden_arcanus:hephaestus_forge_tier_3"
+      "stack": "item:mekanism:advanced_induction_cell"
     },
     {
-      "stack": "item:forbidden_arcanus:soul_extractor"
+      "stack": "item:mekanism:elite_induction_cell"
     },
     {
-      "stack": "item:forbidden_arcanus:apply_modifier_smithing_template"
+      "stack": "item:mekanism:ultimate_induction_cell"
     },
     {
-      "stack": "item:minecraft:honey_block"
+      "stack": "item:mekanism:basic_induction_provider"
     },
     {
-      "stack": "item:minecraft:honeycomb_block"
+      "stack": "item:mekanism:advanced_induction_provider"
     },
     {
-      "stack": "item:minecraft:honeycomb"
+      "stack": "item:mekanism:elite_induction_provider"
     },
     {
-      "stack": "item:minecraft:honey_bottle"
+      "stack": "item:mekanism:ultimate_induction_provider"
     },
     {
-      "stack": "item:occultism:book_of_binding_bound_djinni{\"occultism:spirit_name\":\"Firlynder\"}"
-    },
-    {
-      "stack": "item:occultism:book_of_binding_djinni"
-    },
-    {
-      "stack": "item:occultism:ritual_dummy/summon_unbound_marid"
-    },
-    {
-      "stack": "item:minecraft:conduit"
-    },
-    {
-      "stack": "item:occultism:chalk_gray_impure"
-    },
-    {
-      "stack": "item:occultism:gray_paste"
-    },
-    {
-      "stack": "item:occultism:book_of_binding_bound_afrit"
-    },
-    {
-      "stack": "item:occultism:afrit_essence{\"minecraft:item_name\":\u0027{\"translate\":\"item.occultism.ritual_dummy.summon_unbound_afrit\"}\u0027,\"minecraft:lore\":[\u0027{\"translate\":\"item.occultism.ritual_dummy.summon_unbound_afrit.tooltip\"}\u0027]}",
-      "recipe": "occultism:ritual/summon_unbound_afrit"
-    },
-    {
-      "stack": "item:occultism:book_of_binding_afrit"
-    },
-    {
-      "stack": "item:occultism:spawn_egg/afrit"
-    },
-    {
-      "stack": "item:occultism:spirit_attuned_crystal"
-    },
-    {
-      "stack": "item:occultism:spirit_attuned_gem"
-    },
-    {
-      "stack": "item:minecraft:heart_of_the_sea"
-    },
-    {
-      "stack": "item:minecraft:nautilus_shell"
-    },
-    {
-      "stack": "item:occultism:marid_essence"
-    },
-    {
-      "stack": "item:occultism:witherite_dust"
-    },
-    {
-      "stack": "item:occultism:chalk_black_impure",
-      "recipe": "occultism:crafting/chalk_black_impure"
-    },
-    {
-      "stack": "item:occultism:book_of_binding_bound_marid{\"occultism:spirit_name\":\"Jarjyrzirne\"}"
-    },
-    {
-      "stack": "item:occultism:ritual_dummy/summon_marid_crusher"
-    },
-    {
-      "stack": "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:iesnium\"}}"
-    },
-    {
-      "stack": "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:silver\"}}"
-    },
-    {
-      "stack": "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:silver\"}}",
-      "recipe": "productivebees:/silver_incubation"
-    },
-    {
-      "stack": "item:productivebees:nether_quartz_nest"
-    },
-    {
-      "stack": "item:productivebees:sand_nest"
-    },
-    {
-      "stack": "item:integratedtunnels:part_interface_item"
-    },
-    {
-      "stack": "item:integratedterminals:part_terminal_storage"
-    },
-    {
-      "stack": "item:integratedterminals:menril_glass"
-    },
-    {
-      "stack": "item:productivelib:upgrade_productivity_4",
-      "recipe": "productivelib:upgrades/productivity_4"
-    },
-    {
-      "stack": "item:productivelib:upgrade_productivity_3"
-    },
-    {
-      "stack": "item:productivelib:upgrade_block"
-    },
-    {
-      "stack": "item:productivebees:draconic_chunk"
-    },
-    {
-      "stack": "item:productivelib:upgrade_productivity_2"
-    },
-    {
-      "stack": "item:productivebees:wax"
-    },
-    {
-      "stack": "item:minecraft:nether_star"
-    },
-    {
-      "stack": "item:productivelib:upgrade_productivity"
-    },
-    {
-      "stack": "item:productivebees:draconic_dust"
-    },
-    {
-      "stack": "item:productivebees:bee_nest_diamond_helmet"
-    },
-    {
-      "stack": "bee:productivebees:/kamikaz"
-    },
-    {
-      "stack": "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:lure\":3}}}"
-    },
-    {
-      "stack": "bee:productivebees:/draconic"
-    },
-    {
-      "stack": "item:productivebees:obsidian_nest"
-    },
-    {
-      "stack": "item:minecraft:dragon_breath"
-    },
-    {
-      "stack": "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:redstone\"}"
-    },
-    {
-      "stack": "item:productivelib:upgrade_anti_teleport"
-    },
-    {
-      "stack": "item:minecraft:echo_shard{\"minecraft:item_name\":\u0027{\"translate\":\"item.occultism.ritual_dummy.possess_warden\"}\u0027,\"minecraft:lore\":[\u0027{\"translate\":\"item.occultism.ritual_dummy.possess_warden.tooltip\"}\u0027]}",
-      "recipe": "occultism:ritual/possess_warden"
-    },
-    {
-      "stack": "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:emerald\"}"
-    },
-    {
-      "stack": "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:emerald\"}"
-    },
-    {
-      "stack": "item:productivebees:end_stone_nest"
-    },
-    {
-      "stack": "item:productivebees:acacia_wood_nest"
-    },
-    {
-      "stack": "item:productivebees:cherry_wood_nest"
-    },
-    {
-      "stack": "item:productivebees:dark_oak_wood_nest"
-    },
-    {
-      "stack": "item:productivebees:glowstone_nest"
-    },
-    {
-      "stack": "item:megacells:mega_crafting_accelerator"
-    },
-    {
-      "stack": "item:megacells:mega_crafting_unit"
-    },
-    {
-      "stack": "item:megacells:accumulation_processor"
+      "stack": "item:mekanism:basic_induction_cell"
     },
     {
       "stack": {
-        "type": "item",
-        "id": "megacells:printed_accumulation_processor",
-        "amount": 4
+        "type": "fluid",
+        "id": "allthemodium:soul_lava",
+        "amount": 0
       }
     },
     {
-      "stack": {
-        "type": "item",
-        "id": "megacells:printed_accumulation_processor",
-        "amount": 9
-      },
-      "recipe": "extendedae:cutter/accumulation_processor"
+      "stack": "item:powah:thermo_generator_nitro"
     },
     {
-      "stack": "item:megacells:sky_steel_block",
-      "recipe": "megacells:crafting/sky_steel_block"
+      "stack": "item:powah:crystal_niotic"
     },
     {
-      "stack": "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:redstone\"}",
-      "recipe": "productivebees:redstone_honeycomb"
+      "stack": "item:powah:crystal_spirited"
     },
     {
-      "stack": "item:occultism:iesnium_ingot"
+      "stack": "item:powah:crystal_nitro"
     },
     {
-      "stack": "item:occultism:iesnium_block",
-      "recipe": "occultism:crafting/iesnium_block"
+      "stack": "item:powah:energizing_rod_niotic"
     },
     {
-      "stack": "item:occultism:infused_pickaxe"
+      "stack": "item:powah:energizing_rod_spirited"
     },
     {
-      "stack": "item:occultism:spirit_attuned_pickaxe_head"
+      "stack": "item:powah:energizing_rod_nitro"
     },
     {
-      "stack": "item:occultism:book_of_binding_bound_djinni"
+      "stack": "item:powah:energy_cable_niotic"
     },
     {
-      "stack": "item:occultism:infused_pickaxe",
-      "recipe": "occultism:ritual/craft_infused_pickaxe"
+      "stack": "item:powah:energy_cable_spirited"
     },
     {
-      "stack": "item:twilightforest:uncrafting_table"
+      "stack": "item:powah:energy_cable_nitro"
     },
     {
-      "stack": "bee:productivebees:/obsidian"
+      "stack": "item:minecraft:clay"
     },
     {
-      "stack": "item:productivebees:snow_nest"
+      "stack": "item:powah:energizing_rod_blazing"
     },
     {
-      "stack": "item:minecraft:magma_cream"
+      "stack": "item:powah:capacitor_hardened"
     },
     {
-      "stack": "item:ars_nouveau:purple_archwood_log"
+      "stack": "item:powah:steel_energized"
     },
     {
-      "stack": "item:ars_nouveau:arcane_pedestal"
+      "stack": "item:powah:energizing_rod_basic"
     },
     {
-      "stack": "item:ars_nouveau:sourcestone"
+      "stack": "item:powah:energizing_rod_basic",
+      "recipe": "powah:crafting/energizing_rod_basic"
     },
     {
-      "stack": "item:ars_nouveau:ritual_brazier"
+      "stack": "item:powah:energizing_rod_starter",
+      "recipe": "powah:crafting/energizing_rod_starter"
     },
     {
-      "stack": "item:ars_nouveau:enchanting_apparatus"
+      "stack": "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:crystalline\"}"
     },
     {
-      "stack": "item:arseng:me_source_jar"
+      "stack": "bee:productivebees:/crystalline"
     },
     {
-      "stack": "item:minecraft:clock"
-    },
-    {
-      "stack": "item:minecraft:stone_button"
-    },
-    {
-      "stack": "item:minecraft:redstone"
-    },
-    {
-      "stack": "item:ars_nouveau:arcane_core"
-    },
-    {
-      "stack": "item:simplemagnets:advanced_demagnetization_coil"
-    },
-    {
-      "stack": "item:simplemagnets:basic_demagnetization_coil"
-    },
-    {
-      "stack": "item:ae2wtlib:magnet_card"
-    },
-    {
-      "stack": "item:ae2importexportcard:import_card"
-    },
-    {
-      "stack": "item:ae2importexportcard:export_card"
-    },
-    {
-      "stack": "bee:productivebees:/ender"
-    },
-    {
-      "stack": "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:lapis\"}"
-    },
-    {
-      "stack": "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:gold\"}"
-    },
-    {
-      "stack": "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:iron\"}"
-    },
-    {
-      "stack": "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:ender\"}"
+      "stack": "item:mekanismcovers:empty_cover"
     }
   ],
   "lookup_history": [
+    "item:powah:thermo_generator_nitro",
+    "item:powah:thermo_generator_spirited",
+    "item:powah:thermoelectric_plate",
+    "item:mekanismcovers:empty_cover",
+    "item:mekanism:nugget_osmium",
+    "item:enderio:conduit{\"enderio:conduit\":\"enderio:me\"}",
+    "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:crystalline\"}",
+    "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:crystalline\"}",
+    "bee:productivebees:/crystalline",
+    "item:minecraft:quartz",
+    "item:powah:energizing_rod_blazing",
+    "item:powah:energizing_rod_hardened",
+    "item:powah:energizing_rod_basic",
+    "item:powah:energizing_rod_starter",
+    "item:powah:capacitor_hardened",
+    "item:powah:steel_energized",
+    "item:powah:capacitor_blazing",
+    "item:kubejs:lava_cell",
+    "item:ae2:cell_component_256k",
+    "item:powah:energizing_rod_nitro",
+    "item:powah:energizing_rod_spirited",
+    "item:powah:capacitor_nitro",
+    "item:powah:energy_cable_nitro",
+    "item:powah:energy_cable_spirited",
+    "item:powah:capacitor_spirited",
+    "item:powah:energizing_rod_niotic",
+    "item:powah:energy_cable_niotic",
+    "item:minecraft:quartz_block",
+    "item:powah:capacitor_niotic",
+    "item:powah:capacitor_basic_large",
+    "item:powah:energy_cable_blazing",
+    "item:powah:crystal_nitro",
+    "item:powah:blazing_crystal_block",
+    "item:powah:crystal_spirited",
+    "item:powah:crystal_niotic",
+    "item:fluxnetworks:flux_plug",
+    "item:fluxnetworks:flux_block",
+    "item:mekanism:enriched_refined_obsidian",
+    "item:mekanism:ultimate_induction_provider",
+    "item:mekanism:elite_induction_provider",
+    "item:mekanism:advanced_induction_provider",
+    "item:mekanism:basic_induction_provider",
+    "item:powah:thermo_generator_blazing",
+    {
+      "type": "fluid",
+      "id": "allthemodium:soul_lava",
+      "amount": 0
+    },
+    "item:mekanism:ultimate_induction_cell",
+    "item:mekanism:ultimate_energy_cube",
+    "item:mekanism:elite_induction_cell",
+    "item:mekanism:elite_energy_cube",
+    "item:mekanism:advanced_induction_cell",
+    "item:mekanism:advanced_energy_cube",
+    "item:mekanism:basic_induction_cell",
+    "item:mekanism:basic_energy_cube",
+    "item:mekanism:induction_port",
+    "item:mekanism:induction_casing",
+    "item:minecraft:raw_gold",
+    "item:appmek:chemical_storage_cell_16k",
+    "item:appmek:chemical_storage_cell_4k",
+    "item:appmek:chemical_cell_housing",
+    "item:mekanism:dust_lithium",
+    "mekanism_chemical:mekanism:lithium",
+    "item:mekanism:chemical_crystallizer",
+    "item:mekanism:basic_chemical_tank",
+    "item:mekanism:enriched_diamond",
+    "item:mekanism:ultimate_control_circuit",
+    "item:mekanism:elite_control_circuit",
+    "item:mekanism:ingot_refined_obsidian",
+    "item:mekanism:upgrade_energy",
+    "item:advanced_ae:adv_pattern_provider_capacity_upgrade",
+    "item:megacells:sky_osmium_ingot",
+    "item:mekanism:rotary_condensentrator",
+    "item:mekanism:energy_tablet",
+    "item:mekanism:basic_fluid_tank",
+    "item:mekanism:ingot_osmium",
+    "item:minecraft:raw_iron",
+    "item:minecraft:iron_ingot",
+    "item:minecraft:orange_dye",
+    "item:enderstorage:ender_tank",
+    "item:minecraft:cauldron",
+    "item:integratedtunnels:part_importer_fluid",
+    "item:integrateddynamics:variable_transformer_input",
+    "item:integrateddynamics:crystalized_menril_chunk",
+    "item:integratedtunnels:part_interface_fluid",
+    "item:mekanism:resistive_heater",
+    "item:mekanism:ingot_tin",
+    "item:mekanism:steel_casing",
+    "item:mekanism:ultimate_thermodynamic_conductor",
+    "item:mekanism:elite_thermodynamic_conductor",
+    "item:mekanism:advanced_thermodynamic_conductor",
+    "item:mekanism:basic_thermodynamic_conductor",
+    "item:mekanism:thermal_evaporation_controller",
+    "item:minecraft:coal",
+    "item:mekanism:structural_glass",
+    "item:mekanism:enriched_carbon",
+    "item:mekanism:thermal_evaporation_valve",
+    "item:mekanism:advanced_control_circuit",
+    "item:mekanism:basic_control_circuit",
+    "item:mekanism:thermal_evaporation_block",
+    "item:minecraft:lapis_lazuli",
+    "item:ae2:item_storage_cell_64k{\"ae2:storage_cell_inv\":[{\"#\":56L,\"#t\":\"ae2:i\",id:\"ae2:fluix_glass_cable\"},{\"#\":24L,\"#t\":\"ae2:i\",id:\"forbidden_arcanus:ender_pearl_fragment\"},{\"#\":2270L,\"#t\":\"ae2:i\",components:{\"productivebees:bee_type\":\"productivebees:iron\"},id:\"productivebees:configurable_comb\"},{\"#\":25L,\"#t\":\"ae2:i\",id:\"minecraft:nether_wart\"},{\"#\":5L,\"#t\":\"ae2:i\",id:\"silentgear:bort\"},{\"#\":3L,\"#t\":\"ae2:i\",id:\"ae2:logic_processor\"},{\"#\":52L,\"#t\":\"ae2:i\",id:\"minecraft:spider_eye\"},{\"#\":14L,\"#t\":\"ae2:i\",id:\"minecraft:deepslate_copper_ore\"},{\"#\":27L,\"#t\":\"ae2:i\",id:\"actuallyadditions:black_quartz\"},{\"#\":763L,\"#t\":\"ae2:i\",components:{\"productivebees:bee_type\":\"productivebees:iesnium\"},id:\"productivebees:configurable_comb\"},{\"#\":1360L,\"#t\":\"ae2:i\",components:{\"productivebees:bee_type\":\"productivebees:lapis\"},id:\"productivebees:configurable_comb\"},{\"#\":4L,\"#t\":\"ae2:i\",id:\"mysticalagriculture:prosperity_gemstone\"},{\"#\":31L,\"#t\":\"ae2:i\",id:\"evilcraft:dark_gem\"},{\"#\":60L,\"#t\":\"ae2:i\",id:\"mekanism:alloy_infused\"},{\"#\":36L,\"#t\":\"ae2:i\",id:\"minecraft:coal\"},{\"#\":3L,\"#t\":\"ae2:i\",id:\"mekanism:alloy_atomic\"},{\"#\":188L,\"#t\":\"ae2:i\",id:\"alltheores:raw_lead\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"mekanism:alloy_reinforced\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"minecraft:pitcher_pod\"},{\"#\":7L,\"#t\":\"ae2:i\",id:\"allthemodium:vibranium_upgrade_smithing_template\"},{\"#\":106669L,\"#t\":\"ae2:i\",id:\"minecraft:redstone\"},{\"#\":30L,\"#t\":\"ae2:i\",id:\"reliquary:molten_core\"},{\"#\":89L,\"#t\":\"ae2:i\",id:\"justdirethings:ferricore_ingot\"},{\"#\":20L,\"#t\":\"ae2:i\",id:\"minecraft:gray_wool\"},{\"#\":96L,\"#t\":\"ae2:i\",id:\"minecraft:deepslate_diamond_ore\"},{\"#\":49L,\"#t\":\"ae2:i\",id:\"minecraft:amethyst_block\"},{\"#\":173L,\"#t\":\"ae2:i\",id:\"mekanism:dust_osmium\"},{\"#\":51L,\"#t\":\"ae2:i\",id:\"mekanism:bio_fuel\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"ae2:calculation_processor\"},{\"#\":15L,\"#t\":\"ae2:i\",id:\"allthemodium:raw_unobtainium\"},{\"#\":58L,\"#t\":\"ae2:i\",id:\"forbidden_arcanus:arcane_crystal\"},{\"#\":235L,\"#t\":\"ae2:i\",id:\"alltheores:raw_osmium\"},{\"#\":46L,\"#t\":\"ae2:i\",id:\"minecraft:red_sand\"},{\"#\":65L,\"#t\":\"ae2:i\",id:\"minecraft:deepslate_gold_ore\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"minecraft:carrot\"},{\"#\":22L,\"#t\":\"ae2:i\",id:\"mysticalagriculture:soulium_dust\"},{\"#\":9L,\"#t\":\"ae2:i\",id:\"allthemodium:raw_vibranium\"},{\"#\":75L,\"#t\":\"ae2:i\",id:\"mysticalagriculture:prosperity_shard\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"mekanism:enriched_refined_obsidian\"},{\"#\":28L,\"#t\":\"ae2:i\",id:\"ae2:charged_certus_quartz_crystal\"},{\"#\":65L,\"#t\":\"ae2:i\",id:\"alltheores:fluorite\"},{\"#\":7L,\"#t\":\"ae2:i\",components:{\"xnet:mimic_data\":{state:{Name:\"minecraft:deepslate_tiles\"}}},id:\"xnet:facade\"},{\"#\":22L,\"#t\":\"ae2:i\",id:\"minecraft:magma_cream\"},{\"#\":5L,\"#t\":\"ae2:i\",id:\"ae2:printed_silicon\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"mekanism:dust_refined_obsidian\"},{\"#\":48L,\"#t\":\"ae2:i\",id:\"minecraft:gunpowder\"},{\"#\":21L,\"#t\":\"ae2:i\",id:\"powah:dielectric_paste\"},{\"#\":20L,\"#t\":\"ae2:i\",id:\"silentgear:azure_silver_ingot\"},{\"#\":71L,\"#t\":\"ae2:i\",id:\"mekanism:ingot_osmium\"},{\"#\":6L,\"#t\":\"ae2:i\",id:\"silentgear:nether_banana\"},{\"#\":31L,\"#t\":\"ae2:i\",id:\"alltheores:raw_tin\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"ae2:annihilation_core\"},{\"#\":2299L,\"#t\":\"ae2:i\",id:\"minecraft:amethyst_shard\"},{\"#\":35L,\"#t\":\"ae2:i\",id:\"minecraft:dead_bush\"},{\"#\":18L,\"#t\":\"ae2:i\",id:\"ae2:sky_dust\"},{\"#\":40L,\"#t\":\"ae2:i\",id:\"minecraft:raw_copper\"},{\"#\":8L,\"#t\":\"ae2:i\",id:\"minecraft:prismarine\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"ae2:advanced_card\"},{\"#\":151L,\"#t\":\"ae2:i\",id:\"ae2:singularity\"},{\"#\":26L,\"#t\":\"ae2:i\",id:\"minecraft:dragon_egg\"},{\"#\":319L,\"#t\":\"ae2:i\",id:\"minecraft:copper_ore\"},{\"#\":7L,\"#t\":\"ae2:i\",id:\"justdirethings:raw_ferricore\"},{\"#\":112L,\"#t\":\"ae2:i\",id:\"minecraft:obsidian\"}]}",
+    "item:extendedae:ex_import_bus_part",
+    "item:mekanism:dust_refined_obsidian",
+    "item:mekanism:alloy_atomic",
+    "item:mekanism:alloy_reinforced",
+    "item:minecraft:redstone",
     "item:minecraft:ender_pearl",
     {
       "type": "item",
@@ -1167,7 +1055,6 @@
       "chance": 0.01
     },
     "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:iron\"}",
-    "item:minecraft:lapis_lazuli",
     "item:minecraft:jungle_planks",
     "item:ae2importexportcard:export_card",
     "item:ae2importexportcard:import_card",
@@ -1297,12 +1184,6 @@
       "amount": 5
     },
     "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:redstone\"}",
-    {
-      "type": "item",
-      "id": "minecraft:redstone",
-      "amount": 8,
-      "chance": 0.5
-    },
     "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:draconic\"}",
     "item:productivebees:heated_centrifuge",
     "item:productivebees:inactive_dragon_egg",
@@ -1421,7 +1302,6 @@
     "item:productivelib:upgrade_time",
     "item:minecraft:honeycomb_block",
     "#item:c:storage_blocks/honeycombs",
-    "bee:productivebees:/crystalline",
     "bee:productivebees:/iron",
     "bee:productivebees:/mason_bee",
     "item:productivebees:stone_nest",
@@ -1470,7 +1350,6 @@
     "item:elevatorid:elevator_white",
     "item:fluxnetworks:flux_point",
     "item:fluxnetworks:flux_core",
-    "item:fluxnetworks:flux_plug",
     "item:xnet:controller",
     "item:productivelib:upgrade_base",
     "item:productivebees:gene_indexer",
@@ -1544,7 +1423,6 @@
     "item:occultism:spirit_attuned_crystal",
     "item:forbidden_arcanus:apply_modifier_smithing_template",
     "item:minecraft:nautilus_shell",
-    "item:ae2:item_storage_cell_64k",
     "item:forbidden_arcanus:eternal_stella",
     "item:occultism:chalk_red_impure",
     "item:occultism:afrit_essence",
@@ -1584,9 +1462,7 @@
     "item:alltheores:raw_platinum",
     "item:alltheores:raw_nickel",
     "item:alltheores:raw_aluminum",
-    "item:minecraft:raw_gold",
     "item:minecraft:raw_copper",
-    "item:minecraft:raw_iron",
     "item:allthemodium:raw_unobtainium",
     "item:allthemodium:raw_vibranium",
     "item:allthemodium:allthemodium_dust",
@@ -1663,7 +1539,6 @@
       "amount": 0
     },
     "item:minecraft:ice",
-    "item:mekanism:chemical_crystallizer",
     "item:forbidden_arcanus:hephaestus_forge_tier_3",
     "item:forbidden_arcanus:chiseled_polished_darkstone",
     "item:forbidden_arcanus:diamond_blacksmith_gavel",
@@ -1676,7 +1551,6 @@
     },
     "item:forbidden_arcanus:soul_extractor",
     "item:forbidden_arcanus:utrem_jar",
-    "item:minecraft:quartz_block",
     "item:forbidden_arcanus:growing_edelwood",
     "item:farmingforblockheads:market",
     "item:minecraft:red_wool",
@@ -1730,7 +1604,6 @@
     "item:minecraft:green_dye",
     "item:mysticalagriculture:dye_seeds",
     "item:mysticalagriculture:dye_agglomeratio",
-    "item:minecraft:orange_dye",
     "item:minecraft:pink_dye",
     "item:minecraft:white_dye",
     "item:minecraft:lime_dye",
@@ -1743,7 +1616,6 @@
     "item:reliquary:rib_bone",
     "item:ae2:nether_quartz_wrench",
     "item:hostilenetworks:prediction_matrix",
-    "item:minecraft:clay",
     "item:minecraft:clay_ball",
     "item:minecraft:glass_pane",
     "#item:c:glass_panes",
@@ -1765,7 +1637,6 @@
     "item:allthemodium:allthemodium_upgrade_smithing_template",
     "item:allthemodium:allthemodium_pickaxe",
     "item:fluxnetworks:flux_dust",
-    "item:fluxnetworks:flux_block",
     "item:fluxnetworks:flux_controller",
     "item:akashictome:tome",
     "item:minecraft:bookshelf",
@@ -1859,7 +1730,6 @@
     "item:appflux:energy_processor_press",
     "item:enderio:alloy_smelter",
     "item:enderio:primitive_alloy_smelter",
-    "item:minecraft:cauldron",
     "item:enderio:void_chassis",
     "item:alltheores:iron_gear",
     "item:enderio:grains_of_infinity",
@@ -1885,7 +1755,6 @@
     "item:minecraft:amethyst_shard",
     "item:powah:dielectric_paste",
     "item:minecraft:iron_bars",
-    "item:minecraft:iron_ingot",
     "item:powah:dielectric_rod_horizontal",
     "item:powah:crystal_blazing",
     "item:mysticalagriculture:wood_essence",
@@ -1934,7 +1803,6 @@
     "item:minecraft:repeater",
     "item:ae2:export_bus",
     "item:enderio:conduit{\"enderio:conduit\":\"enderio:dense_me\"}",
-    "item:enderio:conduit{\"enderio:conduit\":\"enderio:me\"}",
     "item:minecraft:armor_stand",
     "item:minecraft:smooth_stone",
     "item:ae2:item_cell_housing",
@@ -1949,7 +1817,6 @@
     "item:justdirethings:upgrade_flight",
     "item:occultism:butcher_knife",
     "item:industrialforegoing:dryrubber",
-    "item:mekanism:basic_fluid_tank",
     "item:industrialforegoing:latex_processing_unit",
     "item:industrialforegoing:fluid_extractor",
     "item:minecraft:light_weighted_pressure_plate",
@@ -2070,7 +1937,7 @@
     "item:justdirethings:gooblock_tier1",
     "item:trashcans:liquid_trash_can",
     "item:minecraft:white_terracotta",
-    "item:silentgear:hammer{\"minecraft:tool\":{rules:[{blocks:\"#silentgear:incorrect_for_crimson_iron_tools\",correct_for_drops:0b},{blocks:\"#minecraft:mineable/pickaxe\",correct_for_drops:1b,speed:5.0f}]},\"silentgear:construction\":{broken_count:0,example:0b,parts:[{item:{components:{\"silentgear:material_list\":[{item:{count:1,id:\"silentgear:crimson_iron_ingot\"},material:\"silentgear:crimson_iron\"}]},count:1,id:\"silentgear:hammer_head\"},part:\"silentgear:hammer_head\"},{item:{components:{\"silentgear:material_list\":[{item:{count:1,id:\"minecraft:oak_planks\"},material:\"silentgear:wood\"}]},count:1,id:\"silentgear:rod\"},part:\"silentgear:rod\"}],repairedCount:0},\"silentgear:model_index\":3,\"silentgear:model_key\":\"hammer:hammer_head{crimson_iron},rod{wood},\",\"silentgear:properties\":{\"silentgear:armor\":18.0f,\"silentgear:armor_durability\":27.0f,\"silentgear:armor_toughness\":2.0f,\"silentgear:attack_damage\":7.0f,\"silentgear:attack_reach\":6.0f,\"silentgear:attack_speed\":0.7f,\"silentgear:block_reach\":0.0f,\"silentgear:charging_value\":0.7f,\"silentgear:draw_speed\":-0.1f,\"silentgear:durability\":840.0f,\"silentgear:enchantment_value\":7.0f,\"silentgear:harvest_speed\":5.0f,\"silentgear:harvest_tier\":{incorrect_blocks_for_tool:\"silentgear:incorrect_for_crimson_iron_tools\",level_hint:\"3\",name:\"crimson_iron\"},\"silentgear:knockback_resistance\":0.0f,\"silentgear:magic_armor\":6.0f,\"silentgear:magic_damage\":3.0f,\"silentgear:projectile_accuracy\":1.1f,\"silentgear:projectile_speed\":1.0f,\"silentgear:ranged_damage\":2.0f,\"silentgear:rarity\":31.0f,\"silentgear:repair_efficiency\":1.5f,\"silentgear:repair_value\":0.5f,\"silentgear:traits\":[{conditions:[],level:3,trait:\"silentgear:malleable\"},{conditions:[{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"}],level:2,trait:\"silentgear:hard\"},{conditions:[],level:2,trait:\"silentgear:flexible\"}]}}",
+    "item:silentgear:hammer{\"minecraft:tool\":{rules:[{blocks:\"#silentgear:incorrect_for_crimson_iron_tools\",correct_for_drops:0b},{blocks:\"#minecraft:mineable/pickaxe\",correct_for_drops:1b,speed:5.0f}]},\"silentgear:construction\":{broken_count:0,example:0b,parts:[{item:{components:{\"silentgear:material_list\":[{item:{count:1,id:\"silentgear:crimson_iron_ingot\"},material:\"silentgear:crimson_iron\"}]},count:1,id:\"silentgear:hammer_head\"},part:\"silentgear:hammer_head\"},{item:{components:{\"silentgear:material_list\":[{item:{count:1,id:\"minecraft:oak_planks\"},material:\"silentgear:wood\"}]},count:1,id:\"silentgear:rod\"},part:\"silentgear:rod\"}],repairedCount:0},\"silentgear:model_index\":3,\"silentgear:model_key\":\"hammer:hammer_head{crimson_iron},rod{wood},\",\"silentgear:properties\":{\"silentgear:armor\":18.0f,\"silentgear:armor_durability\":27.0f,\"silentgear:armor_toughness\":2.0f,\"silentgear:attack_damage\":7.0f,\"silentgear:attack_reach\":6.0f,\"silentgear:attack_speed\":0.7f,\"silentgear:block_reach\":0.0f,\"silentgear:charging_value\":0.7f,\"silentgear:draw_speed\":-0.1f,\"silentgear:durability\":840.0f,\"silentgear:enchantment_value\":7.0f,\"silentgear:harvest_speed\":5.0f,\"silentgear:harvest_tier\":{incorrect_blocks_for_tool:\"silentgear:incorrect_for_crimson_iron_tools\",level_hint:\"3\",name:\"crimson_iron\"},\"silentgear:knockback_resistance\":0.0f,\"silentgear:magic_armor\":6.0f,\"silentgear:magic_damage\":3.0f,\"silentgear:projectile_accuracy\":1.1f,\"silentgear:projectile_speed\":1.0f,\"silentgear:ranged_damage\":2.0f,\"silentgear:rarity\":31.0f,\"silentgear:repair_efficiency\":1.5f,\"silentgear:repair_value\":0.5f,\"silentgear:traits\":[{conditions:[],level:3,trait:\"silentgear:malleable\"},{conditions:[{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"}],level:2,trait:\"silentgear:hard\"},{conditions:[],level:2,trait:\"silentgear:flexible\"}]}}",
     {
       "type": "item",
       "id": "justdirethings:raw_eclipsealloy",
@@ -2084,7 +1951,6 @@
     "item:ae2:interface",
     "item:ae2:annihilation_plane",
     "item:ae2:import_bus",
-    "item:mekanism:enriched_carbon",
     "item:mekanism:ingot_steel",
     {
       "type": "item",
@@ -2102,7 +1968,6 @@
     "item:extendedae:pattern_provider_upgrade",
     "item:minecraft:copper_ingot",
     "item:mekanism:dust_copper",
-    "item:minecraft:quartz",
     "item:ae2:controller",
     "item:ae2:smooth_sky_stone_block",
     "item:glassential:glass_ethereal",
@@ -2163,7 +2028,6 @@
     "item:ae2:semi_dark_monitor",
     "#item:ae2:illuminated_panel",
     "item:ae2:wireless_terminal",
-    "item:mekanism:alloy_reinforced",
     "item:extendedae:crystal_assembler",
     "item:extendedae:circuit_cutter",
     "item:extendedae:entro_seed",
@@ -2187,11 +2051,8 @@
     "item:advanced_ae:small_adv_pattern_provider_part",
     "item:minecraft:gold_block",
     "item:ae2:cell_component_64k",
-    "item:integratedtunnels:part_importer_fluid",
-    "item:integrateddynamics:variable_transformer_input",
     "item:minecraft:sticky_piston",
     "item:mekanism:bio_fuel",
-    "item:integratedtunnels:part_interface_fluid",
     "item:integrateddynamics:variable",
     "item:integrateddynamics:logic_programmer",
     "item:integrateddynamics:portable_logic_programmer",
@@ -2249,7 +2110,6 @@
     "item:ae2:fluix_dust",
     "item:extendedae:ex_pattern_provider_part",
     "item:advanced_ae:adv_pattern_provider_upgrade",
-    "item:advanced_ae:adv_pattern_provider_capacity_upgrade",
     "item:mekanism:dust_iron",
     "#item:minecraft:planks",
     "item:minecraft:crafting_table",
@@ -2285,7 +2145,6 @@
     "item:powah:ender_cell_blazing",
     "item:powah:ender_cell_hardened",
     "item:powah:ender_cell_basic",
-    "item:mekanism:basic_chemical_tank",
     "item:sophisticatedbackpacks:advanced_refill_upgrade",
     "item:sophisticatedbackpacks:refill_upgrade",
     "item:sophisticatedbackpacks:stonecutter_upgrade",
@@ -2299,7 +2158,6 @@
       "amount": 192
     },
     "item:mekanism:advanced_tier_installer",
-    "item:mekanism:advanced_control_circuit",
     "item:mekanism:basic_tier_installer",
     {
       "type": "item",
@@ -2312,9 +2170,6 @@
     "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:efficiency\":5}}}",
     "item:enderio:enchanter",
     "#item:quarryplus:markers",
-    "item:powah:energy_cable_blazing",
-    "item:powah:capacitor_blazing",
-    "item:powah:capacitor_basic_large",
     {
       "type": "item",
       "id": "toolbelt:pouch",
@@ -2327,81 +2182,103 @@
     "item:powah:binding_card_dim",
     "item:powah:binding_card",
     "item:powah:blank_card",
-    "item:powah:player_transmitter_basic",
-    "item:powah:player_transmitter_starter",
-    "item:powah:player_aerial_pearl",
-    "item:powah:aerial_pearl",
-    "item:powah:capacitor_niotic",
-    "item:powah:capacitor_hardened",
-    "item:powah:battery_basic",
-    "item:powah:ender_cell_starter",
-    "item:powah:energy_cell_basic",
-    "item:powah:energy_cable_niotic",
-    "item:powah:ender_gate_niotic",
-    "item:quarryplus:chunk_marker",
-    "item:powah:player_transmitter_blazing",
-    "item:powah:player_transmitter_niotic",
-    "item:powah:energy_cell_hardened",
-    "item:powah:energy_cell_starter",
-    "item:powah:energy_cell_blazing",
-    "item:powah:energy_cell_niotic",
-    "item:minecraft:slime_ball",
-    "#item:c:slimeballs",
-    "item:quarryplus:filter_module",
-    "item:minecraft:magenta_concrete",
-    "item:sophisticatedbackpacks:stack_upgrade_tier_3",
-    "item:sophisticatedbackpacks:stack_upgrade_tier_2",
-    "item:sophisticatedbackpacks:stack_upgrade_tier_1",
-    "item:sophisticatedbackpacks:stack_upgrade_starter_tier",
-    "item:mekanism:upgrade_anchor",
-    "item:rftoolspower:powercell_card",
-    "item:rftoolspower:dimensionalcell_simple",
-    "item:rftoolsbase:infused_diamond",
-    "item:rftoolspower:dimensionalcell_advanced",
-    "item:rftoolspower:dimensionalcell",
-    "item:minecraft:cracked_deepslate_tiles",
-    "item:rechiseled:end_stone_crushed_connecting",
-    "item:rechiseled:cobblestone_tiles",
-    "item:silentgear:coating_smithing_template",
-    "item:silentgear:salvager",
-    "item:silentgear:glittery_dust",
-    "item:silentgear:azure_electrum_ingot",
-    "item:allthemodium:unobtainium_shovel",
-    "item:sophisticatedbackpacks:netherite_backpack",
-    "item:sophisticatedbackpacks:diamond_backpack",
-    "item:sophisticatedbackpacks:gold_backpack",
-    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:looting\":3}}}",
-    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sharpness\":5}}}",
-    "item:silentgear:shear_blades{\"silentgear:material_list\":[{item:{components:{\"silentgear:grade\":\"MAX\",\"silentgear:material_list\":[{item:{count:1,id:\"kubejs:silent_unobtainium_plate\"},material:\"silentgear:silentgear/silentgear_materials/unobtainium\"},{item:{count:1,id:\"kubejs:silent_unobtainium_plate\"},material:\"silentgear:silentgear/silentgear_materials/unobtainium\"},{item:{count:1,id:\"kubejs:silent_unobtainium_plate\"},material:\"silentgear:silentgear/silentgear_materials/unobtainium\"},{item:{count:1,id:\"kubejs:silent_vibranium_plate\"},material:\"silentgear:silentgear/silentgear_materials/vibranium\"}]},count:1,id:\"silentgear:alloy_ingot\"},material:\"silentgear:metal_alloy\",modifiers:[{grade:\"MAX\",type:\"silentgear:grade\"}]},{item:{components:{\"silentgear:grade\":\"MAX\",\"silentgear:material_list\":[{item:{count:1,id:\"kubejs:silent_unobtainium_plate\"},material:\"silentgear:silentgear/silentgear_materials/unobtainium\"},{item:{count:1,id:\"kubejs:silent_unobtainium_plate\"},material:\"silentgear:silentgear/silentgear_materials/unobtainium\"},{item:{count:1,id:\"kubejs:silent_unobtainium_plate\"},material:\"silentgear:silentgear/silentgear_materials/unobtainium\"},{item:{count:1,id:\"kubejs:silent_vibranium_plate\"},material:\"silentgear:silentgear/silentgear_materials/vibranium\"}]},count:1,id:\"silentgear:alloy_ingot\"},material:\"silentgear:metal_alloy\",modifiers:[{grade:\"MAX\",type:\"silentgear:grade\"}]}]}",
-    "item:silentgear:shears_blueprint",
-    "item:silentgear:blueprint_paper",
-    "item:silentgear:grip_blueprint",
-    "item:silentgear:emerald_shard",
-    "item:silentgear:tip_blueprint",
-    "item:silentgear:coating_blueprint",
-    "item:silentgear:recrystallizer",
-    "item:minecraft:bone_block",
-    "item:silentgear:starmetal_dust",
-    "item:silentgear:blaze_gold_dust",
-    "item:silentgear:crude_hammer",
-    "item:silentgear:crude_tool_parts",
-    "item:silentgear:azure_electrum_dust",
-    "item:silentgear:blaze_gold_ingot",
-    "item:silentgear:blaze_gold_block",
-    "item:silentgear:azure_silver_dust",
-    "item:minecraft:cobblestone",
-    "item:reliquary:mob_charm_fragment{\"reliquary:entity_name\":\"minecraft:shulker\"}",
-    "item:minecraft:soul_torch",
-    "#item:minecraft:soul_fire_base_blocks",
-    "item:allthemodium:vibranium_upgrade_smithing_template",
-    "item:allthemodium:unobtainium_upgrade_smithing_template",
-    "item:minecraft:dragon_egg",
-    "item:minecraft:spawner",
-    "item:mysticalagriculture:squid_essence",
-    "item:minecraft:sugar",
-    "item:minecraft:nether_star"
+    "item:powah:player_transmitter_basic"
   ],
   "craft_history": [
+    "powah:crafting/thermo_generator_nitro",
+    "powah:crafting/thermo_generator_spirited",
+    "powah:crafting/thermoelectric_plate",
+    "mekanismcovers:cover",
+    "alltheores:crafting/osmium/nugget_from_ingot",
+    "mekanism:enriching/clay_ball",
+    "productivebees:/centrifuge/gems/honeycomb_quartz_block",
+    "powah:crafting/energizing_rod_blazing",
+    "powah:crafting/energizing_rod_hardened",
+    "powah:crafting/energizing_rod_basic",
+    "powah:crafting/energizing_rod_starter",
+    "powah:crafting/capacitor_hardened",
+    "powah:energizing/energized_steel",
+    "powah:crafting/capacitor_blazing",
+    "mekanism:enriching/conversion/mud/to_clay",
+    "minecraft:kjs/lava_cell",
+    "ae2:network/cells/item_storage_components_cell_256k_part",
+    "powah:crafting/energizing_rod_nitro",
+    "powah:crafting/energizing_rod_spirited",
+    "powah:crafting/cable_nitro",
+    "powah:crafting/cable_spirited",
+    "powah:crafting/capacitor_nitro",
+    "powah:crafting/capacitor_spirited",
+    "powah:crafting/energizing_rod_niotic",
+    "powah:crafting/cable_niotic",
+    "minecraft:quartz_block",
+    "powah:crafting/capacitor_niotic",
+    "powah:crafting/capacitor_basic_large",
+    "powah:energizing/nitro_crystal",
+    "powah:crafting/blazing_crystal_block",
+    "powah:energizing/spirited_crystal",
+    "powah:energizing/niotic_crystal",
+    "fluxnetworks:flux_plug",
+    "fluxnetworks:flux_block",
+    "mekanism:enriching/enriched/refined_obsidian",
+    "mekanism:induction/provider/ultimate",
+    "mekanism:induction/provider/elite",
+    "mekanism:induction/provider/advanced",
+    "mekanism:induction/provider/basic",
+    "mekanism:induction/cell/ultimate",
+    "mekanism:energy_cube/ultimate",
+    "mekanism:induction/cell/elite",
+    "mekanism:energy_cube/elite",
+    "mekanism:induction/cell/advanced",
+    "mekanism:energy_cube/advanced",
+    "mekanism:induction/cell/basic",
+    "mekanism:energy_cube/basic",
+    "mekanism:induction/port",
+    "mekanism:induction/casing",
+    "productivebees:/centrifuge/raw_materials/honeycomb_gold_block",
+    "appmek:chemical_storage_cell_16k",
+    "appmek:chemical_cell_housing",
+    "mekanism:crystallizing/lithium",
+    "mekanism:/decondensentrating/rotary/lithium",
+    "mekanism:chemical_crystallizer",
+    "mekanism:enriching/enriched/diamond",
+    "mekanism:control_circuit/ultimate",
+    "mekanism:control_circuit/elite",
+    "mekanism:processing/refined_obsidian/ingot/from_dust",
+    "mekanism:upgrade/energy",
+    "ae2:network/blocks/pattern_providers_interface_part",
+    "mekanism:rotary_condensentrator",
+    "mekanism:energy_tablet",
+    "mekanism:fluid_tank/basic",
+    "mekanism:chemical_tank/basic",
+    "alltheores:smelting/osmium/dust_smelting",
+    "mysticalagriculture:essence/minecraft/orange_dye",
+    "enderstorage:ender_tank",
+    "minecraft:cauldron",
+    "integratedtunnels:crafting/part_importer_fluid",
+    "integrateddynamics:crafting/variable_transformer_input",
+    "integrateddynamics:crafting/crystalized_menril_chunk",
+    "integratedtunnels:crafting/part_interface_fluid",
+    "mekanism:resistive_heater",
+    "alltheores:smelting/tin/dust_smelting",
+    "mekanism:steel_casing",
+    "mekanism:transmitter/thermodynamic_conductor/ultimate",
+    "mekanism:transmitter/thermodynamic_conductor/elite",
+    "mekanism:transmitter/thermodynamic_conductor/advanced",
+    "mekanism:transmitter/thermodynamic_conductor/basic",
+    "mekanism:thermal_evaporation/controller",
+    "mysticalagriculture:essence/minecraft/coal",
+    "mekanism:structural_glass",
+    "mekanism:enriching/enriched/carbon",
+    "mekanism:thermal_evaporation/valve",
+    "mekanism:control_circuit/advanced",
+    "mekanism:control_circuit/basic",
+    "mekanism:thermal_evaporation/block",
+    "productivebees:/centrifuge/gems/honeycomb_lapis_block",
+    "productivebees:/centrifuge/raw_materials/honeycomb_iron_block",
+    "extendedae:assembler/ex_import_bus",
+    "mekanism:processing/refined_obsidian/dust/from_obsidian_dust",
+    "mekanism:metallurgic_infusing/alloy/atomic",
+    "mekanism:metallurgic_infusing/alloy/reinforced",
     "productivebees:/centrifuge/integrateddynamics/honeycomb_ender_liquid_chorus_block",
     "mekanism:sawing/log/jungle",
     "ae2importexportcard:export_card",
@@ -2508,7 +2385,6 @@
     "productivelib:upgrades/productivity_2",
     "productivelib:upgrades/productivity",
     "productivebees:draconic_chunk",
-    "ae2:network/blocks/pattern_providers_interface_part",
     "productivebees:centrifuge/honeycomb_draconic",
     "productivebees:nests/obsidian_nest",
     "minecraft:diamond_sword",
@@ -2635,7 +2511,6 @@
     "forbidden_arcanus:blacksmith_gavel_head",
     "forbidden_arcanus:soul_extractor",
     "forbidden_arcanus:utrem_jar",
-    "minecraft:quartz_block",
     "forbidden_arcanus:edelwood_planks",
     "farmingforblockheads:market",
     "minecraft:dye_red_wool",
@@ -2686,8 +2561,6 @@
     "hostilenetworks:loot_fabricator",
     "hostilenetworks:framework",
     "hostilenetworks:deep_learner",
-    "fluxnetworks:flux_plug",
-    "fluxnetworks:flux_block",
     "fluxnetworks:flux_controller",
     "akashictome:tome",
     "minecraft:bookshelf",
@@ -2739,7 +2612,6 @@
     "advanced_ae:redstonecrystal",
     "enderio:alloy_smelter",
     "enderio:primitive_alloy_smelter",
-    "minecraft:cauldron",
     "enderio:void_chassis",
     "ae2:network/parts/cable_anchor",
     "mysticalagriculture:prosperity_seed_base",
@@ -2803,7 +2675,6 @@
     "ae2:network/parts/tunnels_me",
     "justdirethings:upgrade_flight",
     "occultism:crafting/butcher_knife",
-    "mekanism:fluid_tank/basic",
     "industrialforegoing:latex_processing_unit",
     "industrialforegoing:fluid_extractor",
     "minecraft:light_weighted_pressure_plate",
@@ -2857,7 +2728,6 @@
     "ae2:network/blocks/interfaces_interface",
     "ae2:network/parts/annihilation_plane_alt2",
     "ae2:network/parts/import_bus",
-    "mekanism:enriching/enriched/carbon",
     "mekanism:processing/iron/enriched_dust",
     "mekanism:processing/steel/enriched_iron_to_dust",
     "advanced_ae:smalladvpatpropart",
@@ -2905,7 +2775,6 @@
     "ae2:network/parts/panels_semi_dark_monitor",
     "ae2:network/blocks/energy_dense_energy_cell",
     "ae2:network/blocks/energy_energy_cell",
-    "mekanism:metallurgic_infusing/alloy/reinforced",
     "mekanism:transmitter/mechanical_pipe/advanced",
     "mekanism:transmitter/mechanical_pipe/basic",
     "mekanism:enriching/enriched/redstone",
@@ -2914,10 +2783,7 @@
     "advanced_ae:smalladvpatpro",
     "minecraft:gold_block",
     "ae2:network/cells/item_storage_components_cell_64k_part",
-    "integratedtunnels:crafting/part_importer_fluid",
-    "integrateddynamics:crafting/variable_transformer_input",
     "minecraft:sticky_piston",
-    "integratedtunnels:crafting/part_interface_fluid",
     "integrateddynamics:crafting/variable",
     "integrateddynamics:crafting/logic_programmer",
     "integrateddynamics:crafting/drying_basin",
@@ -2968,7 +2834,6 @@
     "ae2:network/blocks/crystal_processing_charger",
     "ae2:network/blocks/inscribers",
     "sophisticatedstorage:diamond_to_netherite_tier_upgrade",
-    "mekanism:chemical_tank/basic",
     "sophisticatedbackpacks:advanced_refill_upgrade",
     "sophisticatedbackpacks:refill_upgrade",
     "sophisticatedbackpacks:stonecutter_upgrade",
@@ -2976,14 +2841,12 @@
     "quarryplus:y_setter",
     "minecraft:kjs/quarryplus_repeat_tick_module",
     "mekanism:tier_installer/advanced",
-    "mekanism:control_circuit/advanced",
     "mekanism:tier_installer/basic",
     "quarryplus:mover",
     "enderio:enchanter",
     "quarryplus:quarry",
     "minecraft:stick",
     "powah:crafting/cable_blazing_2",
-    "powah:crafting/capacitor_blazing",
     "toolbelt:pouch",
     "toolbelt:belt",
     "buildinggadgets2:gadget_exchanging",
@@ -2995,12 +2858,9 @@
     "powah:crafting/player_tranmitter_starter",
     "powah:crafting/aerial_pearl",
     "powah:crafting/battery_niotic",
-    "powah:crafting/capacitor_niotic",
     "powah:crafting/battery_blazing",
     "minecraft:redstone",
     "powah:crafting/battery_hardened",
-    "powah:crafting/capacitor_hardened",
-    "powah:crafting/capacitor_basic_large",
     "powah:crafting/battery_basic",
     "powah:crafting/battery_starter",
     "powah:crafting/ender_cell_niotic",
@@ -3072,8 +2932,6 @@
     "mekanism:electrolytic_core",
     "mekanism:jetpack",
     "mekanism:tier_installer/ultimate",
-    "mekanism:control_circuit/ultimate",
-    "mekanism:control_circuit/elite",
     "mekanism:tier_installer/elite",
     "sophisticatedstorage:crafting_upgrade",
     "sophisticatedstorage:stack_upgrade_tier_4",
@@ -3084,16 +2942,10 @@
     "sophisticatedstorage:basic_to_diamond_tier_upgrade",
     "sophisticatedstorage:basic_to_gold_tier_upgrade",
     "sophisticatedstorage:basic_to_iron_tier_upgrade",
-    "mekanism:upgrade/energy",
     "powah:crafting/thermo_generator_niotic",
-    "powah:crafting/thermoelectric_plate",
-    "powah:crafting/energizing_rod_blazing",
-    "powah:crafting/energizing_rod_hardened",
     "mekanism:digital_miner",
-    "mekanism:steel_casing",
     "mekanism:robit",
     "mekanism:personal_chest",
-    "mekanism:energy_tablet",
     "mekanism:logistical_sorter",
     "mekanism:teleportation_core",
     "powah:crafting/thermo_generator_blazing",
@@ -3103,8 +2955,6 @@
     "powah:crafting/thermo_generator_basic",
     "powah:crafting/thermo_generator_starter",
     "powah:crafting/dielectric_rod",
-    "powah:crafting/energizing_rod_basic",
-    "powah:crafting/energizing_rod_starter",
     "powah:crafting/energizing_orb",
     "sophisticatedbackpacks:crafting_upgrade",
     "simplemagnets:advancedmagnet",
@@ -3131,7 +2981,6 @@
     "mekanismtools:refined_obsidian/armor/chestplate",
     "mekanismtools:refined_obsidian/tools/sword",
     "mekanismtools:bronze/tools/axe",
-    "mekanism:energy_cube/basic",
     "mekanism:atomic_disassembler",
     "mekanism:osmium_compressor",
     "tombstone:carmin_subaraki_grave",

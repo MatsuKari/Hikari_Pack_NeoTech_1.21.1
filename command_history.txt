@@ -1,16 +1,3 @@
-/locate structure minecraft:monument
-/tp @s -320 ~ 224
-/summon minecraft:chicken
-/reload
-/time set midnight
-/reload
-/locate biome minecraft:flower_forest
-/tp @s -85 71 -505
-/gamemode spectator
-/time set day
-/gamemode survival
-/summon minecraft:bee
-/summon minecraft:chicken
 /time set midnight
 /time set day
 /locate biome minecraft:river
@@ -47,4 +34,17 @@
 /tp PKFGAMER
 /kubejs reload server-scripts
 /kubejs errors server
+/reload
+/time set day
+/gamerule doDaylightCycle false
+/gamemode creative
+/gamemode survival
+/kubejs hand
+/reload
+/gamemode spectator
+/locate biome allthemodium:basalt_deltas
+/tp @s 158 -17 122
+/gamemode survival
+/reload
+/kubejs hand
 /reload
