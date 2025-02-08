@@ -1,50 +1,50 @@
-/time set midnight
-/time set day
-/locate biome minecraft:river
-/tp @s 130 80 -213
-/gamerule doDaylightCycle true
-/gamemode creative
-/gamemode survival
-/gamerule doDaylightCycle
-/gamerule randomTickSpeed
-/gamerule randomTickSpeed 6
-/gamerule randomTickSpeed 9
-/gamerule randomTickSpeed 3
-/gamerule randomTickSpeed
-/kubejs hand
 /reload
-/kubejs hand
-/reload
-/kubejs hand
-/reload
-/tp 199 242 -301
-/reload
-/locate biome minecraft:cherry_grove
-/tp @s 99 72 -605
 /gamemode spectator
 /gamemode survival
-/time set day
+/gamemode spectator
+/gamemode survival
 /reload
 /kubejs hand
 /reload
-/locate biome minecraft:snowy_taiga
-/tp @s -1142 71 -633
-/time set day
-/locate biome ars_nouveau:archwood_forest
-/tp PKFGAMER
-/kubejs reload server-scripts
-/kubejs errors server
-/reload
-/time set day
-/gamerule doDaylightCycle false
-/gamemode creative
-/gamemode survival
 /kubejs hand
 /reload
 /gamemode spectator
-/locate biome allthemodium:basalt_deltas
-/tp @s 158 -17 122
+/tp -27751 71 53966
+/gamemode survival
+/gamemode spectator
+/tp -27751 71 53968
+/gamemode survival
+/gamemode spectator
+/gamemode survival
+/tp -27756 72 53965
+/gamemode spectator
+/tp -27756 72 53965
+/gamemode survival
+/tp -27756 72 53965
+/gamemode spectator
+/gamemode survival
+/probejs lint
+/reload
+/gamemode creative
+/mek radiation removeAll
 /gamemode survival
 /reload
-/kubejs hand
-/reload
+/backup start
+/ftbchunks unload_all MatsuKari_s_Party#dc7e498d
+/ftbchunks unclaim_all MatsuKari_s_Party#dc7e498d
+/ftbchunks unclaim_all MatsuKari#f72c42d0
+/gamemode creative
+/gamemode survival
+/mek radiation removeAll
+/mek radiation heal
+/gamemode spectator
+/gamemode survival
+/backup start
+/gamerule keepInventory
+/gamemode spectator
+/gamemode survival
+/gamemode spectator
+/gamemode survival
+/gamemode spectator
+/gamemode survival
+/backup start

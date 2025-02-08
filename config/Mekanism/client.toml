@@ -83,10 +83,10 @@
 [qio]
 	#Sorting strategy when viewing items in a QIO Dashboard.
 	#Allowed Values: NAME, SIZE, MOD, REGISTRY_NAME
-	sortType = "NAME"
+	sortType = "SIZE"
 	#Sorting direction when viewing items in a QIO Dashboard.
 	#Allowed Values: ASCENDING, DESCENDING
-	sortDirection = "ASCENDING"
+	sortDirection = "DESCENDING"
 	#Number of slots to view horizontally on a QIO Dashboard.
 	# Default: 8
 	# Range: 8 ~ 16
@@ -94,7 +94,7 @@
 	#Number of slots to view vertically on a QIO Dashboard.
 	# Default: 4
 	# Range: 2 ~ 48
-	slotsTall = 4
+	slotsTall = 16
 	#Determines whether the search bar is automatically focused when a QIO Dashboard is opened.
 	autoFocusSearchBar = true
 	#Determines if items in a QIO crafting window should be moved to the player's inventory or the frequency first when replacing the items in the crafting grid using a recipe viewer.
@@ -168,7 +168,7 @@
 	#The last position the Side Config window was in when it was closed, and whether it was pinned.
 	[window.side_config]
 		#The x component of this window's last position.
-		x = 17
+		x = 16
 		#The y component of this window's last position.
 		y = 53
 		#Determines whether this window is pinned, and should open automatically when the GUI is reopened.
@@ -186,8 +186,8 @@
 	#The last position the Upgrade window was in when it was closed, and whether it was pinned.
 	[window.upgrade]
 		#The x component of this window's last position.
-		x = 6
+		x = 358
 		#The y component of this window's last position.
-		y = 15
+		y = 41
 		#Determines whether this window is pinned, and should open automatically when the GUI is reopened.
 		pinned = false

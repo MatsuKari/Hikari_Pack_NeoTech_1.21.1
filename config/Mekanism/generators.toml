@@ -200,7 +200,7 @@
 	#Amount of water (mB) per injection rate that the fusion reactor can store. Max = injectionRate * waterPerInjection
 	# Default: 1000000
 	# Range: 1 ~ 21913098
-	waterPerInjection = 1000000
+	waterPerInjection = 10000000
 	#Amount of steam (mB) per injection rate that the fusion reactor can store. Max = injectionRate * steamPerInjection
 	# Default: 100000000
 	# Range: 1 ~ 94116041192395671

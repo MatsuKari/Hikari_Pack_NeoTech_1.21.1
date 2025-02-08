@@ -1,797 +1,213 @@
 {
   "favorites": [
     {
-      "stack": "item:alltheores:copper_ore_hammer"
+      "stack": {
+        "type": "fluid",
+        "id": "mekanism:brine",
+        "amount": 0
+      }
     },
     {
-      "stack": "item:mekanism:dust_bronze"
+      "stack": "mekanism_chemical:mekanism:sodium"
     },
     {
-      "stack": "item:actuallyadditions:coal_generator"
+      "stack": "item:mekanismgenerators:control_rod_assembly"
+    },
+    {
+      "stack": "item:mekanismgenerators:fission_fuel_assembly"
+    },
+    {
+      "stack": "item:mekanismgenerators:fission_reactor_casing"
+    },
+    {
+      "stack": "item:mekanismgenerators:reactor_glass"
+    },
+    {
+      "stack": "item:appmek:chemical_storage_cell_256k"
+    },
+    {
+      "stack": "item:industrialforegoing:efficiency_addon_tier_2{\"titanium:augments\":{Efficiency:0.8f}}"
+    },
+    {
+      "stack": "item:mekanism:pellet_antimatter"
+    },
+    {
+      "stack": "bee:productivebees:/uraninite"
+    },
+    {
+      "stack": "mekanism_chemical:mekanism:fissile_fuel"
+    },
+    {
+      "stack": "mekanism_chemical:mekanism:uranium_hexafluoride"
+    },
+    {
+      "stack": "mekanism_chemical:mekanism:uranium_oxide"
+    },
+    {
+      "stack": "item:mekanism:yellow_cake_uranium"
+    },
+    {
+      "stack": "item:mekanismgenerators:fission_reactor_port"
+    },
+    {
+      "stack": "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:osmium\"}"
+    },
+    {
+      "stack": "item:ae2:energy_level_emitter"
+    },
+    {
+      "stack": "item:ae2:level_emitter"
+    },
+    {
+      "stack": "item:mekanism:chemical_oxidizer"
+    },
+    {
+      "stack": "mekanism_chemical:mekanism:hydrofluoric_acid"
+    },
+    {
+      "stack": {
+        "type": "mekanism_chemical",
+        "id": "mekanism:sulfuric_acid",
+        "amount": 900
+      }
+    },
+    {
+      "stack": "item:mekanism:block_fluorite"
+    },
+    {
+      "stack": "mekanism_chemical:mekanism:water_vapor"
+    },
+    {
+      "stack": "mekanism_chemical:mekanism:sulfur_trioxide"
+    },
+    {
+      "stack": {
+        "type": "mekanism_chemical",
+        "id": "mekanism:sulfur_dioxide",
+        "amount": 2
+      }
+    },
+    {
+      "stack": "mekanism_chemical:mekanism:oxygen"
+    },
+    {
+      "stack": {
+        "type": "mekanism_chemical",
+        "id": "mekanism:sulfur_dioxide",
+        "amount": 100
+      },
+      "recipe": "mekanism:oxidizing/sulfur_dioxide"
+    },
+    {
+      "stack": "item:mekanism:dust_sulfur"
+    },
+    {
+      "stack": "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:sulfur\"}"
+    },
+    {
+      "stack": "bee:productivebees:/fluorite"
+    },
+    {
+      "stack": "bee:productivebees:/sulfur"
+    },
+    {
+      "stack": "bee:productivebees:/diamond"
+    },
+    {
+      "stack": "bee:productivebees:/coal"
+    },
+    {
+      "stack": "bee:productivebees:/leafcutter_bee"
+    },
+    {
+      "stack": "item:mekanism:basic_tier_installer"
+    },
+    {
+      "stack": "item:mekanism:advanced_tier_installer"
+    },
+    {
+      "stack": "item:mekanism:elite_tier_installer"
+    },
+    {
+      "stack": "item:mekanism:personal_chest"
+    },
+    {
+      "stack": "item:mekanism:dust_obsidian"
+    },
+    {
+      "stack": "mekanism_chemical:mekanism:polonium"
+    },
+    {
+      "stack": "mekanism_chemical:mekanism:plutonium"
+    },
+    {
+      "stack": "item:mekanism:pellet_plutonium"
+    },
+    {
+      "stack": "item:mekanism:pellet_polonium"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "mekanism:hdpe_pellet",
+        "amount": 3
+      }
+    },
+    {
+      "stack": "item:mekanism:substrate"
+    },
+    {
+      "stack": "item:mekanism:substrate",
+      "recipe": "mekanism:reaction/substrate/water_hydrogen"
+    },
+    {
+      "stack": "item:mekanism:hdpe_sheet",
+      "recipe": "mekanism:enriching/hdpe_sheet"
     },
     {
       "stack": "item:mekanism:enrichment_chamber"
     },
     {
-      "stack": "item:mekanism:basic_universal_cable"
+      "stack": "item:mekanism:solar_neutron_activator"
     },
     {
-      "stack": "item:mekanism:steel_casing"
+      "stack": "item:powah:uraninite_raw"
     },
     {
-      "stack": "item:mekanism:ingot_steel"
+      "stack": "item:powah:uraninite"
     },
     {
-      "stack": "item:mekanism:energized_smelter"
+      "stack": "item:megacells:radioactive_chemical_cell"
     },
     {
-      "stack": "item:mekanism:energized_smelter",
-      "recipe": "mekanism:energized_smelter"
+      "stack": "item:mekanism:ultimate_chemical_tank"
     },
     {
-      "stack": "item:evilcraft:vein_sword{\"minecraft:enchantments\":{levels:{\"minecraft:looting\":2}}}"
+      "stack": "item:mekanism:elite_chemical_tank"
     },
     {
-      "stack": "item:evilcraft:vengeance_pickaxe{\"minecraft:enchantments\":{levels:{\"evilcraft:vengeance\":3,\"minecraft:fortune\":5}}}"
+      "stack": "item:mekanism:advanced_chemical_tank"
     },
     {
-      "stack": "item:tombstone:essence_of_undeath"
+      "stack": "item:megacells:radioactive_cell_component"
     },
     {
-      "stack": "item:tombstone:decorative_subaraki_grave{\"tombstone:tb_model_texture\":2}"
+      "stack": "item:mekanism:radioactive_waste_barrel"
     },
     {
-      "stack": "item:tombstone:blue_marble"
+      "stack": "item:mekanismgenerators:fusion_reactor_controller"
     },
     {
-      "stack": "item:tombstone:grave_dust"
+      "stack": "item:mekanismgenerators:fusion_reactor_frame"
     },
     {
-      "stack": "item:tiab:time_in_a_bottle"
+      "stack": "item:mekanismgenerators:fusion_reactor_port"
     },
     {
-      "stack": "item:evilcraft:blood_extractor"
-    },
-    {
-      "stack": "item:mekanism:upgrade_energy"
-    },
-    {
-      "stack": "item:industrialforegoing:material_stonework_factory"
-    },
-    {
-      "stack": "item:simplemagnets:advancedmagnet"
-    },
-    {
-      "stack": "item:mekanismtools:refined_obsidian_sword"
-    },
-    {
-      "stack": "item:mekanismtools:refined_obsidian_sword",
-      "recipe": "mekanismtools:refined_obsidian/tools/sword"
-    },
-    {
-      "stack": "item:mekanism:energy_tablet"
-    },
-    {
-      "stack": "item:mekanism:atomic_disassembler",
-      "recipe": "mekanism:atomic_disassembler"
-    },
-    {
-      "stack": "item:mekanism:alloy_atomic"
-    },
-    {
-      "stack": "item:mekanism:osmium_compressor"
-    },
-    {
-      "stack": "item:mekanism:basic_energy_cube"
-    },
-    {
-      "stack": "item:simplemagnets:basicmagnet"
-    },
-    {
-      "stack": "item:evilcraft:undead_sapling"
-    },
-    {
-      "stack": "item:evilcraft:blood_infuser"
-    },
-    {
-      "stack": "item:evilcraft:blood_infusion_core"
-    },
-    {
-      "stack": "item:evilcraft:dark_gem"
-    },
-    {
-      "stack": "item:evilcraft:dark_power_gem"
-    },
-    {
-      "stack": "item:minecraft:book"
-    },
-    {
-      "stack": "item:mekanism:precision_sawmill"
-    },
-    {
-      "stack": "item:mekanism:pressurized_reaction_chamber"
-    },
-    {
-      "stack": "item:mekanism:crusher"
-    },
-    {
-      "stack": "item:cookingforblockheads:sink"
-    },
-    {
-      "stack": "item:mekanism:configurator"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "minecraft:red_dye",
-        "amount": 4
-      }
-    },
-    {
-      "stack": "item:mekanism:digital_miner"
-    },
-    {
-      "stack": "item:rechiseled:diorite_bricks"
-    },
-    {
-      "stack": "item:minecraft:deepslate_tiles"
-    },
-    {
-      "stack": "item:sophisticatedstorage:diamond_to_netherite_tier_upgrade"
-    },
-    {
-      "stack": "item:extendedae:ex_pattern_access_part"
-    },
-    {
-      "stack": "item:extendedae:ex_drive"
-    },
-    {
-      "stack": "item:extendedae:ex_inscriber"
-    },
-    {
-      "stack": "item:extendedae:crystal_assembler"
-    },
-    {
-      "stack": "item:ae2:sky_stone_tank"
-    },
-    {
-      "stack": "#item:ae2:glass_cable"
-    },
-    {
-      "stack": "item:ae2:inscriber"
-    },
-    {
-      "stack": "item:ae2:speed_card"
-    },
-    {
-      "stack": "item:ae2:advanced_card"
-    },
-    {
-      "stack": "item:ae2:printed_calculation_processor"
-    },
-    {
-      "stack": "item:ae2:silicon"
-    },
-    {
-      "stack": "item:ae2:formation_core"
-    },
-    {
-      "stack": "item:ae2:annihilation_core"
-    },
-    {
-      "stack": "item:ae2:fluix_glass_cable"
-    },
-    {
-      "stack": "item:extendedae:entro_ingot"
-    },
-    {
-      "stack": "item:extendedae:entro_dust"
-    },
-    {
-      "stack": "item:extendedae:entro_crystal"
-    },
-    {
-      "stack": "item:extendedae:entro_seed"
-    },
-    {
-      "stack": "item:ae2:fluix_block"
-    },
-    {
-      "stack": "item:ae2:sky_dust"
-    },
-    {
-      "stack": "item:minecraft:stonecutter"
-    },
-    {
-      "stack": "item:extendedae:concurrent_processor_press",
-      "recipe": "extendedae:assembler/concurrent_press"
-    },
-    {
-      "stack": "item:ae2:drive"
-    },
-    {
-      "stack": "item:ae2:engineering_processor"
-    },
-    {
-      "stack": "item:ae2:logic_processor"
-    },
-    {
-      "stack": "item:ae2:calculation_processor"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "ae2:printed_engineering_processor",
-        "amount": 4
-      }
-    },
-    {
-      "stack": "item:ae2:printed_silicon"
-    },
-    {
-      "stack": "item:ae2:storage_bus"
-    },
-    {
-      "stack": "item:minecraft:piston"
-    },
-    {
-      "stack": "item:ae2:interface"
-    },
-    {
-      "stack": "item:ae2:cell_component_4k"
-    },
-    {
-      "stack": "item:ae2:cell_component_1k"
-    },
-    {
-      "stack": "item:ae2:4k_crafting_storage"
-    },
-    {
-      "stack": "item:ae2:molecular_assembler"
-    },
-    {
-      "stack": "item:ae2:pattern_provider"
-    },
-    {
-      "stack": "item:ae2:fluix_crystal"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "ae2:fluix_crystal",
-        "amount": 64
-      },
-      "recipe": "advanced_ae:fluixcrystals"
-    },
-    {
-      "stack": "item:ae2:cable_pattern_provider"
-    },
-    {
-      "stack": "item:advanced_ae:small_adv_pattern_provider_part"
-    },
-    {
-      "stack": "item:advanced_ae:adv_pattern_provider_part"
-    },
-    {
-      "stack": "item:ae2:pattern_encoding_terminal"
-    },
-    {
-      "stack": "item:ae2:blank_pattern"
-    },
-    {
-      "stack": "item:extendedae:ex_pattern_provider"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "extendedae:concurrent_processor_print",
-        "amount": 4
-      }
-    },
-    {
-      "stack": "item:extendedae:pattern_provider_upgrade"
-    },
-    {
-      "stack": "item:ae2:item_storage_cell_16k"
-    },
-    {
-      "stack": "item:ae2:item_cell_housing"
-    },
-    {
-      "stack": "item:minecraft:ancient_debris"
-    },
-    {
-      "stack": "item:ae2:condenser"
-    },
-    {
-      "stack": "item:integrateddynamics:variable"
-    },
-    {
-      "stack": "item:integrateddynamics:logic_programmer"
-    },
-    {
-      "stack": "item:integrateddynamics:variable_transformer_input"
-    },
-    {
-      "stack": "item:mekanism:bio_fuel"
-    },
-    {
-      "stack": "item:advanced_ae:small_adv_pattern_provider"
-    },
-    {
-      "stack": "item:advanced_ae:adv_pattern_encoder"
-    },
-    {
-      "stack": "item:mekanism:alloy_infused"
-    },
-    {
-      "stack": "item:advanced_ae:quantum_chestplate"
-    },
-    {
-      "stack": "item:advanced_ae:quantum_alloy_plate"
-    },
-    {
-      "stack": "item:ae2:wireless_crafting_terminal"
-    },
-    {
-      "stack": "item:ae2:crafting_terminal"
-    },
-    {
-      "stack": "item:ae2:terminal"
-    },
-    {
-      "stack": "#item:ae2:illuminated_panel"
-    },
-    {
-      "stack": "item:ae2:semi_dark_monitor"
-    },
-    {
-      "stack": "item:ae2:wireless_access_point"
-    },
-    {
-      "stack": "item:ae2:quantum_ring"
-    },
-    {
-      "stack": "item:ae2:quantum_link"
-    },
-    {
-      "stack": "item:ae2:fluix_smart_cable",
-      "recipe": "ae2:network/cables/smart_fluix"
-    },
-    {
-      "stack": "item:ae2:crafting_unit"
-    },
-    {
-      "stack": "item:ae2:quantum_entangled_singularity"
-    },
-    {
-      "stack": "item:ae2:tiny_tnt"
-    },
-    {
-      "stack": "item:quarryplus:marker"
-    },
-    {
-      "stack": "item:powah:dielectric_paste"
-    },
-    {
-      "stack": "item:extendedae:ex_molecular_assembler"
-    },
-    {
-      "stack": "item:torchmaster:feral_flare_lantern"
-    },
-    {
-      "stack": "item:dimstorage:dim_wall"
-    },
-    {
-      "stack": "item:dimstorage:solid_dim_core"
-    },
-    {
-      "stack": "item:dimstorage:dim_core"
-    },
-    {
-      "stack": "item:glassential:glass_ethereal"
-    },
-    {
-      "stack": "item:ae2:controller"
-    },
-    {
-      "stack": "item:tombstone:book_of_disenchantment"
-    },
-    {
-      "stack": "item:justdirethings:eclipsealloy_hoe"
-    },
-    {
-      "stack": "item:justdirethings:eclipsealloy_ingot"
-    },
-    {
-      "stack": "item:justdirethings:raw_eclipsealloy"
-    },
-    {
-      "stack": "item:justdirethings:raw_ferricore"
-    },
-    {
-      "stack": "item:justdirethings:raw_blazegold"
-    },
-    {
-      "stack": "item:justdirethings:celestigem"
-    },
-    {
-      "stack": "item:justdirethings:celestigem_hoe"
-    },
-    {
-      "stack": "item:justdirethings:gooblock_tier2"
-    },
-    {
-      "stack": "item:justdirethings:gooblock_tier3"
-    },
-    {
-      "stack": "item:minecraft:end_crystal"
-    },
-    {
-      "stack": "item:justdirethings:upgrade_dropteleport"
-    },
-    {
-      "stack": "item:justdirethings:upgrade_hammer"
-    },
-    {
-      "stack": "item:mysticalagriculture:infusion_pedestal"
-    },
-    {
-      "stack": "item:mysticalagriculture:infusion_altar"
-    },
-    {
-      "stack": "item:mysticalagriculture:supremium_essence"
-    },
-    {
-      "stack": "item:minecraft:netherite_ingot"
-    },
-    {
-      "stack": "item:mysticalagriculture:master_infusion_crystal"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "matc:supremium_crystal",
-        "remainder": "item:matc:supremium_crystal{\"minecraft:damage\":1}"
-      }
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "matc:imperium_crystal",
-        "remainder": "item:matc:imperium_crystal{\"minecraft:damage\":1}"
-      }
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "matc:tertium_crystal",
-        "remainder": "item:matc:tertium_crystal{\"minecraft:damage\":1}"
-      }
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "matc:prudentium_crystal",
-        "remainder": "item:matc:prudentium_crystal{\"minecraft:damage\":1}"
-      }
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "matc:inferium_crystal",
-        "remainder": "item:matc:inferium_crystal{\"minecraft:damage\":1}"
-      }
-    },
-    {
-      "stack": "item:mysticalagriculture:inferium_gemstone"
-    },
-    {
-      "stack": "item:mysticalagriculture:prosperity_gemstone"
-    },
-    {
-      "stack": "item:mysticalagriculture:prudentium_essence"
-    },
-    {
-      "stack": "item:mysticalagriculture:tertium_essence"
-    },
-    {
-      "stack": "item:mysticalagriculture:imperium_essence"
-    },
-    {
-      "stack": "item:advanced_ae:quantum_crafter"
-    },
-    {
-      "stack": "item:advanced_ae:quantum_accelerator"
-    },
-    {
-      "stack": "item:advanced_ae:shattered_singularity"
-    },
-    {
-      "stack": "item:ae2:fluid_storage_cell_16k"
-    },
-    {
-      "stack": "item:advanced_ae:quantum_unit"
-    },
-    {
-      "stack": "item:mysticalagriculture:netherite_seeds"
-    },
-    {
-      "stack": {
-        "type": "fluid",
-        "id": "industrialforegoing:ether_gas",
-        "amount": 0
-      }
-    },
-    {
-      "stack": "item:justdirethings:gooblock_tier4"
-    },
-    {
-      "stack": "item:powah:reactor_niotic"
-    },
-    {
-      "stack": "item:powah:reactor_blazing"
-    },
-    {
-      "stack": "item:occultism:ritual_dummy/possess_warden"
-    },
-    {
-      "stack": "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:silk_touch\":1}}}"
-    },
-    {
-      "stack": "item:justdirethings:eclipsealloy_helmet"
-    },
-    {
-      "stack": "item:justdirethings:eclipsealloy_chestplate"
-    },
-    {
-      "stack": "item:justdirethings:eclipsealloy_leggings"
-    },
-    {
-      "stack": "item:justdirethings:eclipsealloy_boots"
-    },
-    {
-      "stack": "item:justdirethings:upgrade_flight"
-    },
-    {
-      "stack": "item:industrialforegoing:fluid_extractor"
-    },
-    {
-      "stack": "item:industrialforegoing:dryrubber"
-    },
-    {
-      "stack": "item:industrialforegoing:plastic"
-    },
-    {
-      "stack": "item:industrialforegoing:pink_slime"
-    },
-    {
-      "stack": "item:industrialforegoing:pink_slime_ingot"
-    },
-    {
-      "stack": "item:industrialforegoing:hydroponic_bed"
-    },
-    {
-      "stack": "item:minecraft:spawner"
-    },
-    {
-      "stack": "item:occultism:burnt_otherstone"
-    },
-    {
-      "stack": "item:occultism:otherworld_ashes"
-    },
-    {
-      "stack": "item:occultism:otherstone"
-    },
-    {
-      "stack": "item:occultism:otherworld_log"
-    },
-    {
-      "stack": "item:minecraft:glow_berries"
-    },
-    {
-      "stack": "item:occultism:cursed_honey"
-    },
-    {
-      "stack": "item:productivebees:advanced_mangrove_beehive"
-    },
-    {
-      "stack": "item:productivebees:expansion_box_mangrove"
-    },
-    {
-      "stack": "item:occultism:ritual_dummy/possess_phantom"
-    },
-    {
-      "stack": "item:industrialforegoing:mob_imprisonment_tool"
-    },
-    {
-      "stack": "item:ae2:me_p2p_tunnel"
-    },
-    {
-      "stack": "item:extendedae:wireless_ex_pat"
-    },
-    {
-      "stack": "item:ae2wtlib:wireless_pattern_encoding_terminal"
-    },
-    {
-      "stack": "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sweeping_edge\":3}}}",
-      "recipe": "jei:/enderio/enchanting/sweeping_edge_3"
-    },
-    {
-      "stack": "item:ae2:color_applicator"
-    },
-    {
-      "stack": "item:mysticalagriculture:wood_seeds"
-    },
-    {
-      "stack": "item:extendedae:machine_frame"
-    },
-    {
-      "stack": "item:extendedae:ingredient_buffer"
-    },
-    {
-      "stack": "item:powah:ender_core"
-    },
-    {
-      "stack": "item:enderio:staff_of_travelling"
-    },
-    {
-      "stack": "item:enderio:travel_anchor"
-    },
-    {
-      "stack": "item:enderio:conduit_binder"
-    },
-    {
-      "stack": "item:enderio:ender_crystal"
-    },
-    {
-      "stack": "item:enderio:vibrant_crystal"
-    },
-    {
-      "stack": "item:enderio:filled_soul_vial{\"enderio:stored_entity\":{entityTag:{id:\"minecraft:enderman\"},maxHealth:0.0f}}"
-    },
-    {
-      "stack": "item:enderio:alloy_smelter"
-    },
-    {
-      "stack": "item:enderio:sag_mill"
-    },
-    {
-      "stack": "item:enderio:grains_of_infinity"
-    },
-    {
-      "stack": "item:enderio:primitive_alloy_smelter"
-    },
-    {
-      "stack": "item:enderio:dark_steel_ingot"
-    },
-    {
-      "stack": "item:appflux:induction_card"
-    },
-    {
-      "stack": "item:appflux:energy_processor_press"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "appflux:redstone_crystal",
-        "amount": 64
-      }
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "appflux:printed_energy_processor",
-        "amount": 4
-      }
-    },
-    {
-      "stack": "item:ae2:energy_acceptor"
-    },
-    {
-      "stack": "item:enderio:empty_soul_vial"
-    },
-    {
-      "stack": "item:enderio:soularium_ingot"
-    },
-    {
-      "stack": "#item:c:glass_blocks/fused_quartz"
-    },
-    {
-      "stack": "item:enderio:pulsating_alloy_ingot"
-    },
-    {
-      "stack": "item:enderio:conduit_binder_composite"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "enderio:conduit_binder",
-        "amount": 2
-      },
-      "recipe": "enderio:conduit_binder_from_smelting"
-    },
-    {
-      "stack": "item:enderio:energized_gear"
-    },
-    {
-      "stack": "item:enderio:z_logic_controller"
-    },
-    {
-      "stack": "item:minecraft:skeleton_skull"
-    },
-    {
-      "stack": "item:minecraft:skeleton_skull{\"minecraft:item_name\":\u0027{\"translate\":\"item.occultism.ritual_dummy.possess_skeleton\"}\u0027,\"minecraft:lore\":[\u0027{\"translate\":\"item.occultism.ritual_dummy.possess_skeleton.tooltip\"}\u0027]}",
-      "recipe": "occultism:ritual/possess_skeleton"
-    },
-    {
-      "stack": "item:minecraft:zombie_head"
-    },
-    {
-      "stack": "item:occultism:chalk_purple"
-    },
-    {
-      "stack": "item:occultism:chalk_purple_impure"
-    },
-    {
-      "stack": "item:occultism:crushed_end_stone"
-    },
-    {
-      "stack": "item:occultism:chalk_gold{\"minecraft:damage\":5}"
-    },
-    {
-      "stack": "item:enderio:soul_chain"
-    },
-    {
-      "stack": "item:enderio:soularium_nugget"
-    },
-    {
-      "stack": "item:allthemodium:allthemodium_axe"
-    },
-    {
-      "stack": "item:enderio:ensouled_chassis"
-    },
-    {
-      "stack": "item:minecraft:paper"
-    },
-    {
-      "stack": "item:reliquary:fertile_lily_pad"
-    },
-    {
-      "stack": "item:farmingforblockheads:red_fertilizer"
-    },
-    {
-      "stack": "item:pylons:harvester_pylon"
-    },
-    {
-      "stack": "item:allthemodium:allthemodium_hoe"
-    },
-    {
-      "stack": "item:mekanism:structural_glass"
-    },
-    {
-      "stack": "item:mekanism:thermal_evaporation_controller"
-    },
-    {
-      "stack": "item:mekanism:thermal_evaporation_valve"
-    },
-    {
-      "stack": "item:mekanism:thermal_evaporation_block"
+      "stack": "item:mekanismgenerators:laser_focus_matrix"
     },
     {
       "stack": "item:mekanism:resistive_heater"
-    },
-    {
-      "stack": "item:mekanism:basic_thermodynamic_conductor"
-    },
-    {
-      "stack": "item:mekanism:advanced_thermodynamic_conductor"
-    },
-    {
-      "stack": "item:mekanism:elite_thermodynamic_conductor"
-    },
-    {
-      "stack": "item:mekanism:ultimate_thermodynamic_conductor"
     },
     {
       "stack": "item:integratedtunnels:part_importer_fluid"
@@ -800,148 +216,627 @@
       "stack": "item:integratedtunnels:part_interface_fluid"
     },
     {
-      "stack": "item:minecraft:iron_ingot"
+      "stack": "item:ae2:fluid_cell_housing"
     },
     {
-      "stack": "item:minecraft:raw_iron"
+      "stack": "mekanism_chemical:mekanismgenerators:fusion_fuel"
     },
     {
-      "stack": "item:mekanism:rotary_condensentrator"
+      "stack": "mekanism_chemical:mekanismgenerators:tritium"
     },
     {
-      "stack": "item:mekanism:basic_fluid_tank"
+      "stack": "mekanism_chemical:mekanismgenerators:deuterium"
     },
     {
-      "stack": "item:mekanism:basic_chemical_tank"
+      "stack": "item:ae2:toggle_bus"
     },
     {
-      "stack": "item:mekanism:chemical_crystallizer"
+      "stack": "item:mekanism:dust_bronze"
     },
     {
-      "stack": "item:mekanism:ultimate_control_circuit"
+      "stack": "item:mekanism:ingot_bronze"
     },
     {
-      "stack": "item:mekanism:ingot_refined_obsidian"
+      "stack": "item:mekanism:structural_glass"
     },
     {
-      "stack": "item:mekanism:fluorite_gem"
+      "stack": "item:elevatorid:elevator_white"
     },
     {
-      "stack": "item:appmek:chemical_storage_cell_16k"
+      "stack": "item:mekanism:laser"
     },
     {
-      "stack": "item:appmek:chemical_cell_housing"
+      "stack": "item:mekanism:laser_amplifier"
     },
     {
-      "stack": "item:mekanism:induction_casing"
+      "stack": "item:appmek:chemical_p2p_tunnel"
     },
     {
-      "stack": "item:mekanism:induction_port"
+      "stack": "item:mekanismgenerators:hohlraum"
     },
     {
-      "stack": "item:mekanism:advanced_induction_cell"
+      "stack": "item:mekanism:sps_casing"
     },
     {
-      "stack": "item:mekanism:elite_induction_cell"
+      "stack": "item:mekanism:sps_port"
     },
     {
-      "stack": "item:mekanism:ultimate_induction_cell"
+      "stack": "item:mekanism:supercharged_coil"
     },
     {
-      "stack": "item:mekanism:basic_induction_provider"
+      "stack": "item:mysticalagriculture:mystical_fertilizer"
     },
     {
-      "stack": "item:mekanism:advanced_induction_provider"
+      "stack": "item:mekanism:boiler_casing"
     },
     {
-      "stack": "item:mekanism:elite_induction_provider"
+      "stack": "item:mekanism:pressure_disperser"
     },
     {
-      "stack": "item:mekanism:ultimate_induction_provider"
+      "stack": "item:mekanism:superheating_element"
     },
     {
-      "stack": "item:mekanism:basic_induction_cell"
+      "stack": "item:mekanism:boiler_valve"
     },
     {
       "stack": {
-        "type": "fluid",
-        "id": "allthemodium:soul_lava",
-        "amount": 0
+        "type": "item",
+        "id": "mekanismcovers:cover",
+        "nbt": "{\"mekanismcovers:cover_block\":\"minecraft:deepslate_tiles\"}",
+        "amount": 2
       }
     },
     {
-      "stack": "item:powah:thermo_generator_nitro"
+      "stack": "item:mekanism:qio_drive_array"
     },
     {
-      "stack": "item:powah:crystal_niotic"
+      "stack": "item:mekanism:qio_drive_supermassive"
     },
     {
-      "stack": "item:powah:crystal_spirited"
+      "stack": "item:mekanism:qio_importer"
     },
     {
-      "stack": "item:powah:crystal_nitro"
+      "stack": "item:mekanism:qio_exporter"
     },
     {
-      "stack": "item:powah:energizing_rod_niotic"
+      "stack": "item:mekanism:qio_drive_time_dilating"
     },
     {
-      "stack": "item:powah:energizing_rod_spirited"
+      "stack": "item:mekanism:qio_drive_hyper_dense"
     },
     {
-      "stack": "item:powah:energizing_rod_nitro"
+      "stack": "item:mekanism:qio_drive_base"
     },
     {
-      "stack": "item:powah:energy_cable_niotic"
+      "stack": "item:mekanism:modification_station"
     },
     {
-      "stack": "item:powah:energy_cable_spirited"
+      "stack": "item:mekanism:mekasuit_helmet"
     },
     {
-      "stack": "item:powah:energy_cable_nitro"
+      "stack": "item:mekanism:mekasuit_bodyarmor"
     },
     {
-      "stack": "item:minecraft:clay"
+      "stack": "item:mekanism:mekasuit_pants"
     },
     {
-      "stack": "item:powah:energizing_rod_blazing"
+      "stack": "item:mekanism:mekasuit_boots"
     },
     {
-      "stack": "item:powah:capacitor_hardened"
+      "stack": "item:minecraft:netherite_helmet"
     },
     {
-      "stack": "item:powah:steel_energized"
+      "stack": "item:minecraft:netherite_chestplate"
     },
     {
-      "stack": "item:powah:energizing_rod_basic"
+      "stack": "item:minecraft:netherite_leggings"
     },
     {
-      "stack": "item:powah:energizing_rod_basic",
-      "recipe": "powah:crafting/energizing_rod_basic"
+      "stack": "item:minecraft:netherite_boots"
     },
     {
-      "stack": "item:powah:energizing_rod_starter",
-      "recipe": "powah:crafting/energizing_rod_starter"
+      "stack": "item:mekanism:module_base"
     },
     {
-      "stack": "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:crystalline\"}"
+      "stack": "item:mekanism:module_color_modulation_unit"
     },
     {
-      "stack": "bee:productivebees:/crystalline"
-    },
-    {
-      "stack": "item:mekanismcovers:empty_cover"
+      "stack": "item:mekanism:dye_base"
     }
   ],
   "lookup_history": [
+    "item:minecraft:sniffer_egg",
+    "item:mekanism:advanced_control_circuit",
+    "item:mekanism:alloy_reinforced",
+    "item:mekanism:elite_control_circuit",
+    "item:mekanism:alloy_atomic",
+    "item:mekanism:ultimate_control_circuit",
+    {
+      "type": "item",
+      "id": "mekanism:hdpe_pellet",
+      "amount": 3
+    },
+    "item:mekanism:hdpe_sheet",
+    "item:minecraft:netherite_helmet",
+    "item:mekanism:mekasuit_helmet",
+    "item:minecraft:crafting_table",
+    "item:mekanism:module_color_modulation_unit",
+    "item:mekanism:pigment_mixer",
+    "item:mekanism:hdpe_rod",
+    "item:mekanism:painting_machine",
+    "item:mekanism:dye_base",
+    "item:mekanismgenerators:module_geothermal_generator_unit",
+    "item:mekanismgenerators:heat_generator",
+    "item:mekanism:module_soul_surfer_unit",
+    "item:mekanism:free_runners",
+    "item:mekanism:module_magnetic_attraction_unit",
+    "item:mekanism:module_motorized_servo_unit",
+    "item:mekanism:module_hydrostatic_repulsor_unit",
+    "item:minecraft:lightning_rod",
+    "item:mekanism:module_gyroscopic_stabilization_unit",
+    "item:mekanism:module_locomotive_boosting_unit",
+    "item:mekanism:module_charge_distribution_unit",
+    "item:mekanism:module_geiger_unit",
+    "item:mekanism:geiger_counter",
+    "item:mekanism:alloy_infused",
+    "item:mekanism:module_dosimeter_unit",
+    "item:mekanism:dosimeter",
+    "item:mekanism:module_vision_enhancement_unit",
+    "item:mekanism:module_inhalation_purification_unit",
+    "item:mekanism:scuba_mask",
+    "item:mekanism:hazmat_mask",
+    "item:mekanism:module_electrolytic_breathing_unit",
+    "item:mekanism:electrolytic_core",
+    "item:mekanism:module_radiation_shielding_unit",
+    "item:mekanism:block_lead",
+    "item:mekanism:module_laser_dissipation_unit",
+    "item:mekanism:module_energy_unit",
+    "item:gmut:module_gravitational_modulating_additional_unit",
+    "item:mekanism:module_gravitational_modulating_unit",
+    "item:mekanism:pellet_antimatter",
+    "item:mekanism:module_base",
+    "item:mekanism:nugget_bronze",
+    "item:mekanism:mekasuit_boots",
+    "item:mekanism:mekasuit_pants",
+    "item:mekanism:mekasuit_bodyarmor",
+    "item:minecraft:netherite_boots",
+    "item:minecraft:netherite_leggings",
+    "item:minecraft:netherite_chestplate",
+    "item:minecraft:diamond_helmet",
+    "item:minecraft:netherite_upgrade_smithing_template",
+    "item:mekanism:modification_station",
+    "item:mekanism:qio_dashboard",
+    "item:mekanism:qio_drive_array",
+    "item:mekanism:portable_qio_dashboard",
+    "item:mekanism:qio_exporter",
+    "item:mekanism:qio_importer",
+    "item:mekanism:qio_drive_supermassive",
+    "item:mekanism:qio_drive_time_dilating",
+    "item:mekanism:qio_drive_hyper_dense",
+    "item:mekanism:qio_drive_base",
+    "item:mekanism:personal_chest",
+    "#item:mekanism:personal_storage",
+    "item:mekanism:teleportation_core",
+    "item:mekanism:ultimate_chemical_tank",
+    "item:mekanism:elite_chemical_tank",
+    "item:mekanism:advanced_chemical_tank",
+    "mekanism_chemical:mekanism:sodium",
+    {
+      "type": "fluid",
+      "id": "mekanism:brine",
+      "amount": 0
+    },
+    "item:mekanism:yellow_cake_uranium",
+    "item:mekanism:sps_port",
+    "item:minecraft:spawner",
+    "item:industrialforegoing:mob_crusher",
+    "item:minecraft:iron_sword",
+    "item:mekanism:resistive_heater",
+    "item:mekanism:basic_thermodynamic_conductor",
+    "item:integratedtunnels:part_importer_fluid",
+    "item:integratedtunnels:part_interface_fluid",
+    {
+      "type": "mekanism_chemical",
+      "id": "mekanism:antimatter",
+      "amount": 1000
+    },
+    "item:mekanism:boiler_valve",
+    "item:mekanism:superheating_element",
+    "item:mekanism:boiler_casing",
+    "item:mekanism:electrolytic_separator",
+    "item:mekanism:dust_lead",
+    "item:mekanism:ingot_lead",
+    "item:mekanismgenerators:fission_fuel_assembly",
+    "item:mekanism:pellet_plutonium",
+    "item:ae2:io_port",
+    "item:ae2:spatial_io_port",
+    "item:extendedae:ex_io_port",
+    "item:mekanism:sps_casing",
+    "item:extendedae:void_cell",
+    "item:ae2:condenser",
+    "item:ae2:void_card",
+    "item:mysticalagriculture:mystical_fertilizer",
+    {
+      "type": "item",
+      "id": "minecraft:pitcher_pod",
+      "amount": 29
+    },
+    "item:minecraft:pitcher_plant",
+    "mekanism_chemical:mekanism:oxygen",
+    "item:mekanism:antiprotonic_nucleosynthesizer",
+    {
+      "type": "mekanism_chemical",
+      "id": "mekanism:polonium",
+      "amount": 1000
+    },
+    "mekanism_chemical:mekanism:sulfur_trioxide",
+    {
+      "type": "mekanism_chemical",
+      "id": "mekanism:sulfur_dioxide",
+      "amount": 2
+    },
+    {
+      "type": "mekanism_chemical",
+      "id": "mekanism:sulfuric_acid",
+      "amount": 900
+    },
+    "mekanism_chemical:mekanism:hydrofluoric_acid",
+    "mekanism_chemical:mekanism:uranium_oxide",
+    "mekanism_chemical:mekanism:uranium_hexafluoride",
+    "mekanism_chemical:mekanism:fissile_fuel",
+    "mekanism_chemical:mekanismgenerators:deuterium",
+    "mekanism_chemical:mekanismgenerators:tritium",
+    "mekanism_chemical:mekanism:lithium",
+    {
+      "type": "fluid",
+      "id": "mekanism:lithium",
+      "amount": 0
+    },
+    "item:mekanism:rotary_condensentrator",
+    "item:mekanismgenerators:fission_reactor_casing",
+    "item:mekanismgenerators:reactor_glass",
+    "item:mekanism:steel_casing",
+    "item:trashcans:energy_trash_can",
+    "item:mekanism:supercharged_coil",
+    "item:mekanismgenerators:hohlraum",
+    "item:appmek:chemical_p2p_tunnel",
+    "item:ae2:energy_acceptor",
+    "item:mekanism:basic_universal_cable",
+    "item:mekanism:laser_amplifier",
+    "item:mekanism:laser",
+    "item:fluxnetworks:flux_controller",
+    "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:flux\"}",
+    "mekanism_chemical:mekanismgenerators:fusion_fuel",
+    "item:mekanism:chemical_infuser",
+    "item:elevatorid:elevator_red",
+    "item:elevatorid:elevator_white",
+    "item:mekanism:pressure_disperser",
+    "item:mekanismgenerators:rotational_complex",
+    "item:mekanism:structural_glass",
+    "item:appmek:chemical_storage_cell_256k",
+    "item:mekanism:ultimate_mechanical_pipe",
+    "item:mekanism:elite_mechanical_pipe",
+    "item:mekanism:advanced_mechanical_pipe",
+    "item:mekanism:basic_mechanical_pipe",
+    "item:mekanism:solar_neutron_activator",
+    "item:mekanism:ingot_bronze",
+    "item:mekanism:dust_bronze",
+    "item:merequester:requester",
+    "item:minecraft:redstone",
+    "item:integrateddynamics:variable_transformer_input",
+    "item:mekanismgenerators:fusion_reactor_controller",
+    "item:mekanismgenerators:fusion_reactor_port",
+    "item:mekanismgenerators:laser_focus_matrix",
+    "item:mekanismgenerators:fusion_reactor_frame",
+    "item:ae2:level_emitter",
+    "item:ae2:toggle_bus",
+    "item:mekanism:upgrade_filter",
+    "item:industrialforegoingsouls:soul_network_pipe",
+    "item:mysticalagriculture:soul_jar{\"mysticalagriculture:soul_jar\":{souls:8.0d,type:\"mysticalagriculture:pig\"}}",
+    "item:mekanism:electric_pump",
+    "item:ae2:fluid_storage_cell_256k",
+    "item:ae2:fluid_cell_housing",
+    "item:minecraft:lever",
+    "item:minecraft:yellow_dye",
+    "item:morphtool:tool",
+    "item:enderio:yeta_wrench",
+    "item:enderio:copper_alloy_ingot",
+    "item:enderio:stone_gear",
+    "item:ae2:certus_quartz_wrench",
+    "item:mekanism:configurator",
+    "item:mekanism:dust_fluorite",
+    "item:mekanism:pellet_polonium",
+    "item:ae2:cell_workbench",
+    "item:megacells:radioactive_chemical_cell",
+    "item:mekanism:radioactive_waste_barrel",
+    "item:mekanism:ultimate_pressurized_tube",
+    "item:mekanism:elite_pressurized_tube",
+    "item:mekanism:advanced_pressurized_tube",
+    "item:mekanism:basic_pressurized_tube",
+    "item:ae2:speed_card",
+    "item:morered:red_alloy_wire",
+    "item:mekanismgenerators:fission_reactor_logic_adapter",
+    "item:mekanism:laser_tractor_beam",
+    "item:powah:uraninite",
+    "item:mekanism:enrichment_chamber",
+    {
+      "type": "fluid",
+      "id": "mekanism:ethene",
+      "amount": 50
+    },
+    "item:mekanism:substrate",
+    "item:mekanism:pressurized_reaction_chamber",
+    "item:mekanism:isotopic_centrifuge",
+    "item:mekanism:upgrade_chemical",
+    "item:mekanism:block_fluorite",
+    "item:mekanism:fluorite_gem",
+    "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:fluorite\"}",
+    "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:fluorite\"}",
+    "item:mekanism:chemical_dissolution_chamber",
+    "item:mekanism:dust_obsidian",
+    "item:mekanism:dust_refined_obsidian",
+    "item:mekanism:ingot_refined_obsidian",
+    "mekanism_chemical:mekanism:water_vapor",
+    "item:mekanism:configuration_card",
+    "item:mekanism:dust_sulfur",
+    "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:sulfur\"}",
+    "item:mekanism:chemical_oxidizer",
+    "item:mekanism:elite_tier_installer",
+    "item:mekanism:advanced_tier_installer",
+    "item:mekanism:basic_tier_installer",
+    "item:minecraft:leather",
+    "bee:productivebees:/diamond",
+    "bee:productivebees:/fluorite",
+    "item:minecraft:coal_ore",
+    "bee:productivebees:/coal",
+    "bee:productivebees:/leafcutter_bee",
+    "item:productivebees:jungle_wood_nest{\"minecraft:bees\":[]}",
+    "item:productivebees:coarse_dirt_nest",
+    "item:mekanism:dynamic_tank",
+    "item:ae2:tiny_tnt",
+    "item:ae2:quantum_entangled_singularity",
+    "item:ae2:quantum_link",
+    "item:mekanismgenerators:turbine_valve",
+    "item:mekanismgenerators:electromagnetic_coil",
+    "item:mekanismgenerators:turbine_rotor",
+    "item:mekanismgenerators:turbine_blade",
+    "item:mekanismgenerators:turbine_vent",
+    "item:mekanismgenerators:turbine_casing",
+    "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:osmium\"}",
+    "item:minecraft:conduit",
+    "item:mekanismgenerators:control_rod_assembly",
+    "item:mekanismgenerators:fission_reactor_port",
+    "item:ae2:guide",
+    {
+      "type": "item",
+      "id": "powah:uraninite_raw",
+      "amount": 16
+    },
+    "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:uraninite\"}",
+    "item:mekanism:dust_uranium",
+    "item:mekanism:ingot_uranium",
+    "bee:productivebees:/wasted_radioactive",
+    "item:allthemodium:teleport_pad",
+    "item:allthemodium:allthemodium_nugget",
+    "item:utilitarian:angel_block",
+    "bee:productivebees:/neon_cuckoo_bee",
+    "bee:productivebees:/crystalline",
+    "item:industrialforegoingsouls:soul_surge",
+    "item:occultism:ritual_dummy/resurrect_familiar",
+    "item:extendedae:wireless_tool",
+    "item:extendedae:wireless_connect",
+    {
+      "type": "item",
+      "id": "ae2:wireless_booster",
+      "amount": 3
+    },
+    "item:mekanism:raw_osmium",
+    "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:osmium\"}",
+    "bee:productivebees:/osmium",
+    "item:productivebees:bee_cage{\"minecraft:custom_data\":{Age:-8654,AngerTime:0,ArmorItems:[{},{},{},{}],ForcedAge:0,HandItems:[{},{}],HasConverted:0b,HasNectar:0b,HasStung:0b,Health:10.0f,HivePos:[I;205,253,-367],Invulnerable:0b,MaxHealth:10.0f,NeoForgeData:{},PersistenceRequired:0b,attributes:[{base:0.0d,id:\"minecraft:generic.oxygen_bonus\"},{base:0.30000001192092896d,id:\"minecraft:generic.movement_speed\"}],bee_type:\"solitary\",entity:\"productivebees:neon_cuckoo_bee\",flower_pos:[I;205,252,-366],isProductiveBee:1b,mod:\"FMLModContainer\",name:\"Neon Cuckoo Bee\",\"neoforge:attachments\":{\"apotheosis:tier_augments_applied\":1b,\"productivebees:attributes_handler\":{bee_behavior:\"behavior.diurnal\",bee_endurance:\"endurance.normal\",bee_productivity:\"productivity.medium\",bee_temper:\"temper.normal\",bee_weather_tolerance:\"weather_tolerance.none\"},\"twilightforest:fortification_shields\":{permanent_shields:0,temporary_shields:0}}}}",
+    "bee:productivebees:/redstone",
+    "bee:productivebees:/mason_bee",
+    "item:productivebees:acacia_wood_nest",
+    "item:minecraft:wooden_sword",
+    "item:minecraft:acacia_log",
+    "item:productivebees:spawn_egg_neon_cuckoo_bee",
+    "item:minecraft:nether_brick_fence",
+    "item:minecraft:nether_bricks",
+    "item:extendedae:assembler_matrix_crafter",
+    "item:extendedae:assembler_matrix_speed",
+    {
+      "type": "item",
+      "id": "ae2:red_lumen_paint_ball",
+      "amount": 6
+    },
+    "item:ae2:red_paint_ball",
+    "item:extendedae:assembler_matrix_pattern",
+    {
+      "type": "item",
+      "id": "ae2:purple_lumen_paint_ball",
+      "amount": 6
+    },
+    "item:ae2:purple_paint_ball",
+    "item:extendedae:assembler_matrix_frame",
+    "item:extendedae:assembler_matrix_wall",
+    {
+      "type": "item",
+      "id": "ae2:blue_lumen_paint_ball",
+      "amount": 6
+    },
+    "item:ae2:blue_paint_ball",
+    "item:ae2:matter_ball",
+    "item:industrialforegoing:meat_feeder",
+    "item:advanced_ae:quantum_structure",
+    "item:advanced_ae:quantum_accelerator",
+    "item:advanced_ae:quantum_multi_threader",
+    {
+      "type": "item",
+      "id": "productivebees:configurable_comb",
+      "nbt": "{\"productivebees:bee_type\":\"productivebees:entro\"}",
+      "amount": 13
+    },
+    {
+      "type": "item",
+      "id": "productivebees:configurable_honeycomb",
+      "nbt": "{\"productivebees:bee_type\":\"productivebees:entro\"}",
+      "amount": 4
+    },
+    "item:minecraft:ender_pearl",
+    "item:minecraft:sugar",
+    "item:minecraft:iron_nugget",
+    "bee:productivebees:/entro",
+    "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:entro\"}}",
+    {
+      "type": "item",
+      "id": "extendedae:entro_dust",
+      "amount": 32
+    },
+    "item:extendedae:entro_crystal",
+    "item:extendedae:entro_seed",
+    "bee:productivebees:/fluix",
+    "bee:productivebees:/ender",
+    "bee:productivebees:/spacial",
+    "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:fluix\"}}",
+    "item:minecraft:sand",
+    "item:industrialforegoing:material_stonework_factory",
+    "item:industrialforegoing:pink_slime",
+    "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:silicon\"}",
+    "bee:productivebees:/silicon",
+    "item:mekanism:ultimate_tier_installer",
+    "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:glowing\"}",
+    "item:minecraft:glowstone_dust",
+    "item:ae2:sky_stone_block",
+    "bee:productivebees:/glowing",
+    "item:extendedae:ex_export_bus_part",
+    "item:trashcans:liquid_trash_can",
+    "item:megacells:1m_crafting_storage",
+    "item:ae2:256k_crafting_storage",
+    "item:ae2:singularity",
+    "item:appflux:flux_accessor",
+    "item:morered:red_network_cable",
+    "item:enderio:redstone_alloy_ingot",
+    "#item:c:ingots/redstone_alloy",
+    "item:morered:red_alloy_ingot",
+    "item:industrialforegoingsouls:soul_laser_base",
+    "item:industrialforegoing:blue_laser_lens",
+    {
+      "type": "fluid",
+      "id": "industrialforegoing:ether_gas",
+      "amount": 0
+    },
+    "item:industrialforegoing:white_laser_lens",
+    "item:industrialforegoing:ether_gas_bucket",
+    "bee:productivebees:/pink_slimy",
+    "bee:productivebees:/ether_gas",
+    "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:ether_gas\"}",
+    "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:ether_gas\"}",
+    "item:enderstorage:ender_tank",
+    "item:minecraft:cauldron",
+    "item:industrialforegoing:fluid_laser_base",
+    "item:industrialforegoing:laser_drill",
+    "item:minecraft:diamond_pickaxe",
+    "item:industrialforegoing:machine_frame_supreme",
+    "item:industrialforegoing:stasis_chamber",
+    "item:industrialforegoing:machine_frame_advanced",
+    "item:industrialforegoing:machine_frame_simple",
+    "item:industrialforegoing:machine_frame_pity",
+    "item:minecraft:netherite_scrap",
+    "item:mekanism:dirty_netherite_scrap",
+    "item:minecraft:ancient_debris",
+    {
+      "type": "item",
+      "id": "mekanism:dust_netherite",
+      "amount": 2
+    },
+    "item:mekanism:combiner",
+    "item:industrialforegoing:gold_gear",
+    "#item:c:gears/gold",
+    "item:mifa:speed_addon_4{\"titanium:augments\":{Speed:5.0f}}",
+    "item:mifa:speed_addon_3{\"titanium:augments\":{Speed:4.0f}}",
+    "item:mifa:processing_addon_4{\"titanium:augments\":{Processing:5.0f}}",
+    "item:mifa:processing_addon_3{\"titanium:augments\":{Processing:4.0f}}",
+    "item:mifa:efficiency_addon_4{\"titanium:augments\":{Efficiency:0.6f}}",
+    "item:mifa:efficiency_addon_3{\"titanium:augments\":{Efficiency:0.7f}}",
+    "item:minecraft:netherite_ingot",
+    "item:alltheores:netherite_gear",
+    "item:mifa:netherite_gear",
+    "#item:c:gears/netherite",
+    "item:minecraft:item_frame",
+    "item:xnet:redstone_proxy_upd",
+    "item:xnet:redstone_proxy",
+    "item:industrialforegoing:range_addon_tier_2{\"titanium:augments\":{Range:2.0f}}",
+    "item:trashcans:item_trash_can",
+    "item:industrialforegoing:mob_slaughter_factory",
+    "item:minecraft:iron_axe",
+    "item:extendedae:infinity_water_cell",
+    "item:advanced_ae:data_entangler",
+    "item:advanced_ae:quantum_core",
+    {
+      "type": "item",
+      "id": "advanced_ae:quantum_storage_256",
+      "amount": 3
+    },
+    "item:advanced_ae:quantum_storage_128",
+    "item:advanced_ae:shattered_singularity",
+    "item:advanced_ae:quantum_storage_component",
+    "item:ae2:spatial_cell_component_2",
+    "item:advanced_ae:quantum_processor",
+    {
+      "type": "item",
+      "id": "advanced_ae:printed_quantum_processor",
+      "amount": 4
+    },
+    "item:advanced_ae:quantum_alloy_block",
+    "item:advanced_ae:quantum_alloy",
+    {
+      "type": "fluid",
+      "id": "advanced_ae:quantum_infusion_source",
+      "amount": 1000
+    },
+    "item:advanced_ae:quantum_infused_dust",
+    "item:ae2:quartz_vibrant_glass",
+    "item:powah:dry_ice",
+    "item:minecraft:blue_ice",
+    "item:minecraft:packed_ice",
+    "item:fluxnetworks:flux_plug",
+    "item:fluxnetworks:flux_block",
+    "item:powah:reactor_blazing",
+    "item:powah:reactor_niotic",
+    "item:powah:reactor_nitro",
+    "item:powah:reactor_spirited",
+    "item:powah:reactor_hardened",
+    "item:powah:reactor_basic",
+    "item:powah:reactor_starter",
+    "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:frosty\"}",
+    "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:crystalline\"}",
+    "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:uraninite\"}",
+    "item:powah:uraninite_block",
+    {
+      "type": "item",
+      "id": "powah:uraninite_ore_poor",
+      "amount": 3
+    },
+    "item:minecraft:tnt",
+    "bee:productivebees:/creeper_bee",
+    "item:minecraft:jungle_fence",
+    "bee:productivebees:/sweat_bee",
+    "item:minecraft:ice",
+    "#item:productivebees:flowers/frozen",
+    "item:appflux:redstone_crystal",
+    "item:appflux:core_1k",
+    "item:appflux:core_1m",
+    "item:appflux:fe_1k_cell",
+    "item:appflux:fe_cell_housing",
+    "item:appflux:energy_processor",
+    "item:extendedae:concurrent_processor",
+    "item:extendedae:concurrent_processor_print",
     "item:powah:thermo_generator_nitro",
     "item:powah:thermo_generator_spirited",
     "item:powah:thermoelectric_plate",
     "item:mekanismcovers:empty_cover",
     "item:mekanism:nugget_osmium",
     "item:enderio:conduit{\"enderio:conduit\":\"enderio:me\"}",
-    "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:crystalline\"}",
-    "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:crystalline\"}",
-    "bee:productivebees:/crystalline",
     "item:minecraft:quartz",
     "item:powah:energizing_rod_blazing",
     "item:powah:energizing_rod_hardened",
@@ -968,19 +863,12 @@
     "item:powah:blazing_crystal_block",
     "item:powah:crystal_spirited",
     "item:powah:crystal_niotic",
-    "item:fluxnetworks:flux_plug",
-    "item:fluxnetworks:flux_block",
     "item:mekanism:enriched_refined_obsidian",
     "item:mekanism:ultimate_induction_provider",
     "item:mekanism:elite_induction_provider",
     "item:mekanism:advanced_induction_provider",
     "item:mekanism:basic_induction_provider",
     "item:powah:thermo_generator_blazing",
-    {
-      "type": "fluid",
-      "id": "allthemodium:soul_lava",
-      "amount": 0
-    },
     "item:mekanism:ultimate_induction_cell",
     "item:mekanism:ultimate_energy_cube",
     "item:mekanism:elite_induction_cell",
@@ -996,52 +884,32 @@
     "item:appmek:chemical_storage_cell_4k",
     "item:appmek:chemical_cell_housing",
     "item:mekanism:dust_lithium",
-    "mekanism_chemical:mekanism:lithium",
     "item:mekanism:chemical_crystallizer",
     "item:mekanism:basic_chemical_tank",
     "item:mekanism:enriched_diamond",
-    "item:mekanism:ultimate_control_circuit",
-    "item:mekanism:elite_control_circuit",
-    "item:mekanism:ingot_refined_obsidian",
     "item:mekanism:upgrade_energy",
     "item:advanced_ae:adv_pattern_provider_capacity_upgrade",
     "item:megacells:sky_osmium_ingot",
-    "item:mekanism:rotary_condensentrator",
     "item:mekanism:energy_tablet",
     "item:mekanism:basic_fluid_tank",
     "item:mekanism:ingot_osmium",
     "item:minecraft:raw_iron",
     "item:minecraft:iron_ingot",
     "item:minecraft:orange_dye",
-    "item:enderstorage:ender_tank",
-    "item:minecraft:cauldron",
-    "item:integratedtunnels:part_importer_fluid",
-    "item:integrateddynamics:variable_transformer_input",
     "item:integrateddynamics:crystalized_menril_chunk",
-    "item:integratedtunnels:part_interface_fluid",
-    "item:mekanism:resistive_heater",
     "item:mekanism:ingot_tin",
-    "item:mekanism:steel_casing",
     "item:mekanism:ultimate_thermodynamic_conductor",
     "item:mekanism:elite_thermodynamic_conductor",
     "item:mekanism:advanced_thermodynamic_conductor",
-    "item:mekanism:basic_thermodynamic_conductor",
     "item:mekanism:thermal_evaporation_controller",
     "item:minecraft:coal",
-    "item:mekanism:structural_glass",
     "item:mekanism:enriched_carbon",
     "item:mekanism:thermal_evaporation_valve",
-    "item:mekanism:advanced_control_circuit",
     "item:mekanism:basic_control_circuit",
     "item:mekanism:thermal_evaporation_block",
     "item:minecraft:lapis_lazuli",
     "item:ae2:item_storage_cell_64k{\"ae2:storage_cell_inv\":[{\"#\":56L,\"#t\":\"ae2:i\",id:\"ae2:fluix_glass_cable\"},{\"#\":24L,\"#t\":\"ae2:i\",id:\"forbidden_arcanus:ender_pearl_fragment\"},{\"#\":2270L,\"#t\":\"ae2:i\",components:{\"productivebees:bee_type\":\"productivebees:iron\"},id:\"productivebees:configurable_comb\"},{\"#\":25L,\"#t\":\"ae2:i\",id:\"minecraft:nether_wart\"},{\"#\":5L,\"#t\":\"ae2:i\",id:\"silentgear:bort\"},{\"#\":3L,\"#t\":\"ae2:i\",id:\"ae2:logic_processor\"},{\"#\":52L,\"#t\":\"ae2:i\",id:\"minecraft:spider_eye\"},{\"#\":14L,\"#t\":\"ae2:i\",id:\"minecraft:deepslate_copper_ore\"},{\"#\":27L,\"#t\":\"ae2:i\",id:\"actuallyadditions:black_quartz\"},{\"#\":763L,\"#t\":\"ae2:i\",components:{\"productivebees:bee_type\":\"productivebees:iesnium\"},id:\"productivebees:configurable_comb\"},{\"#\":1360L,\"#t\":\"ae2:i\",components:{\"productivebees:bee_type\":\"productivebees:lapis\"},id:\"productivebees:configurable_comb\"},{\"#\":4L,\"#t\":\"ae2:i\",id:\"mysticalagriculture:prosperity_gemstone\"},{\"#\":31L,\"#t\":\"ae2:i\",id:\"evilcraft:dark_gem\"},{\"#\":60L,\"#t\":\"ae2:i\",id:\"mekanism:alloy_infused\"},{\"#\":36L,\"#t\":\"ae2:i\",id:\"minecraft:coal\"},{\"#\":3L,\"#t\":\"ae2:i\",id:\"mekanism:alloy_atomic\"},{\"#\":188L,\"#t\":\"ae2:i\",id:\"alltheores:raw_lead\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"mekanism:alloy_reinforced\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"minecraft:pitcher_pod\"},{\"#\":7L,\"#t\":\"ae2:i\",id:\"allthemodium:vibranium_upgrade_smithing_template\"},{\"#\":106669L,\"#t\":\"ae2:i\",id:\"minecraft:redstone\"},{\"#\":30L,\"#t\":\"ae2:i\",id:\"reliquary:molten_core\"},{\"#\":89L,\"#t\":\"ae2:i\",id:\"justdirethings:ferricore_ingot\"},{\"#\":20L,\"#t\":\"ae2:i\",id:\"minecraft:gray_wool\"},{\"#\":96L,\"#t\":\"ae2:i\",id:\"minecraft:deepslate_diamond_ore\"},{\"#\":49L,\"#t\":\"ae2:i\",id:\"minecraft:amethyst_block\"},{\"#\":173L,\"#t\":\"ae2:i\",id:\"mekanism:dust_osmium\"},{\"#\":51L,\"#t\":\"ae2:i\",id:\"mekanism:bio_fuel\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"ae2:calculation_processor\"},{\"#\":15L,\"#t\":\"ae2:i\",id:\"allthemodium:raw_unobtainium\"},{\"#\":58L,\"#t\":\"ae2:i\",id:\"forbidden_arcanus:arcane_crystal\"},{\"#\":235L,\"#t\":\"ae2:i\",id:\"alltheores:raw_osmium\"},{\"#\":46L,\"#t\":\"ae2:i\",id:\"minecraft:red_sand\"},{\"#\":65L,\"#t\":\"ae2:i\",id:\"minecraft:deepslate_gold_ore\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"minecraft:carrot\"},{\"#\":22L,\"#t\":\"ae2:i\",id:\"mysticalagriculture:soulium_dust\"},{\"#\":9L,\"#t\":\"ae2:i\",id:\"allthemodium:raw_vibranium\"},{\"#\":75L,\"#t\":\"ae2:i\",id:\"mysticalagriculture:prosperity_shard\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"mekanism:enriched_refined_obsidian\"},{\"#\":28L,\"#t\":\"ae2:i\",id:\"ae2:charged_certus_quartz_crystal\"},{\"#\":65L,\"#t\":\"ae2:i\",id:\"alltheores:fluorite\"},{\"#\":7L,\"#t\":\"ae2:i\",components:{\"xnet:mimic_data\":{state:{Name:\"minecraft:deepslate_tiles\"}}},id:\"xnet:facade\"},{\"#\":22L,\"#t\":\"ae2:i\",id:\"minecraft:magma_cream\"},{\"#\":5L,\"#t\":\"ae2:i\",id:\"ae2:printed_silicon\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"mekanism:dust_refined_obsidian\"},{\"#\":48L,\"#t\":\"ae2:i\",id:\"minecraft:gunpowder\"},{\"#\":21L,\"#t\":\"ae2:i\",id:\"powah:dielectric_paste\"},{\"#\":20L,\"#t\":\"ae2:i\",id:\"silentgear:azure_silver_ingot\"},{\"#\":71L,\"#t\":\"ae2:i\",id:\"mekanism:ingot_osmium\"},{\"#\":6L,\"#t\":\"ae2:i\",id:\"silentgear:nether_banana\"},{\"#\":31L,\"#t\":\"ae2:i\",id:\"alltheores:raw_tin\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"ae2:annihilation_core\"},{\"#\":2299L,\"#t\":\"ae2:i\",id:\"minecraft:amethyst_shard\"},{\"#\":35L,\"#t\":\"ae2:i\",id:\"minecraft:dead_bush\"},{\"#\":18L,\"#t\":\"ae2:i\",id:\"ae2:sky_dust\"},{\"#\":40L,\"#t\":\"ae2:i\",id:\"minecraft:raw_copper\"},{\"#\":8L,\"#t\":\"ae2:i\",id:\"minecraft:prismarine\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"ae2:advanced_card\"},{\"#\":151L,\"#t\":\"ae2:i\",id:\"ae2:singularity\"},{\"#\":26L,\"#t\":\"ae2:i\",id:\"minecraft:dragon_egg\"},{\"#\":319L,\"#t\":\"ae2:i\",id:\"minecraft:copper_ore\"},{\"#\":7L,\"#t\":\"ae2:i\",id:\"justdirethings:raw_ferricore\"},{\"#\":112L,\"#t\":\"ae2:i\",id:\"minecraft:obsidian\"}]}",
     "item:extendedae:ex_import_bus_part",
-    "item:mekanism:dust_refined_obsidian",
-    "item:mekanism:alloy_atomic",
-    "item:mekanism:alloy_reinforced",
-    "item:minecraft:redstone",
-    "item:minecraft:ender_pearl",
     {
       "type": "item",
       "id": "productivebees:configurable_comb",
@@ -1075,9 +943,7 @@
     "item:rftoolsbuilder:shape_card_quarry_silk",
     "item:rftoolsbuilder:shape_card_quarry",
     "item:minecraft:diamond_shovel",
-    "item:minecraft:diamond_pickaxe",
     "item:rftoolsbuilder:shape_card_def",
-    "item:minecraft:lever",
     "item:rftoolsbuilder:builder",
     "item:minecraft:bricks",
     "item:minecraft:deepslate",
@@ -1091,7 +957,6 @@
     "item:mysticalagriculture:deepslate_essence",
     "item:mysticalagriculture:coal_essence",
     "item:occultism:iesnium_ingot",
-    "item:trashcans:item_trash_can",
     "item:integrateddynamics:cable",
     "item:integratedtunnels:part_importer_item",
     "item:integratedtunnels:part_interface_item",
@@ -1110,8 +975,6 @@
     "item:ars_nouveau:source_gem_block",
     "item:ars_nouveau:imbuement_chamber",
     "item:ars_nouveau:source_jar",
-    "item:industrialforegoing:machine_frame_advanced",
-    "item:industrialforegoing:mob_crusher",
     "item:ars_nouveau:volcanic_sourcelink",
     "item:ars_nouveau:source_gem",
     "item:ars_nouveau:archwood_planks",
@@ -1147,13 +1010,9 @@
     "item:extendedae:ex_drive",
     "item:ae2:drive",
     "item:minecraft:soul_lantern",
-    "item:minecraft:iron_nugget",
-    "bee:productivebees:/sweat_bee",
     "item:productivebees:snow_nest",
     "bee:productivebees:/obsidian",
-    "item:minecraft:wooden_sword",
     "bee:productivebees:/magmatic",
-    "item:productivebees:bee_cage{\"minecraft:custom_data\":{Age:0,AngerTime:0,ArmorItems:[{},{},{},{}],ForcedAge:0,HandItems:[{},{}],HasConverted:0b,HasNectar:0b,HasStung:0b,Health:10.0f,HivePos:[I;-582,53,-112],Invulnerable:0b,MaxHealth:10.0f,NeoForgeData:{},PersistenceRequired:0b,attributes:[{base:0.30000001192092896d,id:\"minecraft:generic.movement_speed\"},{base:0.0d,id:\"minecraft:generic.oxygen_bonus\"}],bee_type:\"hive\",breathCollectionCooldown:600,entity:\"productivebees:configurable_bee\",isProductiveBee:1b,mod:\"FMLModContainer\",name:\"Magmatic Bee\",\"neoforge:attachments\":{\"apotheosis:tier_augments_applied\":1b,\"productivebees:attributes_handler\":{bee_behavior:\"behavior.diurnal\",bee_endurance:\"endurance.weak\",bee_productivity:\"productivity.medium\",bee_temper:\"temper.normal\",bee_weather_tolerance:\"weather_tolerance.none\"},\"twilightforest:fortification_shields\":{permanent_shields:0,temporary_shields:0}},type:\"productivebees:magmatic\"}}",
     "item:minecraft:magma_cream",
     {
       "type": "item",
@@ -1161,7 +1020,6 @@
       "amount": 8
     },
     "item:productivebees:nether_brick_nest",
-    "item:minecraft:iron_sword",
     "item:evilcraft:vengeance_pickaxe{\"minecraft:enchantments\":{levels:{\"evilcraft:vengeance\":3,\"minecraft:fortune\":5}}}",
     "item:tombstone:book_of_disenchantment",
     "item:twilightforest:uncrafting_table",
@@ -1200,23 +1058,15 @@
     },
     "item:megacells:sky_steel_block",
     "item:megacells:sky_steel_ingot",
-    {
-      "type": "item",
-      "id": "ae2:sky_stone_block",
-      "amount": 16
-    },
     "item:ae2:logic_processor",
     "bee:productivebees:/emerald",
     "item:minecraft:smooth_stone_slab",
     "item:productivebees:feeder",
-    "bee:productivebees:/diamond",
     "bee:productivebees:/lapis",
     "bee:productivebees:/chocolate_mining_bee",
-    "bee:productivebees:/blue_banded_bee",
     "bee:productivebees:/slimy",
     "item:productivebees:end_stone_nest",
     "item:productivebees:cherry_wood_nest",
-    "bee:productivebees:/glowing",
     "item:minecraft:jukebox",
     "item:hostilenetworks:prediction{\"hostilenetworks:data_model\":\"hostilenetworks:warden\"}",
     "item:mob_grinding_utils:gm_chicken_feed",
@@ -1230,7 +1080,6 @@
     "item:occultism:ritual_dummy/possess_warden",
     "item:productivelib:upgrade_productivity_4",
     "item:productivelib:upgrade_block",
-    "item:minecraft:item_frame",
     "item:productivebees:wax_block",
     "item:productivelib:upgrade_productivity_3",
     "item:productivelib:upgrade_anti_teleport",
@@ -1238,12 +1087,10 @@
     "item:productivelib:upgrade_productivity_2",
     "item:productivelib:upgrade_productivity",
     "item:productivebees:draconic_chunk",
-    "item:extendedae:entro_crystal",
     "item:productivebees:draconic_dust",
     "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:draconic\"}",
     "item:minecraft:emerald",
     "bee:productivebees:/sculk",
-    "bee:productivebees:/draconic",
     "item:productivebees:obsidian_nest",
     "item:minecraft:diamond_sword",
     "item:hostilenetworks:prediction{\"hostilenetworks:data_model\":\"hostilenetworks:ender_dragon\"}",
@@ -1271,16 +1118,12 @@
     "item:mysticalagriculture:prudentium_gemstone",
     "bee:productivebees:/water",
     "item:productivebees:bee_nest_diamond_helmet",
-    "item:minecraft:diamond_helmet",
     "item:productivebees:wax",
     "item:integratedterminals:part_terminal_storage",
     "#item:c:glass_blocks/colorless",
     "item:integrateddynamics:part_display_panel",
     "item:integrateddynamics:part_static_light_panel",
     "item:integrateddynamics:variable_transformer_output",
-    "item:minecraft:pitcher_plant",
-    "item:minecraft:pitcher_pod",
-    "item:minecraft:sniffer_egg",
     {
       "type": "item",
       "id": "minecraft:honey_bottle",
@@ -1303,7 +1146,6 @@
     "item:minecraft:honeycomb_block",
     "#item:c:storage_blocks/honeycombs",
     "bee:productivebees:/iron",
-    "bee:productivebees:/mason_bee",
     "item:productivebees:stone_nest",
     "bee:productivebees:/ashy_mining_bee",
     "item:productivebees:nether_quartz_nest{\"minecraft:bees\":[]}",
@@ -1334,8 +1176,6 @@
     "item:utilitarian:redstone_clock",
     "item:minecraft:chiseled_stone_bricks",
     "item:minecraft:comparator",
-    "item:xnet:redstone_proxy_upd",
-    "item:xnet:redstone_proxy",
     "item:minecraft:red_dye",
     "item:actuallyadditions:empowered_restonia_crystal",
     "item:minecraft:brick",
@@ -1347,7 +1187,6 @@
     "item:minecraft:dropper",
     "item:elevatorid:elevator_light_blue",
     "item:minecraft:light_blue_dye",
-    "item:elevatorid:elevator_white",
     "item:fluxnetworks:flux_point",
     "item:fluxnetworks:flux_core",
     "item:xnet:controller",
@@ -1366,14 +1205,9 @@
     "#item:storagedrawers:drawers",
     "item:storagedrawers:controller",
     "item:storagedrawers:oak_full_drawers_1",
-    "item:advanced_ae:quantum_structure",
-    "item:enderio:yeta_wrench",
-    "item:enderio:copper_alloy_ingot",
-    "item:enderio:stone_gear",
     "item:apothic_enchanting:prismatic_web",
     "item:productivebees:sugar_cane_nest",
     "item:productivebees:sand_nest",
-    "item:productivebees:coarse_dirt_nest",
     "item:productivebees:gravel_nest",
     {
       "type": "item",
@@ -1409,9 +1243,7 @@
     "item:occultism:chalk_black_impure",
     "item:occultism:chalk_gray_impure",
     "item:occultism:crushed_blackstone",
-    "item:mekanism:dust_netherite",
     "item:occultism:netherite_scrap_dust",
-    "item:minecraft:conduit",
     "item:minecraft:oxidized_copper",
     "item:minecraft:yellow_wool",
     "item:minecraft:sea_lantern",
@@ -1426,8 +1258,6 @@
     "item:forbidden_arcanus:eternal_stella",
     "item:occultism:chalk_red_impure",
     "item:occultism:afrit_essence",
-    "mekanism_chemical:mekanism:sodium",
-    "item:mekanism:qio_drive_supermassive",
     "item:occultism:miner_ancient_eldritch",
     "item:occultism:taboo_book",
     "item:occultism:gray_paste",
@@ -1454,7 +1284,6 @@
     "item:mekanism:raw_uranium",
     "item:mekanism:raw_lead",
     "item:mekanism:raw_tin",
-    "item:mekanism:raw_osmium",
     "item:occultism:raw_silver",
     "item:alltheores:raw_iridium",
     "item:alltheores:raw_zinc",
@@ -1483,13 +1312,6 @@
     "#item:c:gears/diamond",
     "item:industrialforegoing:speed_addon_tier_1{\"titanium:augments\":{Speed:2.0f}}",
     "item:industrialforegoing:dissolution_chamber",
-    "item:industrialforegoing:machine_frame_pity",
-    "item:mifa:speed_addon_4{\"titanium:augments\":{Speed:5.0f}}",
-    "item:mifa:speed_addon_3{\"titanium:augments\":{Speed:4.0f}}",
-    "item:mifa:processing_addon_4{\"titanium:augments\":{Processing:5.0f}}",
-    "item:mifa:processing_addon_3{\"titanium:augments\":{Processing:4.0f}}",
-    "item:mifa:efficiency_addon_4{\"titanium:augments\":{Efficiency:0.6f}}",
-    "item:mifa:efficiency_addon_3{\"titanium:augments\":{Efficiency:0.7f}}",
     "item:industrialforegoing:plastic",
     "item:mekanism:gauge_dropper",
     "item:minecraft:moss_block",
@@ -1504,7 +1326,6 @@
     "item:occultism:chalk_purple_impure",
     "item:occultism:chalk_purple{\"minecraft:damage\":12}",
     "item:minecraft:smithing_table",
-    "item:minecraft:netherite_upgrade_smithing_template",
     "item:minecraft:diamond",
     "item:forbidden_arcanus:xpetrified_orb",
     "item:mob_grinding_utils:xpsolidifier",
@@ -1538,7 +1359,6 @@
       "id": "justdirethings:xp_fluid_source",
       "amount": 0
     },
-    "item:minecraft:ice",
     "item:forbidden_arcanus:hephaestus_forge_tier_3",
     "item:forbidden_arcanus:chiseled_polished_darkstone",
     "item:forbidden_arcanus:diamond_blacksmith_gavel",
@@ -1597,7 +1417,6 @@
     "item:minecraft:quartz_slab",
     "item:minecraft:polished_blackstone",
     "item:hostilenetworks:prediction{\"hostilenetworks:data_model\":\"hostilenetworks:ghast\"}",
-    "item:ae2:level_emitter",
     "item:mysticalagriculture:tertium_growth_accelerator",
     "item:mysticalagriculture:prudentium_growth_accelerator",
     "item:mysticalagriculture:inferium_growth_accelerator",
@@ -1627,7 +1446,6 @@
     "item:minecraft:bucket",
     "item:hostilenetworks:loot_fabricator",
     "item:hostilenetworks:blank_data_model",
-    "bee:productivebees:/pink_slimy",
     "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:slimy\"}",
     "item:twilightforest:slime_beetle_spawn_egg",
     "item:hostilenetworks:deep_learner",
@@ -1637,10 +1455,8 @@
     "item:allthemodium:allthemodium_upgrade_smithing_template",
     "item:allthemodium:allthemodium_pickaxe",
     "item:fluxnetworks:flux_dust",
-    "item:fluxnetworks:flux_controller",
     "item:akashictome:tome",
     "item:minecraft:bookshelf",
-    "item:morphtool:tool",
     "#item:c:dyes/green",
     "item:minecraft:purpur_stairs",
     "item:minecraft:gold_ingot",
@@ -1717,481 +1533,327 @@
       "id": "appflux:printed_energy_processor",
       "amount": 4
     },
-    "item:appflux:energy_processor",
-    "item:appflux:flux_accessor",
     "item:ae2:basic_card",
     "item:appflux:induction_card",
-    "item:ae2:energy_acceptor",
-    {
-      "type": "item",
-      "id": "appflux:redstone_crystal",
-      "amount": 64
-    },
     "item:appflux:energy_processor_press",
     "item:enderio:alloy_smelter",
     "item:enderio:primitive_alloy_smelter",
     "item:enderio:void_chassis",
     "item:alltheores:iron_gear",
-    "item:enderio:grains_of_infinity",
-    "item:mysticalagriculture:inferium_essence",
-    "item:ae2:cable_anchor",
-    "item:justdirethings:upgrade_dropteleport",
-    "item:justdirethings:eclipsealloy_hoe{\"justdirethings:ability_bindings\":[{ability_name:\"dropteleport\",is_mouse:0b,key:331,require_equipped:1b}],\"justdirethings:bound_inventory\":{direction:\"up\",globalpos:{dimension:\"allthemodium:mining\",pos:[I;155,253,-343]}},\"justdirethings:dropteleport_bindingmode\":2,\"justdirethings:dropteleport_custom_setting\":0,\"justdirethings:dropteleport_toggle\":1b,\"justdirethings:dropteleport_upgrade_installed\":1b,\"justdirethings:forge_energy\":500000,\"justdirethings:hammer_toggle\":1b,\"justdirethings:hammer_upgrade_installed\":1b,\"justdirethings:hammer_value\":7,\"justdirethings:tool_enabled\":1b,\"minecraft:enchantments\":{levels:{\"minecraft:silk_touch\":1}},\"minecraft:repair_cost\":1}",
-    "item:mysticalagriculture:wood_seeds",
-    "item:mysticalagriculture:prosperity_seed_base",
-    "item:powah:ender_gate_blazing",
-    "item:powah:ender_core",
-    "item:powah:dielectric_casing",
-    "item:powah:capacitor_basic_tiny",
-    "item:powah:capacitor_basic",
-    "item:minecraft:redstone_block",
-    "item:powah:dielectric_rod",
-    "item:minecraft:lava_bucket",
-    "item:extendedae:caner",
-    "item:extendedae:ingredient_buffer",
-    "item:extendedae:machine_frame",
-    "item:extendedae:entro_ingot",
-    "item:extendedae:entro_dust",
-    "item:minecraft:amethyst_shard",
-    "item:powah:dielectric_paste",
-    "item:minecraft:iron_bars",
-    "item:powah:dielectric_rod_horizontal",
-    "item:powah:crystal_blazing",
-    "item:mysticalagriculture:wood_essence",
-    "item:minecraft:mangrove_log",
-    "item:minecraft:mangrove_propagule",
-    "#item:c:rods/wooden",
-    "item:ae2:formation_plane",
-    "item:xnet:netcable_blue",
-    "item:ae2:4k_crafting_storage",
-    "item:ae2:64k_crafting_storage",
-    "item:ae2:crafting_accelerator",
-    "item:ae2:crafting_unit",
-    "item:ae2:chest",
-    "item:ae2:terminal",
-    "item:ae2:color_applicator",
-    "item:sophisticatedbackpacks:anvil_upgrade",
-    "item:sophisticatedbackpacks:upgrade_base",
-    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:impaling\":1}}}",
-    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:impaling\":2}}}",
-    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:impaling\":3}}}",
-    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sweeping_edge\":3}}}",
-    "item:xnet:advanced_connector_blue",
-    "item:minecraft:blue_dye",
-    "item:xnet:connector_blue",
-    "item:minecraft:chest",
-    "item:xnet:connector_red",
-    "item:xnet:connector_green",
-    "item:ae2:fluix_smart_cable",
-    "item:rftoolsbase:machine_frame",
-    "item:minecraft:gold_nugget",
-    "item:ae2wtlib:wireless_pattern_encoding_terminal",
-    "item:ae2:pattern_encoding_terminal",
-    "item:ae2:crafting_terminal",
-    "item:extendedae:wireless_ex_pat",
-    "item:extendedae:ex_pattern_access_part",
-    "item:ae2:wireless_receiver",
-    "item:ae2:me_p2p_tunnel",
-    "item:ae2:pattern_access_terminal",
-    "item:minecraft:glowstone",
-    "item:minecraft:redstone_lamp",
-    {
-      "type": "item",
-      "id": "ae2:quartz_fixture",
-      "amount": 4
-    },
-    "item:minecraft:repeater",
-    "item:ae2:export_bus",
-    "item:enderio:conduit{\"enderio:conduit\":\"enderio:dense_me\"}",
-    "item:minecraft:armor_stand",
-    "item:minecraft:smooth_stone",
-    "item:ae2:item_cell_housing",
-    {
-      "type": "item",
-      "id": "minecraft:tuff",
-      "amount": 64
-    },
-    "#item:c:chests/wooden",
-    "item:minecraft:sandstone",
-    "item:ae2:memory_card",
-    "item:justdirethings:upgrade_flight",
-    "item:occultism:butcher_knife",
-    "item:industrialforegoing:dryrubber",
-    "item:industrialforegoing:latex_processing_unit",
-    "item:industrialforegoing:fluid_extractor",
-    "item:minecraft:light_weighted_pressure_plate",
-    "item:minecraft:white_bed",
-    "item:minecraft:end_crystal",
-    "item:justdirethings:upgrade_blank",
-    "item:justdirethings:eclipsealloy_boots",
-    "item:justdirethings:eclipsealloy_leggings",
-    "item:justdirethings:eclipsealloy_chestplate",
-    "item:justdirethings:eclipsealloy_helmet",
-    "item:justdirethings:template_eclipsealloy",
-    "item:justdirethings:gooblock_tier4",
-    "item:industrialforegoing:white_laser_lens",
-    "item:industrialforegoing:blue_laser_lens",
-    "item:minecraft:mangrove_planks",
-    "item:occultism:chalk_gold",
-    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:silk_touch\":1}}}",
-    {
-      "type": "item",
-      "id": "minecraft:bone",
-      "amount": 32
-    },
-    {
-      "type": "item",
-      "id": "occultism:datura_seeds",
-      "amount": 3
-    },
-    "item:occultism:dictionary_of_spirits",
-    "item:mysticalagriculture:master_infusion_crystal",
-    "item:mysticalagradditions:insanium_essence",
-    {
-      "type": "item",
-      "id": "mysticalagriculture:deepslate_inferium_ore",
-      "amount": 33
-    },
-    {
-      "type": "item",
-      "id": "mysticalagriculture:inferium_ore",
-      "amount": 64
-    },
-    "item:minecraft:iron_hoe",
-    "item:powah:reactor_niotic",
-    {
-      "type": "item",
-      "id": "mysticalagriculture:netherite_essence",
-      "amount": 33
-    },
-    "item:mysticalagriculture:netherite_seeds",
-    {
-      "type": "item",
-      "id": "minecraft:ancient_debris",
-      "amount": 6
-    },
-    "item:mysticalagriculture:supremium_essence",
-    "item:mysticalagriculture:tertium_essence",
-    "item:advanced_ae:shattered_singularity",
-    "item:advanced_ae:quantum_crafter",
-    "item:advanced_ae:quantum_accelerator",
-    "item:advanced_ae:quantum_unit",
-    "item:ae2:fluid_storage_cell_16k",
-    "item:ae2:ender_dust",
-    {
-      "type": "tag",
-      "registry": "minecraft:item",
-      "id": "c:dusts/ender_pearl",
-      "amount": 2
-    },
-    {
-      "type": "item",
-      "id": "ae2:sky_dust",
-      "amount": 30
-    },
-    "item:extendedae:concurrent_processor",
-    {
-      "type": "item",
-      "id": "matc:supremium_crystal",
-      "remainder": "item:matc:supremium_crystal{\"minecraft:damage\":1}"
-    },
-    "item:ae2:silicon",
-    "item:minecraft:netherite_ingot",
-    {
-      "type": "item",
-      "id": "matc:inferium_crystal",
-      "remainder": "item:matc:inferium_crystal{\"minecraft:damage\":1}"
-    },
-    {
-      "type": "item",
-      "id": "matc:imperium_crystal",
-      "remainder": "item:matc:imperium_crystal{\"minecraft:damage\":1}"
-    },
-    {
-      "type": "item",
-      "id": "matc:tertium_crystal",
-      "remainder": "item:matc:tertium_crystal{\"minecraft:damage\":1}"
-    },
-    {
-      "type": "item",
-      "id": "matc:prudentium_crystal",
-      "remainder": "item:matc:prudentium_crystal{\"minecraft:damage\":1}"
-    },
-    "item:mysticalagriculture:infusion_pedestal",
-    "item:mysticalagriculture:infusion_altar",
-    "item:justdirethings:upgrade_hammer",
-    "item:minecraft:ender_chest",
-    "item:justdirethings:eclipsealloy_ingot",
-    "item:justdirethings:celestigem_hoe",
-    "item:justdirethings:gooblock_tier3",
-    "item:minecraft:glass_bottle",
-    "item:minecraft:nether_wart",
-    {
-      "type": "item",
-      "id": "minecraft:red_mushroom",
-      "amount": 47
-    },
-    "item:minecraft:red_mushroom_block",
-    "item:justdirethings:raw_ferricore",
-    "item:minecraft:iron_block",
-    "item:justdirethings:gooblock_tier1",
-    "item:trashcans:liquid_trash_can",
-    "item:minecraft:white_terracotta",
-    "item:silentgear:hammer{\"minecraft:tool\":{rules:[{blocks:\"#silentgear:incorrect_for_crimson_iron_tools\",correct_for_drops:0b},{blocks:\"#minecraft:mineable/pickaxe\",correct_for_drops:1b,speed:5.0f}]},\"silentgear:construction\":{broken_count:0,example:0b,parts:[{item:{components:{\"silentgear:material_list\":[{item:{count:1,id:\"silentgear:crimson_iron_ingot\"},material:\"silentgear:crimson_iron\"}]},count:1,id:\"silentgear:hammer_head\"},part:\"silentgear:hammer_head\"},{item:{components:{\"silentgear:material_list\":[{item:{count:1,id:\"minecraft:oak_planks\"},material:\"silentgear:wood\"}]},count:1,id:\"silentgear:rod\"},part:\"silentgear:rod\"}],repairedCount:0},\"silentgear:model_index\":3,\"silentgear:model_key\":\"hammer:hammer_head{crimson_iron},rod{wood},\",\"silentgear:properties\":{\"silentgear:armor\":18.0f,\"silentgear:armor_durability\":27.0f,\"silentgear:armor_toughness\":2.0f,\"silentgear:attack_damage\":7.0f,\"silentgear:attack_reach\":6.0f,\"silentgear:attack_speed\":0.7f,\"silentgear:block_reach\":0.0f,\"silentgear:charging_value\":0.7f,\"silentgear:draw_speed\":-0.1f,\"silentgear:durability\":840.0f,\"silentgear:enchantment_value\":7.0f,\"silentgear:harvest_speed\":5.0f,\"silentgear:harvest_tier\":{incorrect_blocks_for_tool:\"silentgear:incorrect_for_crimson_iron_tools\",level_hint:\"3\",name:\"crimson_iron\"},\"silentgear:knockback_resistance\":0.0f,\"silentgear:magic_armor\":6.0f,\"silentgear:magic_damage\":3.0f,\"silentgear:projectile_accuracy\":1.1f,\"silentgear:projectile_speed\":1.0f,\"silentgear:ranged_damage\":2.0f,\"silentgear:rarity\":31.0f,\"silentgear:repair_efficiency\":1.5f,\"silentgear:repair_value\":0.5f,\"silentgear:traits\":[{conditions:[],level:3,trait:\"silentgear:malleable\"},{conditions:[{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"},{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"}],level:2,trait:\"silentgear:hard\"},{conditions:[],level:2,trait:\"silentgear:flexible\"}]}}",
-    {
-      "type": "item",
-      "id": "justdirethings:raw_eclipsealloy",
-      "amount": 64
-    },
-    "item:justdirethings:celestigem",
-    "item:minecraft:netherite_block",
-    "item:justdirethings:raw_eclipsealloy_ore",
-    "item:extendedae:crystal_fixer",
-    "item:ae2:quartz_fiber",
-    "item:ae2:interface",
-    "item:ae2:annihilation_plane",
-    "item:ae2:import_bus",
-    "item:mekanism:ingot_steel",
-    {
-      "type": "item",
-      "id": "mekanism:enriched_iron",
-      "amount": 8
-    },
-    "item:mekanism:dust_steel",
-    {
-      "type": "item",
-      "id": "ae2:charged_certus_quartz_crystal",
-      "amount": 11
-    },
-    "item:mekanism:basic_universal_cable",
-    "item:ae2:nether_quartz_cutting_knife",
-    "item:extendedae:pattern_provider_upgrade",
-    "item:minecraft:copper_ingot",
-    "item:mekanism:dust_copper",
-    "item:ae2:controller",
-    "item:ae2:smooth_sky_stone_block",
-    "item:glassential:glass_ethereal",
-    "item:minecraft:blaze_powder",
-    "item:minecraft:ender_eye",
-    "item:dimstorage:dim_core",
-    "item:dimstorage:solid_dim_core",
-    "item:dimstorage:dimensional_chest",
-    "item:dimstorage:dim_wall",
-    {
-      "type": "item",
-      "id": "minecraft:lapis_ore",
-      "amount": 3
-    },
-    "item:torchmaster:feral_flare_lantern",
-    "item:extendedae:ex_molecular_assembler",
-    {
-      "type": "item",
-      "id": "ae2:molecular_assembler",
-      "amount": 4
-    },
-    "item:ae2:speed_card",
-    "item:ae2:advanced_card",
-    "item:chipped:cracked_flat_calcite_tiles",
-    "item:quarryplus:marker",
-    "item:mekanism:upgrade_speed",
-    "item:mekanism:dust_osmium",
-    "item:ae2wtlib:quantum_bridge_card",
-    "item:ae2:quantum_link",
-    "item:ae2:tiny_tnt",
-    "item:ae2:quantum_entangled_singularity",
-    "item:ae2:wireless_access_point",
-    "item:ae2:fluix_pearl",
-    "item:minecraft:diamond_block",
-    {
-      "type": "item",
-      "id": "ae2:printed_engineering_processor",
-      "amount": 4
-    },
-    "item:merequester:requester",
-    "item:minecraft:stone",
-    "item:mekanism:module_energy_unit",
-    "item:minecraft:redstone_torch",
-    "item:allthemodium:teleport_pad",
-    "item:ae2:quantum_ring",
-    "item:ae2:engineering_processor",
-    "item:ae2:fluix_smart_dense_cable",
-    "#item:ae2:smart_dense_cable",
-    "item:ae2:fluix_covered_dense_cable",
-    "item:ae2:fluix_covered_cable",
-    "item:ae2:white_smart_dense_cable",
-    "item:ae2:wireless_crafting_terminal",
-    "item:minecraft:glass",
-    "#item:c:glass_blocks",
-    "item:ae2:quartz_glass",
-    "item:ae2:energy_cell",
-    "item:ae2:dense_energy_cell",
-    "item:ae2:semi_dark_monitor",
-    "#item:ae2:illuminated_panel",
-    "item:ae2:wireless_terminal",
-    "item:extendedae:crystal_assembler",
-    "item:extendedae:circuit_cutter",
-    "item:extendedae:entro_seed",
-    {
-      "type": "item",
-      "id": "advanced_ae:quantum_alloy",
-      "amount": 8
-    },
-    "item:advanced_ae:quantum_alloy_plate",
-    "item:advanced_ae:flight_card",
-    "item:advanced_ae:quantum_storage_component",
-    "item:minecraft:netherite_chestplate",
-    "item:advanced_ae:quantum_chestplate",
-    "item:mekanism:elite_mechanical_pipe",
-    "item:mekanism:advanced_mechanical_pipe",
-    "item:mekanism:basic_mechanical_pipe",
-    "item:mekanism:enriched_redstone",
-    "item:mekanism:alloy_infused",
-    "item:advanced_ae:adv_pattern_encoder",
-    "item:advanced_ae:small_adv_pattern_provider",
-    "item:advanced_ae:small_adv_pattern_provider_part",
-    "item:minecraft:gold_block",
-    "item:ae2:cell_component_64k",
-    "item:minecraft:sticky_piston",
-    "item:mekanism:bio_fuel",
-    "item:integrateddynamics:variable",
-    "item:integrateddynamics:logic_programmer",
-    "item:integrateddynamics:portable_logic_programmer",
-    "item:integrateddynamics:drying_basin",
-    "#item:c:dyes/black",
-    "item:minecraft:birch_planks",
-    "item:ae2:condenser",
-    "item:ae2:fluix_glass_cable",
-    "item:ae2:storage_bus",
-    "#item:ae2:interface",
-    "item:minecraft:piston",
-    {
-      "type": "item",
-      "id": "ae2:fluix_crystal",
-      "amount": 64
-    },
-    "item:ae2:item_storage_cell_16k",
-    "item:ae2:cell_component_4k",
-    "item:ae2:cell_component_1k",
-    {
-      "type": "item",
-      "id": "ae2:printed_logic_processor",
-      "amount": 4
-    },
-    "item:extendedae:ex_pattern_provider",
-    {
-      "type": "item",
-      "id": "ae2:capacity_card",
-      "amount": 3
-    },
-    "item:ae2:certus_quartz_dust",
-    "item:ae2:quartz_block",
-    {
-      "type": "item",
-      "id": "ae2:printed_calculation_processor",
-      "amount": 4
-    },
-    "item:ae2:calculation_processor",
-    "item:extendedae:silicon_block",
-    {
-      "type": "item",
-      "id": "ae2:printed_silicon",
-      "amount": 4
-    },
-    {
-      "type": "item",
-      "id": "extendedae:concurrent_processor_print",
-      "amount": 4
-    },
-    "item:extendedae:entro_block",
-    "item:ae2:pattern_provider",
-    "item:ae2:cable_pattern_provider",
-    "item:ae2:annihilation_core",
-    "item:ae2:formation_core",
-    "item:ae2:fluix_dust",
-    "item:extendedae:ex_pattern_provider_part",
-    "item:advanced_ae:adv_pattern_provider_upgrade",
-    "item:mekanism:dust_iron",
-    "#item:minecraft:planks",
-    "item:minecraft:crafting_table",
-    {
-      "type": "item",
-      "id": "ae2:certus_quartz_crystal",
-      "amount": 24
-    },
-    "item:ae2:blank_pattern",
-    "item:advanced_ae:reaction_chamber",
-    "item:ae2:vibration_chamber",
-    "item:ae2:cable_interface",
-    "item:ae2:silicon_press",
-    "item:extendedae:concurrent_processor_press",
-    "item:minecraft:stonecutter",
-    "item:ae2:growth_accelerator",
-    "item:ae2:sky_stone_tank",
-    "#item:ae2:glass_cable",
-    "item:ae2:charger",
-    "item:ae2:inscriber",
-    {
-      "type": "item",
-      "id": "megacells:sky_bronze_ingot",
-      "amount": 8
-    },
-    "item:extendedae:ex_inscriber",
-    "item:sophisticatedstorage:diamond_to_netherite_tier_upgrade",
-    "item:powah:battery_niotic",
-    "item:powah:battery_blazing",
-    "item:powah:battery_hardened",
-    "item:powah:battery_starter",
-    "item:powah:ender_cell_niotic",
-    "item:powah:ender_cell_blazing",
-    "item:powah:ender_cell_hardened",
-    "item:powah:ender_cell_basic",
-    "item:sophisticatedbackpacks:advanced_refill_upgrade",
-    "item:sophisticatedbackpacks:refill_upgrade",
-    "item:sophisticatedbackpacks:stonecutter_upgrade",
-    "item:rechiseled:chisel",
-    "item:rechiseled:diorite_bricks",
-    "item:quarryplus:y_setter",
-    "item:quarryplus:repeat_tick_module",
-    {
-      "type": "item",
-      "id": "minecraft:prismarine_bricks",
-      "amount": 192
-    },
-    "item:mekanism:advanced_tier_installer",
-    "item:mekanism:basic_tier_installer",
-    {
-      "type": "item",
-      "id": "minecraft:amethyst_block",
-      "amount": 65
-    },
-    "item:minecraft:lingering_potion",
-    "item:quarryplus:mover",
-    "item:quarryplus:quarry{\"minecraft:enchantments\":{levels:{\"minecraft:efficiency\":5}},\"minecraft:repair_cost\":1}",
-    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:efficiency\":5}}}",
-    "item:enderio:enchanter",
-    "#item:quarryplus:markers",
-    {
-      "type": "item",
-      "id": "toolbelt:pouch",
-      "amount": 3
-    },
-    "item:toolbelt:belt",
-    "item:buildinggadgets2:gadget_exchanging",
-    "item:buildinggadgets2:gadget_copy_paste",
-    "item:buildinggadgets2:gadget_building{\"buildinggadgets2:forge_energy\":500000,\"buildinggadgets2:gadget_blockstate\":{Name:\"minecraft:deepslate_tiles\"},\"buildinggadgets2:gadget_mode\":\"buildinggadgets2:horizontal_row\",\"buildinggadgets2:gadget_range\":15,\"buildinggadgets2:gadget_uuid\":[I;-1565595352,140398223,-1589261727,152182340],\"buildinggadgets2:undo_list\":[[I;-1328188661,922830932,-1987620176,-1829155755],[I;1588113294,698894428,-1659981142,1079592068],[I;1919778293,-651277337,-1609029664,2042135965],[I;-1304970326,208422634,-1576505041,-1074437726],[I;1755728304,-873444186,-1244910257,1159346214],[I;725338304,1300644233,-1329590448,-686577451],[I;1735945053,-233222750,-1525599441,-315820840],[I;1554749410,275008248,-1559899696,90195458],[I;2137564058,-636993259,-2027076374,-1510302575],[I;923525368,1380535869,-1691452690,1746101961]]}",
-    "item:powah:binding_card_dim",
-    "item:powah:binding_card",
-    "item:powah:blank_card",
-    "item:powah:player_transmitter_basic"
+    "item:enderio:grains_of_infinity"
   ],
   "craft_history": [
+    "minecraft:crafting_table",
+    "mekanism:module_color_modulation_unit",
+    "mekanism:pigment_mixer",
+    "mekanism:hdpe_rod",
+    "mekanism:painting_machine",
+    "mekanism:dye_base",
+    "mekanismgenerators:module_geothermal_generator_unit",
+    "mekanismgenerators:generator/heat",
+    "mekanism:module_soul_surfer_unit",
+    "mekanism:free_runners",
+    "mekanism:module_magnetic_attraction_unit",
+    "mekanism:module_motorized_servo_unit",
+    "mekanism:module_hydrostatic_repulsor_unit",
+    "minecraft:lightning_rod",
+    "mekanism:module_gyroscopic_stabilization_unit",
+    "mekanism:module_locomotive_boosting_unit",
+    "mekanism:module_charge_distribution_unit",
+    "mekanism:module_geiger_unit",
+    "mekanism:geiger_counter",
+    "mekanism:module_dosimeter_unit",
+    "mekanism:dosimeter",
+    "mekanism:module_vision_enhancement_unit",
+    "mekanism:module_inhalation_purification_unit",
+    "mekanism:scuba_mask",
+    "mekanism:hazmat_mask",
+    "mekanism:module_electrolytic_breathing_unit",
+    "mekanism:electrolytic_core",
+    "mekanism:module_radiation_shielding_unit",
+    "alltheores:crafting/lead/block_from_ingot",
+    "mekanism:module_laser_dissipation_unit",
+    "mekanism:module_energy_unit",
+    "gmut:module_gravitational_modulating_additional_unit",
+    "mekanism:module_gravitational_modulating_unit",
+    "mekanism:module_base",
+    "alltheores:crafting/bronze/nugget_from_ingot",
+    "mekanism:mekasuit_boots",
+    "mekanism:mekasuit_pants",
+    "mekanism:mekasuit_bodyarmor",
+    "mekanism:mekasuit_helmet",
+    "minecraft:netherite_boots_smithing",
+    "minecraft:netherite_leggings_smithing",
+    "minecraft:netherite_chestplate_smithing",
+    "minecraft:netherite_helmet_smithing",
+    "minecraft:diamond_helmet",
+    "minecraft:netherite_upgrade_smithing_template",
+    "mekanism:modification_station",
+    "mekanism:qio_dashboard",
+    "mekanism:portable_qio_dashboard",
+    "mekanism:qio_exporter",
+    "mekanism:qio_importer",
+    "mekanism:qio_drive_supermassive",
+    "mekanism:qio_drive_time_dilating",
+    "mekanism:qio_drive_hyper_dense",
+    "mekanism:qio_drive_base",
+    "mekanism:qio_drive_array",
+    "mekanism:personal_chest",
+    "mekanism:teleportation_core",
+    "mekanism:processing/lategame/antimatter_pellet/from_gas",
+    "mekanism:chemical_tank/ultimate",
+    "mekanism:chemical_tank/elite",
+    "mekanism:chemical_tank/advanced",
+    "mekanism:sps_port",
+    "industrialforegoing:mob_crusher",
+    "minecraft:iron_sword",
+    "mekanism:resistive_heater",
+    "mekanism:transmitter/thermodynamic_conductor/basic",
+    "integratedtunnels:crafting/part_importer_fluid",
+    "integratedtunnels:crafting/part_interface_fluid",
+    "integrateddynamics:crafting/crystalized_menril_chunk",
+    "mekanism:boiler_valve",
+    "mekanism:superheating_element",
+    "mekanism:boiler_casing",
+    "mekanism:separator/brine",
+    "ae2:network/blocks/pattern_providers_interface_part",
+    "mekanism:electrolytic_separator",
+    "alltheores:crafting/lead/raw_block_from_raw",
+    "ae2:network/blocks/io_port",
+    "extendedae:void_cell",
+    "ae2:network/blocks/io_condenser",
+    "ae2:materials/cardvoid",
+    "mysticalagriculture:mystical_fertilizer_better",
+    "mekanism:separator/water",
+    "trashcans:energy_trash_can",
+    "mekanism:supercharged_coil",
+    "mekanism:sps_casing",
+    "mekanismgenerators:hohlraum",
+    "ae2:network/blocks/energy_energy_acceptor",
+    "mekanism:transmitter/universal_cable/basic",
+    "mekanism:laser_amplifier",
+    "mekanism:laser",
+    "fluxnetworks:flux_controller",
+    "mekanismgenerators:chemical_infusing/fusion_fuel",
+    "mekanism:chemical_infuser",
+    "elevatorid:redye_red",
+    "elevatorid:elevator_white",
+    "mekanismgenerators:rotational_complex",
+    "appmek:chemical_storage_cell_256k",
+    "mekanism:transmitter/mechanical_pipe/ultimate",
+    "mekanism:transmitter/mechanical_pipe/elite",
+    "mekanism:transmitter/mechanical_pipe/advanced",
+    "mekanism:transmitter/mechanical_pipe/basic",
+    "mekanismgenerators:activating/tritium",
+    "mekanism:solar_neutron_activator",
+    "silentgear:bronze_ingot",
+    "alltheores:crafting/bronze/alloy_blending_from_dust",
+    "merequester:requester",
+    "productivebees:honey_treat_gene",
+    "mekanism:metallurgic_infusing/alloy/infused",
+    "integrateddynamics:crafting/variable_transformer_input",
+    "mekanismgenerators:reactor/controller",
+    "mekanismgenerators:reactor/port",
+    "mekanismgenerators:laser_focus_matrix",
+    "mekanismgenerators:reactor/frame",
+    "appflux:flux_accessor_alt",
+    "mekanismgenerators:separator/heavy_water",
+    "ae2:network/parts/toggle_bus_alt",
+    "ae2:network/parts/toggle_bus_inverted_alt",
+    "ae2:network/parts/level_emitter",
+    "ae2:network/parts/toggle_bus",
+    "mekanism:upgrade/filter",
+    "industrialforegoingsouls:soul_network_pipe",
+    "mekanism:electric_pump",
+    "ae2:network/cells/fluid_storage_cell_256k_storage",
+    "ae2:network/cells/fluid_cell_housing",
+    "minecraft:lever",
+    "mysticalagriculture:essence/minecraft/yellow_dye",
+    "morphtool:tool",
+    "enderio:yeta_wrench",
+    "jei:/enderio/alloy_smelting/copper_alloy_ingot",
+    "enderio:stone_gear",
+    "ae2:tools/certus_quartz_wrench",
+    "mekanism:configurator",
+    "mekanism:processing/lategame/plutonium_pellet/from_reaction",
+    "mekanism:processing/lategame/plutonium",
+    "alltheores:processing/fluorite/dust/from_gem",
+    "mekanism:processing/lategame/polonium_pellet/from_reaction",
+    "ae2:network/blocks/cell_workbench",
+    "minecraft:kjs/megacells_radioactive_chemical_cell",
+    "megacells:cells/standard/radioactive_chemical_cell",
+    "megacells:crafting/radioactive_cell_component",
+    "mekanism:radioactive_waste_barrel",
+    "mekanism:transmitter/pressurized_tube/ultimate",
+    "mekanism:transmitter/pressurized_tube/elite",
+    "mekanism:transmitter/pressurized_tube/advanced",
+    "mekanism:transmitter/pressurized_tube/basic",
+    "morered:red_alloy_wire",
+    "mekanismgenerators:fission_reactor/logic_adapter",
+    "mekanism:laser_tractor_beam",
+    "mekanism:processing/lategame/polonium",
+    "mekanism:enrichment_chamber",
+    "mekanism:enriching/hdpe_sheet",
+    "mekanism:/condensentrating/rotary/ethene",
+    "mekanism:reaction/substrate/ethene_oxygen",
+    "mekanism:reaction/substrate/water_hydrogen",
+    "mekanism:pressurized_reaction_chamber",
+    "mekanism:processing/uranium/fissile_fuel",
+    "mekanism:isotopic_centrifuge",
+    "mekanism:processing/uranium/sulfuric_acid",
+    "mekanism:upgrade/chemical",
+    "mekanism:processing/uranium/hydrofluoric_acid_from_block",
+    "alltheores:crafting/fluorite/block_from_gem",
+    "productivebees:/centrifuge/gems/honeycomb_fluorite_block",
+    "mekanism:chemical_dissolution_chamber",
+    "mekanism:crushing/obsidian_to_dust",
+    "occultism:crushing/obsidian_dust",
+    "mekanism:chemical_infusing/sulfuric_acid",
+    "mekanism:/decondensentrating/rotary/water_vapor",
+    "mekanism:configuration_card",
+    "mekanism:chemical_infusing/sulfur_trioxide",
+    "mekanism:oxidizing/sulfur_dioxide",
+    "productivebees:/centrifuge/dusts/honeycomb_sulfur_block",
+    "mekanism:chemical_oxidizer",
+    "mekanism:tier_installer/elite",
+    "mekanism:tier_installer/advanced",
+    "mekanism:tier_installer/basic",
+    "productivebees:nests/jungle_wood_nest_clear",
+    "mekanism:processing/uranium/uranium_oxide",
+    "mekanism:dynamic_tank",
+    "ae2:misc/tiny_tnt",
+    "ae2:network/blocks/quantum_link",
+    "mekanismgenerators:turbine/valve",
+    "mekanismgenerators:electromagnetic_coil",
+    "mekanismgenerators:turbine/rotor",
+    "mekanismgenerators:turbine/blade",
+    "mekanism:pressure_disperser",
+    "mekanismgenerators:turbine/vent",
+    "mekanismgenerators:turbine/casing",
+    "mekanismgenerators:fission_reactor/fuel_assembly",
+    "mekanismgenerators:fission_reactor/control_rod_assembly",
+    "mekanismgenerators:fission_reactor/port",
+    "mekanismgenerators:reactor/glass",
+    "mekanismgenerators:fission_reactor/casing",
+    "alltheores:smelting/lead/dust_smelting",
+    "mekanism:kjs/mekanism_yellow_cake_uranium",
+    "allthemodium:teleport_pad",
+    "mekanism:rotary_condensentrator",
+    "utilitarian:angel_block_rot",
+    "industrialforegoingsouls:soul_surge",
+    "extendedae:assembler/wireless_kit",
+    "extendedae:assembler/wireless_connector",
+    "ae2:network/wireless_booster",
+    "productivebees:/centrifuge/raw_materials/honeycomb_osmium_block",
+    "productivebees:nests/acacia_wood_nest",
+    "minecraft:wooden_sword",
+    "mysticalagriculture:essence/minecraft/acacia_log",
+    "minecraft:nether_brick_fence",
+    "minecraft:nether_bricks",
+    "extendedae:assembler/assembler_matrix_speed",
+    "ae2:tools/paintballs_lumen_red",
+    "ae2:tools/paintballs_red",
+    "extendedae:assembler/assembler_matrix_crafter",
+    "ae2:tools/paintballs_lumen_purple",
+    "ae2:tools/paintballs_purple",
+    "extendedae:assembler/assembler_matrix_pattern",
+    "ae2:tools/paintballs_lumen_blue",
+    "ae2:tools/paintballs_blue",
+    "extendedae:assembler_matrix_frame",
+    "extendedae:assembler_matrix_wall",
+    "industrialforegoing:meat_feeder",
+    "advanced_ae:quantumstructure",
+    "advanced_ae:eaequantumaccel",
+    "productivebees:comb_block/configurable_comb_block",
+    "minecraft:sugar_from_honey_bottle",
+    "minecraft:iron_nugget",
+    "advanced_ae:entrocrystal",
+    "silentgear:part/rod",
+    "industrialforegoing:material_stonework_factory",
+    "industrialforegoing:dissolution_chamber/pink_slime_ball",
+    "advanced_ae:eaequantummultithreader",
+    "mekanism:tier_installer/ultimate",
+    "productivebees:/centrifuge/dusts/honeycomb_glowing_block",
+    "ae2:network/blocks/interfaces_interface_alt",
+    "ae2:network/blocks/pattern_providers_interface_alt",
+    "extendedae:assembler/ex_export_bus",
+    "trashcans:liquid_trash_can",
+    "ae2:network/crafting/256k_cpu_crafting_storage",
+    "ae2:network/blocks/interfaces_interface_part",
+    "appflux:flux_accessor",
+    "appflux:part_flux_accessor",
+    "jei:/enderio/alloy_smelting/redstone_alloy_ingot",
+    "industrialforegoingsouls:soul_laser_base",
+    "enderstorage:ender_tank",
+    "minecraft:cauldron",
+    "industrialforegoing:fluid_laser_base",
+    "industrialforegoing:laser_drill",
+    "minecraft:diamond_pickaxe",
+    "industrialforegoing:stasis_chamber",
+    "industrialforegoing:dissolution_chamber/advanced_machine_frame",
+    "industrialforegoing:dissolution_chamber/simple_machine_frame",
+    "industrialforegoing:machine_frame_pity",
+    "mekanism:processing/netherite/dirty_scrap_to_scrap",
+    "mekanism:processing/netherite/ancient_debris_to_dirty_scrap",
+    "mekanism:processing/netherite/dust_to_ancient_debris",
+    "alltheores:processing/netherite/dust/from_ingot",
+    "mekanism:combiner",
+    "industrialforegoing:gold_gear",
+    "industrialforegoing:dissolution_chamber/speed_addon_tier_4",
+    "industrialforegoing:dissolution_chamber/speed_addon_tier_3",
+    "industrialforegoing:dissolution_chamber/processing_addon_4",
+    "industrialforegoing:dissolution_chamber/processing_addon_3",
+    "industrialforegoing:dissolution_chamber/efficiency_addon_4",
+    "industrialforegoing:dissolution_chamber/efficiency_addon_3",
+    "mysticalagriculture:essence/minecraft/netherite_ingot",
+    "alltheores:crafting/netherite/gear",
+    "minecraft:item_frame",
+    "xnet:redstoneproxy_update",
+    "xnet:redstone_proxy",
+    "industrialforegoing:dissolution_chamber/range_addon_tier_2",
+    "trashcans:item_trash_can",
+    "industrialforegoing:mob_slaughter_factory",
+    "minecraft:iron_axe",
+    "extendedae:water_cell",
+    "advanced_ae:eaequantumdataentangler",
+    "advanced_ae:quantumcore",
+    "advanced_ae:quantumstorage256",
+    "advanced_ae:quantumstorage128",
+    "advanced_ae:quantum_storage_component",
+    "advanced_ae:quantum_processor_eae",
+    "advanced_ae:quantum_processor_print_eae",
+    "advanced_ae:quantum_alloy_block",
+    "advanced_ae:quantum_alloy",
+    "advanced_ae:quantum_infusion",
+    "advanced_ae:quantum_infused_dust_crushed",
+    "ae2:decorative/quartz_vibrant_glass",
+    "ae2:network/cells/spatial_components",
+    "powah:energizing/dry_ice",
+    "minecraft:blue_ice",
+    "minecraft:packed_ice",
+    "fluxnetworks:flux_plug",
+    "fluxnetworks:flux_block",
+    "powah:crafting/reactor_blazing",
+    "powah:crafting/reactor_niotic",
+    "powah:crafting/reactor_nitro",
+    "powah:crafting/reactor_spirited",
+    "powah:crafting/reactor_hardened",
+    "powah:crafting/reactor_basic",
+    "powah:crafting/reactor_starter",
+    "powah:energizing/uraninite_from_raw",
+    "productivebees:/centrifuge/honeycomb_frosty_block",
+    "productivebees:/centrifuge/gems/honeycomb_quartz_block",
+    "productivebees:centrifuge/honeycomb_frosty",
+    "productivebees:/centrifuge/powah/honeycomb_uraninite_block",
+    "minecraft:tnt",
+    "minecraft:jungle_fence",
+    "minecraft:snow_block",
     "powah:crafting/thermo_generator_nitro",
     "powah:crafting/thermo_generator_spirited",
     "powah:crafting/thermoelectric_plate",
     "mekanismcovers:cover",
     "alltheores:crafting/osmium/nugget_from_ingot",
     "mekanism:enriching/clay_ball",
-    "productivebees:/centrifuge/gems/honeycomb_quartz_block",
     "powah:crafting/energizing_rod_blazing",
     "powah:crafting/energizing_rod_hardened",
     "powah:crafting/energizing_rod_basic",
@@ -2217,8 +1879,6 @@
     "powah:crafting/blazing_crystal_block",
     "powah:energizing/spirited_crystal",
     "powah:energizing/niotic_crystal",
-    "fluxnetworks:flux_plug",
-    "fluxnetworks:flux_block",
     "mekanism:enriching/enriched/refined_obsidian",
     "mekanism:induction/provider/ultimate",
     "mekanism:induction/provider/elite",
@@ -2245,26 +1905,16 @@
     "mekanism:control_circuit/elite",
     "mekanism:processing/refined_obsidian/ingot/from_dust",
     "mekanism:upgrade/energy",
-    "ae2:network/blocks/pattern_providers_interface_part",
-    "mekanism:rotary_condensentrator",
     "mekanism:energy_tablet",
     "mekanism:fluid_tank/basic",
     "mekanism:chemical_tank/basic",
     "alltheores:smelting/osmium/dust_smelting",
     "mysticalagriculture:essence/minecraft/orange_dye",
-    "enderstorage:ender_tank",
-    "minecraft:cauldron",
-    "integratedtunnels:crafting/part_importer_fluid",
-    "integrateddynamics:crafting/variable_transformer_input",
-    "integrateddynamics:crafting/crystalized_menril_chunk",
-    "integratedtunnels:crafting/part_interface_fluid",
-    "mekanism:resistive_heater",
     "alltheores:smelting/tin/dust_smelting",
     "mekanism:steel_casing",
     "mekanism:transmitter/thermodynamic_conductor/ultimate",
     "mekanism:transmitter/thermodynamic_conductor/elite",
     "mekanism:transmitter/thermodynamic_conductor/advanced",
-    "mekanism:transmitter/thermodynamic_conductor/basic",
     "mekanism:thermal_evaporation/controller",
     "mysticalagriculture:essence/minecraft/coal",
     "mekanism:structural_glass",
@@ -2293,15 +1943,12 @@
     "rftoolsbuilder:shape_card_quarry_silk",
     "rftoolsbuilder:shape_card_quarry",
     "minecraft:diamond_shovel",
-    "minecraft:diamond_pickaxe",
     "rftoolsbuilder:shape_card_def",
-    "minecraft:lever",
     "rftoolsbuilder:builder",
     "minecraft:bricks",
     "mysticalagriculture:essence/minecraft/deepslate",
     "mysticalagriculture:essence/minecraft/calcite",
     "occultism:smelting/iesnium_ingot_from_dust",
-    "trashcans:item_trash_can",
     "integrateddynamics:crafting/cable",
     "integratedtunnels:crafting/part_importer_item",
     "integratedtunnels:crafting/part_interface_item",
@@ -2311,7 +1958,6 @@
     "ars_nouveau:arcane_core",
     "ars_nouveau:sourcestone",
     "ars_nouveau:arcane_pedestal",
-    "ae2:network/blocks/interfaces_interface_part",
     "minecraft:stone_button",
     "ars_nouveau:enchanting_apparatus",
     "ars_nouveau:ritual_brazier",
@@ -2337,12 +1983,8 @@
     "extendedae:assembler/ex_drive",
     "ae2:network/blocks/storage_drive",
     "minecraft:soul_lantern",
-    "minecraft:iron_nugget",
-    "productivebees:honey_treat_gene",
-    "minecraft:wooden_sword",
     "minecraft:magma_cream",
     "productivebees:nests/nether_brick_nest",
-    "minecraft:iron_sword",
     "evilcraft:crafting/vengeance_pickaxe",
     "tombstone:book_of_disenchantment",
     "twilightforest:uncrafting_table",
@@ -2377,7 +2019,6 @@
     "mob_grinding_utils:recipe_mob_swab",
     "productivelib:upgrades/productivity_4",
     "productivelib:upgrades/block",
-    "minecraft:item_frame",
     "productivebees:wax_block",
     "productivelib:upgrades/productivity_3",
     "productivelib:upgrades/simulator",
@@ -2405,7 +2046,6 @@
     "mysticalagriculture:prosperity_ingot",
     "mysticalagriculture:prudentium_gemstone",
     "productivebees:bee_nest_helmet",
-    "minecraft:diamond_helmet",
     "integratedterminals:crafting/part_terminal_storage",
     "integrateddynamics:crafting/part_display_panel",
     "integrateddynamics:crafting/part_static_light_panel",
@@ -2422,8 +2062,6 @@
     "productivebees:nests/stone_nest",
     "productivebees:bee_cage_block",
     "minecraft:comparator",
-    "xnet:redstoneproxy_update",
-    "xnet:redstone_proxy",
     "mysticalagriculture:essence/minecraft/red_dye",
     "minecraft:brick",
     "minecraft:nether_brick",
@@ -2431,7 +2069,6 @@
     "minecraft:dropper",
     "elevatorid:redye_light_blue",
     "mysticalagriculture:essence/minecraft/light_blue_dye",
-    "elevatorid:elevator_white",
     "fluxnetworks:flux_point",
     "fluxnetworks:flux_core",
     "xnet:controller",
@@ -2450,8 +2087,6 @@
     "storagedrawers:controller",
     "storagedrawers:oak_full_drawers_1",
     "storagedrawers:mangrove_full_drawers_4",
-    "enderio:yeta_wrench",
-    "enderio:stone_gear",
     "mysticalagriculture:honey_agglomeratio",
     "productivebees:nests/sand_nest",
     "productivebees:nests/nether_quartz_nest_quartz_netherrack",
@@ -2494,13 +2129,11 @@
     "industrialforegoing:dissolution_chamber/speed_addon_tier_2",
     "industrialforegoing:diamond_gear",
     "industrialforegoing:dissolution_chamber",
-    "industrialforegoing:machine_frame_pity",
     "industrialforegoing:plastic",
     "mekanism:gauge_dropper",
     "minecraft:brush",
     "occultism:crafting/chalk_lime_impure",
     "minecraft:smithing_table",
-    "minecraft:netherite_upgrade_smithing_template",
     "mysticalagriculture:essence/minecraft/diamond",
     "mob_grinding_utils:recipe_solidifier",
     "mob_grinding_utils:recipe_tank",
@@ -2533,7 +2166,6 @@
     "enderstorage:ender_chest",
     "pylons:harvester_pylon",
     "minecraft:polished_blackstone",
-    "ae2:network/parts/level_emitter",
     "mysticalagriculture:essence/minecraft/green_dye",
     "mysticalagriculture:dye_agglomeratio",
     "minecraft:cyan_dye",
@@ -2549,7 +2181,6 @@
     "mekanism:transmitter/logistical_transporter/advanced",
     "mekanism:transmitter/logistical_transporter/basic",
     "ae2:tools/nether_quartz_wrench",
-    "ae2:network/blocks/interfaces_interface_alt",
     "hostilenetworks:prediction_matrix",
     "minecraft:glass_pane",
     "hostilenetworks:sim_chamber",
@@ -2561,10 +2192,8 @@
     "hostilenetworks:loot_fabricator",
     "hostilenetworks:framework",
     "hostilenetworks:deep_learner",
-    "fluxnetworks:flux_controller",
     "akashictome:tome",
     "minecraft:bookshelf",
-    "morphtool:tool",
     "mysticalagriculture:essence/minecraft/gold_ingot",
     "xnet:facade",
     "mekanism:paper",
@@ -2603,8 +2232,6 @@
     "jei:/enderio/alloy_smelting/vibrant_alloy_ingot",
     "jei:/enderio/alloy_smelting/energetic_alloy_ingot",
     "appflux:induction_card",
-    "appflux:flux_accessor",
-    "ae2:network/blocks/energy_energy_acceptor",
     "extendedae:assembler/energy_processor",
     "extendedae:cutter/energy_processor",
     "appflux:charged_redstone_block",
@@ -2701,7 +2328,6 @@
     "matc:imperium_essence",
     "matc:tertium_essence",
     "advanced_ae:quantumcrafter",
-    "advanced_ae:eaequantumaccel",
     "advanced_ae:eaequantumunit",
     "ae2:network/cells/fluid_storage_cell_16k",
     "advanced_ae:shatteredsingularity",
@@ -2753,18 +2379,14 @@
     "mekanism:upgrade/speed",
     "mekanism:kjs/mekanism_dust_osmium",
     "ae2wtlib:quantum_bridge_card",
-    "ae2:network/blocks/quantum_link",
-    "ae2:misc/tiny_tnt",
     "ae2:network/wireless_access_point",
     "ae2:misc/fluixpearl",
     "minecraft:diamond_block",
     "extendedae:cutter/engineering_processor",
     "mekanism:processing/redstone/from_ore",
     "mekanism:kjs/mekanism_dust_gold",
-    "merequester:requester",
     "minecraft:stone",
     "minecraft:redstone_torch",
-    "allthemodium:teleport_pad",
     "extendedae:assembler/engineering_processor",
     "ae2:network/cables/dense_smart_fluix",
     "ae2:network/cables/dense_covered_fluix",
@@ -2775,10 +2397,7 @@
     "ae2:network/parts/panels_semi_dark_monitor",
     "ae2:network/blocks/energy_dense_energy_cell",
     "ae2:network/blocks/energy_energy_cell",
-    "mekanism:transmitter/mechanical_pipe/advanced",
-    "mekanism:transmitter/mechanical_pipe/basic",
     "mekanism:enriching/enriched/redstone",
-    "mekanism:metallurgic_infusing/alloy/infused",
     "advanced_ae:advpartenc",
     "advanced_ae:smalladvpatpro",
     "minecraft:gold_block",
@@ -2788,7 +2407,6 @@
     "integrateddynamics:crafting/logic_programmer",
     "integrateddynamics:crafting/drying_basin",
     "mekanism:sawing/log/birch",
-    "ae2:network/blocks/io_condenser",
     "ae2:network/cables/glass_fluix",
     "ae2:network/parts/quartz_fiber_part",
     "ae2:network/parts/storage_bus",
@@ -2817,12 +2435,10 @@
     "ae2:materials/annihilationcore",
     "ae2:materials/formationcore",
     "mekanism:kjs/mekanism_dust_iron",
-    "minecraft:crafting_table",
     "ae2:decorative/quartz_glass",
     "ae2:network/crafting/patterns_blank",
     "advanced_ae:reactionchamber",
     "ae2:network/blocks/energy_vibration_chamber",
-    "mekanism:transmitter/universal_cable/basic",
     "minecraft:stonecutter",
     "ae2:misc/deconstruction_fluix_block",
     "extendedae:crystal_assembler",
@@ -2840,8 +2456,6 @@
     "rechiseled:chisel",
     "quarryplus:y_setter",
     "minecraft:kjs/quarryplus_repeat_tick_module",
-    "mekanism:tier_installer/advanced",
-    "mekanism:tier_installer/basic",
     "quarryplus:mover",
     "enderio:enchanter",
     "quarryplus:quarry",
@@ -2872,7 +2486,6 @@
     "rftoolspower:dimensionalcell_simple",
     "silentgear:gear/pickaxe_head",
     "silentgear:tyrian_steel_block",
-    "silentgear:part/rod",
     "silentgear:salvager",
     "silentgear:part/grip",
     "silentgear:part/tip",
@@ -2928,11 +2541,7 @@
     "silentgear:stone_anvil",
     "silentgear:alloy_forge",
     "silentgear:crimson_steel_ingot",
-    "mekanism:electrolytic_separator",
-    "mekanism:electrolytic_core",
     "mekanism:jetpack",
-    "mekanism:tier_installer/ultimate",
-    "mekanism:tier_installer/elite",
     "sophisticatedstorage:crafting_upgrade",
     "sophisticatedstorage:stack_upgrade_tier_4",
     "sophisticatedstorage:stack_upgrade_tier_3",
@@ -2945,11 +2554,8 @@
     "powah:crafting/thermo_generator_niotic",
     "mekanism:digital_miner",
     "mekanism:robit",
-    "mekanism:personal_chest",
     "mekanism:logistical_sorter",
-    "mekanism:teleportation_core",
     "powah:crafting/thermo_generator_blazing",
-    "mekanism:configurator",
     "powah:crafting/thermo_generator_hardened",
     "powah:crafting/dielectric_rod_h_2",
     "powah:crafting/thermo_generator_basic",
@@ -2960,55 +2566,7 @@
     "simplemagnets:advancedmagnet",
     "simplemagnets:basicmagnet",
     "minecraft:ender_pearl",
-    "sophisticatedbackpacks:iron_backpack",
-    "sophisticatedbackpacks:backpack",
-    "mekanismtools:refined_obsidian/tools/pickaxe",
-    "minecraft:book",
-    "mekanism:precision_sawmill",
-    "minecraft:oak_button",
-    "minecraft:oak_planks",
-    "actuallyadditions:atomic_reconstructor",
-    "actuallyadditions:iron_casing",
-    "evilcraft:crafting/vein_sword",
-    "evilcraft:crafting/dark_spike",
-    "evilcraft:crafting/dark_stick",
-    "evilcraft:crafting/undead_planks",
-    "evilcraft:crafting/blood_infuser",
-    "evilcraft:crafting/blood_infusion_core",
-    "mekanismtools:refined_obsidian/armor/helmet",
-    "mekanismtools:refined_obsidian/armor/boots",
-    "mekanismtools:refined_obsidian/armor/leggings",
-    "mekanismtools:refined_obsidian/armor/chestplate",
-    "mekanismtools:refined_obsidian/tools/sword",
-    "mekanismtools:bronze/tools/axe",
-    "mekanism:atomic_disassembler",
-    "mekanism:osmium_compressor",
-    "tombstone:carmin_subaraki_grave",
-    "tombstone:carmin_marble",
-    "tombstone:blue_marble",
-    "tiab:time_in_a_bottle",
-    "evilcraft:crafting/blood_extractor",
-    "mekanism:crusher",
-    "mekanismtools:bronze/tools/shovel",
-    "comforts:sleeping_bag_white",
-    "mekanismtools:bronze/tools/sword",
-    "mekanismtools:bronze/armor/boots",
-    "mekanismtools:bronze/armor/leggings",
-    "mekanismtools:bronze/armor/chestplate",
-    "mekanismtools:bronze/armor/helmet",
-    "mekanism:energized_smelter",
-    "actuallyadditions:charcoal_to_tiny",
-    "actuallyadditions:coal_to_tiny",
-    "mekanism:enrichment_chamber",
-    "actuallyadditions:coal_generator",
-    "mekanismtools:bronze/tools/pickaxe",
-    "alltheores:bronze_ore_hammer",
-    "alltheores:copper_ore_hammer",
-    "minecraft:spruce_planks",
-    "minecraft:stone_pickaxe",
-    "minecraft:stone_shovel",
-    "minecraft:stone_axe",
-    "craftingstation:crafting_station"
+    "sophisticatedbackpacks:iron_backpack"
   ],
   "recipe_defaults": {
     "added": [],
