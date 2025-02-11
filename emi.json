@@ -342,9 +342,104 @@
     },
     {
       "stack": "item:mekanism:dye_base"
+    },
+    {
+      "stack": "item:occultism:spawn_egg/possessed_endermite"
+    },
+    {
+      "stack": "item:occultism:ritual_dummy/possess_endermite"
+    },
+    {
+      "stack": "item:occultism:book_of_binding_bound_foliot"
+    },
+    {
+      "stack": "item:occultism:book_of_binding_bound_foliot",
+      "recipe": "occultism:occultism.bound_book_of_bindingitem.occultism.book_of_binding_foliot"
+    },
+    {
+      "stack": "item:occultism:book_of_binding_foliot"
+    },
+    {
+      "stack": "item:sophisticatedstorage:stack_upgrade_tier_5"
+    },
+    {
+      "stack": "item:sophisticatedstorage:advanced_magnet_upgrade"
+    },
+    {
+      "stack": "item:sophisticatedstorage:basic_to_netherite_tier_upgrade"
+    },
+    {
+      "stack": "item:sophisticatedstorage:basic_to_diamond_tier_upgrade"
+    },
+    {
+      "stack": "item:sophisticatedstorage:basic_to_gold_tier_upgrade"
+    },
+    {
+      "stack": "item:sophisticatedstorage:basic_to_iron_tier_upgrade"
+    },
+    {
+      "stack": "item:sophisticatedstorage:stack_upgrade_tier_4",
+      "recipe": "sophisticatedstorage:stack_upgrade_tier_4"
+    },
+    {
+      "stack": "item:sophisticatedstorage:stack_upgrade_tier_2"
+    },
+    {
+      "stack": "item:sophisticatedstorage:stack_upgrade_tier_2",
+      "recipe": "sophisticatedstorage:stack_upgrade_tier_2"
+    },
+    {
+      "stack": "item:sophisticatedstorage:stack_upgrade_tier_1"
+    },
+    {
+      "stack": "item:mob_grinding_utils:ender_inhibitor_on"
+    },
+    {
+      "stack": "item:apotheosis:salvaging_table"
+    },
+    {
+      "stack": "item:extendedae:tag_export_bus"
     }
   ],
   "lookup_history": [
+    "item:enderio:basic_filter",
+    "item:minecraft:hopper",
+    "item:enderio:vacuum_chest",
+    "item:ae2:fuzzy_card",
+    "item:minecraft:name_tag",
+    "item:minecraft:chain",
+    "item:alltheores:iron_plate",
+    "item:extendedae:tag_export_bus",
+    "item:apotheosis:salvaging_table",
+    "item:minecraft:anvil",
+    "item:minecraft:iron_pickaxe",
+    "item:minecraft:iron_axe",
+    "item:mob_grinding_utils:ender_inhibitor_on",
+    "item:sophisticatedstorage:stack_upgrade_tier_4",
+    "item:sophisticatedstorage:stack_upgrade_tier_2",
+    "item:sophisticatedstorage:stack_upgrade_tier_1",
+    "item:sophisticatedstorage:stack_upgrade_tier_3",
+    "item:sophisticatedstorage:basic_to_netherite_tier_upgrade",
+    "item:sophisticatedstorage:basic_to_diamond_tier_upgrade",
+    "item:sophisticatedstorage:basic_to_gold_tier_upgrade",
+    "item:sophisticatedstorage:basic_to_iron_tier_upgrade",
+    "item:sophisticatedstorage:barrel{\"sophisticatedstorage:wood_type\":\"mangrove\"}",
+    "item:minecraft:mangrove_planks",
+    "item:sophisticatedbackpacks:stack_upgrade_tier_4",
+    "item:sophisticatedbackpacks:stack_upgrade_omega_tier",
+    "item:sophisticatedstorage:stack_upgrade_tier_5",
+    "item:minecraft:netherite_block",
+    "item:minecraft:torch",
+    "item:occultism:book_of_binding_foliot",
+    "item:occultism:book_of_binding_bound_foliot",
+    "item:occultism:ritual_dummy/possess_endermite",
+    "item:minecraft:minecart",
+    "item:minecraft:rail",
+    "item:minecraft:white_carpet",
+    "item:minecraft:jungle_trapdoor",
+    "item:occultism:spawn_egg/possessed_endermite",
+    "item:minecraft:enchanting_table",
+    "mekanism_chemical:mekanism:sodium",
     "item:minecraft:sniffer_egg",
     "item:mekanism:advanced_control_circuit",
     "item:mekanism:alloy_reinforced",
@@ -420,7 +515,6 @@
     "item:mekanism:ultimate_chemical_tank",
     "item:mekanism:elite_chemical_tank",
     "item:mekanism:advanced_chemical_tank",
-    "mekanism_chemical:mekanism:sodium",
     {
       "type": "fluid",
       "id": "mekanism:brine",
@@ -493,7 +587,6 @@
       "amount": 0
     },
     "item:mekanism:rotary_condensentrator",
-    "item:mekanismgenerators:fission_reactor_casing",
     "item:mekanismgenerators:reactor_glass",
     "item:mekanism:steel_casing",
     "item:trashcans:energy_trash_can",
@@ -768,7 +861,6 @@
     "item:industrialforegoing:range_addon_tier_2{\"titanium:augments\":{Range:2.0f}}",
     "item:trashcans:item_trash_can",
     "item:industrialforegoing:mob_slaughter_factory",
-    "item:minecraft:iron_axe",
     "item:extendedae:infinity_water_cell",
     "item:advanced_ae:data_entangler",
     "item:advanced_ae:quantum_core",
@@ -995,7 +1087,6 @@
     "item:justdirethings:blazegold_ingot",
     "item:justdirethings:experienceholder",
     "item:sophisticatedstorage:upgrade_base",
-    "item:sophisticatedstorage:barrel{\"sophisticatedstorage:wood_type\":\"mangrove\"}",
     "item:minecraft:mangrove_slab",
     "item:chipped:mangrove_brick_barrel",
     "item:shrink:shrinking_device",
@@ -1030,8 +1121,6 @@
     "item:occultism:spirit_attuned_pickaxe_head",
     "item:occultism:divination_rod",
     "item:occultism:otherworld_goggles",
-    "item:occultism:book_of_binding_foliot",
-    "item:occultism:book_of_binding_bound_foliot",
     "item:occultism:infused_lenses",
     "item:occultism:lenses",
     "item:occultism:lens_frame",
@@ -1272,7 +1361,6 @@
     "item:occultism:chalk_gray",
     "item:occultism:chalk_orange_impure",
     "item:occultism:cursed_honey",
-    "item:enderio:vacuum_chest",
     "item:minecraft:torchflower_seeds",
     "item:occultism:ritual_dummy/possess_bee",
     "item:occultism:spawn_egg/possessed_bee",
@@ -1298,7 +1386,6 @@
     "item:mekanism:dust_gold",
     "item:occultism:crushed_calcite",
     "item:minecraft:skeleton_skull",
-    "item:minecraft:anvil",
     "item:industrialforegoing:efficiency_addon_tier_2{\"titanium:augments\":{Efficiency:0.8f}}",
     "item:industrialforegoing:processing_addon_tier_2{\"titanium:augments\":{Processing:3.0f}}",
     "item:minecraft:furnace",
@@ -1330,7 +1417,6 @@
     "item:forbidden_arcanus:xpetrified_orb",
     "item:mob_grinding_utils:xpsolidifier",
     "item:mob_grinding_utils:tank",
-    "item:minecraft:hopper",
     "item:mob_grinding_utils:entity_conveyor",
     "item:mob_grinding_utils:solid_xp_baby",
     "item:actuallyadditions:xp_solidifier",
@@ -1503,46 +1589,40 @@
       "id": "enderio:conduit_binder",
       "amount": 2
     },
-    "item:enderio:conduit_binder_composite",
-    "item:enderio:pulsating_crystal",
-    "item:enderio:pulsating_alloy_nugget",
-    "item:enderio:pulsating_alloy_ingot",
-    "item:enderio:empty_soul_vial",
-    "item:enderio:soularium_ingot",
-    "item:enderio:fused_quartz",
-    "#item:c:glass_blocks/fused_quartz",
-    "item:enderio:vibrant_alloy_nugget",
-    "item:industrialforegoing:iron_gear",
-    "#item:c:gears/iron",
-    {
-      "type": "item",
-      "id": "enderio:dark_steel_ingot",
-      "amount": 2
-    },
-    "item:enderio:octadic_capacitor",
-    "item:enderio:double_layer_capacitor",
-    "item:mekanism:dust_coal",
-    "#item:c:dusts/coal",
-    "item:enderio:basic_capacitor",
-    "item:enderio:vibrant_alloy_ingot",
-    "item:enderio:energetic_alloy_ingot",
-    "item:appflux:charged_redstone",
-    "item:appflux:charged_redstone_block",
-    {
-      "type": "item",
-      "id": "appflux:printed_energy_processor",
-      "amount": 4
-    },
-    "item:ae2:basic_card",
-    "item:appflux:induction_card",
-    "item:appflux:energy_processor_press",
-    "item:enderio:alloy_smelter",
-    "item:enderio:primitive_alloy_smelter",
-    "item:enderio:void_chassis",
-    "item:alltheores:iron_gear",
-    "item:enderio:grains_of_infinity"
+    "item:enderio:conduit_binder_composite"
   ],
   "craft_history": [
+    "enderio:basic_filter",
+    "utilitarian:utility/logs_to_hopper",
+    "enderio:vacuum_chest",
+    "ae2:materials/cardfuzzy",
+    "minecraft:kjs/name_tag",
+    "minecraft:chain",
+    "extendedae:tag_export_bus",
+    "apotheosis:salvaging_table",
+    "minecraft:anvil",
+    "minecraft:iron_pickaxe",
+    "minecraft:iron_axe",
+    "mob_grinding_utils:recipe_ender_inhibitor",
+    "sophisticatedstorage:stack_upgrade_tier_4",
+    "sophisticatedstorage:stack_upgrade_tier_3",
+    "sophisticatedstorage:stack_upgrade_tier_2",
+    "sophisticatedstorage:stack_upgrade_tier_1",
+    "sophisticatedstorage:basic_to_netherite_tier_upgrade",
+    "sophisticatedstorage:basic_to_diamond_tier_upgrade",
+    "sophisticatedstorage:basic_to_gold_tier_upgrade",
+    "sophisticatedstorage:basic_to_iron_tier_upgrade",
+    "sophisticatedstorage:mangrove_barrel",
+    "minecraft:mangrove_planks",
+    "sophisticatedstorage:stack_upgrade_tier_5",
+    "minecraft:netherite_block",
+    "minecraft:torch",
+    "occultism:crafting/book_of_binding_foliot",
+    "minecraft:minecart",
+    "minecraft:rail",
+    "minecraft:white_carpet",
+    "utilitarian:utility/jungle_logs_to_trapdoors",
+    "minecraft:enchanting_table",
     "minecraft:crafting_table",
     "mekanism:module_color_modulation_unit",
     "mekanism:pigment_mixer",
@@ -1813,7 +1893,6 @@
     "industrialforegoing:dissolution_chamber/range_addon_tier_2",
     "trashcans:item_trash_can",
     "industrialforegoing:mob_slaughter_factory",
-    "minecraft:iron_axe",
     "extendedae:water_cell",
     "advanced_ae:eaequantumdataentangler",
     "advanced_ae:quantumcore",
@@ -1974,7 +2053,6 @@
     "sophisticatedstorage:magnet_upgrade",
     "sophisticatedstorage:pickup_upgrade",
     "sophisticatedstorage:upgrade_base",
-    "sophisticatedstorage:mangrove_barrel",
     "minecraft:mangrove_slab",
     "shrink:shrinking_device",
     "occultism:crafting/book_of_binding_marid",
@@ -1992,7 +2070,6 @@
     "occultism:crafting/spirit_attuned_pickaxe_head",
     "occultism:crafting/divination_rod",
     "occultism:crafting/goggles",
-    "occultism:crafting/book_of_binding_foliot",
     "occultism:crafting/lenses",
     "occultism:crafting/lens_frame",
     "productivebees://centrifuge/dusts/honeycomb_redstone_block_block",
@@ -2117,12 +2194,10 @@
     "chipped_express:stonecutting_chipped_flat_calcite_tiles_from_calcite",
     "minecraft:kjs/calcite",
     "occultism:crafting/chalk_orange_impure",
-    "enderio:vacuum_chest",
     "mysticalagriculture:essence/minecraft/black_dye",
     "mysticalagriculture:essence/minecraft/purple_dye",
     "minecraft:flint_and_steel",
     "occultism:crafting/chalk_light_gray_impure",
-    "minecraft:anvil",
     "industrialforegoing:dissolution_chamber/efficiency_addon_tier_2",
     "industrialforegoing:dissolution_chamber/processing_addon_tier_2",
     "minecraft:furnace",
@@ -2137,7 +2212,6 @@
     "mysticalagriculture:essence/minecraft/diamond",
     "mob_grinding_utils:recipe_solidifier",
     "mob_grinding_utils:recipe_tank",
-    "utilitarian:utility/logs_to_hopper",
     "mob_grinding_utils:recipe_entity_conveyor",
     "forbidden_arcanus:chiseled_polished_darkstone",
     "forbidden_arcanus:diamond_blacksmith_gavel",
@@ -2316,7 +2390,6 @@
     "justdirethings:eclipsealloy_helmet",
     "justdirethings:template_eclipsealloy",
     "justdirethings:gooblock_tier4",
-    "minecraft:mangrove_planks",
     "occultism:occultism.bound_book_of_bindingitem.occultism.book_of_binding_afrit",
     "minecraft:black_dye",
     "occultism:crafting/dictionary_of_spirits",
@@ -2368,8 +2441,6 @@
     "minecraft:ender_eye",
     "reliquary:uncrafting/gunpowder_creeper_gland",
     "reliquary:uncrafting/rotten_flesh",
-    "dimstorage:dim_core",
-    "dimstorage:dim_wall",
     "torchmaster:feral_flare_lantern",
     "extendedae:assembler/ex_molecular_assembler",
     "ae2:network/crafting/molecular_assembler",
@@ -2543,30 +2614,8 @@
     "silentgear:crimson_steel_ingot",
     "mekanism:jetpack",
     "sophisticatedstorage:crafting_upgrade",
-    "sophisticatedstorage:stack_upgrade_tier_4",
-    "sophisticatedstorage:stack_upgrade_tier_3",
     "sophisticatedstorage:stack_upgrade_tier_2_from_tier_1_plus",
-    "sophisticatedstorage:stack_upgrade_tier_1_plus",
-    "sophisticatedstorage:stack_upgrade_tier_1",
-    "sophisticatedstorage:basic_to_diamond_tier_upgrade",
-    "sophisticatedstorage:basic_to_gold_tier_upgrade",
-    "sophisticatedstorage:basic_to_iron_tier_upgrade",
-    "powah:crafting/thermo_generator_niotic",
-    "mekanism:digital_miner",
-    "mekanism:robit",
-    "mekanism:logistical_sorter",
-    "powah:crafting/thermo_generator_blazing",
-    "powah:crafting/thermo_generator_hardened",
-    "powah:crafting/dielectric_rod_h_2",
-    "powah:crafting/thermo_generator_basic",
-    "powah:crafting/thermo_generator_starter",
-    "powah:crafting/dielectric_rod",
-    "powah:crafting/energizing_orb",
-    "sophisticatedbackpacks:crafting_upgrade",
-    "simplemagnets:advancedmagnet",
-    "simplemagnets:basicmagnet",
-    "minecraft:ender_pearl",
-    "sophisticatedbackpacks:iron_backpack"
+    "sophisticatedstorage:stack_upgrade_tier_1_plus"
   ],
   "recipe_defaults": {
     "added": [],
