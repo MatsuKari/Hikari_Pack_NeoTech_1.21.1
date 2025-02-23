@@ -1,7 +1,5 @@
 /gamemode spectator
 /gamemode survival
-/gamemode spectator
-/gamemode survival
 /reload
 /kubejs hand
 /reload
@@ -48,3 +46,5 @@
 /gamemode survival
 /backup start
 /reload
+/gamemode creative
+/gamemode survival

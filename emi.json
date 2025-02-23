@@ -399,9 +399,65 @@
     },
     {
       "stack": "item:extendedae:tag_export_bus"
+    },
+    {
+      "stack": "item:apothic_enchanting:echoing_sculkshelf"
+    },
+    {
+      "stack": "item:apothic_enchanting:soul_touched_deepshelf"
+    },
+    {
+      "stack": "item:apothic_enchanting:draconic_endshelf"
+    },
+    {
+      "stack": "item:apothic_enchanting:treasure_shelf"
+    },
+    {
+      "stack": "item:apothic_enchanting:geode_shelf"
+    },
+    {
+      "stack": "item:allthemodium:alloy_axe"
+    },
+    {
+      "stack": "item:apothic_enchanting:echoing_deepshelf"
+    },
+    {
+      "stack": "item:apothic_enchanting:deepshelf"
+    },
+    {
+      "stack": "item:apothic_enchanting:hellshelf"
+    },
+    {
+      "stack": "item:apothic_enchanting:infused_hellshelf"
+    },
+    {
+      "stack": "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:regeneration\"}}"
+    },
+    {
+      "stack": "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:awkward\"}}"
     }
   ],
   "lookup_history": [
+    "item:apothic_enchanting:deepshelf",
+    "item:apothic_enchanting:echoing_deepshelf",
+    "item:minecraft:chainmail_helmet",
+    "item:minecraft:chainmail_chestplate",
+    "item:minecraft:chainmail_leggings",
+    "item:minecraft:chainmail_boots",
+    "item:apothic_enchanting:hellshelf",
+    "item:apothic_enchanting:infused_hellshelf",
+    "item:minecraft:nether_bricks",
+    "item:minecraft:bookshelf",
+    {
+      "type": "item",
+      "id": "minecraft:nether_wart",
+      "amount": 12
+    },
+    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:awkward\"}}",
+    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:regeneration\"}}",
+    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:water\"}}",
+    "item:apothic_enchanting:echoing_sculkshelf",
+    "item:allthemodium:alloy_axe",
     "item:enderio:basic_filter",
     "item:minecraft:hopper",
     "item:enderio:vacuum_chest",
@@ -734,7 +790,6 @@
     "item:minecraft:acacia_log",
     "item:productivebees:spawn_egg_neon_cuckoo_bee",
     "item:minecraft:nether_brick_fence",
-    "item:minecraft:nether_bricks",
     "item:extendedae:assembler_matrix_crafter",
     "item:extendedae:assembler_matrix_speed",
     {
@@ -1542,7 +1597,6 @@
     "item:allthemodium:allthemodium_pickaxe",
     "item:fluxnetworks:flux_dust",
     "item:akashictome:tome",
-    "item:minecraft:bookshelf",
     "#item:c:dyes/green",
     "item:minecraft:purpur_stairs",
     "item:minecraft:gold_ingot",
@@ -1571,27 +1625,13 @@
     "item:reliquary:zombie_heart",
     "item:occultism:crushed_end_stone",
     "item:occultism:large_candle",
-    "item:minecraft:candle",
-    "item:occultism:chalk_white",
-    "item:occultism:ritual_dummy/misc_miner_ancient_eldritch",
-    "item:occultism:ritual_dummy/possess_phantom",
-    "item:mysticalagriculture:soul_jar{\"mysticalagriculture:soul_jar\":{souls:10.0d,type:\"mysticalagriculture:zombie\"}}",
-    "item:mysticalagriculture:zombie_seeds",
-    "item:mysticalagriculture:zombie_essence",
-    "item:enderio:sag_mill",
-    "item:evilcraft:promise_acceptor_iron",
-    "item:evilcraft:promise_tier_1",
-    "item:enderio:soularium_block",
-    "item:enderio:energized_gear",
-    "item:enderio:energetic_alloy_nugget",
-    {
-      "type": "item",
-      "id": "enderio:conduit_binder",
-      "amount": 2
-    },
-    "item:enderio:conduit_binder_composite"
+    "item:minecraft:candle"
   ],
   "craft_history": [
+    "apothic_enchanting:hellshelf",
+    "minecraft:nether_bricks",
+    "minecraft:bookshelf",
+    "emi:/world/unique/minecraft/water_bottle",
     "enderio:basic_filter",
     "utilitarian:utility/logs_to_hopper",
     "enderio:vacuum_chest",
@@ -1829,7 +1869,6 @@
     "minecraft:wooden_sword",
     "mysticalagriculture:essence/minecraft/acacia_log",
     "minecraft:nether_brick_fence",
-    "minecraft:nether_bricks",
     "extendedae:assembler/assembler_matrix_speed",
     "ae2:tools/paintballs_lumen_red",
     "ae2:tools/paintballs_red",
@@ -2267,7 +2306,6 @@
     "hostilenetworks:framework",
     "hostilenetworks:deep_learner",
     "akashictome:tome",
-    "minecraft:bookshelf",
     "mysticalagriculture:essence/minecraft/gold_ingot",
     "xnet:facade",
     "mekanism:paper",
@@ -2613,9 +2651,7 @@
     "silentgear:alloy_forge",
     "silentgear:crimson_steel_ingot",
     "mekanism:jetpack",
-    "sophisticatedstorage:crafting_upgrade",
-    "sophisticatedstorage:stack_upgrade_tier_2_from_tier_1_plus",
-    "sophisticatedstorage:stack_upgrade_tier_1_plus"
+    "sophisticatedstorage:crafting_upgrade"
   ],
   "recipe_defaults": {
     "added": [],
