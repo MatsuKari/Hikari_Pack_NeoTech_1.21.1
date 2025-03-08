@@ -52,10 +52,6 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "dimstorage": {
-    "dim_block_base": true,
-    "dim_tank": true
-  },
   "apothic_spawners": {
     "spawner": true
   },
@@ -92,6 +88,9 @@
   },
   "apothic_enchanting": {
     "ench": true
+  },
+  "balm": {
+    "jade": true
   },
   "integrateddynamicscompat": {
     "proxy": true,
@@ -165,9 +164,6 @@
     "infused_farmland": true,
     "crop": true,
     "inferium_crop": true
-  },
-  "modular_machinery_reborn": {
-    "machine_component_provider": true
   },
   "storagedrawers": {
     "display.stacklimit": true,

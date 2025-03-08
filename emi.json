@@ -401,28 +401,10 @@
       "stack": "item:extendedae:tag_export_bus"
     },
     {
-      "stack": "item:apothic_enchanting:echoing_sculkshelf"
-    },
-    {
-      "stack": "item:apothic_enchanting:soul_touched_deepshelf"
-    },
-    {
-      "stack": "item:apothic_enchanting:draconic_endshelf"
-    },
-    {
       "stack": "item:apothic_enchanting:treasure_shelf"
     },
     {
       "stack": "item:apothic_enchanting:geode_shelf"
-    },
-    {
-      "stack": "item:allthemodium:alloy_axe"
-    },
-    {
-      "stack": "item:apothic_enchanting:echoing_deepshelf"
-    },
-    {
-      "stack": "item:apothic_enchanting:deepshelf"
     },
     {
       "stack": "item:apothic_enchanting:hellshelf"
@@ -435,17 +417,189 @@
     },
     {
       "stack": "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:awkward\"}}"
+    },
+    {
+      "stack": "item:apothic_enchanting:heart_seashelf"
+    },
+    {
+      "stack": "item:apothic_enchanting:infused_seashelf"
+    },
+    {
+      "stack": "item:minecraft:heart_of_the_sea"
+    },
+    {
+      "stack": "item:minecraft:pufferfish"
+    },
+    {
+      "stack": "item:apothic_enchanting:dormant_deepshelf"
+    },
+    {
+      "stack": "item:minecraft:cracked_deepslate_tiles"
+    },
+    {
+      "stack": "item:apothic_enchanting:echoing_deepshelf"
+    },
+    {
+      "stack": "item:apothic_enchanting:echoing_sculkshelf"
+    },
+    {
+      "stack": "item:minecraft:soul_lantern"
+    },
+    {
+      "stack": "item:apothic_enchanting:deepshelf"
+    },
+    {
+      "stack": "item:apothic_enchanting:soul_touched_deepshelf"
+    },
+    {
+      "stack": "item:apothic_enchanting:soul_touched_sculkshelf"
+    },
+    {
+      "stack": "item:apothic_enchanting:draconic_endshelf"
+    },
+    {
+      "stack": "item:apothic_enchanting:endshelf"
+    },
+    {
+      "stack": "item:apothic_enchanting:infused_breath"
+    },
+    {
+      "stack": "item:minecraft:glistering_melon_slice"
+    },
+    {
+      "stack": "item:mysticalagriculture:nature_seeds"
+    },
+    {
+      "stack": "item:mysticalagriculture:nature_agglomeratio"
+    },
+    {
+      "stack": "item:minecraft:melon"
+    },
+    {
+      "stack": "item:apothic_enchanting:melonshelf"
+    },
+    {
+      "stack": "item:mysticalagriculture:dragon_egg_seeds"
+    },
+    {
+      "stack": "item:apothic_enchanting:library"
+    },
+    {
+      "stack": "item:apothic_enchanting:ender_library"
+    },
+    {
+      "stack": "item:apothic_enchanting:filtering_shelf"
+    },
+    {
+      "stack": "item:apothic_enchanting:seashelf"
+    },
+    {
+      "stack": "item:apotheosis:reforging_table"
+    },
+    {
+      "stack": "item:apotheosis:augmenting_table"
+    },
+    {
+      "stack": "item:apotheosis:simple_reforging_table"
+    },
+    {
+      "stack": "item:allthemodium:alloy_axe"
+    },
+    {
+      "stack": "item:apotheosis:sigil_of_socketing"
+    },
+    {
+      "stack": "item:apotheosis:sigil_of_rebirth"
+    },
+    {
+      "stack": "item:apotheosis:sigil_of_enhancement"
+    },
+    {
+      "stack": "item:apotheosis:gem_fused_slate"
+    },
+    {
+      "stack": "item:apotheosis:gem{\"apotheosis:gem\":\"apotheosis:core/ballast\",\"apotheosis:purity\":\"perfect\"}"
+    },
+    {
+      "stack": "item:apotheosis:gem{\"apotheosis:gem\":\"apotheosis:core/lightning\",\"apotheosis:purity\":\"perfect\"}"
     }
   ],
   "lookup_history": [
+    "item:apotheosis:gem{\"apotheosis:gem\":\"apotheosis:core/ballast\",\"apotheosis:purity\":\"perfect\"}",
+    "item:trashcans:item_trash_can",
+    "item:apotheosis:sigil_of_socketing",
+    "item:minecraft:deepslate",
+    "item:apothic_enchanting:infused_breath",
+    "item:apotheosis:sigil_of_rebirth",
+    "item:apotheosis:gem_fused_slate",
+    "item:apotheosis:sigil_of_enhancement",
+    "item:apotheosis:salvaging_table",
+    "item:minecraft:smithing_table",
+    "item:minecraft:iron_pickaxe",
+    "item:minecraft:iron_axe",
+    "item:kubejs:silent_vibranium_plate",
+    "item:allthemodium:vibranium_plate",
+    "item:allthemodium:alloy_axe",
+    "item:apotheosis:augmenting_table",
+    "item:minecraft:enchanting_table",
+    "item:minecraft:polished_blackstone",
+    "item:apotheosis:reforging_table",
+    "item:apotheosis:simple_reforging_table",
+    "item:apotheosis:gem_cutting_table",
+    "item:allthemodium:allthemodium_rod",
+    "item:apothic_enchanting:weapon_tome",
+    "item:apothic_enchanting:filtering_shelf",
+    "item:minecraft:prismarine_brick_slab",
+    "item:apothic_enchanting:seashelf",
+    "item:apothic_enchanting:infused_seashelf",
+    "item:tombstone:book_of_disenchantment",
+    "item:apothic_enchanting:ender_library",
+    "item:apothic_enchanting:library",
+    "item:minecraft:ender_chest",
+    {
+      "type": "item",
+      "id": "apothic_enchanting:glowing_hellshelf",
+      "amount": 7
+    },
+    "item:apothic_enchanting:pickaxe_tome",
+    "item:apothic_enchanting:geode_shelf",
+    "item:minecraft:budding_amethyst",
+    "item:apothic_enchanting:treasure_shelf",
+    "item:apothic_enchanting:dormant_deepshelf",
     "item:apothic_enchanting:deepshelf",
+    "item:apothic_enchanting:draconic_endshelf",
+    "item:mysticalagradditions:insanium_essence",
+    "item:mysticalagriculture:dragon_egg_seeds",
+    "item:mysticalagriculture:dragon_egg_essence",
+    "item:minecraft:dragon_head",
+    "item:apothic_enchanting:endshelf",
+    "item:minecraft:end_stone_bricks",
+    "item:allthemodium:ancient_bookshelf",
+    "item:apothic_enchanting:melonshelf",
+    "item:minecraft:glistering_melon_slice",
+    "item:minecraft:melon",
+    "item:minecraft:melon_slice",
+    "item:mysticalagriculture:nature_agglomeratio",
+    "item:minecraft:potato",
+    "item:mysticalagriculture:nature_seeds",
+    "item:industrialforegoing:fertilizer",
+    "item:industrialforegoing:hydroponic_bed",
     "item:apothic_enchanting:echoing_deepshelf",
+    "item:apothic_enchanting:echoing_sculkshelf",
+    "item:apothic_enchanting:soul_touched_sculkshelf",
+    "item:apothic_enchanting:soul_touched_deepshelf",
+    "item:minecraft:sculk_catalyst",
+    "item:minecraft:soul_lantern",
+    "item:minecraft:cracked_deepslate_tiles",
+    "item:apothic_enchanting:warden_tendril",
+    "item:apothic_enchanting:heart_seashelf",
+    "item:minecraft:pufferfish",
+    "item:apothic_enchanting:infused_hellshelf",
     "item:minecraft:chainmail_helmet",
     "item:minecraft:chainmail_chestplate",
     "item:minecraft:chainmail_leggings",
     "item:minecraft:chainmail_boots",
     "item:apothic_enchanting:hellshelf",
-    "item:apothic_enchanting:infused_hellshelf",
     "item:minecraft:nether_bricks",
     "item:minecraft:bookshelf",
     {
@@ -456,8 +610,6 @@
     "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:awkward\"}}",
     "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:regeneration\"}}",
     "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:water\"}}",
-    "item:apothic_enchanting:echoing_sculkshelf",
-    "item:allthemodium:alloy_axe",
     "item:enderio:basic_filter",
     "item:minecraft:hopper",
     "item:enderio:vacuum_chest",
@@ -466,10 +618,7 @@
     "item:minecraft:chain",
     "item:alltheores:iron_plate",
     "item:extendedae:tag_export_bus",
-    "item:apotheosis:salvaging_table",
     "item:minecraft:anvil",
-    "item:minecraft:iron_pickaxe",
-    "item:minecraft:iron_axe",
     "item:mob_grinding_utils:ender_inhibitor_on",
     "item:sophisticatedstorage:stack_upgrade_tier_4",
     "item:sophisticatedstorage:stack_upgrade_tier_2",
@@ -494,7 +643,6 @@
     "item:minecraft:white_carpet",
     "item:minecraft:jungle_trapdoor",
     "item:occultism:spawn_egg/possessed_endermite",
-    "item:minecraft:enchanting_table",
     "mekanism_chemical:mekanism:sodium",
     "item:minecraft:sniffer_egg",
     "item:mekanism:advanced_control_circuit",
@@ -914,7 +1062,6 @@
     "item:xnet:redstone_proxy_upd",
     "item:xnet:redstone_proxy",
     "item:industrialforegoing:range_addon_tier_2{\"titanium:augments\":{Range:2.0f}}",
-    "item:trashcans:item_trash_can",
     "item:industrialforegoing:mob_slaughter_factory",
     "item:extendedae:infinity_water_cell",
     "item:advanced_ae:data_entangler",
@@ -1093,7 +1240,6 @@
     "item:rftoolsbuilder:shape_card_def",
     "item:rftoolsbuilder:builder",
     "item:minecraft:bricks",
-    "item:minecraft:deepslate",
     "item:minecraft:calcite",
     "item:mysticalagriculture:stone_seeds",
     "item:mysticalagriculture:amethyst_seeds",
@@ -1155,7 +1301,6 @@
     "item:actuallyadditions:hopping_item_interface",
     "item:extendedae:ex_drive",
     "item:ae2:drive",
-    "item:minecraft:soul_lantern",
     "item:productivebees:snow_nest",
     "bee:productivebees:/obsidian",
     "bee:productivebees:/magmatic",
@@ -1167,7 +1312,6 @@
     },
     "item:productivebees:nether_brick_nest",
     "item:evilcraft:vengeance_pickaxe{\"minecraft:enchantments\":{levels:{\"evilcraft:vengeance\":3,\"minecraft:fortune\":5}}}",
-    "item:tombstone:book_of_disenchantment",
     "item:twilightforest:uncrafting_table",
     "item:twilightforest:maze_map_focus",
     "item:occultism:infused_pickaxe",
@@ -1393,7 +1537,6 @@
     "item:minecraft:sea_lantern",
     "item:minecraft:prismarine",
     "item:minecraft:dark_prismarine",
-    "item:minecraft:pufferfish",
     "item:extendedae:fishbig",
     "item:occultism:spirit_attuned_gem",
     "item:occultism:spirit_attuned_crystal",
@@ -1467,7 +1610,6 @@
     "item:occultism:otherstone",
     "item:occultism:chalk_purple_impure",
     "item:occultism:chalk_purple{\"minecraft:damage\":12}",
-    "item:minecraft:smithing_table",
     "item:minecraft:diamond",
     "item:forbidden_arcanus:xpetrified_orb",
     "item:mob_grinding_utils:xpsolidifier",
@@ -1556,7 +1698,6 @@
     "item:enderstorage:ender_chest",
     "item:pylons:harvester_pylon",
     "item:minecraft:quartz_slab",
-    "item:minecraft:polished_blackstone",
     "item:hostilenetworks:prediction{\"hostilenetworks:data_model\":\"hostilenetworks:ghast\"}",
     "item:mysticalagriculture:tertium_growth_accelerator",
     "item:mysticalagriculture:prudentium_growth_accelerator",
@@ -1575,59 +1716,56 @@
     "item:mekanism:basic_logistical_transporter",
     "item:reliquary:rib_bone",
     "item:ae2:nether_quartz_wrench",
-    "item:hostilenetworks:prediction_matrix",
-    "item:minecraft:clay_ball",
-    "item:minecraft:glass_pane",
-    "#item:c:glass_panes",
-    "item:ae2:crafting_card",
-    "item:hostilenetworks:sim_chamber",
-    "item:cookingforblockheads:sink",
-    "item:minecraft:water_bucket",
-    "item:minecraft:terracotta",
-    "item:minecraft:bucket",
-    "item:hostilenetworks:loot_fabricator",
-    "item:hostilenetworks:blank_data_model",
-    "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:slimy\"}",
-    "item:twilightforest:slime_beetle_spawn_egg",
-    "item:hostilenetworks:deep_learner",
-    "item:hostilenetworks:prediction{\"hostilenetworks:data_model\":\"hostilenetworks:slime\"}",
-    "item:allthemodium:allthemodium_rod",
-    "item:allthemodium:allthemodium_hoe",
-    "item:allthemodium:allthemodium_upgrade_smithing_template",
-    "item:allthemodium:allthemodium_pickaxe",
-    "item:fluxnetworks:flux_dust",
-    "item:akashictome:tome",
-    "#item:c:dyes/green",
-    "item:minecraft:purpur_stairs",
-    "item:minecraft:gold_ingot",
-    "item:minecraft:warden_spawn_egg",
-    "item:hostilenetworks:data_model{\"hostilenetworks:data_model\":\"hostilenetworks:warden\"}",
-    "item:mysticalagriculture:diamond_seeds",
-    "item:xnet:facade",
-    "item:minecraft:paper",
-    "item:minecraft:stick",
-    "item:mekanism:sawdust",
-    "item:mysticalagriculture:imperium_essence",
-    "item:mysticalagriculture:gold_seeds",
-    "item:enderio:vibrant_crystal",
-    "item:enderio:travel_anchor",
-    "item:enderio:soul_binder",
-    "item:enderio:ensouled_chassis",
-    "item:enderio:slice_and_splice",
-    "item:enderio:soul_chain",
-    "item:enderio:z_logic_controller",
-    "item:allthemodium:allthemodium_axe",
-    "item:enderio:soularium_nugget",
-    "item:mekanism:dust_quartz",
-    "#item:c:dusts/quartz",
-    "#item:minecraft:skulls",
-    "item:minecraft:zombie_head",
-    "item:reliquary:zombie_heart",
-    "item:occultism:crushed_end_stone",
-    "item:occultism:large_candle",
-    "item:minecraft:candle"
+    "item:hostilenetworks:prediction_matrix"
   ],
   "craft_history": [
+    "trashcans:item_trash_can",
+    "mysticalagriculture:essence/minecraft/deepslate",
+    "apotheosis:sigil_of_enhancement",
+    "apotheosis:sigil_of_rebirth",
+    "apotheosis:sigil_of_socketing",
+    "apotheosis:gem_fused_slate",
+    "apotheosis:salvaging_table",
+    "minecraft:smithing_table",
+    "minecraft:iron_pickaxe",
+    "minecraft:iron_axe",
+    "minecraft:kjs/allthemodium_vibranium_plate",
+    "minecraft:kjs/allthemodium_unobtainium_plate",
+    "apotheosis:augmenting_table",
+    "minecraft:enchanting_table",
+    "minecraft:polished_blackstone",
+    "apotheosis:reforging_table",
+    "apotheosis:simple_reforging_table",
+    "apotheosis:gem_cutting_table",
+    "apothic_enchanting:weapon_tome",
+    "apothic_enchanting:filtering_shelf",
+    "minecraft:prismarine_brick_slab",
+    "apothic_enchanting:seashelf",
+    "tombstone:book_of_disenchantment",
+    "apothic_enchanting:library",
+    "minecraft:ender_chest",
+    "apothic_enchanting:pickaxe_tome",
+    "apothic_enchanting:geode_shelf",
+    "apothic_enchanting:treasure_shelf",
+    "apothic_enchanting:dormant_deepshelf",
+    "apothic_enchanting:draconic_endshelf",
+    "apothic_enchanting:endshelf",
+    "minecraft:end_stone_bricks",
+    "apothic_enchanting:melonshelf",
+    "minecraft:glistering_melon_slice",
+    "mysticalagriculture:essence/minecraft/melon",
+    "mekanism:sawing/melon",
+    "mysticalagriculture:nature_agglomeratio",
+    "hostilenetworks:living_matter/overworldian/potato",
+    "apothic_enchanting:soul_touched_sculkshelf",
+    "apothic_enchanting:soul_touched_deepshelf",
+    "minecraft:soul_lantern",
+    "apothic_enchanting:echoing_sculkshelf",
+    "apothic_enchanting:echoing_deepshelf",
+    "ae2:network/blocks/interfaces_interface_part",
+    "mekanism:crushing/deepslate/tile_to_cracked_tile",
+    "apothic_enchanting:heart_seashelf",
+    "apothic_enchanting:glowing_hellshelf",
     "apothic_enchanting:hellshelf",
     "minecraft:nether_bricks",
     "minecraft:bookshelf",
@@ -1639,10 +1777,7 @@
     "minecraft:kjs/name_tag",
     "minecraft:chain",
     "extendedae:tag_export_bus",
-    "apotheosis:salvaging_table",
     "minecraft:anvil",
-    "minecraft:iron_pickaxe",
-    "minecraft:iron_axe",
     "mob_grinding_utils:recipe_ender_inhibitor",
     "sophisticatedstorage:stack_upgrade_tier_4",
     "sophisticatedstorage:stack_upgrade_tier_3",
@@ -1662,7 +1797,6 @@
     "minecraft:rail",
     "minecraft:white_carpet",
     "utilitarian:utility/jungle_logs_to_trapdoors",
-    "minecraft:enchanting_table",
     "minecraft:crafting_table",
     "mekanism:module_color_modulation_unit",
     "mekanism:pigment_mixer",
@@ -1898,7 +2032,6 @@
     "extendedae:assembler/ex_export_bus",
     "trashcans:liquid_trash_can",
     "ae2:network/crafting/256k_cpu_crafting_storage",
-    "ae2:network/blocks/interfaces_interface_part",
     "appflux:flux_accessor",
     "appflux:part_flux_accessor",
     "jei:/enderio/alloy_smelting/redstone_alloy_ingot",
@@ -1918,8 +2051,6 @@
     "alltheores:processing/netherite/dust/from_ingot",
     "mekanism:combiner",
     "industrialforegoing:gold_gear",
-    "industrialforegoing:dissolution_chamber/speed_addon_tier_4",
-    "industrialforegoing:dissolution_chamber/speed_addon_tier_3",
     "industrialforegoing:dissolution_chamber/processing_addon_4",
     "industrialforegoing:dissolution_chamber/processing_addon_3",
     "industrialforegoing:dissolution_chamber/efficiency_addon_4",
@@ -1930,7 +2061,6 @@
     "xnet:redstoneproxy_update",
     "xnet:redstone_proxy",
     "industrialforegoing:dissolution_chamber/range_addon_tier_2",
-    "trashcans:item_trash_can",
     "industrialforegoing:mob_slaughter_factory",
     "extendedae:water_cell",
     "advanced_ae:eaequantumdataentangler",
@@ -2064,7 +2194,6 @@
     "rftoolsbuilder:shape_card_def",
     "rftoolsbuilder:builder",
     "minecraft:bricks",
-    "mysticalagriculture:essence/minecraft/deepslate",
     "mysticalagriculture:essence/minecraft/calcite",
     "occultism:smelting/iesnium_ingot_from_dust",
     "integrateddynamics:crafting/cable",
@@ -2099,11 +2228,9 @@
     "powah:crafting/manual",
     "extendedae:assembler/ex_drive",
     "ae2:network/blocks/storage_drive",
-    "minecraft:soul_lantern",
     "minecraft:magma_cream",
     "productivebees:nests/nether_brick_nest",
     "evilcraft:crafting/vengeance_pickaxe",
-    "tombstone:book_of_disenchantment",
     "twilightforest:uncrafting_table",
     "occultism:crafting/book_of_binding_djinni",
     "occultism:crafting/spirit_attuned_pickaxe_head",
@@ -2247,7 +2374,6 @@
     "mekanism:gauge_dropper",
     "minecraft:brush",
     "occultism:crafting/chalk_lime_impure",
-    "minecraft:smithing_table",
     "mysticalagriculture:essence/minecraft/diamond",
     "mob_grinding_utils:recipe_solidifier",
     "mob_grinding_utils:recipe_tank",
@@ -2278,7 +2404,6 @@
     "minecraft:kjs/allthemodium_allthemodium_plate",
     "enderstorage:ender_chest",
     "pylons:harvester_pylon",
-    "minecraft:polished_blackstone",
     "mysticalagriculture:essence/minecraft/green_dye",
     "mysticalagriculture:dye_agglomeratio",
     "minecraft:cyan_dye",
@@ -2455,7 +2580,6 @@
     "mysticalagriculture:infusion_altar",
     "justdirethings:upgrade_hammer",
     "justdirethings:upgrade_dropteleport",
-    "minecraft:ender_chest",
     "justdirethings:celestigem_hoe",
     "justdirethings:gooblock_tier3",
     "minecraft:glass_bottle",
@@ -2618,40 +2742,7 @@
     "silentgear:starmetal_dust",
     "silentgear:crude_hammer",
     "silentgear:crude_tool_parts",
-    "silentgear:nether_star_fragment",
-    "wstweaks:wither_skeleton_skull",
-    "minecraft:soul_torch",
-    "minecraft:oak_fence",
-    "silentgear:tyrian_steel_ingot_from_block",
-    "silentgear:crimson_iron_ingot_from_block",
-    "mob_grinding_utils:recipe_tank_sink",
-    "minecraft:hopper",
-    "silentgear:starlight_charger",
-    "buildinggadgets2:gadget_destruction",
-    "minecraft:kjs/allthemodium_allthemodium_pickaxe",
-    "sophisticatedstorage:packing_tape",
-    "mekanism:metallurgic_infuser",
-    "mekanism:cardboard_box",
-    "minecraft:kjs/silent_allthemodium_plate",
-    "silentgear:material_grader",
-    "silentgear:advanced_upgrade_base",
-    "silentgear:diamond_shard",
-    "silentgear:upgrade_base",
-    "actuallyadditions:lens_of_the_miner",
-    "minecraft:fletching_table",
-    "minecraft:fermented_spider_eye",
-    "integrateddynamics:crafting/squeezer",
-    "minecraft:brewing_stand",
-    "minecraft:golden_apple",
-    "easy_villagers:converter",
-    "actuallyadditions:lens",
-    "silentgear:blueprint_book",
-    "silentgear:crude_knife",
-    "silentgear:stone_anvil",
-    "silentgear:alloy_forge",
-    "silentgear:crimson_steel_ingot",
-    "mekanism:jetpack",
-    "sophisticatedstorage:crafting_upgrade"
+    "silentgear:nether_star_fragment"
   ],
   "recipe_defaults": {
     "added": [],
