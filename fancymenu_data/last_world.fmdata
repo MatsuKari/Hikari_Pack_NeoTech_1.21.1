@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/André Celso/AppData/Roaming/ATLauncher/instances/HikariPackNeoTech1211/saves/HikariWorld1211-2024
+}
+

@@ -1,14 +1,3 @@
-/tp -27751 71 53966
-/gamemode survival
-/gamemode spectator
-/tp -27751 71 53968
-/gamemode survival
-/gamemode spectator
-/gamemode survival
-/tp -27756 72 53965
-/gamemode spectator
-/tp -27756 72 53965
-/gamemode survival
 /tp -27756 72 53965
 /gamemode spectator
 /gamemode survival
@@ -48,3 +37,14 @@
 /time set night
 /time set midnight
 /reload
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/time set day
+/gamemode survival
+/gamemode creative
+/locate biome #minecraft:is_hill
+/tp @s 1623 66 -2086
+/gamemode creative
+/gamemode survival

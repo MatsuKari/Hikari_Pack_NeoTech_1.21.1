@@ -52,18 +52,18 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "jadeaddons.create": {
+    "filter": true,
+    "backtank_capacity": true,
+    "goggles.requires_goggles": true,
+    "goggles": false,
+    "blaze_burner": true,
+    "exact_block": true,
+    "goggles.detailed": false,
+    "placard": true
+  },
   "apothic_spawners": {
     "spawner": true
-  },
-  "tombstone": {
-    "graves": true
-  },
-  "jade_access": {
-    "held_item": true,
-    "sign": true,
-    "block": true,
-    "entity": true,
-    "entity_variant": true
   },
   "mekanismcovers": {
     "cover_component": true
@@ -79,12 +79,73 @@
     "block_properties": false,
     "mod_name": true
   },
-  "apotheosis": {
-    "adventure": true
-  },
   "extendedae": {
     "jade_chamber": true,
     "jade_wireless": true
+  },
+  "ae2": {
+    "part_icon": true,
+    "charger": true,
+    "debug": true,
+    "part_tooltip": true,
+    "grid_node_state": true,
+    "pattern_provider": true,
+    "part_mod_name": true,
+    "power_storage": true,
+    "crafting_monitor": true,
+    "part_name": true
+  },
+  "tesseract": {
+    "tesseract": true,
+    "remove_default": true
+  },
+  "mekanism": {
+    "chemical": true,
+    "remove_builtin": true,
+    "fluid": true,
+    "energy": true,
+    "tooltip_renderer": true
+  },
+  "easy_villagers": {
+    "villager": true,
+    "converter": true,
+    "breeder": true
+  },
+  "reliquary": {
+    "pedestal": true,
+    "altar": true,
+    "mortar": true,
+    "cauldron": true
+  },
+  "cookingforblockheads": {
+    "fridge": true,
+    "oven": true,
+    "sink": true,
+    "milk_jar": true,
+    "toaster": true
+  },
+  "storagedrawers": {
+    "display.stacklimit": true,
+    "main": true,
+    "display.content": true,
+    "display.status": true
+  },
+  "tombstone": {
+    "graves": true
+  },
+  "jade_access": {
+    "held_item": true,
+    "sign": true,
+    "block": true,
+    "entity": true,
+    "entity_variant": true
+  },
+  "apotheosis": {
+    "adventure": true
+  },
+  "occultism": {
+    "foliot": true,
+    "sacrificial": true
   },
   "apothic_enchanting": {
     "ench": true
@@ -100,18 +161,6 @@
     "part": true,
     "squeezer": true
   },
-  "ae2": {
-    "part_icon": true,
-    "charger": true,
-    "debug": true,
-    "part_tooltip": true,
-    "grid_node_state": true,
-    "pattern_provider": true,
-    "part_mod_name": true,
-    "power_storage": true,
-    "crafting_monitor": true,
-    "part_name": true
-  },
   "productivebees": {
     "bee": true,
     "solitary_nest": true,
@@ -121,54 +170,19 @@
   "ars_nouveau": {
     "mob_jar": true
   },
-  "tesseract": {
-    "tesseract": true,
-    "remove_default": true
-  },
   "jadeaddons": {
     "equipment_requirement": ""
   },
-  "mekanism": {
-    "chemical": true,
-    "remove_builtin": true,
-    "fluid": true,
-    "energy": true,
-    "tooltip_renderer": true
-  },
-  "easy_villagers": {
-    "villager": true,
-    "converter": true,
-    "breeder": true
-  },
   "mysticalagradditions": {
     "infused_farmland": true
-  },
-  "reliquary": {
-    "pedestal": true,
-    "altar": true,
-    "mortar": true,
-    "cauldron": true
   },
   "twilightforest": {
     "chiseled_bookshelf_spawner": true,
     "quest_ram_wool": true
   },
-  "cookingforblockheads": {
-    "fridge": true,
-    "oven": true,
-    "sink": true,
-    "milk_jar": true,
-    "toaster": true
-  },
   "mysticalagriculture": {
     "infused_farmland": true,
     "crop": true,
     "inferium_crop": true
-  },
-  "storagedrawers": {
-    "display.stacklimit": true,
-    "main": true,
-    "display.content": true,
-    "display.status": true
   }
 }
