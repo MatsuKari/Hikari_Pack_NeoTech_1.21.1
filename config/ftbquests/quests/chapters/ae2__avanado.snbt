@@ -8,117 +8,11 @@
 	quest_links: [ ]
 	quests: [
 		{
-			id: "37F039C5E488FD01"
-			tasks: [{
-				id: "58E61A8790392071"
-				type: "checkmark"
-			}]
-			x: -5.5d
-			y: -1.0d
-		}
-		{
-			dependencies: [
-				"0AFE28CEDA2031AD"
-				"51C8222179120CD0"
-				"2BBCF90BC49842F1"
-				"1765B9F6CCD24A15"
-				"67BDD36137D91456"
-				"37F039C5E488FD01"
-			]
-			id: "08C610303ACDD37C"
-			tasks: [{
-				consume_items: false
-				id: "142BEDBDC0B478F5"
-				item: { }
-				only_from_crafting: false
-				type: "item"
-			}]
-			x: 3.5d
-			y: -1.0d
-		}
-		{
-			dependencies: ["37F039C5E488FD01"]
-			id: "1765B9F6CCD24A15"
-			tasks: [{
-				consume_items: false
-				id: "7F57D6858525913A"
-				item: { }
-				only_from_crafting: false
-				type: "item"
-			}]
-			x: -4.0d
-			y: -1.0d
-		}
-		{
-			dependencies: [
-				"1765B9F6CCD24A15"
-				"37F039C5E488FD01"
-			]
-			id: "2BBCF90BC49842F1"
-			tasks: [{
-				id: "69121B623878D566"
-				item: { }
-				type: "item"
-			}]
-			x: -2.5d
-			y: -1.0d
-		}
-		{
-			dependencies: [
-				"2BBCF90BC49842F1"
-				"1765B9F6CCD24A15"
-				"37F039C5E488FD01"
-			]
-			id: "67BDD36137D91456"
-			tasks: [{
-				id: "3A36FB7AC6D87F8A"
-				item: { }
-				type: "item"
-			}]
-			x: -1.0d
-			y: -1.0d
-		}
-		{
-			dependencies: [
-				"67BDD36137D91456"
-				"2BBCF90BC49842F1"
-				"1765B9F6CCD24A15"
-				"37F039C5E488FD01"
-			]
-			id: "51C8222179120CD0"
-			tasks: [{
-				id: "65D65410BBCBD376"
-				item: { }
-				type: "item"
-			}]
-			x: 0.5d
-			y: -1.0d
-		}
-		{
-			dependencies: [
-				"51C8222179120CD0"
-				"2BBCF90BC49842F1"
-				"67BDD36137D91456"
-				"1765B9F6CCD24A15"
-				"37F039C5E488FD01"
-			]
-			id: "0AFE28CEDA2031AD"
-			tasks: [{
-				consume_items: false
-				id: "37A11DD0C480C5EB"
-				item: { }
-				only_from_crafting: false
-				type: "item"
-			}]
-			x: 2.0d
-			y: -1.0d
-		}
-		{
 			id: "33CDEFDF583F5C9E"
 			tasks: [{
 				consume_items: false
 				id: "4255CD18E6A181D9"
-				item: { }
+				item: { count: 1, id: "merequester:requester" }
 				only_from_crafting: false
 				type: "item"
 			}]
@@ -129,7 +23,7 @@
 			id: "65034312042770EB"
 			tasks: [{
 				id: "404A1C83D3070407"
-				item: { }
+				item: { count: 1, id: "extendedae:ex_drive" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -140,7 +34,7 @@
 			tasks: [{
 				consume_items: false
 				id: "46953817133EE6D6"
-				item: { }
+				item: { count: 1, id: "extendedae:fishbig" }
 				only_from_crafting: false
 				type: "item"
 			}]

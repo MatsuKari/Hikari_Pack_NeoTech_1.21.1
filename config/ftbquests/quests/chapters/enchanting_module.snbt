@@ -40,7 +40,7 @@
 				consume_items: false
 				count: 15L
 				id: "17EF6F11C9E11883"
-				item: { }
+				item: { count: 1, id: "minecraft:bookshelf" }
 				only_from_crafting: false
 				type: "item"
 			}]
@@ -276,7 +276,7 @@
 					consume_items: false
 					id: "2FF38BAD53D296C4"
 					item: { count: 1, id: "minecraft:comparator" }
-					only_from_crafting: false
+					only_from_crafting: true
 					type: "item"
 				}
 				{
@@ -288,37 +288,30 @@
 				}
 				{
 					consume_items: false
-					id: "6568975715E0F346"
-					item: { count: 1, id: "minecraft:sugar_cane" }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
 					id: "79903AA2393516BF"
-					item: { }
+					item: { count: 1, id: "minecraft:sugar" }
 					only_from_crafting: false
 					type: "item"
 				}
 				{
 					consume_items: false
 					id: "6AD2C33035961F9E"
-					item: { }
-					only_from_crafting: false
+					item: { count: 1, id: "minecraft:fermented_spider_eye" }
+					only_from_crafting: true
 					type: "item"
 				}
 				{
 					consume_items: false
 					id: "614C3C90A8C13115"
-					item: { }
-					only_from_crafting: false
+					item: { count: 1, id: "minecraft:soul_lantern" }
+					only_from_crafting: true
 					type: "item"
 				}
 				{
 					consume_items: false
 					id: "7B2143811370F518"
-					item: { }
-					only_from_crafting: false
+					item: { count: 1, id: "minecraft:clock" }
+					only_from_crafting: true
 					type: "item"
 				}
 			]

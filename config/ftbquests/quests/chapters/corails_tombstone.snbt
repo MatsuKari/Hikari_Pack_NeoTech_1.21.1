@@ -128,15 +128,10 @@
 				"5784A0443C32187A"
 			]
 			id: "6883215A6BDC26F2"
-			rewards: [{
-				description: ""
-				id: "5EE9962814406CD2"
-				type: "toast"
-			}]
 			tasks: [{
 				consume_items: false
 				id: "4DEBACB4FBE13AD3"
-				item: { }
+				item: { count: 1, id: "tombstone:essence_of_undeath" }
 				only_from_crafting: false
 				type: "item"
 			}]

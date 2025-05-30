@@ -63,45 +63,13 @@
 				id: "3B863E6E104EA257"
 				type: "toast"
 			}]
-			tasks: [
-				{
-					consume_items: false
-					id: "5C08A7B27C68BF0A"
-					item: { count: 1, id: "evilcraft:blood_extractor" }
-					only_from_crafting: true
-					type: "item"
-				}
-				{
-					consume_items: false
-					id: "77A7A0081211598C"
-					item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 3L
-					id: "7AA64AA2F0F6F439"
-					item: { }
-					only_from_crafting: true
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 2L
-					id: "388526AF40816845"
-					item: { }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					id: "36F5F78C7E30D66E"
-					item: { }
-					only_from_crafting: false
-					type: "item"
-				}
-			]
+			tasks: [{
+				consume_items: false
+				id: "5C08A7B27C68BF0A"
+				item: { count: 1, id: "evilcraft:blood_extractor" }
+				only_from_crafting: true
+				type: "item"
+			}]
 			x: -10.5d
 			y: -2.0d
 		}
@@ -223,30 +191,13 @@
 				id: "1885496B49BF4077"
 				type: "toast"
 			}]
-			tasks: [
-				{
-					consume_items: false
-					id: "1C44753A3B33BC7D"
-					item: { count: 1, id: "evilcraft:blood_infuser" }
-					only_from_crafting: true
-					type: "item"
-				}
-				{
-					consume_items: false
-					id: "1F0602A91A9D40D9"
-					item: { }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 8L
-					id: "4D17E3DE578C4B9C"
-					item: { }
-					only_from_crafting: false
-					type: "item"
-				}
-			]
+			tasks: [{
+				consume_items: false
+				id: "1C44753A3B33BC7D"
+				item: { count: 1, id: "evilcraft:blood_infuser" }
+				only_from_crafting: true
+				type: "item"
+			}]
 			x: -4.5d
 			y: -2.0d
 		}

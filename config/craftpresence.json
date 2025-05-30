@@ -1,5 +1,5 @@
 {
-  "_schemaVersion": 6,
+  "_schemaVersion": 7,
   "_lastMCVersionId": 767,
   "generalSettings": {
     "detectATLauncherInstance": true,
@@ -178,8 +178,7 @@
     "playerSkinEndpoint": "https://mc-heads.net/avatar/{getOrDefault(player.uuid.short, player.name)}",
     "allowDuplicatePackets": false,
     "maxConnectionAttempts": 10,
-    "enableClassGraph": false,
-    "useClassLoader": false
+    "enableClassGraph": false
   },
   "accessibilitySettings": {
     "languageId": "en_us",
@@ -203,16 +202,10 @@
       "smallImageText": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
       "startTimestamp": "{data.general.time}",
       "endTimestamp": "",
-      "buttons": {
-        "default": {
-          "label": "Example Text",
-          "url": "https://google.com"
-        }
-      }
+      "buttons": {}
     },
     "dynamicIcons": {
-      "MatsuKari": "https://mc-heads.net/avatar/f72c42d027df43e9ae5854ec04d6ee55",
-      "default": "https://via.placeholder.com/256.png"
+      "MatsuKari": "https://mc-heads.net/avatar/f72c42d027df43e9ae5854ec04d6ee55"
     },
     "dynamicVariables": {
       "mods": "{general.mods} Mod(s)",
@@ -225,7 +218,6 @@
       "pack": "Modpack: [{pack.name}]",
       "myPos": "Em: (X : {player.position.x} Y: {player.position.y} Z: {player.position.z})",
       "myCurrentHolding": "{item.message.holding != null ? ('Segurando ' + item.message.holding +'') ",
-      "default": "Example Text",
       "player_info_coordinate": "Em X: {player.position.x}, Z: {player.position.z}",
       "player_info_in": "({custom.player_info.health})",
       "sayMyName": "{player.name}",

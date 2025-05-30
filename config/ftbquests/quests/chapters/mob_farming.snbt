@@ -9,47 +9,13 @@
 	quests: [{
 		dependencies: ["710FEF23C57935EB"]
 		id: "4ECC9844C7099540"
-		tasks: [
-			{
-				consume_items: false
-				id: "7DFA4ADD189C5D49"
-				item: { }
-				only_from_crafting: false
-				type: "item"
-			}
-			{
-				consume_items: false
-				id: "426B0C1ED0CB6F70"
-				item: { components: { "ftbquests:missing_item": "industrialforegoing:speed_addon_2" }, count: 1, id: "ftbquests:missing_item" }
-				only_from_crafting: false
-				optional_task: true
-				type: "item"
-			}
-			{
-				consume_items: false
-				id: "03C2E50FC6474D27"
-				item: { components: { "ftbquests:missing_item": "industrialforegoing:efficiency_addon_2" }, count: 1, id: "ftbquests:missing_item" }
-				only_from_crafting: false
-				optional_task: true
-				type: "item"
-			}
-			{
-				consume_items: false
-				id: "744951DD1FF4CCEC"
-				item: { components: { "ftbquests:missing_item": "industrialforegoing:processing_addon_2" }, count: 1, id: "ftbquests:missing_item" }
-				only_from_crafting: false
-				optional_task: true
-				type: "item"
-			}
-			{
-				consume_items: false
-				id: "502461BF4CCDA343"
-				item: { components: { "ftbquests:missing_item": "industrialforegoing:range_addon2" }, count: 1, id: "ftbquests:missing_item" }
-				only_from_crafting: false
-				optional_task: true
-				type: "item"
-			}
-		]
+		tasks: [{
+			consume_items: false
+			id: "7DFA4ADD189C5D49"
+			item: { count: 1, id: "industrialforegoing:mob_crusher" }
+			only_from_crafting: false
+			type: "item"
+		}]
 		x: -4.0d
 		y: 0.0d
 	}]

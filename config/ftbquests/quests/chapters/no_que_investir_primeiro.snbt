@@ -26,24 +26,13 @@
 			hide_dependency_lines: false
 			icon: {
 				components: {
-					"ftbquests:missing_item": "apotheosis:potion_charm"
+					"minecraft:potion_contents": {
+						potion: "potionsmaster:lapis"
+					}
 				}
-				id: "ftbquests:missing_item"
+				id: "apotheosis:potion_charm"
 			}
 			id: "4B4F529D709C0AD9"
-			rewards: [{
-				auto: "enabled"
-				description: "b"
-				icon: {
-					components: {
-						"ftbquests:missing_item": "apotheosis:potion_charm"
-					}
-					id: "ftbquests:missing_item"
-				}
-				id: "5E54056752D7377D"
-				team_reward: false
-				type: "toast"
-			}]
 			tags: [
 				"charms"
 				"potions_master"
@@ -53,12 +42,15 @@
 				consume_items: false
 				icon: {
 					components: {
-						"ftbquests:missing_item": "apotheosis:potion_charm"
+						"minecraft:potion_contents": {
+							potion: "potionsmaster:lapis"
+						}
 					}
-					id: "ftbquests:missing_item"
+					id: "apotheosis:potion_charm"
 				}
 				id: "0060382B0C9DB6A6"
-				item: { components: { "ftbquests:missing_item": "apotheosis:potion_charm" }, count: 1, id: "ftbquests:missing_item" }
+				item: { components: { "minecraft:potion_contents": { potion: "potionsmaster:lapis" } }, count: 1, id: "apotheosis:potion_charm" }
+				match_components: "fuzzy"
 				only_from_crafting: false
 				optional_task: true
 				type: "item"
@@ -242,91 +234,6 @@
 			y: 3.5d
 		}
 		{
-			id: "1E722C13BC259C3D"
-			tasks: [{
-				consume_items: false
-				id: "11A93C0FEC3A615C"
-				item: { }
-				only_from_crafting: true
-				type: "item"
-			}]
-			x: 1.0d
-			y: -2.0d
-		}
-		{
-			dependencies: ["1E722C13BC259C3D"]
-			id: "3B9E29D62F179036"
-			tasks: [
-				{
-					consume_items: false
-					id: "07ACDD82F5E28B2C"
-					item: { }
-					only_from_crafting: true
-					optional_task: true
-					type: "item"
-				}
-				{
-					consume_items: false
-					id: "3FD529BA6D9B759A"
-					item: { }
-					only_from_crafting: false
-					optional_task: true
-					type: "item"
-				}
-				{
-					consume_items: false
-					id: "1357C7095CE9251B"
-					item: { }
-					only_from_crafting: false
-					optional_task: true
-					type: "item"
-				}
-				{
-					consume_items: false
-					id: "6E2B10D6FBB0497D"
-					item: { }
-					only_from_crafting: false
-					optional_task: true
-					type: "item"
-				}
-			]
-			x: 1.0d
-			y: -3.5d
-		}
-		{
-			dependencies: ["3B9E29D62F179036"]
-			id: "40DD270E7552EA93"
-			min_width: 455
-			tasks: [{
-				id: "648C1BBE90972008"
-				item: { }
-				only_from_crafting: false
-				type: "item"
-			}]
-			x: 1.0d
-			y: -5.0d
-		}
-		{
-			dependencies: ["3B9E29D62F179036"]
-			id: "0F77CF08AD692249"
-			tasks: [
-				{
-					consume_items: false
-					id: "2F63E1DF6AB9A1AC"
-					item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					id: "75E94392F2C858B5"
-					item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-			]
-			x: 2.0d
-			y: -5.0d
-		}
-		{
 			id: "3D8241C681147308"
 			rewards: [
 				{
@@ -352,30 +259,6 @@
 			}]
 			x: -7.5d
 			y: 4.5d
-		}
-		{
-			dependencies: ["3B9E29D62F179036"]
-			id: "0209D8B69D27C000"
-			tasks: [{
-				id: "668A24BB6DE7F8F9"
-				item: { }
-				type: "item"
-			}]
-			x: 3.0d
-			y: -5.0d
-		}
-		{
-			dependencies: ["3B9E29D62F179036"]
-			id: "258D0BD178520DCB"
-			tasks: [{
-				consume_items: false
-				id: "7A80839087CC09CD"
-				item: { }
-				only_from_crafting: false
-				type: "item"
-			}]
-			x: 0.0d
-			y: -5.0d
 		}
 		{
 			id: "1769FDDA89D84A28"
@@ -437,15 +320,10 @@
 				"29D7ACF181CF1A45"
 			]
 			id: "710FEF23C57935EB"
-			rewards: [{
-				description: ""
-				id: "09FC793066B2CE87"
-				type: "toast"
-			}]
 			tasks: [{
 				consume_items: false
 				id: "2C4507143B0184ED"
-				item: { }
+				item: { count: 1, id: "justdirethings:experienceholder" }
 				only_from_crafting: true
 				type: "item"
 			}]
@@ -487,19 +365,6 @@
 			}]
 			x: -12.5d
 			y: -2.0d
-		}
-		{
-			id: "7DA8BF72531BF402"
-			optional: true
-			tasks: [{
-				consume_items: false
-				id: "774360085C0F766E"
-				item: { }
-				only_from_crafting: true
-				type: "item"
-			}]
-			x: -14.0d
-			y: 4.0d
 		}
 		{
 			dependencies: ["757FDA8015B193D6"]
@@ -820,181 +685,6 @@
 			y: 2.5d
 		}
 		{
-			dependencies: ["2C717CF7D9CE20EA"]
-			id: "5DE3D44E6AC6EDBF"
-			min_width: 300
-			rewards: [{
-				description: ""
-				id: "538C20D394EC047F"
-				type: "toast"
-			}]
-			shape: "pentagon"
-			tasks: [
-				{
-					consume_items: false
-					id: "23CB5E16BE4C41C6"
-					item: { }
-					only_from_crafting: true
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 2L
-					id: "50AF6F8422523F20"
-					item: { }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 3L
-					id: "062B42C402DCD033"
-					item: { }
-					only_from_crafting: true
-					type: "item"
-				}
-				{
-					consume_items: false
-					id: "3DAD95898D437226"
-					item: { }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 2L
-					id: "1E14F07BDE5A8BBA"
-					item: { }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					id: "7343CDA3F0FA4BF4"
-					item: { }
-					only_from_crafting: false
-					type: "item"
-				}
-			]
-			x: -12.5d
-			y: -6.5d
-		}
-		{
-			dependencies: ["4782948A24DD7717"]
-			hide_dependency_lines: true
-			id: "2C717CF7D9CE20EA"
-			rewards: [{
-				description: ""
-				id: "3F90E11CAC053ED3"
-				type: "toast"
-			}]
-			shape: "diamond"
-			tasks: [
-				{
-					consume_items: false
-					id: "0582B495E0372936"
-					item: { }
-					only_from_crafting: true
-					type: "item"
-				}
-				{
-					consume_items: false
-					id: "613927C7BCBE6332"
-					item: { count: 1, id: "minecraft:elytra" }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 4L
-					id: "51B6653ADA52EE0E"
-					item: { }
-					only_from_crafting: true
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 36L
-					id: "4DDB6933A2C1027A"
-					item: { }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 4L
-					id: "63DE457E1D7C7413"
-					item: { }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					dimension: "minecraft:the_end"
-					id: "5878618E5ED31AE3"
-					type: "dimension"
-				}
-			]
-			x: -14.0d
-			y: -6.5d
-		}
-		{
-			dependencies: [
-				"2C717CF7D9CE20EA"
-				"5DE3D44E6AC6EDBF"
-			]
-			id: "53A49105C69332EB"
-			min_width: 300
-			rewards: [{
-				description: ""
-				id: "6E9B96B0E247116F"
-				type: "toast"
-			}]
-			shape: "hexagon"
-			tasks: [
-				{
-					consume_items: false
-					id: "1FC02B6054220C98"
-					item: { }
-					only_from_crafting: true
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 2L
-					id: "6E6DDF5067B9543C"
-					item: { }
-					only_from_crafting: true
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 2L
-					id: "38AB5F9ECEBB6983"
-					item: { }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 2L
-					id: "0A67BB5122A89033"
-					item: { }
-					only_from_crafting: true
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 2L
-					id: "55A9B74ED511D124"
-					item: { }
-					only_from_crafting: true
-					type: "item"
-				}
-			]
-			x: -11.0d
-			y: -6.5d
-		}
-		{
 			dependencies: ["3D2BE04543566B4D"]
 			id: "0106AB27D975BAB0"
 			rewards: [{
@@ -1006,7 +696,7 @@
 				consume_items: false
 				count: 5L
 				id: "634ED24A248D10D0"
-				item: { }
+				item: { count: 1, id: "fluxnetworks:flux_block" }
 				only_from_crafting: false
 				type: "item"
 			}]
@@ -1021,35 +711,13 @@
 				"3D2BE04543566B4D"
 			]
 			id: "3F2D2264E97FE3A2"
-			rewards: [{
-				description: ""
-				id: "52CEEB6E82BEF130"
-				type: "toast"
+			tasks: [{
+				consume_items: false
+				id: "4E5939395F6439C5"
+				item: { count: 1, id: "fluxnetworks:flux_point" }
+				only_from_crafting: true
+				type: "item"
 			}]
-			tasks: [
-				{
-					consume_items: false
-					id: "4E5939395F6439C5"
-					item: { }
-					only_from_crafting: true
-					type: "item"
-				}
-				{
-					consume_items: false
-					id: "75BB7B0A4DAE9532"
-					item: { }
-					only_from_crafting: true
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 4L
-					id: "6653250049012039"
-					item: { }
-					only_from_crafting: true
-					type: "item"
-				}
-			]
 			x: -8.0d
 			y: 1.0d
 		}
@@ -1060,35 +728,13 @@
 				"3D2BE04543566B4D"
 			]
 			id: "7F16728B542B2786"
-			rewards: [{
-				description: ""
-				id: "7B2540317A900390"
-				type: "toast"
+			tasks: [{
+				consume_items: false
+				id: "2530FDA182352C0A"
+				item: { count: 1, id: "fluxnetworks:flux_plug" }
+				only_from_crafting: true
+				type: "item"
 			}]
-			tasks: [
-				{
-					consume_items: false
-					id: "2530FDA182352C0A"
-					item: { }
-					only_from_crafting: true
-					type: "item"
-				}
-				{
-					consume_items: false
-					id: "3A165A1916C3573F"
-					item: { }
-					only_from_crafting: true
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 4L
-					id: "4CFD2C58257DF6B5"
-					item: { }
-					only_from_crafting: true
-					type: "item"
-				}
-			]
 			x: -9.5d
 			y: 1.0d
 		}
@@ -1098,75 +744,15 @@
 				"3D2BE04543566B4D"
 			]
 			id: "43F2769CC0BF340A"
-			rewards: [{
-				description: ""
-				id: "6FA003A30E64E580"
-				type: "toast"
-			}]
-			tasks: [
-				{
-					consume_items: false
-					id: "7821CC880D956138"
-					item: { }
-					only_from_crafting: true
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 5L
-					id: "6B4D3B1D6CC8712C"
-					item: { }
-					only_from_crafting: true
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 2L
-					id: "37E2CD4D41769244"
-					item: { }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					id: "39F6E9BAE6FDDF03"
-					item: { }
-					only_from_crafting: true
-					type: "item"
-				}
-			]
-			x: -11.0d
-			y: 1.0d
-		}
-		{
-			dependencies: ["3B9E29D62F179036"]
-			id: "1C1351ECF99033BC"
-			tasks: [{
-				count: 3L
-				id: "428BD88B6B1E07FC"
-				item: { }
-				type: "item"
-			}]
-			x: -1.0d
-			y: -5.0d
-		}
-		{
-			dependencies: [
-				"3B9E29D62F179036"
-				"2B4A113A56A15894"
-			]
-			id: "3054B6FBFE09D98D"
-			optional: true
 			tasks: [{
 				consume_items: false
-				count: 10L
-				id: "12A156FEC5BB03D9"
-				item: { }
-				only_from_crafting: false
+				id: "7821CC880D956138"
+				item: { count: 1, id: "fluxnetworks:flux_controller" }
+				only_from_crafting: true
 				type: "item"
 			}]
-			x: 3.0d
-			y: -4.0d
+			x: -11.0d
+			y: 1.0d
 		}
 		{
 			dependencies: [
@@ -1234,23 +820,11 @@
 			y: -6.5d
 		}
 		{
-			id: "1DD5FE3B69966882"
-			tasks: [{
-				consume_items: false
-				id: "623C44DFF14729B5"
-				item: { components: { "ftbquests:missing_item": "constructionwand:infinity_wand" }, count: 1, id: "ftbquests:missing_item" }
-				only_from_crafting: true
-				type: "item"
-			}]
-			x: -14.0d
-			y: 5.5d
-		}
-		{
 			id: "5B1263F4F91F3E16"
 			tasks: [{
 				consume_items: false
 				id: "056886991539F925"
-				item: { components: { "ftbquests:missing_item": "eccentrictome:tome" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "akashictome:tome" }
 				only_from_crafting: true
 				type: "item"
 			}]
@@ -1263,7 +837,7 @@
 			tasks: [{
 				consume_items: false
 				id: "0484AA510DDC569B"
-				item: { }
+				item: { count: 1, id: "morphtool:tool" }
 				only_from_crafting: true
 				type: "item"
 			}]
@@ -1271,24 +845,11 @@
 			y: 7.0d
 		}
 		{
-			dependencies: ["1DD5FE3B69966882"]
-			id: "3B19D103BD01AA5F"
-			tasks: [{
-				consume_items: false
-				id: "5A913829227EFE7F"
-				item: { }
-				only_from_crafting: true
-				type: "item"
-			}]
-			x: -12.5d
-			y: 5.5d
-		}
-		{
 			id: "3717B47653F08779"
 			tasks: [{
 				consume_items: false
 				id: "3F16846FB5B2F745"
-				item: { }
+				item: { count: 1, id: "craftingstation:crafting_station" }
 				only_from_crafting: true
 				type: "item"
 			}]

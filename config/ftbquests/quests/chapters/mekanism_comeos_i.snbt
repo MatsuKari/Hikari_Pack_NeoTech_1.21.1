@@ -127,30 +127,13 @@
 					xp: 20
 				}
 			]
-			tasks: [
-				{
-					consume_items: true
-					count: 4L
-					id: "20C1FAF5B2264E1A"
-					item: { count: 1, id: "mekanism:ingot_steel" }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					id: "1D79B403A147B898"
-					item: { count: 1, id: "mekanism:ingot_osmium" }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 4L
-					id: "6C6D08C69EE197F9"
-					item: { count: 1, id: "minecraft:glass" }
-					type: "item"
-				}
-			]
+			tasks: [{
+				consume_items: false
+				id: "4554E1ACFF6D69BF"
+				item: { count: 1, id: "mekanism:steel_casing" }
+				only_from_crafting: false
+				type: "item"
+			}]
 			x: -2.5d
 			y: 0.5d
 		}
@@ -848,24 +831,31 @@
 			y: 4.0d
 		}
 		{
+			icon: {
+				id: "mekanism:cardboard_box"
+			}
 			id: "746F09E82CAC4575"
 			rewards: [{
 				description: ""
+				icon: {
+					id: "mekanism:cardboard_box"
+				}
 				id: "4FDBEB59234BBB4C"
 				type: "toast"
 			}]
 			tasks: [
 				{
 					consume_items: false
+					count: 4L
 					id: "15ED4E390D9E57D9"
-					item: { }
-					only_from_crafting: true
+					item: { count: 1, id: "mekanism:sawdust" }
+					only_from_crafting: false
 					type: "item"
 				}
 				{
 					consume_items: false
 					id: "6DB5CA3F3F188C9F"
-					item: { }
+					item: { count: 1, id: "mekanism:cardboard_box" }
 					only_from_crafting: true
 					type: "item"
 				}

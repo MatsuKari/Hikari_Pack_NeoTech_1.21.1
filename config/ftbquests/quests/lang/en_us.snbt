@@ -6,7 +6,6 @@
 	chapter.1E6263F4CE5BB26C.title: "Mekanism: Começos I"
 	chapter.2929FCC822B990D8.title: "Easy Villagers"
 	chapter.2BA73598999659E0.title: "AE2 - Começos"
-	chapter.2E90F229322008E3.title: "Thermal - Basic"
 	chapter.312AFDCFA0BE452B.title: "Occultism"
 	chapter.320111664615CD36.title: "Enchanting Module"
 	chapter.33D82341FAF62606.title: "Mineração"
@@ -48,7 +47,6 @@
 	]
 	quest.011E8793FE9AEA02.title: "Combustível - Rumo ao Espaço Parte I"
 	quest.017B4E4AFCD9379C.quest_desc: ["Para criar &2Velas&r, primeiro é necessário fabricar um &bCutelo&r, com ele você deve matar alguns mobs pacíficos como &dovelhas, porcos, cavalos, etc&r. para conseguir um pouco de &3Sebo&r. Junte &3Sebo&r + &bLinha&r numa &9Crafting Grid&r para criar &2Velas&r. Elas são essenciais para os &0Rituais do Occultism&r"]
-	quest.0209D8B69D27C000.quest_desc: ["Use os &aBotany Pots&r ao seu favor e farm ao menos um pouco de &aCacto&r ao colocar um &eAreia&r e um &aCacto&r em um &aBotany Pot&r. Vale ressaltar que quanto mais forte for o &9Solo&r em que a planta foi plantada, &cmais rápido ela cresce&r "]
 	quest.0281F6E4CCE938F7.quest_desc: ["Pegue seu melhor equipamento, suas melhores Gemas e que começe a Festa"]
 	quest.02B7DBFB1D2BB53F.quest_desc: [
 		"Área de Construção da Mesa de Encantamentos Automática:"
@@ -96,7 +94,6 @@
 	quest.0E8A8452E5476B64.quest_desc: ["Crie &0Dark Sticks&r com &cDuas Tábuas de Undead Log&r e uma &0Dark Gem&r"]
 	quest.0E8A8452E5476B64.title: "Fabrique 2x Dark Stick"
 	quest.0F1E24C3CE252A7B.title: "Mochilão Brabo"
-	quest.0F77CF08AD692249.quest_desc: ["O &aBotany Pot&r também serve como uma boa farm de madeira no começo, apenas arme o setup e deixe farmando"]
 	quest.1049BF448D128D8B.quest_desc: ["&6Soul Extractor&r é a máquina que você precisa fazer para obter &bCrops de Mobs&r. É com ela que você extrai a alma de mobs e armazena em &6Soul Jar&r, (Veja o &aJEI&r para ver as receitas) consumindo &aItems Loot&r daquele Mob. Estes &6Soul Jars&r vão nas receitas das Seeds"]
 	quest.1049BF448D128D8B.quest_subtitle: "Soul Extractor"
 	quest.106DAD9FD0153B11.quest_desc: ["Mesma funcionalidade do anterior, porém com mais opções de alimentação"]
@@ -132,8 +129,6 @@
 	quest.1722EAA94A958616.quest_desc: ["Consiga alguma &0Dark Gem&r. Ela é o recurso mais básico do &cEvil Craft&r e é obtida quebrando &dDark Ore&r (Veja o &7JEI/REI&r na aba do &aJust Enough Resources&r para saber o range de spawn do Minério)"]
 	quest.1722EAA94A958616.quest_subtitle: "Consiga Alguma Dark Gem"
 	quest.1722EAA94A958616.title: "Começando Mal"
-	quest.1765B9F6CCD24A15.quest_desc: ["Sky Steel é a liga base do Mega Cells. os principais dispositivos do MEGA CELLS para o AE2 são feitos com ele"]
-	quest.1765B9F6CCD24A15.quest_subtitle: "Sky Steel"
 	quest.1769FDDA89D84A28.quest_desc: ["Está longe de casa mas não quer dormir com uma cama simples pois não quer alterar o seu spawn point? Os &aSacos de Dormir&r do mod &cConforts&r te ajudam nisso, eles passam a noite sem alterar o spawn point e podem ser levados facilmente para qualquer lugar"]
 	quest.1769FDDA89D84A28.quest_subtitle: "Dormindo Fora de Casa"
 	quest.1769FDDA89D84A28.title: "Sacos de Dormir"
@@ -166,16 +161,11 @@
 	]
 	quest.1C0D6270CE601427.quest_subtitle: "Infused Hellshelf"
 	quest.1C0D6270CE601427.title: "Enchant Infusion - Enchantment Setup Tier I"
-	quest.1C1351ECF99033BC.quest_desc: ["Use os &aBotany Pots&r ao seu favor e farm ao menos um pouco de &dDemon Dream Fruit&r ao colocar um &9solo&r e uma &5Semente de Sonho Demoníaco&r em um &aBotany Pot&r. Vale ressaltar que quanto mais forte for o &9Solo&r em que a planta foi plantada, &bmais rápido ela cresce&r. &cEsta Quest libera a aba de Quests do Occultism&r"]
 	quest.1C7FD2A67D3EAE4E.quest_desc: ["Esta será sua primeira forma de voo no Early Game. Não é voo Criativo mas já é alguma coisa."]
 	quest.1C7FD2A67D3EAE4E.quest_subtitle: "Voar Voar, Subir Subir"
 	quest.1CCE7BBCC9294C54.quest_desc: ["Com este &6Foguete Tier II&r você consegue voar para mais longe, assim conseguindo visitar planetas mais distantes da &aTerra&r"]
 	quest.1CCE7BBCC9294C54.quest_subtitle: "Fabrique o Foguete Tier 2"
 	quest.1CCE7BBCC9294C54.title: "Foguete Tier II"
-	quest.1DD5FE3B69966882.quest_desc: ["A Infinity Wand é uma varinha de Construção que facilitará sua vida Construindo. Possui vários modos de construção e diferente das outras varinhas de construção, a Infinity Wand não gasta durabilidade quando usada"]
-	quest.1DD5FE3B69966882.quest_subtitle: "Infinity Wand"
-	quest.1DD5FE3B69966882.title: "Cajado da Odebretch"
-	quest.1E722C13BC259C3D.quest_desc: ["Este &2Botany Pot&r ajudará você a produzir em grandes quantidades, &arecursos naturais&r, que por sua vez podem ser transformados em &aBiocombustível&r. "]
 	quest.1EBF115482C95691.quest_desc: ["Coloque um &5Minério Bruto de Ferro Carmesim&r numa &eEnrichment Chamber&r do &aMekanism&r para obter &d3x Pó de Ferro Carmesim&r"]
 	quest.1EBF115482C95691.quest_subtitle: "Por que 1 se posso ter 3?"
 	quest.1EBF115482C95691.title: "Triade Carmesim"
@@ -195,8 +185,6 @@
 	quest.242AA40EC5E93C8D.quest_desc: ["Atrai Items dropados para a mochila à distância. Não possui filtro"]
 	quest.242F5C223BA3B36C.quest_desc: ["&5Madeira do Outro Mundo&r é um material primordial na progressão do &0Occultism&r, você consegue adquirí-la comendo uma &dFruta de Sonho Demoníaco&r (&bO Efeito de Visão do Outro Mundo&r &cPRECISA&r estar ativo) e quebrando &9árvores comuns&r, que estarão como &3Árvores do Outro Mundo do Occultism&r se estiver sob o efeito da fruta. &cOBS!!!&r Você só pode colher recursos do outro mundo a princípio, &capenas sob o efeito da Fruta de Sonho Demníaco&r. Quebrar uma árvore de carvalho sem o efeito &cNÃO FARÁ DROPAR&r &5Madeira do Outro Mundo&r"]
 	quest.242F5C223BA3B36C.title: "Consiga um Pouco de Madeira do Outro Mundo"
-	quest.258D0BD178520DCB.quest_desc: ["Use os &aBotany Pots&r ao seu favor e farm ao menos um pouco de &aInferium Essence&r ao colocar um &9solo&r e uma &aSemente de Inferium&r em um &aBotany Pot&r. Vale ressaltar que quanto mais forte for o &9Solo&r em que a planta foi plantada, &cmais rápido ela cresce&r "]
-	quest.258D0BD178520DCB.title: "Plante Inferium no Botany Pot"
 	quest.2599B1E599F3371F.quest_desc: ["Este é o primeiro passo para a Visão de Minérios. Cada uma dessas poções pode ser usada em um crafting de charm"]
 	quest.2599B1E599F3371F.title: "Charms de Minério Parte I"
 	quest.25CB2D6BCBE6D2BC.quest_desc: ["Faça &8Carbono Enriquecido&r na &aEnrichment Chamber&r com &0Carvão&r"]
@@ -234,8 +222,6 @@
 	quest.2B4A113A56A15894.quest_desc: ["Consiga alguns &6Arbustos Secos&r e os &cInfunda com Sangue no Blood Infuser&r para criar &4Undead Sappling&r. &aEsta Quest&r Libera a quest de &cUndead Log&r no &9Botany Pot&r no Capítulo \"&bNo que Investir Primeiro&r\""]
 	quest.2B4A113A56A15894.quest_subtitle: "Undead Sappling"
 	quest.2B4A113A56A15894.title: "Morte Natural"
-	quest.2BBCF90BC49842F1.quest_desc: ["O Inscriber Accumulation Press é a prensa utilizada para fazer os circuitos do Mega Cells, que serão usados para fazer o processador do Mega Cells, utilizado em vários craftings. A Forma mais simples de se obtê-lo é no Inscriber (Veja JEI)"]
-	quest.2BBCF90BC49842F1.quest_subtitle: "Utilidade"
 	quest.2BC9A4BFD24E4E6F.quest_desc: [
 		"Construa 14 Turbinas Max Size [Base 17x17] [Altura: 18], sem condensers. Para o frame de cada turbina:"
 		"-Vents: 345"
@@ -252,8 +238,6 @@
 	quest.2BC9A4BFD24E4E6F.title: "Energia End Game Mekanism"
 	quest.2C07D627583B7A94.quest_desc: ["O &dFogo Místico&r é um fogo que transforma alguns dos items do &0Occultism&r. Veja o seu &6Dicionário de Espíritos&r para mais &eInformações&r sobre ele. Para criar &dFogo Místico&r simplesmente jogue uma &aDemon Fruit&r no chão e ateie fogo nela com um &7Flint Steel&r"]
 	quest.2C07D627583B7A94.title: "Fogo Místico"
-	quest.2C717CF7D9CE20EA.quest_desc: ["Este é um Item Importante na Fabricação do &eAngel Ring&r (Veja na próxima quest nessa linha)."]
-	quest.2C717CF7D9CE20EA.title: "Um Passo para o Céu"
 	quest.2D046DB36B56C0CB.quest_subtitle: "Sink"
 	quest.2D046DB36B56C0CB.title: "Água Infinita em 1 Bloco"
 	quest.2D3059FE58F2BFF1.title: "Halo de XP"
@@ -262,7 +246,6 @@
 	quest.2E80BDDAB239606C.quest_desc: ["Este &dCristal Místico Sintonizado&r é necessário no Ritual que você deve executar para conseguir o livro do &cEvil Craft&r (&eDicas para o Referido Ritual nas quest anteriores nesta thread&r). Pegue &b8 Diamantes&r e os jogue no &dFogo Místico&r para serem transformados em &dGema Mística Sintonizada&r, depois siga a receita do &dCristal Místico&r com o seu JEI/REI em uma Crafting Grid"]
 	quest.2FDA086042DB946C.quest_subtitle: "Sua Batata tá Açando"
 	quest.2FDABC030FD27618.title: "Enchantment Clues - Parte II"
-	quest.3054B6FBFE09D98D.quest_desc: ["Farme Undead Log no Botany Pot "]
 	quest.30ABE5C4A11FD0DA.quest_desc: ["&dFerro Carmesim&r é um material primordial para o &9Silent Gear&r, é a partir dele que você fará ligas ainda mais poderosas neste mod"]
 	quest.30ABE5C4A11FD0DA.title: "Vermelho como Sangue"
 	quest.30E853C64AC38CA4.quest_desc: [
@@ -288,7 +271,6 @@
 	quest.3717B47653F08779.quest_desc: ["O Mod Crafting Station traz de volta à 1.20.1 a Crafting Station do Tinkers Construct. Nela você pode Craftar sem se preocupar de seus items sairem da Mesa quando tu fecha a GUI"]
 	quest.3717B47653F08779.quest_subtitle: "Fabrique uma Crafting Station"
 	quest.378D4B7B6B5E6C92.title: "Um Barril ainda Maior"
-	quest.37F039C5E488FD01.quest_desc: ["Esta trilha lhe apresentará os principais items de interesse do Addon do Applied Energistics 2, o MEGA CELLS"]
 	quest.3A23434628C513B6.quest_desc: [
 		"Em um Setup de Encantamento Vanilla, você obtém um Máximo de &a15&r pontos de &aEterna&r, usando &e15 Estantes Vanilla&r. Para progredir no Módulo de Encantamentos do Apotheosis, deve-se criar &6Estantes&r que lhe fornecerão melhores status de &cQuanta&r, &aEterna&r e &dArcana&r. As &cHellshelves&r e &bSeashelves&r são as primeiras nesta progressão."
 		"&aEterna&r após esta quest: &a22.50/50.00&r"
@@ -299,8 +281,6 @@
 	quest.3A917438C23DE7F5.quest_desc: ["Esta &5Fluix Essence Seed&r, após chegar a &amaturidade máxima&r, lhe rende &dFluix Essence&r que pode ser convertido em &dFluix Cristal&r do AE2"]
 	quest.3A917438C23DE7F5.quest_subtitle: "Fluix Essence Seed"
 	quest.3AA2CD75D53BD56D.quest_desc: ["Crie um &cBlood Infusion Core&r ao Envolver uma &4Dark Power Gem&r com &4Hardened Blood Shard&r na &eCrafting Grid&r "]
-	quest.3B9E29D62F179036.quest_desc: ["Recomenda-se que use o &aBotany Pot&r com um bom &2Bloco Solo&r, de pelo menos nível &6Tertium&r ou acima"]
-	quest.3B9E29D62F179036.title: "Mystical Agriculture Farmlands"
 	quest.3C9572F61C11442F.quest_desc: [
 		"&6Desh&r é um &bMetal&r encontrado na &9Lua&r, é com ele que você consegue fazer o &dFoguete&r Tier &e2&r do &aAd Astra&r. Então obtenha um pouco dele e construa o &apróximo&r &cTier de Foguete&r para poder explorar &boutros planetas&r."
 		"É possível construir &6Portas de Desh&r também"
@@ -324,7 +304,6 @@
 	quest.3FE9C482C589265F.title: "Fundidora de Ligas"
 	quest.4042EEE7D524E350.quest_desc: ["Ao crescer gera &bCertus Quartz Essence&r que pode ser convertido em &bCertus Quartzo&r"]
 	quest.4042EEE7D524E350.quest_subtitle: "Certus Quartz Seed"
-	quest.40DD270E7552EA93.quest_desc: ["Use os &aBotany Pots&r ao seu favor e farm ao menos um pouco de &aMelância&r ao colocar um &9solo&r e uma &aSemente de Melância&r em um &aBotany Pot&r. Vale ressaltar que quanto mais forte for o &9Solo&r em que a planta foi plantada, &6mais rápido ela cresce&r. &cAtenção, esta Quest libera a progressão do Gas Burning Generator do Mekanism&r, pois você precisa de uma boa fonte de &aBiomassa&r para gerar &dEtileno&r e consequentemente &eEnergia&r"]
 	quest.4129EC0CE1149A28.quest_desc: ["O &cBlood Extractor&r é a primeira ferramenta do &4Evil Craft&r que você deve fazer. É com ela que você extrai &cBlood (Sangue)&r de mobs. Segure ela no &eInventário&r enquanto mata mobs com uma ferramenta &a(Espada ou Atomic Disassembler por exemplo).&r É possível expandir o &cInventário de Sangue do Blood Extractor&r ao fabricar mais &cBlood Extractors&r &be juntá-los numa Crafting Grid&r. É recomendável ainda você fazer vários deles e juntá-los numa grid 3x3 e funciona."]
 	quest.413BC9DFDCDDB029.quest_desc: ["O &dGrowth Accelerator&r &cAcelera&r o &eCrescimento de Crops&r do &bMystical Agriculture&r em um raio (&3Veja a Tooltip&r) e quanto melhor o &6Tier&r, &2mais rápido&r as plantas crescem e &1maior&r é o raio. Este é o Tier &a1&r"]
 	quest.413BC9DFDCDDB029.quest_subtitle: "Inferium Growth Accelerator"
@@ -393,8 +372,6 @@
 	quest.52F1FE8FD35FDFC2.title: "Geneticista do Twitter"
 	quest.5351E73408E413AD.quest_desc: ["Ao crescer gera &6Netherite Essence&r que pode ser convertido em &6Netherite&r"]
 	quest.5351E73408E413AD.quest_subtitle: "Netherite Seed"
-	quest.53A49105C69332EB.quest_desc: ["Com este Upgrade do &eAngel Ring&r ele deixará de consumir &eXP&r e passará a consumir &aEnergia (Forge Energy ou FE)&r. Pode ser &3Carregado manualmente&r ao colocá-lo em um inventário com &aEnergia&r como &aEnergy Cubes&r do Mekanism ou ainda &cCarregado Automaticamente&r via &bRede Wireless&r do Flux Networks &c(Necessita de um Controller de Flux para a Rede para funcionar)&r"]
-	quest.53A49105C69332EB.title: "Voo Energético"
 	quest.53F0F4522C05CFE4.quest_desc: ["Esta Teia do Apotheosis permite que você remova qualquer madição de items, ferramentas e armaduras quando usada"]
 	quest.53F0F4522C05CFE4.title: "Adeus Maldições"
 	quest.541DCA9A33AA23F8.quest_desc: ["Mais espaço interno para Items e Upgrades"]
@@ -405,18 +382,6 @@
 	quest.5501E6215350526B.title: "Ritual de Eziveus"
 	quest.554ADCC09024A861.quest_desc: ["Planeta Super quente. Ideal pra deixar as torres de evaporação do Mekanism"]
 	quest.554ADCC09024A861.quest_subtitle: "Vênus"
-	quest.55D5718C6D48EE1C.quest_desc: [
-		"&6Barrels + Advanced Magnet Upgrades&r: Cada Barrel capturará tipos de items diferentes e rejeitará outros. Um dos baús atrairá apenas gemas e rejeitará qualquer outro item enquanto o outro atrairá quaisquer outros items e rejeitará apenas as gemas"
-		"&aStorage Buses&r + &9Quantum Ring&r: Um dos &aStorage Buses&r com &bFuzzy Card&r no modo [&7Match Any&r] será ligado direto à um &9Quantum Ring&r para acesso direto às gemas remotamente sem que elas se acumulem no sistema, o que seria problemático. O Outro &aStorage Bus&r será usado no &6Outro Barrel&r de Equipamentos do Apotheosis para"
-		"separar quais itens irão para o lixo e quais serão enviados para o Sistema via Ender Chest "
-		"&dDreadful Dirt&r: Acelerará o Spawn de Endermans na Farm"
-		"&eElevadores&r: Facilitarão o acesso entre Piso Superior e Inferior da Farm"
-		"&6Desmagnetizador&r: Evitará que os Magnets do Player puxem items indesejados dentro da área da farm"
-		"&cTag Bus&r: Descarte de Mochilas dos Endermans"
-		"Calcite: Bloco de Construção da Estrutura"
-		"&7Trash&r: Void de Items Indesejados"
-	]
-	quest.55D5718C6D48EE1C.quest_subtitle: "Tutorial"
 	quest.55F53AB24B9C3432.quest_desc: [
 		"Para Obter &bCertus Quartz Crystal&r você precisa quebrar um &bAglomerado de Certus Quartz&r (&bCertus Quartz Cluster&r) que é o &dEstágio Final de Crescimento&r do &bCertus Quartz&r. Caso você quebre antes da maturidade total, você receberá &bPó de Certus Quartz&r"
 		"Lembrando que o &bCertus Quartz&r é afetado por &dFortuna&r, então se você tiver uma &aPicareta&r ou um &9Annihilation Plane&r encantado com &dFortuna&r, você receberá mais &bCertus Quartz&r"
@@ -437,8 +402,6 @@
 	quest.5784A0443C32187A.quest_desc: ["Combine &8Pedra&r e &9Cinzas de Túmulo&r para criar &0Dark Marble&r"]
 	quest.5784A0443C32187A.quest_subtitle: "Grave Marbles"
 	quest.5784A0443C32187A.title: "Fabrique Grave Marbles"
-	quest.58063C92BF648B25.quest_desc: ["[\"Assim como um \" , { \"text\": \"Fluid Encapsulator\", \"underlined\": \"true\", \"color\":\"aqua\",\"bold\":\"true\",\"clickEvent\": { \"action\": \"change_page\", \"value\": \"5AFE5B23867C928D\" } }, \" o ME Caner tem a funcionalidade de encher Containers de Fluido com o Fluido Fornecido a ele. Porém, diferentemente do Fluid Encapsulator do Thermal Expansion, ele enche apenas Baldes\"] "]
-	quest.58063C92BF648B25.quest_subtitle: "Utilidade"
 	quest.59E341B36E374A94.quest_subtitle: "Apartamento de Eletrons"
 	quest.59F169FD06C35E83.quest_desc: ["Ao criar um túmulo do Corail, e obter uma alma sobre ele, crie o &bBook of Disenchanting&r, segure ele na &aOff Hand&r e o Item que deseja desencantar na &eMão Principal&r e clique com o &9botão direito&r no &dTúmulo com a Alma&r"]
 	quest.5A4F7BB11B433548.quest_desc: ["Esta série de quests te mostrará quais os melhores upgrades que você pode fazer para seus equipamentos do Sophisticated Storage. Nesta trilha conterão somente os upgrades para mochila"]
@@ -474,9 +437,6 @@
 	]
 	quest.5D558A7F1508BBEC.quest_subtitle: "Órbita da Terra"
 	quest.5D558A7F1508BBEC.title: "Base Espacial!!"
-	quest.5DE3D44E6AC6EDBF.quest_desc: ["Esta será a sua &aPrincipal Forma&r de voar durante boa parte do jogo. Este &eAngel Ring&r lhe permite voar como no &bCriativo&r ao Custo de &aXP&r enquanto voa. &cATENÇÃO&r: Assim que a XP acabar o efeito do Anel &ccessará imediatamente&r. Não esqueça de progredir para a próxima quest nessa linha para ver como aprimorar o seu &eAngel Ring&r e fazê-lo consumir &eEnergia&r ao invés de &aXP&r para voar."]
-	quest.5DE3D44E6AC6EDBF.quest_subtitle: "Angel Ring"
-	quest.5DE3D44E6AC6EDBF.title: "I Believe i Can Fly"
 	quest.5E653E4F90F4AC0B.quest_desc: ["O &7Steel Casing&r é o &ccore/coração&r das máquinas, praticamente toda máquina do mekanism requer um em seu crafting"]
 	quest.5E653E4F90F4AC0B.quest_subtitle: "Machine Casing"
 	quest.5E653E4F90F4AC0B.title: "Eu Acredito no Coração das Máquinas"
@@ -515,7 +475,6 @@
 	quest.66890B4D00C6F89E.quest_desc: ["Este é o &b[Pináculo da Exploração Espacial]&r do Ad Astra. Com este foguete, você consegue cruzar o espaço, rumo a um planeta em outro &eSistema Solar&r que o do &aOverworld&r. O Sistema Solar se chama &bProxima Centauri&r, e o Sol deste sistema é frio, o Único planeta aqui é &bGlacio&r, um planeta gelado."]
 	quest.66890B4D00C6F89E.quest_subtitle: "Foguete Tier 4"
 	quest.66890B4D00C6F89E.title: "Foguete Tier IV"
-	quest.67BDD36137D91456.quest_desc: ["Circuito feito com Sky Steel, usado na produção de"]
 	quest.67C91D09D1FFD815.quest_desc: ["O Extended Inscriber é um Inscriber aprimorado que possui suporte a 4 jobs de crafting simultaneamente nele"]
 	quest.67DABB540EFD3B01.quest_desc: ["Crie uma &aLápide Decorativa&r, coloque-a no chão e espere cerca de &c10 minutos&r até que um &bRaio&r a Atinja e consiga uma &dSoul&r. Essa &dSoul&r será útil na Confecção de outros Craftings do Corail's Tombstone"]
 	quest.684E6C87AE85E9E4.quest_desc: ["&6Soul Jars&r são necessários para a criação de &2Sementes de Mobs&r do &9Mystical Agriculture&r. Elas contém a &bEssência do Mob&r do qual será castado no crafting"]
@@ -629,8 +588,6 @@
 	quest.7AC29AD9F7F9DE89.quest_subtitle: "Fluix Crystal"
 	quest.7AC29AD9F7F9DE89.title: "Consiga Fluix Crystal"
 	quest.7B771DF85269509D.quest_desc: ["Misture &bCircuito de Controle Elite&r + &dLigas Atômicas&r para criar &dCircuito de Controle Final&r"]
-	quest.7DA8BF72531BF402.quest_desc: ["Este Bloco scaneia todo inventário posicionado em sua área de funcionamento e te permite acessar estes inventários a partir dele, além de possuir uma Crafting Grid Integrada, muito útil"]
-	quest.7DA8BF72531BF402.quest_subtitle: "Tudo em um só lugar"
 	quest.7F141832A6DFC33F.quest_desc: ["Ao crescer gera &aEmerald Essence&r que pode ser convertido em &aEmerald&r"]
 	quest.7F141832A6DFC33F.quest_subtitle: "Emerald Seed"
 	quest.7F16728B542B2786.quest_desc: ["O &8Flux Plug&r é a Porta de &9Entrada&r de &aEnergia&r para sua Rede Flux, é com este dispositivo que você extrai &aEnergia&r de Blocos e Estruturas Adjacentes e a Insere na sua Rede Flux"]
@@ -705,7 +662,6 @@
 	task.6B9E156CC01CC8EB.title: "Consiga 32 Otherstones"
 	task.6BDB6B3FA15CC4C2.title: "Any #forge:string"
 	task.6BFA6D6720FF3054.title: "Welcome To The Nether"
-	task.6C6D08C69EE197F9.title: "Any #forge:glass"
 	task.6FF7DBA69B1D7314.title: "Execute o Primeiro Ritual"
 	task.700E1D4BEDBC066B.title: "Ok, peguei o spawner"
 	task.709DF8BF53983CB2.title: "Estou Ciente"
@@ -715,7 +671,6 @@
 	task.75E94392F2C858B5.title: "Any #minecraft:saplings"
 	task.7681D1EEB934B700.title: "Me Desencantei com Você (╥﹏╥)"
 	task.76FDF19F0EC92D5E.title: "Visite a Lua do Ad Astra"
-	task.77A7A0081211598C.title: "Any #forge:glass"
 	task.77DFF9595F74452A.title: "Máquinas Básicas"
 	task.78216FEFE16371E6.title: "Consiga Certus Quartz Crystal"
 	task.7AB1CD43D0759BBB.title: "Faça uma Farm de Enderman Vanilla no The End"

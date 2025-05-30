@@ -23,14 +23,14 @@
 				{
 					consume_items: false
 					id: "11DE8F7E51029BC6"
-					item: { }
-					only_from_crafting: false
+					item: { count: 1, id: "apotheosis:salvaging_table" }
+					only_from_crafting: true
 					type: "item"
 				}
 				{
 					consume_items: false
 					id: "373058BFA1E21587"
-					item: { }
+					item: { count: 1, id: "apotheosis:common_material" }
 					only_from_crafting: false
 					optional_task: true
 					type: "item"
@@ -38,7 +38,7 @@
 				{
 					consume_items: false
 					id: "6B1768E44954D6FA"
-					item: { }
+					item: { count: 1, id: "apotheosis:uncommon_material" }
 					only_from_crafting: false
 					optional_task: true
 					type: "item"
@@ -46,7 +46,7 @@
 				{
 					consume_items: false
 					id: "35CEA2B14BA065CE"
-					item: { }
+					item: { count: 1, id: "apotheosis:rare_material" }
 					only_from_crafting: false
 					optional_task: true
 					type: "item"
@@ -54,7 +54,7 @@
 				{
 					consume_items: false
 					id: "5FFC398FD60C0397"
-					item: { }
+					item: { count: 1, id: "apotheosis:epic_material" }
 					only_from_crafting: false
 					optional_task: true
 					type: "item"
@@ -62,7 +62,7 @@
 				{
 					consume_items: false
 					id: "65EEEE44DFA53A47"
-					item: { }
+					item: { count: 1, id: "apotheosis:mythic_material" }
 					only_from_crafting: false
 					optional_task: true
 					type: "item"
@@ -73,20 +73,23 @@
 		}
 		{
 			dependencies: ["19F61A76E6F8B774"]
+			icon: {
+				id: "apotheosis:gem_dust"
+			}
 			id: "6A9333E97867B615"
 			tasks: [
 				{
 					consume_items: false
 					id: "099AB6EAC870E0B1"
-					item: { }
-					only_from_crafting: false
+					item: { count: 1, id: "minecraft:anvil" }
+					only_from_crafting: true
 					type: "item"
 				}
 				{
 					consume_items: false
 					count: 2L
 					id: "51663318D22D0D0D"
-					item: { }
+					item: { count: 1, id: "apotheosis:gem_dust" }
 					only_from_crafting: false
 					type: "item"
 				}
@@ -104,130 +107,6 @@
 			y: 3.5d
 		}
 		{
-			dependencies: [
-				"5B354B3A0D8FF5E7"
-				"6A9333E97867B615"
-				"19F61A76E6F8B774"
-			]
-			id: "55D5718C6D48EE1C"
-			rewards: [{
-				command: "/tellraw @p [\"\",{\"text\":\"Clique Aqui para Assistir ao Tutorial\",\"color\":\"lime\",\"bold\":true,\"underlined\":true,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://youtu.be/nh8voJScSbw?si=dfdvUQAVz65f9nyd\"}}] "
-				id: "624832F218FBD64E"
-				type: "command"
-			}]
-			tasks: [
-				{
-					id: "7AB1CD43D0759BBB"
-					type: "checkmark"
-				}
-				{
-					consume_items: false
-					count: 2L
-					id: "2F63D1395D74CD57"
-					item: { count: 1, id: "sophisticatedstorage:netherite_barrel" }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 2L
-					id: "2F69F444EF68F75D"
-					item: { count: 1, id: "sophisticatedbackpacks:advanced_magnet_upgrade" }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					id: "1C1F7CD243690906"
-					item: { }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 16L
-					id: "70A615A246638245"
-					item: { count: 1, id: "ae2:quantum_ring" }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 2L
-					id: "782D1319998F166D"
-					item: { count: 1, id: "ae2:quantum_link" }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 2L
-					id: "518B48CFF6A76D62"
-					item: { }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					id: "21C7C051AF688A2F"
-					item: { components: { "ftbquests:missing_item": "enderchests:ender_chest" }, count: 1, id: "ftbquests:missing_item" }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					id: "615CB2A47A059295"
-					item: { }
-					type: "item"
-				}
-				{
-					consume_items: false
-					id: "0990A3C43D8402CA"
-					item: { }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					id: "7F210E6CC4487020"
-					item: { }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 4L
-					id: "7477AF6EB4B08E36"
-					item: { count: 1, id: "ae2:speed_card" }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					id: "434675AF63931903"
-					item: { }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					id: "4D63B4E017895C90"
-					item: { }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 2L
-					id: "4E46898FA8FDDACE"
-					item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
-					only_from_crafting: false
-					type: "item"
-				}
-			]
-			x: -3.0d
-			y: 3.5d
-		}
-		{
 			dependencies: ["2A7596766578FD16"]
 			id: "2418BDB7DF129E97"
 			tasks: [{
@@ -235,9 +114,10 @@
 				criterion: ""
 				icon: {
 					components: {
-						"ftbquests:missing_item": "apotheosis:gem"
+						"apotheosis:gem": "apotheosis:overworld/royalty"
+						"apotheosis:purity": "perfect"
 					}
-					id: "ftbquests:missing_item"
+					id: "apotheosis:gem"
 				}
 				id: "40793AAAD2546AD5"
 				type: "advancement"
@@ -247,18 +127,12 @@
 		}
 		{
 			dependencies: [
-				"55D5718C6D48EE1C"
 				"5B354B3A0D8FF5E7"
 				"6A9333E97867B615"
 				"19F61A76E6F8B774"
 			]
 			id: "10FA93A65D8AC441"
 			tasks: [
-				{
-					id: "109C1F4F0D24F4F5"
-					item: { }
-					type: "item"
-				}
 				{
 					consume_items: false
 					id: "1E48480E3C61D7DB"
@@ -298,27 +172,23 @@
 		{
 			dependencies: [
 				"10FA93A65D8AC441"
-				"55D5718C6D48EE1C"
 				"5B354B3A0D8FF5E7"
 				"6A9333E97867B615"
 				"19F61A76E6F8B774"
 			]
+			icon: {
+				id: "apotheosis:gem_cutting_table"
+			}
 			id: "2A7596766578FD16"
-			tasks: [
-				{
-					advancement: "apotheosis:affix/gem_cut"
-					criterion: ""
-					id: "1A08AF402D3E01AE"
-					type: "advancement"
+			tasks: [{
+				advancement: "apotheosis:affix/gem_cut"
+				criterion: ""
+				icon: {
+					id: "apotheosis:gem_cutting_table"
 				}
-				{
-					consume_items: false
-					id: "685F67B428288CC1"
-					item: { }
-					only_from_crafting: false
-					type: "item"
-				}
-			]
+				id: "1A08AF402D3E01AE"
+				type: "advancement"
+			}]
 			x: 0.0d
 			y: 3.5d
 		}
@@ -327,20 +197,29 @@
 				"4ECC9844C7099540"
 				"2A7596766578FD16"
 			]
+			icon: {
+				id: "apotheosis:reforging_table"
+			}
 			id: "724644DBA08A38F4"
 			tasks: [
 				{
-					consume_items: false
-					id: "37978A82CE88B3EB"
-					item: { }
-					only_from_crafting: false
-					type: "item"
-				}
-				{
 					advancement: "apotheosis:affix/mythic"
 					criterion: ""
+					icon: {
+						components: {
+							"apotheosis:gem": "apotheosis:overworld/royalty"
+							"apotheosis:purity": "perfect"
+						}
+						id: "apotheosis:gem"
+					}
 					id: "6689EF89EB0E2EBE"
 					type: "advancement"
+				}
+				{
+					id: "0FC789D56FD9FBF5"
+					item: { count: 1, id: "apotheosis:reforging_table" }
+					only_from_crafting: true
+					type: "item"
 				}
 			]
 			x: 1.5d
@@ -352,8 +231,8 @@
 			tasks: [{
 				consume_items: false
 				id: "437059AED618526B"
-				item: { }
-				only_from_crafting: false
+				item: { count: 1, id: "apotheosis:augmenting_table" }
+				only_from_crafting: true
 				type: "item"
 			}]
 			x: 3.5d

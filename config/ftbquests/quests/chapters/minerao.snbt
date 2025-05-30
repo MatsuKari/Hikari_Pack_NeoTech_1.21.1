@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "minerao"
 	group: "0A7DD7E798DF1611"
+	icon: {
+		id: "rftoolsbuilder:builder"
+	}
 	id: "33D82341FAF62606"
 	order_index: 1
 	quest_links: [ ]
@@ -11,7 +14,7 @@
 			id: "23F98ADC1B6770F2"
 			tasks: [{
 				id: "6E9A46F36A07B0EF"
-				item: { }
+				item: { count: 1, id: "rftoolsbuilder:builder" }
 				type: "item"
 			}]
 			x: 0.5d
@@ -22,7 +25,7 @@
 			id: "0087B63E9899007A"
 			tasks: [{
 				id: "1A2A107CD117146F"
-				item: { }
+				item: { count: 1, id: "rftoolsbuilder:shape_card_def" }
 				type: "item"
 			}]
 			x: 2.0d
@@ -36,7 +39,7 @@
 			id: "4C8681BA5FCDDC63"
 			tasks: [{
 				id: "276716A352B5B21F"
-				item: { }
+				item: { count: 1, id: "rftoolsbuilder:shape_card_quarry_clear" }
 				type: "item"
 			}]
 			x: 3.5d
@@ -51,7 +54,7 @@
 			id: "04C268A9EFB022F0"
 			tasks: [{
 				id: "38CF34E0971B19A3"
-				item: { }
+				item: { count: 1, id: "rftoolsbuilder:shape_card_quarry_clear_silk" }
 				type: "item"
 			}]
 			x: 5.0d

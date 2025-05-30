@@ -326,16 +326,6 @@
 			y: -4.0d
 		}
 		{
-			id: "58063C92BF648B25"
-			tasks: [{
-				id: "71F130DD1DE2C3BE"
-				item: { }
-				type: "item"
-			}]
-			x: -17.0d
-			y: -6.0d
-		}
-		{
 			id: "0E3C4503DA1F5DEA"
 			tasks: [{
 				id: "31C966331A4B7FA7"
@@ -389,16 +379,6 @@
 			}]
 			x: -11.0d
 			y: -4.0d
-		}
-		{
-			id: "0462EFC5AC7ACA4E"
-			tasks: [{
-				id: "391FC940633CA61E"
-				item: { }
-				type: "item"
-			}]
-			x: -15.5d
-			y: -2.5d
 		}
 	]
 }

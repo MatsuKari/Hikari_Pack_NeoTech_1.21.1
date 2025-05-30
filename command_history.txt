@@ -1,50 +1,50 @@
-/tp -27756 72 53965
-/gamemode spectator
-/gamemode survival
-/probejs lint
-/reload
-/gamemode creative
-/mek radiation removeAll
-/gamemode survival
-/reload
-/backup start
-/ftbchunks unload_all MatsuKari_s_Party#dc7e498d
-/ftbchunks unclaim_all MatsuKari_s_Party#dc7e498d
-/ftbchunks unclaim_all MatsuKari#f72c42d0
-/gamemode creative
-/gamemode survival
-/mek radiation removeAll
-/mek radiation heal
-/gamemode spectator
-/gamemode survival
-/backup start
-/gamerule keepInventory
-/gamemode spectator
-/gamemode survival
-/gamemode spectator
-/gamemode survival
-/gamemode spectator
-/gamemode survival
-/backup start
-/reload
-/gamemode creative
-/gamemode survival
-/reload
-/locate structure minecraft:fortress
-/xp add MatsuKari 110 levels
-/xp add MatsuKari 300 levels
-/reload
-/time set night
-/time set midnight
-/reload
-/gamemode survival
-/gamemode creative
-/gamemode survival
-/gamemode creative
-/time set day
-/gamemode survival
-/gamemode creative
-/locate biome #minecraft:is_hill
 /tp @s 1623 66 -2086
 /gamemode creative
 /gamemode survival
+/gamerule keepInventory true
+/gamerule doWeatherCycle false
+/KILL
+/kill
+/tp MARCOSVINI2020
+/spawnpoint MARCOSVINI2020
+/kubejs errors server
+/probejs lint
+/kubejs reload
+/kubejs reload server-scripts
+/reload
+/kubejs hand
+/reload
+/kubejs hand
+/reload
+/kubejs hand
+/reload
+/gamerule keepInventory true
+/gamerule doWeatherCycle false
+/kill MARCOSVINI2020
+/gamemode creative
+/gamemode survival
+/locate biome minecraft:desert
+/tp @s 307 70 -17
+/gamerule keepInventory
+/locate structure minecraft:fortress
+/tp @s 160 ~ 208
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/locate structure minecraft:fortress
+/tp @s 192 ~ -1104
+/gamemode
+/gamemode survival
+/gamerule doDaylightCycle
+/gamerule doDaylightCycle true
+/time set night
+/locate biome minecraft:warped_forest
+/tp @s 85 82 -187
+/gamemode creative
+/gamemode survival
+/reload
+/gamerule doDaylightCycle true
+/time set noon
+/time set midnight
+/gamerule doDaylightCycle false
+/time set day
