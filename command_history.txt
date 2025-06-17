@@ -1,13 +1,3 @@
-/tp @s 1623 66 -2086
-/gamemode creative
-/gamemode survival
-/gamerule keepInventory true
-/gamerule doWeatherCycle false
-/KILL
-/kill
-/tp MARCOSVINI2020
-/spawnpoint MARCOSVINI2020
-/kubejs errors server
 /probejs lint
 /kubejs reload
 /kubejs reload server-scripts
@@ -48,3 +38,13 @@
 /time set midnight
 /gamerule doDaylightCycle false
 /time set day
+/give MatsuKari minecraft:iron_ingot 36
+/locate structure minecraft:village_plains
+/tp @s 720 ~ -368
+/xp add MatsuKari 72 points
+/time set night
+/time set noon
+/time set midnight
+/time set noon
+/locate biome minecraft:mushroom_fields
+/tp @s -304 61 105

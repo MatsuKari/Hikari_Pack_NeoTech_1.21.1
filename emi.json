@@ -123,9 +123,6 @@
       "stack": "item:mekanism:personal_chest"
     },
     {
-      "stack": "item:mekanism:dust_obsidian"
-    },
-    {
       "stack": "mekanism_chemical:mekanism:polonium"
     },
     {
@@ -663,13 +660,196 @@
     },
     {
       "stack": "item:akashictome:tome"
+    },
+    {
+      "stack": "item:mekanism:dust_refined_obsidian"
+    },
+    {
+      "stack": "item:mekanism:dust_obsidian"
+    },
+    {
+      "stack": "item:enderio:sag_mill"
+    },
+    {
+      "stack": "#item:c:gears/iron"
+    },
+    {
+      "stack": "item:enderio:dark_steel_ingot"
+    },
+    {
+      "stack": "item:enderio:void_chassis"
+    },
+    {
+      "stack": "item:minecraft:piston"
+    },
+    {
+      "stack": "item:minecraft:flint"
+    },
+    {
+      "stack": "item:industrialforegoing:iron_gear",
+      "recipe": "industrialforegoing:iron_gear"
+    },
+    {
+      "stack": "item:enderio:grains_of_infinity"
+    },
+    {
+      "stack": "item:enderio:primitive_alloy_smelter"
+    },
+    {
+      "stack": "item:mekanism:atomic_disassembler"
+    },
+    {
+      "stack": "item:minecraft:armor_stand"
+    },
+    {
+      "stack": "item:minecraft:smooth_stone_slab"
+    },
+    {
+      "stack": "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:looting\":3}}}"
+    },
+    {
+      "stack": "item:justdirethings:experienceholder"
+    },
+    {
+      "stack": "item:justdirethings:blazegold_ingot"
+    },
+    {
+      "stack": "item:minecraft:book"
+    },
+    {
+      "stack": "item:minecraft:emerald"
+    },
+    {
+      "stack": "item:minecraft:ender_pearl"
+    },
+    {
+      "stack": "item:justdirethings:raw_blazegold"
+    },
+    {
+      "stack": "item:justdirethings:gooblock_tier1"
+    },
+    {
+      "stack": "item:justdirethings:gooblock_tier2"
+    },
+    {
+      "stack": "item:easy_villagers:trader"
+    },
+    {
+      "stack": "item:easy_villagers:converter"
+    },
+    {
+      "stack": "item:minecraft:golden_apple"
+    },
+    {
+      "stack": "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:weakness\"}}"
+    },
+    {
+      "stack": "item:minecraft:fermented_spider_eye"
+    },
+    {
+      "stack": "item:minecraft:brown_mushroom"
+    },
+    {
+      "stack": "item:evilcraft:vein_sword{\"minecraft:enchantments\":{levels:{\"minecraft:looting\":2}}}"
+    },
+    {
+      "stack": "item:minecraft:fletching_table"
+    },
+    {
+      "stack": "item:tombstone:decorative_subaraki_grave"
+    },
+    {
+      "stack": "item:tombstone:dark_marble"
+    },
+    {
+      "stack": "item:tombstone:book_of_disenchantment"
     }
   ],
   "lookup_history": [
+    "item:tombstone:book_of_disenchantment",
+    {
+      "type": "item",
+      "id": "tombstone:grave_dust",
+      "amount": 7
+    },
+    "item:tombstone:decorative_subaraki_grave",
+    "item:tombstone:essence_of_undeath",
+    "item:tombstone:dark_marble",
+    "item:tombstone:carmin_marble",
+    "item:tombstone:green_marble",
+    "item:tombstone:blue_marble",
+    "item:tombstone:white_marble",
+    "item:evilcraft:vein_sword{\"minecraft:enchantments\":{levels:{\"minecraft:looting\":2}}}",
+    "item:evilcraft:dark_spike",
+    "item:evilcraft:dark_stick",
+    {
+      "type": "item",
+      "id": "evilcraft:undead_log",
+      "amount": 9
+    },
+    "item:justdirethings:experienceholder",
+    "item:minecraft:golden_apple",
+    "item:easy_villagers:converter",
+    "item:minecraft:fletching_table",
+    "item:minecraft:mossy_cobblestone",
+    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:weakness\"}}",
+    "item:minecraft:fermented_spider_eye",
+    "item:minecraft:anvil",
+    "item:minecraft:spider_eye",
+    "item:minecraft:emerald",
+    "item:easy_villagers:trader",
+    "item:trashcans:item_trash_can",
+    {
+      "type": "item",
+      "id": "justdirethings:ferricore_ingot",
+      "amount": 36
+    },
+    "item:justdirethings:gooblock_tier2",
+    "item:minecraft:blaze_rod",
+    "item:justdirethings:blazegold_ingot",
+    "item:justdirethings:raw_blazegold",
+    "item:integrateddynamics:squeezer",
+    "item:minecraft:iron_block",
+    "item:minecraft:armor_stand",
+    {
+      "type": "item",
+      "id": "minecraft:sugar_cane",
+      "amount": 30
+    },
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:looting\":3}}}",
+    "item:mekanismtools:refined_obsidian_sword",
+    "item:minecraft:smooth_stone_slab",
+    "item:mekanism:basic_tier_installer",
+    "item:mekanism:atomic_disassembler",
+    "item:mekanism:energy_tablet",
+    "item:mekanism:alloy_reinforced",
+    "item:mekanism:alloy_atomic",
+    "item:mekanism:upgrade_speed",
+    "item:mekanism:upgrade_energy",
+    "item:mekanism:osmium_compressor",
+    "item:minecraft:bucket",
+    "item:mekanism:steel_casing",
+    "item:evilcraft:vengeance_pickaxe{\"minecraft:enchantments\":{levels:{\"evilcraft:vengeance\":3,\"minecraft:fortune\":5}}}",
+    "#item:evilcraft:undead_logs",
+    "item:evilcraft:undead_planks",
+    "item:evilcraft:blood_extractor{\"cyclopscore:capacity\":25000}",
+    "item:mekanism:advanced_control_circuit",
+    "item:enderio:dark_steel_ingot",
+    "item:enderio:sag_mill",
+    "item:enderio:primitive_alloy_smelter",
+    "item:minecraft:furnace",
+    "item:enderio:grains_of_infinity",
+    "item:minecraft:piston",
+    "item:enderio:void_chassis",
+    "item:industrialforegoing:iron_gear",
+    "item:alltheores:iron_gear",
+    "item:enderio:iron_gear",
+    "#item:c:gears/iron",
+    "item:mekanism:dust_obsidian",
+    "item:mekanism:dust_refined_obsidian",
+    "item:mekanism:ingot_refined_obsidian",
     "item:evilcraft:blood_infuser",
     "item:evilcraft:blood_infusion_core",
-    "item:evilcraft:blood_extractor",
-    "item:evilcraft:dark_spike",
     "item:akashictome:tome",
     "item:minecraft:bookshelf",
     "item:silentgear:blueprint_book",
@@ -677,11 +857,7 @@
     "item:silentgear:crude_knife",
     "item:silentgear:crude_tool_parts",
     "item:silentgear:stone_anvil",
-    "item:mekanism:upgrade_speed",
-    "item:mekanism:upgrade_energy",
     "item:mekanism:energized_smelter",
-    "item:mekanism:basic_tier_installer",
-    "item:mekanism:steel_casing",
     "item:mekanism:gauge_dropper",
     "item:mekanism:basic_universal_cable",
     "item:mekanism:configurator",
@@ -696,7 +872,6 @@
     "item:minecraft:raw_iron",
     "item:minecraft:hopper",
     "item:mekanism:basic_energy_cube",
-    "item:mekanism:energy_tablet",
     {
       "type": "item",
       "id": "mekanism:bio_fuel",
@@ -728,16 +903,7 @@
       "remainder": "item:potionsmaster:pestle"
     },
     "item:mekanism:crusher",
-    {
-      "type": "item",
-      "id": "minecraft:blaze_rod",
-      "amount": 6
-    },
-    "item:evilcraft:vein_sword{\"minecraft:enchantments\":{levels:{\"minecraft:looting\":2}}}",
-    "item:mekanism:alloy_reinforced",
-    "item:mekanism:alloy_atomic",
     "item:mekanism:alloy_infused",
-    "item:mekanism:atomic_disassembler",
     "item:minecraft:flint_and_steel",
     "item:minecraft:flint",
     "item:mekanism:basic_fluid_tank",
@@ -747,7 +913,6 @@
     "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"potionsmaster:redstone\"}}",
     "item:apotheosis:potion_charm{\"minecraft:potion_contents\":{potion:\"potionsmaster:redstone\"}}",
     "item:mekanism:metallurgic_infuser",
-    "item:minecraft:furnace",
     "item:actuallyadditions:coal_generator",
     "item:actuallyadditions:iron_casing",
     {
@@ -774,7 +939,6 @@
     "item:minecraft:netherite_sword",
     "item:minecraft:diamond_pickaxe",
     "item:minecraft:enchanting_table",
-    "item:trashcans:item_trash_can",
     "item:apotheosis:gem{\"apotheosis:gem\":\"apotheosis:core/ballast\",\"apotheosis:purity\":\"perfect\"}",
     "item:apotheosis:sigil_of_socketing",
     "item:minecraft:deepslate",
@@ -799,7 +963,6 @@
     "item:minecraft:prismarine_brick_slab",
     "item:apothic_enchanting:seashelf",
     "item:apothic_enchanting:infused_seashelf",
-    "item:tombstone:book_of_disenchantment",
     "item:apothic_enchanting:ender_library",
     "item:apothic_enchanting:library",
     "item:minecraft:ender_chest",
@@ -863,7 +1026,6 @@
     "item:minecraft:chain",
     "item:alltheores:iron_plate",
     "item:extendedae:tag_export_bus",
-    "item:minecraft:anvil",
     "item:mob_grinding_utils:ender_inhibitor_on",
     "item:sophisticatedstorage:stack_upgrade_tier_4",
     "item:sophisticatedstorage:stack_upgrade_tier_2",
@@ -890,7 +1052,6 @@
     "item:occultism:spawn_egg/possessed_endermite",
     "mekanism_chemical:mekanism:sodium",
     "item:minecraft:sniffer_egg",
-    "item:mekanism:advanced_control_circuit",
     "item:mekanism:elite_control_circuit",
     "item:mekanism:ultimate_control_circuit",
     {
@@ -1101,9 +1262,6 @@
     "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:fluorite\"}",
     "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:fluorite\"}",
     "item:mekanism:chemical_dissolution_chamber",
-    "item:mekanism:dust_obsidian",
-    "item:mekanism:dust_refined_obsidian",
-    "item:mekanism:ingot_refined_obsidian",
     "mekanism_chemical:mekanism:water_vapor",
     "item:mekanism:configuration_card",
     "item:mekanism:dust_sulfur",
@@ -1501,11 +1659,7 @@
     "item:sophisticatedstorage:advanced_magnet_upgrade",
     "item:sophisticatedstorage:magnet_upgrade",
     "item:sophisticatedstorage:pickup_upgrade",
-    "item:justdirethings:gooblock_tier2",
     "item:justdirethings:raw_blazegold_ore",
-    "item:justdirethings:raw_blazegold",
-    "item:justdirethings:blazegold_ingot",
-    "item:justdirethings:experienceholder",
     "item:sophisticatedstorage:upgrade_base",
     "item:minecraft:mangrove_slab",
     "item:chipped:mangrove_brick_barrel",
@@ -1525,7 +1679,6 @@
     "bee:productivebees:/magmatic",
     "item:minecraft:magma_cream",
     "item:productivebees:nether_brick_nest",
-    "item:evilcraft:vengeance_pickaxe{\"minecraft:enchantments\":{levels:{\"evilcraft:vengeance\":3,\"minecraft:fortune\":5}}}",
     "item:twilightforest:uncrafting_table",
     "item:twilightforest:maze_map_focus",
     "item:occultism:infused_pickaxe",
@@ -1561,7 +1714,6 @@
     "item:megacells:sky_steel_ingot",
     "item:ae2:logic_processor",
     "bee:productivebees:/emerald",
-    "item:minecraft:smooth_stone_slab",
     "item:productivebees:feeder",
     "bee:productivebees:/lapis",
     "bee:productivebees:/chocolate_mining_bee",
@@ -1590,7 +1742,6 @@
     "item:productivebees:draconic_chunk",
     "item:productivebees:draconic_dust",
     "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:draconic\"}",
-    "item:minecraft:emerald",
     "bee:productivebees:/sculk",
     "item:productivebees:obsidian_nest",
     "item:minecraft:diamond_sword",
@@ -1638,7 +1789,6 @@
     "bee:productivebees:/silver",
     "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:iesnium\"}}",
     "#item:minecraft:flowers",
-    "item:easy_villagers:trader",
     "item:minecraft:feather",
     "item:hostilenetworks:prediction{\"hostilenetworks:data_model\":\"hostilenetworks:elder_guardian\"}",
     "item:productivelib:upgrade_time_2",
@@ -1797,81 +1947,60 @@
     "item:industrialforegoing:efficiency_addon_tier_2{\"titanium:augments\":{Efficiency:0.8f}}",
     "item:industrialforegoing:processing_addon_tier_2{\"titanium:augments\":{Processing:3.0f}}",
     "item:industrialforegoing:speed_addon_tier_2{\"titanium:augments\":{Speed:3.0f}}",
-    {
-      "type": "item",
-      "id": "minecraft:sugar_cane",
-      "amount": 12
-    },
     "item:industrialforegoing:diamond_gear",
     "#item:c:gears/diamond",
-    "item:industrialforegoing:speed_addon_tier_1{\"titanium:augments\":{Speed:2.0f}}",
-    "item:industrialforegoing:dissolution_chamber",
-    "item:industrialforegoing:plastic",
-    "item:minecraft:moss_block",
-    "item:minecraft:suspicious_sand",
-    "item:minecraft:brush",
-    "item:occultism:chalk_lime_impure",
-    "item:occultism:burnt_otherstone",
-    "item:minecraft:oak_log",
-    "item:occultism:otherworld_ashes",
-    "item:occultism:spirit_fire",
-    "item:occultism:otherstone",
-    "item:occultism:chalk_purple_impure",
-    "item:occultism:chalk_purple{\"minecraft:damage\":12}",
-    "item:forbidden_arcanus:xpetrified_orb",
-    "item:mob_grinding_utils:xpsolidifier",
-    "item:mob_grinding_utils:tank",
-    "item:mob_grinding_utils:entity_conveyor",
-    "item:mob_grinding_utils:solid_xp_baby",
-    "item:actuallyadditions:xp_solidifier",
-    {
-      "type": "fluid",
-      "id": "mob_grinding_utils:fluid_xp",
-      "amount": 0
-    },
-    {
-      "type": "fluid",
-      "id": "justdirethings:refined_t2_fluid_source",
-      "amount": 0
-    },
-    {
-      "type": "fluid",
-      "id": "justdirethings:unrefined_t4_fluid_source",
-      "amount": 0
-    },
-    {
-      "type": "fluid",
-      "id": "justdirethings:refined_t4_fluid_source",
-      "amount": 0
-    },
-    {
-      "type": "fluid",
-      "id": "justdirethings:xp_fluid_source",
-      "amount": 0
-    },
-    "item:forbidden_arcanus:hephaestus_forge_tier_3",
-    "item:forbidden_arcanus:chiseled_polished_darkstone",
-    "item:forbidden_arcanus:diamond_blacksmith_gavel",
-    "item:forbidden_arcanus:blacksmith_gavel_head",
-    "item:forbidden_arcanus:hephaestus_forge_tier_2",
-    {
-      "type": "item",
-      "id": "forbidden_arcanus:soulless_sand",
-      "amount": 10
-    },
-    "item:forbidden_arcanus:soul_extractor",
-    "item:forbidden_arcanus:utrem_jar",
-    "item:forbidden_arcanus:growing_edelwood",
-    "item:farmingforblockheads:market",
-    "item:minecraft:red_wool",
-    "item:forbidden_arcanus:test_tube",
-    "item:forbidden_arcanus:edelwood_planks"
+    "item:industrialforegoing:speed_addon_tier_1{\"titanium:augments\":{Speed:2.0f}}"
   ],
   "craft_history": [
+    "tombstone:book_of_disenchantment",
+    "tombstone:black_subaraki_grave",
+    "tombstone:dark_marble",
+    "evilcraft:crafting/vein_sword",
+    "evilcraft:crafting/dark_spike",
+    "evilcraft:crafting/dark_stick",
+    "evilcraft:crafting/undead_planks",
+    "justdirethings:experienceholder",
+    "minecraft:golden_apple",
+    "minecraft:fletching_table",
+    "easy_villagers:converter",
+    "minecraft:glass_bottle",
+    "minecraft:fermented_spider_eye",
+    "minecraft:anvil",
+    "easy_villagers:trader",
+    "minecraft:gold_block",
+    "trashcans:item_trash_can",
+    "justdirethings:gooblock_tier2",
+    "minecraft:iron_block",
+    "justdirethings:gooblock_tier1",
+    "minecraft:oak_button",
+    "integrateddynamics:crafting/squeezer",
+    "minecraft:oak_planks",
+    "enderio:stick",
+    "minecraft:armor_stand",
+    "minecraft:stick",
+    "utilitarian:utility/logs_to_chests",
+    "mekanismtools:refined_obsidian/tools/sword",
+    "mekanismtools:refined_obsidian/armor/boots",
+    "mekanismtools:refined_obsidian/armor/leggings",
+    "mekanismtools:refined_obsidian/armor/chestplate",
+    "minecraft:smooth_stone_slab",
+    "mekanismtools:refined_obsidian/armor/helmet",
+    "mekanism:tier_installer/basic",
+    "minecraft:torch",
+    "mekanism:atomic_disassembler",
+    "mekanism:energy_tablet",
+    "mekanism:upgrade/speed",
+    "mekanism:upgrade/energy",
+    "mekanism:osmium_compressor",
+    "minecraft:bucket",
+    "mekanism:steel_casing",
+    "mekanism:control_circuit/advanced",
+    "enderio:primitive_alloy_smelter",
+    "minecraft:furnace",
+    "minecraft:flint_and_steel",
     "evilcraft:crafting/blood_infuser",
     "evilcraft:crafting/blood_infusion_core",
     "evilcraft:crafting/blood_extractor",
-    "evilcraft:crafting/dark_spike",
     "akashictome:tome",
     "minecraft:bookshelf",
     "minecraft:jungle_planks",
@@ -1880,25 +2009,19 @@
     "silentgear:crude_knife",
     "silentgear:crude_tool_parts",
     "silentgear:stone_anvil",
-    "mekanism:upgrade/speed",
-    "mekanism:upgrade/energy",
     "mekanism:energized_smelter",
-    "mekanism:tier_installer/basic",
     "utilitarian:tiny_fuel/tiny_charcoal",
     "mekanism:gauge_dropper",
     "minecraft:glass_pane",
     "mekanism:transmitter/universal_cable/basic",
     "mekanism:configurator",
     "mekanism:transmitter/mechanical_pipe/basic",
-    "minecraft:bucket",
     "simplemagnets:advancedmagnet",
     "minecraft:ender_eye",
     "minecraft:ender_pearl",
     "simplemagnets:basicmagnet",
     "utilitarian:utility/logs_to_hopper",
     "mekanism:energy_cube/basic",
-    "mekanism:steel_casing",
-    "mekanism:energy_tablet",
     "mekanismgenerators:generator/gas_burning",
     "mekanism:electrolytic_core",
     "mekanism:pressurized_reaction_chamber",
@@ -1906,7 +2029,6 @@
     "mekanism:enrichment_chamber",
     "tiab:time_in_a_bottle",
     "minecraft:clock",
-    "minecraft:glass_bottle",
     "mekanism:chemical_tank/basic",
     "mekanism:electrolytic_separator",
     "cookingforblockheads:sink",
@@ -1921,11 +2043,8 @@
     "potionsmaster:pestle",
     "mekanism:crusher",
     "alltheores:crafting/hammer/iron/dust_from_raw",
-    "utilitarian:utility/logs_to_chests",
-    "minecraft:flint_and_steel",
     "mekanism:fluid_tank/basic",
     "minecraft:diamond_pickaxe",
-    "enderio:stick",
     "mekanismtools:bronze/armor/boots",
     "mekanismtools:bronze/armor/leggings",
     "mekanismtools:bronze/armor/chestplate",
@@ -1934,18 +2053,14 @@
     "minecraft:iron_shovel",
     "mekanismtools:bronze/tools/axe",
     "mekanism:metallurgic_infuser",
-    "minecraft:furnace",
     "actuallyadditions:coal_generator",
     "actuallyadditions:iron_casing",
     "utilitarian:tiny_fuel/tiny_coal",
     "alltheores:crafting/hammer/osmium/dust_from_raw",
     "minecraft:chest",
     "mekanismtools:bronze/tools/pickaxe",
-    "minecraft:oak_planks",
     "alltheores:crafting/hammer/copper/dust_from_raw",
-    "minecraft:torch",
     "mekanismtools:bronze/tools/sword",
-    "minecraft:stick",
     "alltheores:bronze_ore_hammer",
     "alltheores:crafting/bronze/block_from_ingot",
     "alltheores:crafting/hammer/aluminum/dust_from_raw",
@@ -1962,7 +2077,6 @@
     "industrialforegoing:mob_imprisonment_tool",
     "craftingstation:crafting_station",
     "minecraft:enchanting_table",
-    "trashcans:item_trash_can",
     "mysticalagriculture:essence/minecraft/deepslate",
     "apotheosis:sigil_of_enhancement",
     "apotheosis:sigil_of_rebirth",
@@ -1982,7 +2096,6 @@
     "apothic_enchanting:filtering_shelf",
     "minecraft:prismarine_brick_slab",
     "apothic_enchanting:seashelf",
-    "tombstone:book_of_disenchantment",
     "apothic_enchanting:library",
     "minecraft:ender_chest",
     "apothic_enchanting:pickaxe_tome",
@@ -2016,7 +2129,6 @@
     "minecraft:kjs/name_tag",
     "minecraft:chain",
     "extendedae:tag_export_bus",
-    "minecraft:anvil",
     "mob_grinding_utils:recipe_ender_inhibitor",
     "sophisticatedstorage:stack_upgrade_tier_4",
     "sophisticatedstorage:stack_upgrade_tier_3",
@@ -2385,7 +2497,6 @@
     "mekanism:structural_glass",
     "mekanism:enriching/enriched/carbon",
     "mekanism:thermal_evaporation/valve",
-    "mekanism:control_circuit/advanced",
     "mekanism:control_circuit/basic",
     "mekanism:thermal_evaporation/block",
     "productivebees:/centrifuge/gems/honeycomb_lapis_block",
@@ -2467,7 +2578,6 @@
     "megacells:crafting/sky_steel_block",
     "advanced_ae:skysteel",
     "productivebees:centrifuge/gems/honeycomb_emerald",
-    "minecraft:smooth_stone_slab",
     "productivebees:feeder",
     "productivebees:nests/end_stone_nest",
     "productivebees:nests/glowstone_nest",
@@ -2513,7 +2623,6 @@
     "mysticalagriculture:essence/minecraft/honeycomb",
     "storagedrawers:drawer_key",
     "storagedrawers:upgrade_template",
-    "easy_villagers:trader",
     "productivelib:upgrades/time_2_bees",
     "productivelib:upgrades/time",
     "minecraft:honeycomb_block",
@@ -2679,7 +2788,6 @@
     "advanced_ae:chargedredstone",
     "advanced_ae:redstonecrystal",
     "enderio:alloy_smelter",
-    "enderio:primitive_alloy_smelter",
     "enderio:void_chassis",
     "ae2:network/parts/cable_anchor",
     "mysticalagriculture:prosperity_seed_base",
@@ -2733,7 +2841,6 @@
     "minecraft:repeater",
     "ae2:materials/cardcrafting",
     "ae2:network/parts/export_bus",
-    "minecraft:armor_stand",
     "minecraft:smooth_stone",
     "ae2:network/cells/item_cell_housing",
     "ae2:tools/network_memory_card",
@@ -2757,7 +2864,6 @@
     "occultism:occultism.bound_book_of_bindingitem.occultism.book_of_binding_afrit",
     "minecraft:black_dye",
     "occultism:crafting/dictionary_of_spirits",
-    "justdirethings:experienceholder",
     "matc:master_infusion_crystal",
     "matc:insanium_essence",
     "minecraft:iron_hoe",
@@ -2783,9 +2889,6 @@
     "justdirethings:upgrade_dropteleport",
     "justdirethings:celestigem_hoe",
     "justdirethings:gooblock_tier3",
-    "justdirethings:gooblock_tier2",
-    "minecraft:iron_block",
-    "justdirethings:gooblock_tier1",
     "ae2:network/blocks/interfaces_interface",
     "ae2:network/parts/annihilation_plane_alt2",
     "ae2:network/parts/import_bus",
@@ -2831,7 +2934,6 @@
     "mekanism:enriching/enriched/redstone",
     "advanced_ae:advpartenc",
     "advanced_ae:smalladvpatpro",
-    "minecraft:gold_block",
     "ae2:network/cells/item_storage_components_cell_64k_part",
     "minecraft:sticky_piston",
     "integrateddynamics:crafting/variable",
@@ -2873,25 +2975,7 @@
     "minecraft:stonecutter",
     "ae2:misc/deconstruction_fluix_block",
     "extendedae:crystal_assembler",
-    "ae2:misc/deconstruction_certus_quartz_block",
-    "ae2:network/blocks/crystal_processing_growth_accelerator",
-    "ae2:decorative/fluix_block",
-    "extendedae:entro_seed",
-    "ae2:misc/tank_sky_stone",
-    "ae2:network/blocks/crystal_processing_charger",
-    "ae2:network/blocks/inscribers",
-    "sophisticatedstorage:diamond_to_netherite_tier_upgrade",
-    "sophisticatedbackpacks:advanced_refill_upgrade",
-    "sophisticatedbackpacks:refill_upgrade",
-    "sophisticatedbackpacks:stonecutter_upgrade",
-    "rechiseled:chisel",
-    "quarryplus:y_setter",
-    "minecraft:kjs/quarryplus_repeat_tick_module",
-    "quarryplus:mover",
-    "enderio:enchanter",
-    "quarryplus:quarry",
-    "powah:crafting/cable_blazing_2",
-    "toolbelt:pouch"
+    "ae2:misc/deconstruction_certus_quartz_block"
   ],
   "recipe_defaults": {
     "added": [],
