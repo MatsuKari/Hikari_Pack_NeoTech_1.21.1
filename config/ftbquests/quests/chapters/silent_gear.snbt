@@ -242,7 +242,7 @@
 					consume_items: false
 					id: "0F9F90F649C498D3"
 					item: { count: 1, id: "silentgear:crushed_shulker_shell" }
-					only_from_crafting: true
+					only_from_crafting: false
 					type: "item"
 				}
 				{

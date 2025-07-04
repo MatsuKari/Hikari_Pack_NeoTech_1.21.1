@@ -79,6 +79,9 @@
     "block_properties": false,
     "mod_name": true
   },
+  "allthemodium": {
+    "teleport_pad": true
+  },
   "extendedae": {
     "jade_chamber": true,
     "jade_wireless": true
@@ -95,10 +98,6 @@
     "crafting_monitor": true,
     "part_name": true
   },
-  "tesseract": {
-    "tesseract": true,
-    "remove_default": true
-  },
   "mekanism": {
     "chemical": true,
     "remove_builtin": true,
@@ -111,6 +110,9 @@
     "converter": true,
     "breeder": true
   },
+  "productivemetalworks": {
+    "casting": true
+  },
   "reliquary": {
     "pedestal": true,
     "altar": true,
@@ -121,6 +123,7 @@
     "fridge": true,
     "oven": true,
     "sink": true,
+    "preservation_chamber": true,
     "milk_jar": true,
     "toaster": true
   },

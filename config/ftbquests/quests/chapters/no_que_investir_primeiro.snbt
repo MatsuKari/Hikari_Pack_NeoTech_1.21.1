@@ -342,7 +342,7 @@
 				consume_items: false
 				id: "314AAC9582E4ED73"
 				item: { count: 1, id: "mob_grinding_utils:tank_sink" }
-				only_from_crafting: true
+				only_from_crafting: false
 				type: "item"
 			}]
 			x: -14.0d
@@ -715,7 +715,7 @@
 				consume_items: false
 				id: "4E5939395F6439C5"
 				item: { count: 1, id: "fluxnetworks:flux_point" }
-				only_from_crafting: true
+				only_from_crafting: false
 				type: "item"
 			}]
 			x: -8.0d

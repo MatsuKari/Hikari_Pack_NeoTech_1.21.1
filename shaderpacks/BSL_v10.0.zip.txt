@@ -1,6 +1,3 @@
-#Mon Jun 16 21:13:09 GMT-03:00 2025
-LIGHT_SHAFT=false
-SHADOW_COLOR=false
-TAA=false
-shadowDistance=192.0
-shadowMapResolution=1536
+#Sat Jun 21 19:16:27 GMT-03:00 2025
+shadowDistance=512.0
+shadowMapResolution=3072
