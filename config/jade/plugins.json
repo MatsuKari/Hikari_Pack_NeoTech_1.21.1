@@ -176,6 +176,9 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "jadeaddons.lootr": {
+    "info": true
+  },
   "mysticalagradditions": {
     "infused_farmland": true
   },

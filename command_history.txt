@@ -1,50 +1,50 @@
-/locate biome minecraft:deep_dark
-/tp @s 1419 -27 -19
-/gamemode survival
-/gamemode spectator
-/locate structure minecraft:ancient_city
-/tp @s -720 ~ 2720
-/gamemode survival
-/gamemode spectator
-/gamemode survival
-/gamemode spectator
-/gamemode survival
-/gamemode spectator
-/gamemode survival
-/reload
-/probejs lint
-/kubejs errors server
-/kubejs reload server-scripts
-/reload
-/gamemode spectator
-/gamemode survival
-/gamemode spectator
-/gamemode survival
-/reload
-/locate biome allthemodium:soul_sand_valley
-/tp @s 167 -12 -153
-/gamemode spectator
-/gamemode survival
-/reload
-/locate biome minecraft:end_highlandsw
-/locate biome minecraft:end_highlands
-/tp @s 645 61 822
-/gamemode spectator
-/gamemode survival
+/tp xopazaru0343
+/kill
+/tp xopazaru0343
+/kill
+/tp xopazaru0343
+/kill
+/difficulty peaceful
+/tp xopazaru0343
+/kill
+/tp xopazaru0343
+/kill
+/probejs enable
 /kubejs hand
 /reload
-/probejs lint
-/kubejs errors
-/kubejs errors server
-/reload
-/kubejs reload server-scripts
-/probejs lint
-/reload
-/weather clear
-/reload
-/kubejs hand
-/reload
-/time set midnight
-/gamemode creative
+/locate structure minecraft:bastion_remnant
+/tp @s -400 ~ 352
+/gamemode spectator
 /gamemode survival
-/summon minecraft:chicken
+/gamemode spectator
+/locate structure minecraft:bastion_remnant
+/tp @s -80 ~ -800
+/gamemode survival
+/gamemode spectator
+/gamemode survival
+/reload
+/kill
+/tp xopazaru0343
+/kill
+/sgear_mats dump true
+/tp xopazaru0343
+/kill
+/tp xopazaru0343
+/KILL
+/kill
+/tp xopazaru0343
+/kill
+/tp xopazaru0343
+/kill
+/locate structure allthemodium:dungeon
+/tp @s -736 ~ 16
+/kill
+/gamemode survival
+/kill
+/time set day
+/time set noon
+/backup start
+/time set noon
+/time set day
+/curios add charm MatsuKari 3
+/reload

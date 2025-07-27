@@ -205,7 +205,8 @@
       "buttons": {}
     },
     "dynamicIcons": {
-      "MatsuKari": "https://mc-heads.net/avatar/f72c42d027df43e9ae5854ec04d6ee55"
+      "MatsuKari": "https://mc-heads.net/avatar/f72c42d027df43e9ae5854ec04d6ee55",
+      "xopazaru0343": "https://mc-heads.net/avatar/7e91917d53534ad28d0b363ecc00eb19"
     },
     "dynamicVariables": {
       "mods": "{general.mods} Mod(s)",

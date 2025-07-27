@@ -34,10 +34,6 @@
 	# Default: 30
 	# Range: 0 ~ 100
 	pvp_stolen_xp = 30
-	#Knowledge of Death loss on death [0..500|default:0]
-	# Default: 0
-	# Range: 0 ~ 500
-	knowledge_loss = 0
 	#The chance that some items are lost on death [0..100|default:0]
 	# Default: 0
 	# Range: 0 ~ 100
@@ -269,9 +265,9 @@
 
 #Options related to looted items
 [loot]
-	#Maximum xp rewarded with a Lost Page of Erdös [1..200000|default:2000]
+	#Maximum xp rewarded with a Lost Page of Erdös [100..200000|default:2000]
 	# Default: 2000
-	# Range: 1 ~ 200000
+	# Range: 100 ~ 200000
 	max_xp_lost_page = 2000
 
 #Allows to enable some features related to others mods

@@ -1,635 +1,40 @@
 {
   "favorites": [
     {
-      "stack": {
-        "type": "fluid",
-        "id": "mekanism:brine",
-        "amount": 0
-      }
+      "stack": "item:fluxnetworks:flux_plug"
     },
     {
-      "stack": "mekanism_chemical:mekanism:sodium"
+      "stack": "item:fluxnetworks:flux_point"
     },
     {
-      "stack": "item:mekanismgenerators:control_rod_assembly"
+      "stack": "item:fluxnetworks:flux_controller"
     },
     {
-      "stack": "item:mekanismgenerators:fission_fuel_assembly"
-    },
-    {
-      "stack": "item:mekanismgenerators:fission_reactor_casing"
-    },
-    {
-      "stack": "item:mekanismgenerators:reactor_glass"
-    },
-    {
-      "stack": "item:appmek:chemical_storage_cell_256k"
-    },
-    {
-      "stack": "item:industrialforegoing:efficiency_addon_tier_2{\"titanium:augments\":{Efficiency:0.8f}}"
-    },
-    {
-      "stack": "item:mekanism:pellet_antimatter"
-    },
-    {
-      "stack": "bee:productivebees:/uraninite"
-    },
-    {
-      "stack": "mekanism_chemical:mekanism:fissile_fuel"
-    },
-    {
-      "stack": "mekanism_chemical:mekanism:uranium_hexafluoride"
-    },
-    {
-      "stack": "mekanism_chemical:mekanism:uranium_oxide"
-    },
-    {
-      "stack": "item:mekanism:yellow_cake_uranium"
-    },
-    {
-      "stack": "item:mekanismgenerators:fission_reactor_port"
-    },
-    {
-      "stack": "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:osmium\"}"
-    },
-    {
-      "stack": "item:ae2:energy_level_emitter"
-    },
-    {
-      "stack": "item:ae2:level_emitter"
-    },
-    {
-      "stack": "item:mekanism:chemical_oxidizer"
-    },
-    {
-      "stack": "mekanism_chemical:mekanism:hydrofluoric_acid"
-    },
-    {
-      "stack": {
-        "type": "mekanism_chemical",
-        "id": "mekanism:sulfuric_acid",
-        "amount": 900
-      }
-    },
-    {
-      "stack": "item:mekanism:block_fluorite"
-    },
-    {
-      "stack": "mekanism_chemical:mekanism:water_vapor"
-    },
-    {
-      "stack": "mekanism_chemical:mekanism:sulfur_trioxide"
-    },
-    {
-      "stack": {
-        "type": "mekanism_chemical",
-        "id": "mekanism:sulfur_dioxide",
-        "amount": 2
-      }
-    },
-    {
-      "stack": "mekanism_chemical:mekanism:oxygen"
-    },
-    {
-      "stack": {
-        "type": "mekanism_chemical",
-        "id": "mekanism:sulfur_dioxide",
-        "amount": 100
-      },
-      "recipe": "mekanism:oxidizing/sulfur_dioxide"
-    },
-    {
-      "stack": "item:mekanism:dust_sulfur"
-    },
-    {
-      "stack": "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:sulfur\"}"
-    },
-    {
-      "stack": "bee:productivebees:/fluorite"
-    },
-    {
-      "stack": "bee:productivebees:/sulfur"
-    },
-    {
-      "stack": "bee:productivebees:/diamond"
-    },
-    {
-      "stack": "bee:productivebees:/coal"
-    },
-    {
-      "stack": "bee:productivebees:/leafcutter_bee"
-    },
-    {
-      "stack": "item:mekanism:personal_chest"
-    },
-    {
-      "stack": "mekanism_chemical:mekanism:polonium"
-    },
-    {
-      "stack": "mekanism_chemical:mekanism:plutonium"
-    },
-    {
-      "stack": "item:mekanism:pellet_plutonium"
-    },
-    {
-      "stack": "item:mekanism:pellet_polonium"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "mekanism:hdpe_pellet",
-        "amount": 3
-      }
-    },
-    {
-      "stack": "item:mekanism:substrate"
-    },
-    {
-      "stack": "item:mekanism:substrate",
-      "recipe": "mekanism:reaction/substrate/water_hydrogen"
-    },
-    {
-      "stack": "item:mekanism:hdpe_sheet",
-      "recipe": "mekanism:enriching/hdpe_sheet"
-    },
-    {
-      "stack": "item:mekanism:enrichment_chamber"
-    },
-    {
-      "stack": "item:mekanism:solar_neutron_activator"
-    },
-    {
-      "stack": "item:powah:uraninite_raw"
-    },
-    {
-      "stack": "item:powah:uraninite"
-    },
-    {
-      "stack": "item:megacells:radioactive_chemical_cell"
-    },
-    {
-      "stack": "item:mekanism:ultimate_chemical_tank"
-    },
-    {
-      "stack": "item:mekanism:elite_chemical_tank"
-    },
-    {
-      "stack": "item:mekanism:advanced_chemical_tank"
-    },
-    {
-      "stack": "item:megacells:radioactive_cell_component"
-    },
-    {
-      "stack": "item:mekanism:radioactive_waste_barrel"
-    },
-    {
-      "stack": "item:mekanismgenerators:fusion_reactor_controller"
-    },
-    {
-      "stack": "item:mekanismgenerators:fusion_reactor_frame"
-    },
-    {
-      "stack": "item:mekanismgenerators:fusion_reactor_port"
-    },
-    {
-      "stack": "item:mekanismgenerators:laser_focus_matrix"
-    },
-    {
-      "stack": "item:mekanism:resistive_heater"
-    },
-    {
-      "stack": "item:integratedtunnels:part_importer_fluid"
-    },
-    {
-      "stack": "item:integratedtunnels:part_interface_fluid"
-    },
-    {
-      "stack": "item:ae2:fluid_cell_housing"
-    },
-    {
-      "stack": "mekanism_chemical:mekanismgenerators:fusion_fuel"
-    },
-    {
-      "stack": "mekanism_chemical:mekanismgenerators:tritium"
-    },
-    {
-      "stack": "mekanism_chemical:mekanismgenerators:deuterium"
-    },
-    {
-      "stack": "item:ae2:toggle_bus"
-    },
-    {
-      "stack": "item:mekanism:dust_bronze"
-    },
-    {
-      "stack": "item:mekanism:structural_glass"
-    },
-    {
-      "stack": "item:elevatorid:elevator_white"
-    },
-    {
-      "stack": "item:mekanism:laser"
-    },
-    {
-      "stack": "item:mekanism:laser_amplifier"
-    },
-    {
-      "stack": "item:appmek:chemical_p2p_tunnel"
-    },
-    {
-      "stack": "item:mekanismgenerators:hohlraum"
-    },
-    {
-      "stack": "item:mekanism:sps_casing"
-    },
-    {
-      "stack": "item:mekanism:sps_port"
-    },
-    {
-      "stack": "item:mekanism:supercharged_coil"
-    },
-    {
-      "stack": "item:mysticalagriculture:mystical_fertilizer"
-    },
-    {
-      "stack": "item:mekanism:boiler_casing"
-    },
-    {
-      "stack": "item:mekanism:pressure_disperser"
-    },
-    {
-      "stack": "item:mekanism:superheating_element"
-    },
-    {
-      "stack": "item:mekanism:boiler_valve"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "mekanismcovers:cover",
-        "nbt": "{\"mekanismcovers:cover_block\":\"minecraft:deepslate_tiles\"}",
-        "amount": 2
-      }
-    },
-    {
-      "stack": "item:mekanism:qio_drive_array"
-    },
-    {
-      "stack": "item:mekanism:qio_drive_supermassive"
-    },
-    {
-      "stack": "item:mekanism:qio_importer"
-    },
-    {
-      "stack": "item:mekanism:qio_exporter"
-    },
-    {
-      "stack": "item:mekanism:qio_drive_time_dilating"
-    },
-    {
-      "stack": "item:mekanism:qio_drive_hyper_dense"
-    },
-    {
-      "stack": "item:mekanism:qio_drive_base"
-    },
-    {
-      "stack": "item:mekanism:modification_station"
-    },
-    {
-      "stack": "item:mekanism:mekasuit_helmet"
-    },
-    {
-      "stack": "item:mekanism:mekasuit_bodyarmor"
-    },
-    {
-      "stack": "item:mekanism:mekasuit_pants"
-    },
-    {
-      "stack": "item:mekanism:mekasuit_boots"
-    },
-    {
-      "stack": "item:minecraft:netherite_helmet"
-    },
-    {
-      "stack": "item:minecraft:netherite_chestplate"
-    },
-    {
-      "stack": "item:minecraft:netherite_leggings"
-    },
-    {
-      "stack": "item:minecraft:netherite_boots"
-    },
-    {
-      "stack": "item:mekanism:module_base"
-    },
-    {
-      "stack": "item:mekanism:module_color_modulation_unit"
-    },
-    {
-      "stack": "item:mekanism:dye_base"
-    },
-    {
-      "stack": "item:occultism:spawn_egg/possessed_endermite"
-    },
-    {
-      "stack": "item:occultism:ritual_dummy/possess_endermite"
-    },
-    {
-      "stack": "item:occultism:book_of_binding_bound_foliot"
-    },
-    {
-      "stack": "item:occultism:book_of_binding_bound_foliot",
-      "recipe": "occultism:occultism.bound_book_of_bindingitem.occultism.book_of_binding_foliot"
-    },
-    {
-      "stack": "item:occultism:book_of_binding_foliot"
-    },
-    {
-      "stack": "item:sophisticatedstorage:stack_upgrade_tier_5"
-    },
-    {
-      "stack": "item:sophisticatedstorage:advanced_magnet_upgrade"
-    },
-    {
-      "stack": "item:sophisticatedstorage:basic_to_netherite_tier_upgrade"
-    },
-    {
-      "stack": "item:sophisticatedstorage:basic_to_diamond_tier_upgrade"
-    },
-    {
-      "stack": "item:sophisticatedstorage:basic_to_gold_tier_upgrade"
-    },
-    {
-      "stack": "item:sophisticatedstorage:basic_to_iron_tier_upgrade"
-    },
-    {
-      "stack": "item:sophisticatedstorage:stack_upgrade_tier_4",
-      "recipe": "sophisticatedstorage:stack_upgrade_tier_4"
-    },
-    {
-      "stack": "item:sophisticatedstorage:stack_upgrade_tier_2"
-    },
-    {
-      "stack": "item:sophisticatedstorage:stack_upgrade_tier_2",
-      "recipe": "sophisticatedstorage:stack_upgrade_tier_2"
-    },
-    {
-      "stack": "item:sophisticatedstorage:stack_upgrade_tier_1"
-    },
-    {
-      "stack": "item:mob_grinding_utils:ender_inhibitor_on"
-    },
-    {
-      "stack": "item:apotheosis:salvaging_table"
-    },
-    {
-      "stack": "item:extendedae:tag_export_bus"
-    },
-    {
-      "stack": "item:apothic_enchanting:treasure_shelf"
-    },
-    {
-      "stack": "item:apothic_enchanting:geode_shelf"
-    },
-    {
-      "stack": "item:apothic_enchanting:hellshelf"
-    },
-    {
-      "stack": "item:apothic_enchanting:infused_hellshelf"
-    },
-    {
-      "stack": "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:regeneration\"}}"
-    },
-    {
-      "stack": "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:awkward\"}}"
-    },
-    {
-      "stack": "item:apothic_enchanting:heart_seashelf"
-    },
-    {
-      "stack": "item:apothic_enchanting:infused_seashelf"
-    },
-    {
-      "stack": "item:minecraft:heart_of_the_sea"
-    },
-    {
-      "stack": "item:minecraft:pufferfish"
-    },
-    {
-      "stack": "item:apothic_enchanting:dormant_deepshelf"
-    },
-    {
-      "stack": "item:minecraft:cracked_deepslate_tiles"
-    },
-    {
-      "stack": "item:apothic_enchanting:echoing_deepshelf"
-    },
-    {
-      "stack": "item:apothic_enchanting:echoing_sculkshelf"
-    },
-    {
-      "stack": "item:minecraft:soul_lantern"
-    },
-    {
-      "stack": "item:apothic_enchanting:deepshelf"
-    },
-    {
-      "stack": "item:apothic_enchanting:soul_touched_deepshelf"
-    },
-    {
-      "stack": "item:apothic_enchanting:soul_touched_sculkshelf"
-    },
-    {
-      "stack": "item:apothic_enchanting:draconic_endshelf"
-    },
-    {
-      "stack": "item:apothic_enchanting:endshelf"
-    },
-    {
-      "stack": "item:apothic_enchanting:infused_breath"
-    },
-    {
-      "stack": "item:minecraft:glistering_melon_slice"
-    },
-    {
-      "stack": "item:mysticalagriculture:nature_seeds"
-    },
-    {
-      "stack": "item:mysticalagriculture:nature_agglomeratio"
-    },
-    {
-      "stack": "item:minecraft:melon"
-    },
-    {
-      "stack": "item:apothic_enchanting:melonshelf"
-    },
-    {
-      "stack": "item:mysticalagriculture:dragon_egg_seeds"
-    },
-    {
-      "stack": "item:apothic_enchanting:library"
-    },
-    {
-      "stack": "item:apothic_enchanting:ender_library"
-    },
-    {
-      "stack": "item:apothic_enchanting:filtering_shelf"
-    },
-    {
-      "stack": "item:apothic_enchanting:seashelf"
-    },
-    {
-      "stack": "item:apotheosis:reforging_table"
-    },
-    {
-      "stack": "item:apotheosis:augmenting_table"
-    },
-    {
-      "stack": "item:apotheosis:simple_reforging_table"
-    },
-    {
-      "stack": "item:allthemodium:alloy_axe"
-    },
-    {
-      "stack": "item:apotheosis:sigil_of_socketing"
-    },
-    {
-      "stack": "item:apotheosis:sigil_of_rebirth"
-    },
-    {
-      "stack": "item:apotheosis:sigil_of_enhancement"
-    },
-    {
-      "stack": "item:apotheosis:gem_fused_slate"
-    },
-    {
-      "stack": "item:apotheosis:gem{\"apotheosis:gem\":\"apotheosis:core/ballast\",\"apotheosis:purity\":\"perfect\"}"
-    },
-    {
-      "stack": "item:apotheosis:gem{\"apotheosis:gem\":\"apotheosis:core/lightning\",\"apotheosis:purity\":\"perfect\"}"
-    },
-    {
-      "stack": "item:alltheores:bronze_ore_hammer"
-    },
-    {
-      "stack": "item:mekanism:block_bronze"
-    },
-    {
-      "stack": "item:mekanism:ingot_bronze"
-    },
-    {
-      "stack": "item:alltheores:copper_ore_hammer"
-    },
-    {
-      "stack": "item:minecraft:blast_furnace"
-    },
-    {
-      "stack": "item:actuallyadditions:coal_generator"
-    },
-    {
-      "stack": "item:apotheosis:potion_charm{\"minecraft:potion_contents\":{potion:\"potionsmaster:redstone\"}}"
-    },
-    {
-      "stack": "item:minecraft:blaze_powder"
-    },
-    {
-      "stack": "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"potionsmaster:redstone\"}}"
-    },
-    {
-      "stack": "item:potionsmaster:calcinated_redstone_oresight_powder"
-    },
-    {
-      "stack": "item:potionsmaster:redstone_oresight_powder"
-    },
-    {
-      "stack": "item:potionsmaster:ender_powder"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "potionsmaster:pestle",
-        "remainder": "item:potionsmaster:pestle"
-      }
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "potionsmaster:tile_mortar",
-        "remainder": "item:potionsmaster:tile_mortar"
-      }
-    },
-    {
-      "stack": "item:mekanism:crusher"
-    },
-    {
-      "stack": "item:mekanism:steel_casing"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "minecraft:lava_bucket",
-        "remainder": "item:minecraft:bucket"
-      }
-    },
-    {
-      "stack": "item:potionsmaster:calcinated_diamond_oresight_powder"
-    },
-    {
-      "stack": "item:potionsmaster:diamond_oresight_powder"
-    },
-    {
-      "stack": "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"potionsmaster:diamond\"}}"
-    },
-    {
-      "stack": "item:apotheosis:potion_charm{\"minecraft:potion_contents\":{potion:\"potionsmaster:diamond\"}}"
-    },
-    {
-      "stack": "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:water\"}}"
-    },
-    {
-      "stack": "item:minecraft:shears"
-    },
-    {
-      "stack": "item:minecraft:short_grass"
-    },
-    {
-      "stack": "item:mekanism:bio_fuel"
-    },
-    {
-      "stack": "item:mekanismgenerators:gas_burning_generator"
+      "stack": "item:mekanism:basic_fluid_tank"
     },
     {
       "stack": "item:mekanism:electrolytic_core"
     },
     {
-      "stack": "item:mekanism:dust_gold"
+      "stack": "item:mekanism:enrichment_chamber"
     },
     {
-      "stack": "item:mekanism:dust_iron"
+      "stack": "item:mekanismgenerators:gas_burning_generator"
     },
     {
-      "stack": "item:mekanism:dust_osmium"
+      "stack": "item:cookingforblockheads:sink"
     },
     {
-      "stack": "item:tiab:time_in_a_bottle"
+      "stack": "item:mekanism:configurator"
     },
     {
-      "stack": "item:mekanism:basic_energy_cube"
+      "stack": "item:mekanism:gauge_dropper"
     },
     {
-      "stack": "item:minecraft:hopper"
-    },
-    {
-      "stack": "item:mekanism:ingot_steel"
+      "stack": "item:mekanism:upgrade_speed"
     },
     {
       "stack": "item:mekanism:upgrade_energy"
-    },
-    {
-      "stack": "item:mekanism:energized_smelter"
-    },
-    {
-      "stack": "item:mekanism:basic_control_circuit"
     },
     {
       "stack": "item:mekanism:basic_tier_installer"
@@ -641,65 +46,105 @@
       "stack": "item:mekanism:elite_tier_installer"
     },
     {
-      "stack": "item:silentgear:stone_anvil"
-    },
-    {
-      "stack": "item:silentgear:crude_knife"
-    },
-    {
-      "stack": "item:silentgear:template_board"
-    },
-    {
-      "stack": "item:silentgear:blueprint_book"
-    },
-    {
-      "stack": "item:akashictome:tome"
-    },
-    {
-      "stack": "item:mekanism:dust_refined_obsidian"
+      "stack": "item:mekanism:ultimate_tier_installer"
     },
     {
       "stack": "item:mekanism:dust_obsidian"
     },
     {
-      "stack": "item:enderio:sag_mill"
+      "stack": "item:mekanismtools:refined_obsidian_helmet"
     },
     {
-      "stack": "#item:c:gears/iron"
+      "stack": "item:mekanismtools:refined_obsidian_chestplate"
     },
     {
-      "stack": "item:enderio:dark_steel_ingot"
+      "stack": "item:mekanismtools:refined_obsidian_leggings"
     },
     {
-      "stack": "item:enderio:void_chassis"
+      "stack": "item:mekanismtools:refined_obsidian_boots"
     },
     {
-      "stack": "item:minecraft:piston"
+      "stack": "item:mekanismtools:refined_obsidian_pickaxe"
     },
     {
-      "stack": "item:minecraft:flint"
+      "stack": "item:mekanismtools:refined_obsidian_sword"
     },
     {
-      "stack": "item:industrialforegoing:iron_gear",
-      "recipe": "industrialforegoing:iron_gear"
+      "stack": "item:evilcraft:dark_stick"
     },
     {
-      "stack": "item:enderio:grains_of_infinity"
+      "stack": "item:evilcraft:undead_planks"
     },
     {
-      "stack": "item:minecraft:fletching_table"
+      "stack": "item:evilcraft:blood_extractor"
     },
     {
-      "stack": "item:tombstone:decorative_subaraki_grave"
+      "stack": "item:comforts:hammock_white"
     },
     {
-      "stack": "item:tombstone:dark_marble"
+      "stack": "item:comforts:rope_and_nail"
     },
     {
-      "stack": "item:tombstone:book_of_disenchantment"
+      "stack": "item:comforts:sleeping_bag_white"
     },
     {
-      "stack": "item:sophisticatedbackpacks:diamond_backpack"
+      "stack": "item:kubejs:silent_allthemodium_plate"
+    },
+    {
+      "stack": "item:kubejs:silent_vibranium_plate"
+    },
+    {
+      "stack": "item:kubejs:silent_unobtainium_plate"
+    },
+    {
+      "stack": "item:sgearmetalworks:pickaxe_cast"
+    },
+    {
+      "stack": "item:sophisticatedbackpacks:backpack"
+    },
+    {
+      "stack": "item:minecraft:ghast_tear"
+    },
+    {
+      "stack": "item:minecraft:elytra"
+    },
+    {
+      "stack": "item:minecraft:diamond_block"
+    },
+    {
+      "stack": "item:apotheosis:potion_charm{\"minecraft:potion_contents\":{potion:\"potionsmaster:diamond\"}}"
+    },
+    {
+      "stack": "item:minecraft:potion"
+    },
+    {
+      "stack": "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"potionsmaster:diamond\"}}"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "potionsmaster:tile_mortar",
+        "remainder": "item:potionsmaster:tile_mortar"
+      }
+    },
+    {
+      "stack": "item:minecraft:blaze_powder"
+    },
+    {
+      "stack": "item:minecraft:ghast_tear",
+      "recipe": "reliquary:uncrafting/ghast_tear"
+    },
+    {
+      "stack": "item:integrateddynamics:squeezer"
+    },
+    {
+      "stack": "item:minecraft:armor_stand"
+    },
+    {
+      "stack": "item:minecraft:spawner"
+    },
+    {
+      "stack": "item:sophisticatedbackpacks:crafting_upgrade"
     },
     {
       "stack": "item:minecraft:leather"
@@ -708,31 +153,73 @@
       "stack": "item:actuallyadditions:atomic_reconstructor"
     },
     {
-      "stack": "item:actuallyadditions:iron_casing"
+      "stack": "item:mekanism:precision_sawmill"
     },
     {
-      "stack": "item:sophisticatedbackpacks:stack_upgrade_starter_tier"
+      "stack": "item:minecraft:clay_ball"
     },
     {
-      "stack": "item:sophisticatedbackpacks:stack_upgrade_tier_1"
+      "stack": "item:constructionstick:netherite_stick"
     },
     {
-      "stack": "item:sophisticatedbackpacks:stack_upgrade_tier_2"
+      "stack": "item:minecraft:netherite_block"
     },
     {
-      "stack": "item:sophisticatedbackpacks:upgrade_base"
+      "stack": "item:minecraft:netherite_ingot"
     },
     {
-      "stack": "item:silentgear:crimson_iron_ingot"
+      "stack": "item:mekanism:ultimate_control_circuit"
     },
     {
-      "stack": "item:silentgear:alloy_forge"
+      "stack": "item:mekanism:cardboard_box"
     },
     {
-      "stack": "item:fluxnetworks:flux_plug"
+      "stack": "item:minecraft:comparator"
     },
     {
-      "stack": "item:fluxnetworks:flux_point"
+      "stack": "item:mob_grinding_utils:mob_swab"
+    },
+    {
+      "stack": "item:justdirethings:upgrade_hammer"
+    },
+    {
+      "stack": "item:forbidden_arcanus:polished_darkstone"
+    },
+    {
+      "stack": "item:forbidden_arcanus:chiseled_polished_darkstone"
+    },
+    {
+      "stack": "item:occultism:butcher_knife"
+    },
+    {
+      "stack": "item:forbidden_arcanus:blood_test_tube{\"forbidden_arcanus:essence_storage\":{data:{amount:3000,type:\"blood\"},limit:3000}}"
+    },
+    {
+      "stack": "item:forbidden_arcanus:test_tube"
+    },
+    {
+      "stack": "item:forbidden_arcanus:rune"
+    },
+    {
+      "stack": "item:forbidden_arcanus:rune_block"
+    },
+    {
+      "stack": "item:minecraft:glass_bottle"
+    },
+    {
+      "stack": "item:forbidden_arcanus:obsidiansteel_ingot"
+    },
+    {
+      "stack": "item:minecraft:nether_bricks"
+    },
+    {
+      "stack": "item:forbidden_arcanus:edelwood_planks"
+    },
+    {
+      "stack": "item:trashcans:item_trash_can"
+    },
+    {
+      "stack": "item:allthemodium:teleport_pad"
     },
     {
       "stack": "item:fluxnetworks:flux_dust"
@@ -741,55 +228,34 @@
       "stack": "item:fluxnetworks:flux_core"
     },
     {
-      "stack": "item:allthemodium:teleport_pad"
+      "stack": "item:rftoolsbase:filter_module"
     },
     {
-      "stack": {
-        "type": "item",
-        "id": "silentgear:raw_azure_silver",
-        "amount": 19
-      }
+      "stack": "item:mekanism:ultimate_control_circuit",
+      "recipe": "mekanism:control_circuit/ultimate"
     },
     {
-      "stack": "item:silentgear:azure_electrum_ingot"
+      "stack": "item:mekanism:elite_control_circuit",
+      "recipe": "mekanism:control_circuit/elite"
     },
     {
-      "stack": "item:potionsmaster:calcinated_gold_oresight_powder"
+      "stack": "item:mekanism:advanced_control_circuit",
+      "recipe": "mekanism:control_circuit/advanced"
     },
     {
-      "stack": "item:potionsmaster:gold_oresight_powder"
+      "stack": "item:productivemetalworks:white_foundry_controller"
     },
     {
-      "stack": "item:silentgear:crude_hammer"
+      "stack": "item:productivemetalworks:white_foundry_drain"
     },
     {
-      "stack": {
-        "type": "item",
-        "id": "mekanism:dirty_netherite_scrap",
-        "amount": 3
-      },
-      "recipe": "mekanism:processing/netherite/ancient_debris_to_dirty_scrap"
+      "stack": "item:productivemetalworks:white_foundry_tank"
     },
     {
-      "stack": "item:silentgear:tyrian_steel_ingot"
+      "stack": "item:productivemetalworks:white_fire_bricks"
     },
     {
-      "stack": "item:silentgear:netherwood_sapling"
-    },
-    {
-      "stack": "item:productivemetalworks:powered_heating_coil"
-    },
-    {
-      "stack": "item:productivemetalworks:high_powered_heating_coil"
-    },
-    {
-      "stack": "item:productivemetalworks:casting_basin"
-    },
-    {
-      "stack": "item:productivemetalworks:casting_table"
-    },
-    {
-      "stack": "item:productivemetalworks:light_blue_fire_bricks"
+      "stack": "item:productivemetalworks:liquid_heating_coil"
     },
     {
       "stack": "item:productivemetalworks:fire_brick"
@@ -798,171 +264,65 @@
       "stack": "item:productivemetalworks:fire_clay"
     },
     {
+      "stack": "#item:minecraft:smelts_to_glass"
+    },
+    {
+      "stack": "item:productivemetalworks:light_gray_fire_bricks"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "productivemetalworks:black_fire_bricks",
+        "amount": 4
+      },
+      "recipe": "productivemetalworks:crafting/black_fire_bricks"
+    },
+    {
+      "stack": "item:productivemetalworks:black_fire_bricks"
+    },
+    {
+      "stack": "item:productivemetalworks:black_foundry_controller"
+    },
+    {
       "stack": "item:productivemetalworks:black_foundry_drain"
-    },
-    {
-      "stack": "item:twilightforest:uncrafting_table"
-    },
-    {
-      "stack": "item:twilightforest:maze_map_focus"
-    },
-    {
-      "stack": "item:productivemetalworks:black_foundry_window"
     },
     {
       "stack": "item:productivemetalworks:black_foundry_tank"
     },
     {
-      "stack": "item:allthemodium:raw_allthemodium"
-    },
-    {
-      "stack": "item:allthemodium:allthemodium_ore"
-    },
-    {
-      "stack": "item:silentgear:glittery_dust"
-    },
-    {
-      "stack": "item:minecraft:popped_chorus_fruit"
-    },
-    {
-      "stack": "item:minecraft:glowstone_dust"
-    },
-    {
-      "stack": "item:silentgear:emerald_shard"
-    },
-    {
-      "stack": "item:silentgear:nether_banana"
-    },
-    {
-      "stack": "item:sgearmetalworks:pickaxe_cast"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "silentgear:alloy_ingot",
-        "nbt": "{\"silentgear:material_list\":[{item:{count:1,id:\"silentgear:tyrian_steel_ingot\"},material:\"silentgear:tyrian_steel\"},{item:{count:1,id:\"silentgear:crimson_steel_ingot\"},material:\"silentgear:crimson_steel\"},{item:{count:1,id:\"silentgear:crimson_steel_ingot\"},material:\"silentgear:crimson_steel\"},{item:{count:1,id:\"silentgear:azure_electrum_ingot\"},material:\"silentgear:azure_electrum\"}]}",
-        "amount": 2
-      }
-    },
-    {
-      "stack": "item:apotheosis:potion_charm{\"minecraft:potion_contents\":{potion:\"potionsmaster:allthemodium\"}}"
-    },
-    {
-      "stack": "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"potionsmaster:allthemodium\"}}"
-    },
-    {
-      "stack": "item:potionsmaster:calcinated_allthemodium_oresight_powder"
-    },
-    {
-      "stack": "item:potionsmaster:allthemodium_oresight_powder"
-    },
-    {
-      "stack": "item:allthemodium:allthemodium_slate_ore"
-    },
-    {
-      "stack": "item:rftoolsbuilder:builder"
-    },
-    {
-      "stack": "item:rftoolsbuilder:shape_card_quarry_clear"
-    },
-    {
-      "stack": "item:rftoolsbuilder:shape_card_quarry"
-    },
-    {
-      "stack": "item:minecraft:diamond_pickaxe"
-    },
-    {
-      "stack": "item:minecraft:diamond_shovel"
-    },
-    {
-      "stack": "item:rftoolsbuilder:shape_card_def"
-    },
-    {
-      "stack": "item:rftoolsbase:filter_module"
-    },
-    {
-      "stack": "item:mekanism:upgrade_speed"
-    },
-    {
-      "stack": "item:justdirethings:itemcollector"
-    },
-    {
-      "stack": "item:justdirethings:gooblock_tier3"
-    },
-    {
-      "stack": "item:justdirethings:gooblock_tier4"
-    },
-    {
-      "stack": "item:sophisticatedbackpacks:void_upgrade"
-    },
-    {
-      "stack": "item:allthemodium:allthemodium_pickaxe"
-    },
-    {
-      "stack": "item:silentgear:salvager"
-    },
-    {
-      "stack": "item:allthemodium:unobtainium_ore"
-    },
-    {
-      "stack": "item:apotheosis:potion_charm{\"minecraft:potion_contents\":{potion:\"potionsmaster:unobtainium\"}}"
-    },
-    {
-      "stack": "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"potionsmaster:unobtainium\"}}"
-    },
-    {
-      "stack": "item:potionsmaster:calcinated_unobtainium_oresight_powder"
-    },
-    {
-      "stack": "item:potionsmaster:unobtainium_oresight_powder"
-    },
-    {
-      "stack": "item:silentgear:grip_blueprint"
-    },
-    {
-      "stack": "item:silentgear:starlight_charger"
-    },
-    {
-      "stack": "item:silentgear:blaze_gold_block"
-    },
-    {
-      "stack": "item:minecraft:bone_block"
-    },
-    {
-      "stack": "item:silentgear:blaze_gold_ingot"
-    },
-    {
-      "stack": {
-        "type": "fluid",
-        "id": "sgearmetalworks:molten_blaze_gold",
-        "amount": 90
-      }
-    },
-    {
       "stack": "item:silentgear:tyrian_steel_block"
     },
     {
-      "stack": {
-        "type": "fluid",
-        "id": "sgearmetalworks:molten_tyrian_steel",
-        "amount": 0
-      }
+      "stack": "item:silentgear:alloy_forge"
+    },
+    {
+      "stack": "item:silentgear:crimson_steel_ingot"
     },
     {
       "stack": {
         "type": "fluid",
         "id": "sgearmetalworks:molten_crimson_steel",
-        "amount": 0
+        "amount": 90
       }
     },
     {
-      "stack": "item:minecraft:magma_cream"
+      "stack": "item:silentgear:upgrade_base"
+    },
+    {
+      "stack": "item:productivemetalworks:ingot_cast"
     },
     {
       "stack": {
         "type": "item",
-        "id": "silentgear:crimson_steel_ingot",
-        "amount": 3
+        "id": "silentgear:crimson_iron_ingot",
+        "amount": 6
+      }
+    },
+    {
+      "stack": {
+        "type": "fluid",
+        "id": "sgearmetalworks:molten_tyrian_steel",
+        "amount": 810
       }
     },
     {
@@ -973,48 +333,562 @@
       }
     },
     {
-      "stack": "item:silentgear:starmetal_dust"
+      "stack": {
+        "type": "fluid",
+        "id": "sgearmetalworks:molten_azure_silver",
+        "amount": 360
+      }
     },
     {
-      "stack": "item:silentgear:azure_electrum_dust"
+      "stack": {
+        "type": "tag",
+        "registry": "minecraft:fluid",
+        "id": "c:molten_gold",
+        "amount": 180
+      }
+    },
+    {
+      "stack": {
+        "type": "fluid",
+        "id": "productivemetalworks:molten_ender",
+        "amount": 100
+      }
+    },
+    {
+      "stack": "item:silentgear:starlight_charger"
+    },
+    {
+      "stack": {
+        "type": "fluid",
+        "id": "sgearmetalworks:molten_blaze_gold",
+        "amount": 90
+      }
+    },
+    {
+      "stack": "item:silentgear:starmetal_dust"
     },
     {
       "stack": "item:silentgear:blaze_gold_dust"
     },
     {
+      "stack": "item:silentgear:azure_electrum_dust"
+    },
+    {
+      "stack": "item:silentgear:azure_silver_dust"
+    },
+    {
       "stack": "item:silentgear:nether_star_fragment"
     },
     {
-      "stack": "item:minecraft:netherite_ingot"
+      "stack": "item:sophisticatedbackpacks:stack_upgrade_starter_tier"
+    },
+    {
+      "stack": "item:sophisticatedbackpacks:stack_upgrade_tier_3"
+    },
+    {
+      "stack": "item:sophisticatedbackpacks:stack_upgrade_tier_1"
+    },
+    {
+      "stack": "item:sophisticatedbackpacks:stack_upgrade_tier_4"
+    },
+    {
+      "stack": "item:silentgear:glittery_dust"
+    },
+    {
+      "stack": "item:minecraft:popped_chorus_fruit"
+    },
+    {
+      "stack": "item:silentgear:emerald_shard"
     },
     {
       "stack": "item:silentgear:coating_blueprint"
     },
     {
-      "stack": "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:efficiency\":5}}}"
+      "stack": "item:silentgear:tip_blueprint"
     },
     {
-      "stack": "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fortune\":5}}}"
+      "stack": "item:forbidden_arcanus:soul"
     },
     {
-      "stack": "item:evilcraft:vengeance_pickaxe{\"minecraft:enchantments\":{levels:{\"evilcraft:vengeance\":3,\"minecraft:fortune\":5}}}"
+      "stack": "item:forbidden_arcanus:utrem_jar"
     },
     {
-      "stack": "item:enderio:enchanter"
+      "stack": "item:sophisticatedbackpacks:stack_upgrade_tier_2"
     },
     {
-      "stack": "item:minecraft:writable_book"
+      "stack": "item:create:dough"
+    },
+    {
+      "stack": "item:minecraft:lime_dye"
+    },
+    {
+      "stack": "item:create:wheat_flour"
+    },
+    {
+      "stack": "#item:c:slime_balls"
+    },
+    {
+      "stack": "item:silentgear:azure_electrum_ingot"
+    },
+    {
+      "stack": "item:silentgear:grip_blueprint"
+    },
+    {
+      "stack": "item:forbidden_arcanus:enchanted_soul"
+    },
+    {
+      "stack": "item:forbidden_arcanus:growing_edelwood"
+    },
+    {
+      "stack": "item:forbidden_arcanus:arcane_crystal_block"
+    },
+    {
+      "stack": "item:forbidden_arcanus:arcane_crystal_obelisk"
+    },
+    {
+      "stack": "item:forbidden_arcanus:soul_extractor"
+    },
+    {
+      "stack": "item:forbidden_arcanus:darkstone"
+    },
+    {
+      "stack": "item:forbidden_arcanus:hephaestus_forge_tier_1"
+    },
+    {
+      "stack": "item:forbidden_arcanus:hephaestus_forge_tier_2"
+    },
+    {
+      "stack": "item:forbidden_arcanus:hephaestus_forge_tier_3"
+    },
+    {
+      "stack": "item:forbidden_arcanus:gilded_chiseled_polished_darkstone"
+    },
+    {
+      "stack": "item:forbidden_arcanus:chiseled_arcane_polished_darkstone"
+    },
+    {
+      "stack": "item:forbidden_arcanus:deorum_nugget"
+    },
+    {
+      "stack": "item:forbidden_arcanus:deorum_ingot"
+    },
+    {
+      "stack": "item:forbidden_arcanus:arcane_polished_darkstone_slab"
+    },
+    {
+      "stack": "item:forbidden_arcanus:arcane_polished_darkstone"
+    },
+    {
+      "stack": "item:minecraft:candle"
+    },
+    {
+      "stack": "item:justdirethings:eclipsealloy_ingot"
+    },
+    {
+      "stack": "item:justdirethings:raw_eclipsealloy"
+    },
+    {
+      "stack": "item:justdirethings:raw_eclipsealloy_ore"
+    },
+    {
+      "stack": "item:occultism:chalk_white"
+    },
+    {
+      "stack": "item:occultism:chalk_gold"
+    },
+    {
+      "stack": "item:occultism:chalk_yellow_impure"
+    },
+    {
+      "stack": "item:occultism:chalk_white_impure"
+    },
+    {
+      "stack": "item:occultism:purified_ink"
+    },
+    {
+      "stack": "item:occultism:awakened_feather"
+    },
+    {
+      "stack": "item:forbidden_arcanus:mundabitur_dust"
+    },
+    {
+      "stack": "item:forbidden_arcanus:arcane_crystal_dust"
+    },
+    {
+      "stack": "item:minecraft:phantom_membrane"
+    },
+    {
+      "stack": "item:occultism:book_of_binding_bound_foliot"
+    },
+    {
+      "stack": "item:occultism:datura"
+    },
+    {
+      "stack": "item:occultism:otherworld_goggles"
+    },
+    {
+      "stack": "item:occultism:otherstone"
+    },
+    {
+      "stack": "item:occultism:otherworld_log"
+    },
+    {
+      "stack": "item:minecraft:bone_meal"
+    },
+    {
+      "stack": "item:occultism:otherworld_ashes"
+    },
+    {
+      "stack": "item:occultism:burnt_otherstone"
+    },
+    {
+      "stack": "item:occultism:dictionary_of_spirits"
+    },
+    {
+      "stack": "item:occultism:spawn_egg/possessed_phantom"
+    },
+    {
+      "stack": "item:occultism:book_of_binding_foliot"
+    },
+    {
+      "stack": "item:forbidden_arcanus:darkstone_pedestal"
+    },
+    {
+      "stack": "item:forbidden_arcanus:arcane_polished_darkstone_pillar"
+    },
+    {
+      "stack": "item:farmingforblockheads:market"
+    },
+    {
+      "stack": "item:forbidden_arcanus:apply_modifier_smithing_template"
+    },
+    {
+      "stack": "item:forbidden_arcanus:eternal_stella"
+    },
+    {
+      "stack": "item:minecraft:netherite_upgrade_smithing_template"
+    },
+    {
+      "stack": "item:mob_grinding_utils:xpsolidifier"
+    },
+    {
+      "stack": "item:forbidden_arcanus:xpetrified_orb"
+    },
+    {
+      "stack": "item:chipped:etched_calcite_bricks"
+    },
+    {
+      "stack": "item:sophisticatedbackpacks:advanced_restock_upgrade"
+    },
+    {
+      "stack": "item:sophisticatedbackpacks:stonecutter_upgrade"
+    },
+    {
+      "stack": "item:sophisticatedbackpacks:advanced_refill_upgrade"
+    },
+    {
+      "stack": "item:sophisticatedbackpacks:refill_upgrade"
+    },
+    {
+      "stack": "item:constructionstick:template_unbreakable"
+    },
+    {
+      "stack": "item:constructionstick:template_battery"
+    },
+    {
+      "stack": "item:sophisticatedbackpacks:netherite_backpack"
+    },
+    {
+      "stack": "item:sophisticatedbackpacks:pickup_upgrade"
+    },
+    {
+      "stack": "item:apotheosis:potion_charm{\"minecraft:potion_contents\":{potion:\"minecraft:night_vision\"}}"
+    },
+    {
+      "stack": "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:night_vision\"}}"
+    },
+    {
+      "stack": "item:minecraft:golden_carrot"
+    },
+    {
+      "stack": "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:awkward\"}}"
+    },
+    {
+      "stack": "item:minecraft:calcite"
+    },
+    {
+      "stack": "item:minecraft:deepslate_tiles"
+    },
+    {
+      "stack": "item:rftoolsbuilder:shape_card_def"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:charcoal",
+        "amount": 4
+      }
+    },
+    {
+      "stack": "item:create:cut_calcite_bricks"
+    },
+    {
+      "stack": "item:chipped:tiny_brick_bordered_deepslate"
+    },
+    {
+      "stack": "item:mekanism:basic_universal_cable"
+    },
+    {
+      "stack": "item:mekanism:advanced_universal_cable"
+    },
+    {
+      "stack": "item:mekanism:elite_universal_cable"
+    },
+    {
+      "stack": "item:easy_villagers:trader"
+    },
+    {
+      "stack": "item:ae2:fluix_crystal"
+    },
+    {
+      "stack": "item:ae2:certus_quartz_crystal"
+    },
+    {
+      "stack": "item:ae2:drive"
+    },
+    {
+      "stack": "item:ae2:item_storage_cell_16k"
+    },
+    {
+      "stack": "item:ae2:storage_bus"
+    },
+    {
+      "stack": "item:ae2:pattern_encoding_terminal"
+    },
+    {
+      "stack": "item:ae2:crafting_terminal"
+    },
+    {
+      "stack": "item:ae2:pattern_access_terminal"
+    },
+    {
+      "stack": "item:merequester:requester_terminal"
+    },
+    {
+      "stack": "item:extendedae:ex_pattern_access_part"
     }
   ],
   "lookup_history": [
-    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:efficiency\":5}}}",
+    "item:mekanism:elite_universal_cable",
+    "item:mekanism:advanced_universal_cable",
+    "item:mekanism:basic_universal_cable",
+    "item:fluxnetworks:flux_point",
+    "item:fluxnetworks:flux_core",
+    "item:minecraft:ender_eye",
+    "item:minecraft:ender_pearl",
+    "item:fluxnetworks:flux_dust",
+    "item:minecraft:redstone_block",
+    "item:minecraft:chest",
+    "item:occultism:brush",
+    "item:minecraft:lever",
+    "item:minecraft:deepslate_tiles",
+    "item:create:cut_calcite_bricks",
+    "item:minecraft:calcite",
+    "item:rechiseledcreate:calcite_cut_polished_connecting",
+    "item:chipped:etched_calcite_bricks",
+    "item:rechiseledcreate:calcite_cut_small_brick_connecting",
+    "item:chipped:blank_calcite_carving",
+    "item:minecraft:stonecutter",
+    "item:rftoolsbuilder:shape_card_def",
+    "item:minecraft:bricks",
+    "item:apotheosis:potion_charm{\"minecraft:potion_contents\":{potion:\"minecraft:night_vision\"}}",
+    "item:minecraft:clock",
+    "item:minecraft:golden_carrot",
+    "item:minecraft:gold_nugget",
+    "item:minecraft:glass_bottle",
+    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:awkward\"}}",
+    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:night_vision\"}}",
+    "item:minecraft:carrot",
+    "item:sophisticatedbackpacks:advanced_magnet_upgrade",
+    "item:sophisticatedbackpacks:magnet_upgrade",
+    "item:sophisticatedbackpacks:pickup_upgrade",
+    "item:sophisticatedbackpacks:upgrade_base",
+    "item:sophisticatedbackpacks:advanced_void_upgrade",
+    "item:sophisticatedbackpacks:void_upgrade",
+    "item:minecraft:netherite_ingot",
+    "item:sophisticatedbackpacks:netherite_backpack",
+    "item:constructionstick:template_battery",
+    "item:constructionstick:template_angel",
+    "item:constructionstick:template_unbreakable",
+    "item:sophisticatedbackpacks:advanced_refill_upgrade",
+    "item:sophisticatedbackpacks:refill_upgrade",
+    "item:sophisticatedbackpacks:stonecutter_upgrade",
+    "item:sophisticatedbackpacks:advanced_restock_upgrade",
+    "item:sophisticatedbackpacks:restock_upgrade",
+    "item:minecraft:sticky_piston",
+    "item:minecraft:piston",
+    "item:minecraft:oak_planks",
+    "#item:minecraft:planks",
+    "#item:chipped:calcite",
+    "item:forbidden_arcanus:apply_modifier_smithing_template",
+    "item:constructionstick:netherite_stick",
+    "item:trashcans:item_trash_can",
+    "#item:c:chests/wooden",
+    {
+      "type": "fluid",
+      "id": "mekanism:brine",
+      "amount": 10
+    },
+    "fluid:mekanism:lithium",
+    "mekanism_chemical:mekanism:lithium",
+    "mekanism_chemical:mekanismgenerators:tritium",
+    {
+      "type": "mekanism_chemical",
+      "id": "mekanism:antimatter",
+      "amount": 1000
+    },
+    "item:mekanism:pellet_antimatter",
+    "item:mekanism:module_gravitational_modulating_unit",
+    "item:mekanism:pellet_polonium",
+    "mekanism_chemical:mekanism:nuclear_waste",
+    "mekanism_chemical:mekanism:fissile_fuel",
+    "item:integrateddynamics:cable",
+    {
+      "type": "tag",
+      "registry": "minecraft:fluid",
+      "id": "minecraft:water",
+      "amount": 20000
+    },
+    "item:mekanismgenerators:control_rod_assembly",
+    "item:torchmaster:feral_flare_lantern",
+    "item:mob_grinding_utils:xpsolidifier",
+    "item:mob_grinding_utils:tank",
+    "item:minecraft:hopper",
+    "item:mob_grinding_utils:entity_conveyor",
+    "item:mekanism:metallurgic_infuser",
+    "item:minecraft:furnace",
+    "item:mekanism:chemical_infuser",
+    "item:forbidden_arcanus:hephaestus_forge_tier_3",
+    "item:forbidden_arcanus:polished_darkstone_slab",
+    "item:forbidden_arcanus:chiseled_polished_darkstone",
+    "item:forbidden_arcanus:deorum_ingot",
+    "item:forbidden_arcanus:mundabitur_dust",
+    "item:tiab:time_in_a_bottle",
+    "item:forbidden_arcanus:diamond_blacksmith_gavel",
+    "item:forbidden_arcanus:blacksmith_gavel_head",
+    "item:forbidden_arcanus:hephaestus_forge_tier_2",
+    "item:forbidden_arcanus:test_tube",
+    "item:forbidden_arcanus:rune",
+    "item:forbidden_arcanus:soul_extractor",
+    "item:minecraft:quartz_block",
+    "item:forbidden_arcanus:utrem_jar",
+    "item:farmingforblockheads:market",
+    "item:minecraft:red_wool",
+    "item:evilcraft:undead_planks",
+    "item:minecraft:smithing_table",
+    "item:forbidden_arcanus:darkstone_pedestal",
+    "item:forbidden_arcanus:arcane_polished_darkstone_slab",
+    "item:forbidden_arcanus:arcane_polished_darkstone",
+    "item:forbidden_arcanus:polished_darkstone",
+    "item:forbidden_arcanus:arcane_polished_darkstone_pillar",
+    "item:forbidden_arcanus:chiseled_arcane_polished_darkstone",
+    "item:forbidden_arcanus:gilded_chiseled_polished_darkstone",
+    "item:forbidden_arcanus:deorum_nugget",
+    "item:forbidden_arcanus:arcane_crystal_dust",
+    "item:mob_grinding_utils:mob_swab",
+    "item:occultism:book_of_binding_empty",
+    "item:occultism:book_of_binding_foliot",
+    "item:minecraft:blue_dye",
+    "item:occultism:taboo_book",
+    "item:occultism:golden_sacrificial_bowl",
+    "item:occultism:sacrificial_bowl",
+    "item:occultism:chalk_yellow_impure",
+    "item:occultism:chalk_white_impure",
+    "item:occultism:dictionary_of_spirits",
+    "item:mekanism:basic_fluid_tank",
+    "item:justdirethings:upgrade_hammer",
+    "item:minecraft:diamond_pickaxe",
+    "item:justdirethings:upgrade_dropteleport",
+    "item:justdirethings:upgrade_blank",
+    "item:minecraft:ender_chest",
+    "item:justdirethings:gooblock_tier4",
+    "item:tombstone:book_of_disenchantment",
     "item:minecraft:writable_book",
-    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sharpness\":5}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:silk_touch\":1}}}",
     "item:enderio:enchanter",
-    "item:silentgear:starmetal_dust",
+    "item:justdirethings:gooblock_tier3",
+    "item:minecraft:end_crystal",
+    "item:minecraft:blaze_powder",
+    "item:mekanism:upgrade_speed",
     "item:silentgear:glittery_dust",
-    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fortune\":5}}}",
-    "item:evilcraft:vengeance_pickaxe{\"minecraft:enchantments\":{levels:{\"evilcraft:vengeance\":3,\"minecraft:fortune\":5}}}",
+    "item:silentgear:grip_blueprint",
+    "item:silentgear:blueprint_paper",
+    "item:minecraft:paper",
+    "item:silentgear:azure_electrum_ingot",
+    "item:minecraft:gold_ingot",
+    "item:silentgear:emerald_shard",
+    "item:minecraft:popped_chorus_fruit",
+    "item:minecraft:brush",
+    {
+      "type": "fluid",
+      "id": "sgearmetalworks:molten_blaze_gold",
+      "amount": 90
+    },
+    {
+      "type": "fluid",
+      "id": "sgearmetalworks:molten_tyrian_steel",
+      "amount": 810
+    },
+    "item:forbidden_arcanus:xpetrified_orb",
+    "item:minecraft:slime_ball",
+    "#item:c:slime_balls",
+    "item:create:dough",
+    "item:create:wheat_flour",
+    "item:sophisticatedbackpacks:stack_upgrade_tier_2",
+    "item:sophisticatedbackpacks:stack_upgrade_tier_3",
+    "item:sophisticatedbackpacks:stack_upgrade_tier_1",
+    "item:minecraft:iron_block",
+    "item:sophisticatedbackpacks:stack_upgrade_starter_tier",
+    "item:minecraft:netherite_upgrade_smithing_template",
+    "item:apotheosis:iron_upgrade_smithing_template",
+    "item:allthemodium:unobtainium_upgrade_smithing_template",
+    "item:allthemodium:vibranium_upgrade_smithing_template",
+    "item:allthemodium:allthemodium_upgrade_smithing_template",
+    "item:silentgear:coating_smithing_template",
+    "item:ae2:fluix_block",
+    "#item:ae2:quartz_sword",
+    "item:ae2:fluix_upgrade_smithing_template",
+    "item:forbidden_arcanus:iron_blacksmith_gavel",
+    "item:forbidden_arcanus:enchanted_soul",
+    "item:forbidden_arcanus:edelwood_log",
+    "item:forbidden_arcanus:carved_edelwood_log",
+    "item:forbidden_arcanus:growing_edelwood",
+    "item:minecraft:poppy",
+    "item:forbidden_arcanus:edelwood_planks",
+    "item:enderio:broken_spawner",
+    "item:forbidden_arcanus:arcane_crystal_block",
+    "item:enderio:conduit{\"enderio:conduit\":\"enderio:enhanced_energy\"}",
+    "item:silentgear:tip",
+    "item:sgearmetalworks:tip_cast",
+    {
+      "type": "item",
+      "id": "minecraft:netherite_scrap",
+      "amount": 9
+    },
+    "item:silentgear:tip_blueprint",
+    "item:silentgear:coating_blueprint",
+    "item:silentgear:starmetal_dust",
+    "item:silentgear:nether_star_fragment",
+    "item:silentgear:azure_electrum_dust",
+    "item:minecraft:dragon_head",
+    "item:minecraft:copper_block",
+    "item:minecraft:diamond_block",
+    "item:sophisticatedbackpacks:stack_upgrade_tier_4",
+    "item:minecraft:gold_block",
+    "item:silentgear:starlight_charger",
+    "item:minecraft:polished_blackstone",
+    "item:silentgear:blaze_gold_ingot",
+    "item:silentgear:blaze_gold_block",
     {
       "type": "fluid",
       "id": "sgearmetalworks:molten_azure_electrum",
@@ -1022,35 +896,260 @@
     },
     {
       "type": "fluid",
-      "id": "sgearmetalworks:molten_blaze_gold",
-      "amount": 90
+      "id": "sgearmetalworks:molten_azure_silver",
+      "amount": 360
     },
-    "item:silentgear:blaze_gold_dust",
+    "item:silentgear:raw_azure_silver",
     {
       "type": "fluid",
       "id": "sgearmetalworks:molten_crimson_steel",
-      "amount": 0
+      "amount": 90
     },
-    "item:sgearmetalworks:tip_cast",
-    "item:silentgear:coating_blueprint",
-    "item:silentgear:blueprint_paper",
-    "item:minecraft:netherite_ingot",
-    "item:silentgear:azure_electrum_dust",
-    "item:angelring:diamond_ring",
+    "item:silentgear:tyrian_steel_block",
+    "item:silentgear:alloy_forge",
+    "item:minecraft:blackstone",
+    "item:rechiseled:chisel",
+    {
+      "type": "item",
+      "id": "minecraft:cracked_polished_blackstone_bricks",
+      "amount": 2
+    },
+    "item:minecraft:polished_blackstone_bricks",
+    {
+      "type": "tag",
+      "registry": "minecraft:fluid",
+      "id": "c:molten_steel",
+      "amount": 360
+    },
+    "item:productivemetalworks:ingot_cast",
+    "item:silentgear:salvager",
+    "item:silentgear:material_grader",
+    "item:silentgear:advanced_upgrade_base",
+    "item:silentgear:diamond_shard",
+    "item:silentgear:upgrade_base",
+    "item:silentgear:crimson_steel_ingot",
+    "item:mekanism:basic_mechanical_pipe",
+    "item:minecraft:bucket",
+    "item:allthemodium:teleport_pad",
+    "item:productivemetalworks:casting_table",
+    "item:productivemetalworks:casting_basin",
+    "item:productivemetalworks:black_foundry_drain",
+    "item:productivemetalworks:foundry_tap",
+    "item:productivemetalworks:fire_clay",
+    "item:minecraft:blast_furnace",
+    "item:productivemetalworks:black_foundry_controller",
+    "item:productivemetalworks:black_foundry_tank",
+    "item:productivemetalworks:fire_brick",
+    "item:productivemetalworks:black_fire_bricks",
+    "#item:productivemetalworks:fire_bricks",
+    "item:productivemetalworks:white_fire_bricks",
+    "item:productivemetalworks:pink_fire_bricks",
+    "item:productivemetalworks:light_gray_fire_bricks",
+    "item:productivemetalworks:liquid_heating_coil",
+    "item:twilightforest:uncrafting_table",
+    "item:minecraft:crafting_table",
+    "item:minecraft:compass",
+    "item:twilightforest:maze_map_focus",
+    "item:mekanism:elite_control_circuit",
+    "item:mekanism:elite_tier_installer",
+    "item:mekanism:advanced_tier_installer",
+    "item:mekanism:advanced_control_circuit",
+    "item:mekanism:basic_tier_installer",
+    "item:mekanism:ultimate_tier_installer",
+    "item:mekanism:ultimate_control_circuit",
+    "item:mekanism:digital_miner",
+    "item:mekanism:logistical_sorter",
+    "item:mekanism:robit",
+    "item:mekanism:personal_chest",
+    "#item:mekanism:personal_storage",
+    "item:mekanism:energy_tablet",
+    "item:mekanism:steel_casing",
+    "item:mekanism:teleportation_core",
+    "item:minecraft:grass_block",
+    "item:rftoolsbase:filter_module",
+    "item:rftoolsbuilder:shape_card_quarry_clear",
+    "item:rftoolsbuilder:shape_card_quarry",
+    "item:fluxnetworks:flux_controller",
+    "item:fluxnetworks:flux_plug",
+    "item:fluxnetworks:flux_block",
+    "item:rftoolsbuilder:builder",
+    "item:rftoolsbase:machine_frame",
+    "item:rftoolsbuilder:shape_card_quarry_clear_silk",
+    "#item:forbidden_arcanus:edelwood_logs",
+    "item:forbidden_arcanus:rune_block",
+    "item:forbidden_arcanus:arcane_crystal",
+    "item:minecraft:phantom_membrane",
+    "item:occultism:book_of_binding_bound_foliot",
+    "item:occultism:awakened_feather",
+    "item:minecraft:black_dye",
+    "#item:c:dyes/black",
+    "item:occultism:purified_ink",
+    {
+      "type": "item",
+      "id": "occultism:otherworld_log",
+      "amount": 63
+    },
+    "item:occultism:otherstone",
+    "item:occultism:burnt_otherstone",
+    "item:occultism:butcher_knife",
+    "item:occultism:datura_seeds",
+    "item:justdirethings:eclipsealloy_hoe",
+    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:water\"}}",
+    "item:minecraft:dragon_breath",
+    "item:mob_grinding_utils:gm_chicken_feed",
+    "item:minecraft:soul_lantern",
+    "item:minecraft:iron_nugget",
+    "item:minecraft:soul_torch",
+    "item:minecraft:comparator",
+    "item:mekanism:cardboard_box",
+    {
+      "type": "item",
+      "id": "reliquary:catalyzing_gland",
+      "amount": 2
+    },
+    "item:minecraft:ancient_debris",
+    "item:mekanism:dirty_netherite_scrap",
+    "item:mekanism:dust_netherite",
+    "item:minecraft:netherite_block",
+    "item:justdirethings:raw_eclipsealloy_ore",
+    "item:justdirethings:celestigem_helmet",
+    "item:justdirethings:template_eclipsealloy",
+    "item:justdirethings:eclipsealloy_helmet",
+    "item:justdirethings:raw_eclipsealloy",
+    "item:justdirethings:eclipsealloy_ingot",
+    "item:justdirethings:eclipsealloy_block",
+    "item:mekanism:upgrade_energy",
     "item:angelring:angel_ring",
-    "item:minecraft:clock",
+    {
+      "type": "item",
+      "id": "minecraft:wither_skeleton_skull",
+      "amount": 2
+    },
+    "item:minecraft:fermented_spider_eye",
+    "item:minecraft:spawner",
+    "item:angelring:diamond_ring",
+    "item:industrialforegoing:plastic",
+    "item:industrialforegoing:mob_imprisonment_tool",
+    "item:minecraft:oak_fence",
+    "item:comforts:sleeping_bag_white",
+    "item:justdirethings:experienceholder",
+    "item:justdirethings:raw_blazegold_ore",
+    "item:justdirethings:raw_blazegold",
+    "item:justdirethings:blazegold_ingot",
+    "item:justdirethings:gooblock_tier2",
+    "item:justdirethings:gooblock_tier1",
+    "item:minecraft:redstone_torch",
+    "item:mekanism:precision_sawmill",
+    "item:sophisticatedbackpacks:crafting_upgrade",
+    "item:actuallyadditions:atomic_reconstructor",
+    "item:actuallyadditions:iron_casing",
+    "item:minecraft:stick",
+    "#item:c:rods/wooden",
+    "item:minecraft:leather",
+    {
+      "type": "item",
+      "id": "minecraft:rotten_flesh",
+      "amount": 20
+    },
+    "item:mekanism:sawdust",
+    "item:minecraft:armor_stand",
+    "item:integrateddynamics:squeezer",
+    "item:minecraft:ghast_tear",
+    "item:mekanism:jetpack",
+    "item:mekanism:basic_chemical_tank",
+    "item:simplemagnets:advancedmagnet",
+    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"potionsmaster:diamond\"}}",
+    "item:potionsmaster:diamond_oresight_powder",
+    "item:potionsmaster:ender_powder",
+    {
+      "type": "item",
+      "id": "potionsmaster:pestle",
+      "remainder": "item:potionsmaster:pestle"
+    },
+    {
+      "type": "item",
+      "id": "potionsmaster:tile_mortar",
+      "remainder": "item:potionsmaster:tile_mortar"
+    },
+    "item:potionsmaster:calcinated_diamond_oresight_powder",
+    "item:minecraft:anvil",
+    "item:evilcraft:undead_sapling",
+    "item:tombstone:decorative_grave_simple{\"tombstone:tb_model_texture\":2}",
+    {
+      "type": "item",
+      "id": "tombstone:grave_dust",
+      "amount": 2
+    },
+    "item:tombstone:blue_marble",
+    "item:tombstone:essence_of_undeath",
+    "item:tombstone:dark_marble",
+    "item:tombstone:decorative_grave_simple",
+    "item:evilcraft:vengeance_pickaxe{\"minecraft:enchantments\":{levels:{\"evilcraft:vengeance\":3,\"minecraft:fortune\":5}}}",
+    "item:evilcraft:vein_sword{\"minecraft:enchantments\":{levels:{\"minecraft:looting\":2}}}",
+    "item:evilcraft:dark_stick",
+    "item:evilcraft:blood_infuser",
+    "item:evilcraft:blood_infusion_core",
+    "item:evilcraft:dark_power_gem",
+    "item:evilcraft:blood_extractor",
+    "item:structurecompass:structure_compass",
+    "item:mekanism:atomic_disassembler",
+    "item:mekanismtools:refined_obsidian_chestplate",
+    "item:comforts:rope_and_nail",
+    "item:comforts:hammock_white",
+    "item:simplemagnets:basicmagnet",
+    "item:evilcraft:dark_spike",
+    "item:mekanismtools:refined_obsidian_sword",
+    "item:mekanism:osmium_compressor",
+    "item:mekanism:dust_obsidian",
+    "item:mekanism:energized_smelter",
+    "item:mekanism:gauge_dropper",
+    {
+      "type": "item",
+      "id": "minecraft:oak_leaves",
+      "amount": 2
+    },
+    "item:minecraft:allium",
+    "item:mekanism:basic_energy_cube",
+    "item:mekanismgenerators:gas_burning_generator",
+    "item:mekanism:electrolytic_core",
+    "item:mekanism:dynamic_tank",
+    "item:mekanism:pressurized_reaction_chamber",
+    "item:mekanism:configurator",
+    "item:create:precision_mechanism",
+    "item:cookingforblockheads:sink",
+    "item:mekanism:enrichment_chamber",
+    "item:mekanism:electrolytic_separator",
+    "item:mekanism:crusher",
+    "item:rftoolsutility:syringe{\"rftoolsutility:syringe_data\":{level:0,mob:\"minecraft:allay\"}}",
+    "item:occultism:ritual_dummy/possess_random_animal_small",
+    "item:minecraft:allay_spawn_egg",
+    "item:reliquary:rib_bone",
+    "item:actuallyadditions:coal_generator",
+    "item:akashictome:tome",
+    "item:minecraft:bookshelf",
+    "item:silentgear:blueprint_book",
+    "item:silentgear:template_board",
+    "item:silentgear:crude_hammer",
+    "item:silentgear:crude_knife",
+    "item:silentgear:crude_tool_parts",
+    "item:silentgear:stone_anvil",
+    "item:minecraft:copper_door",
+    "item:mekanism:ingot_bronze",
+    "item:alltheores:copper_ore_hammer",
+    "item:minecraft:trapped_chest",
+    "item:silentgear:shears{\"!minecraft:attribute_modifiers\":{},\"minecraft:item_name\":\u0027{\"translate\":\"item.silentgear.shears.nameProper\",\"with\":[{\"translate\":\"material.silentgear.copper\"}]}\u0027,\"minecraft:tool\":{rules:[{blocks:\"minecraft:cobweb\",correct_for_drops:1b,speed:12.5f},{blocks:\"#minecraft:leaves\",speed:12.5f},{blocks:\"#minecraft:wool\",speed:4.1666665f},{blocks:[\"minecraft:vine\",\"minecraft:glow_lichen\"],speed:1.6666666f}]},\"silentgear:construction\":{broken_count:0,example:0b,parts:[{item:{components:{\"silentgear:material_list\":[{item:{count:1,id:\"minecraft:copper_ingot\"},material:\"silentgear:copper\"}]},count:1,id:\"silentgear:shear_blades\"},part:\"silentgear:shear_blades\"},{item:{components:{\"silentgear:material_list\":[{item:{count:1,id:\"minecraft:oak_planks\"},material:\"silentgear:wood\"}]},count:1,id:\"silentgear:rod\"},part:\"silentgear:rod\"}],repairedCount:0},\"silentgear:model_index\":3,\"silentgear:model_key\":\"shears:shear_blades{copper},rod{wood},\",\"silentgear:properties\":{\"silentgear:armor\":10.0f,\"silentgear:armor_durability\":12.000001f,\"silentgear:armor_toughness\":0.0f,\"silentgear:attack_damage\":1.5f,\"silentgear:attack_reach\":6.0f,\"silentgear:attack_speed\":4.0f,\"silentgear:block_reach\":0.0f,\"silentgear:charging_value\":1.2999998f,\"silentgear:draw_speed\":0.0f,\"silentgear:durability\":143.752f,\"silentgear:enchantment_value\":15.0f,\"silentgear:harvest_speed\":5.0f,\"silentgear:harvest_tier\":{incorrect_blocks_for_tool:\"silentgear:incorrect_for_copper_tools\",level_hint:\"1.5\",name:\"copper\"},\"silentgear:knockback_resistance\":0.0f,\"silentgear:magic_armor\":8.0f,\"silentgear:magic_damage\":1.0f,\"silentgear:projectile_accuracy\":0.0f,\"silentgear:projectile_speed\":0.0f,\"silentgear:ranged_damage\":0.1f,\"silentgear:rarity\":12.000001f,\"silentgear:repair_efficiency\":1.25f,\"silentgear:repair_value\":0.0f,\"silentgear:traits\":[{conditions:[{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"}],level:1,trait:\"silentgear:soft\"},{conditions:[],level:2,trait:\"silentgear:flexible\"}]}}",
+    "item:constructionstick:copper_stick",
+    "item:constructionstick:diamond_stick",
+    "item:constructionstick:iron_stick",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:efficiency\":5}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sharpness\":5}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fortune\":5}}}",
+    "item:silentgear:blaze_gold_dust",
     "item:minecraft:sugar",
     "item:minecraft:sugar_cane",
     "item:snad:snad",
     "item:utilitarian:snad",
     "item:snad:red_snad",
-    "item:tombstone:book_of_disenchantment",
-    "item:silentgear:nether_star_fragment",
-    {
-      "type": "fluid",
-      "id": "sgearmetalworks:molten_tyrian_steel",
-      "amount": 0
-    },
     {
       "type": "fluid",
       "id": "productivemetalworks:molten_ancient_debris",
@@ -1061,21 +1160,10 @@
       "id": "productivemetalworks:molten_shulker_shell",
       "amount": 100
     },
-    "item:silentgear:azure_electrum_ingot",
     "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:emerald\"}",
     "item:productivemetalworks:light_blue_fire_bricks",
-    {
-      "type": "item",
-      "id": "silentgear:crimson_steel_ingot",
-      "amount": 3
-    },
     "item:minecraft:magma_cream",
     "item:silentgear:tyrian_steel_ingot",
-    "item:silentgear:tyrian_steel_block",
-    "item:silentgear:starlight_charger",
-    "item:minecraft:polished_blackstone",
-    "item:minecraft:quartz_block",
-    "item:silentgear:blaze_gold_ingot",
     "item:minecraft:bone_block",
     {
       "type": "fluid",
@@ -1088,21 +1176,10 @@
       "id": "c:molten_gold",
       "amount": 90
     },
-    "item:silentgear:blaze_gold_block",
-    "item:silentgear:tip_blueprint",
-    "item:silentgear:tip",
-    "item:silentgear:blueprint_book{\"akashictome:defined_mod\":\"silentgear\",\"akashictome:is_morphed\":1b,\"akashictome:og_display_name\":\u0027{\"translate\":\"item.silentgear.blueprint_book\"}\u0027,\"akashictome:tool_content\":[{components:{\"akashictome:defined_mod\":\"actuallyadditions\"},count:1,id:\"actuallyadditions:booklet\"},{components:{\"akashictome:defined_mod\":\"ars_nouveau\"},count:1,id:\"ars_nouveau:worn_notebook\"},{components:{\"akashictome:defined_mod\":\"integratedtunnels\"},count:1,id:\"integrateddynamics:on_the_dynamics_of_integration\"}],\"minecraft:custom_name\":\u0027{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"Blueprint Book\"}]}\u0027,\"silentgear:contained_items\":[{item:{count:1,id:\"silentgear:shovel_blueprint\"},slot:0},{item:{count:1,id:\"silentgear:axe_blueprint\"},slot:1},{item:{count:1,id:\"silentgear:pickaxe_blueprint\"},slot:2},{item:{count:1,id:\"silentgear:sword_blueprint\"},slot:3},{item:{count:1,id:\"silentgear:hoe_blueprint\"},slot:4},{item:{count:1,id:\"silentgear:rod_blueprint\"},slot:5},{item:{count:1,id:\"silentgear:tip_blueprint\"},slot:6}],\"silentgear:selected_slot\":6}",
-    "item:silentgear:grip_blueprint",
     {
       "type": "item",
       "id": "silentgear:alloy_ingot",
       "nbt": "{\"silentgear:material_list\":[{item:{count:1,id:\"silentgear:tyrian_steel_ingot\"},material:\"silentgear:tyrian_steel\"},{item:{count:1,id:\"silentgear:crimson_steel_ingot\"},material:\"silentgear:crimson_steel\"},{item:{count:1,id:\"silentgear:crimson_steel_ingot\"},material:\"silentgear:crimson_steel\"},{item:{count:1,id:\"silentgear:azure_electrum_ingot\"},material:\"silentgear:azure_electrum\"}]}",
-      "amount": 2
-    },
-    "item:apotheosis:potion_charm{\"minecraft:potion_contents\":{potion:\"potionsmaster:unobtainium\"}}",
-    {
-      "type": "item",
-      "id": "minecraft:blaze_powder",
       "amount": 2
     },
     {
@@ -1112,7 +1189,6 @@
     },
     "item:reliquary:molten_core",
     "item:potionsmaster:unobtainium_oresight_powder",
-    "item:potionsmaster:ender_powder",
     {
       "type": "item",
       "id": "allthemodium:unobtainium_ingot",
@@ -1121,25 +1197,15 @@
     "item:potionsmaster:calcinated_unobtainium_oresight_powder",
     "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"potionsmaster:unobtainium\"}}",
     "item:kubejs:silent_vibranium_plate",
-    "item:silentgear:salvager",
-    "item:minecraft:piston",
-    "item:minecraft:oak_planks",
-    "#item:minecraft:planks",
-    "item:minecraft:iron_block",
     "item:allthemodium:allthemodium_pickaxe",
     {
       "type": "item",
       "id": "allthemodium:raw_allthemodium",
       "amount": 4
     },
-    "item:sophisticatedbackpacks:void_upgrade",
     "item:justdirethings:itemcollector",
-    "item:minecraft:hopper",
-    "item:justdirethings:gooblock_tier3",
     "item:itemcollectors:advanced_collector",
     "item:itemcollectors:basic_collector",
-    "item:mekanism:upgrade_energy",
-    "item:mekanism:upgrade_speed",
     {
       "type": "item",
       "id": "minecraft:raw_gold",
@@ -1155,46 +1221,16 @@
       "id": "allthemodium:soul_lava",
       "amount": 0
     },
-    "item:allthemodium:teleport_pad",
     "item:minecraft:netherrack",
-    "item:trashcans:item_trash_can",
-    "item:minecraft:chest",
-    "#item:c:chests/wooden",
-    "item:rftoolsbase:filter_module",
-    "item:rftoolsbuilder:shape_card_quarry_clear",
-    "item:rftoolsbuilder:shape_card_quarry",
-    "item:rftoolsbuilder:shape_card_def",
     "item:minecraft:diamond_shovel",
-    "item:minecraft:diamond_pickaxe",
-    "item:rftoolsbuilder:builder",
-    "item:rftoolsbase:machine_frame",
     "item:allthemodium:allthemodium_slate_ore",
     "item:potionsmaster:calcinated_allthemodium_oresight_powder",
     "item:potionsmaster:allthemodium_oresight_powder",
-    "item:minecraft:furnace",
     "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"potionsmaster:allthemodium\"}}",
     "item:allthemodium:allthemodium_ore",
-    {
-      "type": "mekanism_chemical",
-      "id": "mekanism:lithium",
-      "amount": 100
-    },
     "item:mekanism:dust_lithium",
-    {
-      "type": "fluid",
-      "id": "mekanism:brine",
-      "amount": 10
-    },
-    {
-      "type": "fluid",
-      "id": "mekanism:lithium",
-      "amount": 0
-    },
-    "item:minecraft:blue_dye",
     "item:silentgear:rod",
     "item:sgearmetalworks:tool_rod_cast",
-    "item:productivemetalworks:ingot_cast",
-    "item:minecraft:stick",
     "item:sgearmetalworks:pickaxe_cast",
     {
       "type": "fluid",
@@ -1202,112 +1238,38 @@
       "amount": 360
     },
     "item:silentgear:nether_banana",
-    "item:mekanism:basic_mechanical_pipe",
     "item:allthemodium:allthemodium_nugget",
     "item:allthemodium:allthemodium_ingot",
     "item:productivemetalworks:powered_heating_coil",
-    "item:productivemetalworks:casting_table",
-    "item:productivemetalworks:black_fire_bricks",
-    "#item:productivemetalworks:fire_bricks",
-    "item:productivemetalworks:casting_basin",
-    "item:productivemetalworks:fire_clay",
     "item:productivemetalworks:light_blue_foundry_tank",
-    "item:productivemetalworks:black_foundry_tank",
-    "item:twilightforest:uncrafting_table",
     "#item:productivemetalworks:foundry_tanks",
     "item:productivemetalworks:light_blue_foundry_window",
     "item:productivemetalworks:black_foundry_window",
     "#item:productivemetalworks:foundry_windows",
-    "item:productivemetalworks:foundry_tap",
-    "item:minecraft:crafting_table",
-    "item:minecraft:compass",
-    "item:twilightforest:maze_map_focus",
     "item:productivemetalworks:light_blue_foundry_drain",
-    "item:productivemetalworks:black_foundry_drain",
     "#item:productivemetalworks:foundry_drains",
     "item:minecraft:light_blue_dye",
     "item:productivemetalworks:light_blue_foundry_controller",
-    "item:productivemetalworks:black_foundry_controller",
     "item:productivemetalworks:yellow_foundry_controller",
     "#item:productivemetalworks:foundry_controllers",
-    "item:productivemetalworks:fire_brick",
-    "item:productivemetalworks:liquid_heating_coil",
-    "item:minecraft:bucket",
     "item:minecraft:white_dye",
     "#item:minecraft:smelts_to_glass",
     "item:productivemetalworks:lime_fire_bricks",
     "item:minecraft:amethyst_block",
     "item:silentgear:crushed_shulker_shell",
-    "item:mob_grinding_utils:gm_chicken_feed",
-    "item:mob_grinding_utils:mob_swab",
     "item:silentgear:netherwood_sapling",
     "item:silentgear:glowing_dust",
-    "item:silentgear:material_grader",
-    "item:silentgear:advanced_upgrade_base",
-    "item:silentgear:upgrade_base",
-    "item:minecraft:paper",
-    "item:minecraft:gold_nugget",
-    "item:silentgear:diamond_shard",
-    "item:silentgear:alloy_forge",
-    {
-      "type": "item",
-      "id": "mekanism:dirty_netherite_scrap",
-      "amount": 3
-    },
-    {
-      "type": "item",
-      "id": "minecraft:ancient_debris",
-      "amount": 9
-    },
     "item:mekanism:dust_osmium",
-    "item:fluxnetworks:flux_point",
-    "item:fluxnetworks:flux_core",
-    "item:mekanism:digital_miner",
-    "item:minecraft:redstone_block",
-    "item:mekanism:robit",
-    "item:mekanism:personal_chest",
-    "#item:mekanism:personal_storage",
-    "item:mekanism:atomic_disassembler",
-    "item:mekanism:energy_tablet",
-    "item:mekanism:logistical_sorter",
-    "item:mekanism:steel_casing",
-    "item:mekanism:teleportation_core",
-    "item:silentgear:crude_hammer",
     "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:mundane\"}}",
     "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"potionsmaster:gold\"}}",
     "item:potionsmaster:gold_oresight_powder",
     "item:potionsmaster:calcinated_gold_oresight_powder",
     "item:minecraft:heavy_core",
     "item:minecraft:mace",
-    "item:minecraft:spawner",
-    "item:minecraft:lever",
     {
       "type": "item",
       "id": "minecraft:dragon_egg",
       "amount": 23
-    },
-    "item:minecraft:oak_fence",
-    "item:minecraft:comparator",
-    "item:minecraft:redstone_torch",
-    "item:minecraft:gold_block",
-    "item:mekanism:jetpack",
-    "item:mekanism:basic_chemical_tank",
-    "item:minecraft:diamond_block",
-    "item:minecraft:ghast_tear",
-    "item:fluxnetworks:flux_plug",
-    "item:minecraft:ender_eye",
-    "item:fluxnetworks:flux_block",
-    "item:fluxnetworks:flux_controller",
-    "item:fluxnetworks:flux_dust",
-    {
-      "type": "item",
-      "id": "potionsmaster:tile_mortar",
-      "remainder": "item:potionsmaster:tile_mortar"
-    },
-    {
-      "type": "item",
-      "id": "potionsmaster:pestle",
-      "remainder": "item:potionsmaster:pestle"
     },
     "item:potionsmaster:redstone_oresight_powder",
     "item:potionsmaster:calcinated_redstone_oresight_powder",
@@ -1318,19 +1280,7 @@
       "amount": 4
     },
     "item:hostilenetworks:prediction{\"hostilenetworks:data_model\":\"hostilenetworks:breeze\"}",
-    "item:mekanism:ultimate_tier_installer",
-    "item:mekanism:ultimate_control_circuit",
-    "item:mekanism:elite_control_circuit",
-    "item:mekanism:elite_tier_installer",
-    "item:mekanism:advanced_control_circuit",
-    "item:mekanism:advanced_tier_installer",
     "item:mekanism:alloy_infused",
-    "item:mekanism:precision_sawmill",
-    "item:mekanism:sawdust",
-    "item:sophisticatedbackpacks:upgrade_base",
-    "item:sophisticatedbackpacks:stack_upgrade_starter_tier",
-    "item:minecraft:copper_block",
-    "item:sophisticatedbackpacks:crafting_upgrade",
     [
       "item:minecraft:chest",
       "item:ars_nouveau:archwood_chest",
@@ -1344,43 +1294,25 @@
       "item:twilightforest:sorting_chest",
       "item:sophisticatedstorage:chest"
     ],
-    "item:minecraft:trapped_chest",
     "#item:c:chests",
     "item:sophisticatedbackpacks:diamond_backpack",
     "item:sophisticatedbackpacks:gold_backpack",
     "item:sophisticatedbackpacks:iron_backpack",
     "item:sophisticatedbackpacks:backpack",
-    "item:actuallyadditions:atomic_reconstructor",
-    "item:actuallyadditions:iron_casing",
-    "item:minecraft:leather",
-    {
-      "type": "item",
-      "id": "tombstone:grave_dust",
-      "amount": 7
-    },
     "item:tombstone:decorative_subaraki_grave",
-    "item:tombstone:essence_of_undeath",
-    "item:tombstone:dark_marble",
     "item:tombstone:carmin_marble",
     "item:tombstone:green_marble",
-    "item:tombstone:blue_marble",
     "item:tombstone:white_marble",
-    "item:evilcraft:vein_sword{\"minecraft:enchantments\":{levels:{\"minecraft:looting\":2}}}",
-    "item:evilcraft:dark_spike",
-    "item:evilcraft:dark_stick",
     {
       "type": "item",
       "id": "evilcraft:undead_log",
       "amount": 9
     },
-    "item:justdirethings:experienceholder",
     "item:minecraft:golden_apple",
     "item:easy_villagers:converter",
     "item:minecraft:fletching_table",
     "item:minecraft:mossy_cobblestone",
     "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:weakness\"}}",
-    "item:minecraft:fermented_spider_eye",
-    "item:minecraft:anvil",
     "item:minecraft:spider_eye",
     "item:minecraft:emerald",
     "item:easy_villagers:trader",
@@ -1389,21 +1321,11 @@
       "id": "justdirethings:ferricore_ingot",
       "amount": 36
     },
-    "item:justdirethings:gooblock_tier2",
-    "item:justdirethings:blazegold_ingot",
-    "item:justdirethings:raw_blazegold",
-    "item:integrateddynamics:squeezer",
-    "item:minecraft:armor_stand",
     "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:looting\":3}}}",
-    "item:mekanismtools:refined_obsidian_sword",
     "item:minecraft:smooth_stone_slab",
-    "item:mekanism:basic_tier_installer",
     "item:mekanism:alloy_reinforced",
     "item:mekanism:alloy_atomic",
-    "item:mekanism:osmium_compressor",
     "#item:evilcraft:undead_logs",
-    "item:evilcraft:undead_planks",
-    "item:evilcraft:blood_extractor{\"cyclopscore:capacity\":25000}",
     "item:enderio:dark_steel_ingot",
     "item:enderio:sag_mill",
     "item:enderio:primitive_alloy_smelter",
@@ -1413,53 +1335,19 @@
     "item:alltheores:iron_gear",
     "item:enderio:iron_gear",
     "#item:c:gears/iron",
-    "item:mekanism:dust_obsidian",
     "item:mekanism:dust_refined_obsidian",
     "item:mekanism:ingot_refined_obsidian",
-    "item:evilcraft:blood_infuser",
-    "item:evilcraft:blood_infusion_core",
-    "item:akashictome:tome",
-    "item:minecraft:bookshelf",
-    "item:silentgear:template_board",
-    "item:silentgear:crude_knife",
-    "item:silentgear:crude_tool_parts",
-    "item:silentgear:stone_anvil",
-    "item:mekanism:energized_smelter",
-    "item:mekanism:gauge_dropper",
-    "item:mekanism:basic_universal_cable",
-    "item:mekanism:configurator",
-    "item:simplemagnets:advancedmagnet",
-    "item:simplemagnets:basicmagnet",
     "item:mekanism:dust_iron",
     "item:minecraft:raw_iron",
-    "item:mekanism:basic_energy_cube",
     {
       "type": "item",
       "id": "mekanism:bio_fuel",
       "amount": 2
     },
-    "item:mekanismgenerators:gas_burning_generator",
-    "item:mekanism:electrolytic_core",
-    "item:mekanism:pressurized_reaction_chamber",
-    "item:mekanism:dynamic_tank",
-    "item:mekanism:enrichment_chamber",
-    "item:tiab:time_in_a_bottle",
-    "item:mekanism:electrolytic_separator",
-    "item:cookingforblockheads:sink",
-    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"potionsmaster:diamond\"}}",
-    "item:minecraft:blast_furnace",
-    "item:potionsmaster:calcinated_diamond_oresight_powder",
-    "item:potionsmaster:diamond_oresight_powder",
-    "item:mekanism:crusher",
     "item:minecraft:flint_and_steel",
     "item:minecraft:flint",
-    "item:mekanism:basic_fluid_tank",
-    "item:mekanism:ingot_bronze",
     "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"potionsmaster:redstone\"}}",
-    "item:mekanism:metallurgic_infuser",
-    "item:actuallyadditions:coal_generator",
     "item:mekanism:block_bronze",
-    "item:alltheores:copper_ore_hammer",
     "item:minecraft:diamond",
     "item:mekanism:ingot_tin",
     "item:enderio:pulsating_alloy_ingot",
@@ -1471,7 +1359,6 @@
     "item:potionsmaster:netherite_scrap_oresight_powder",
     "item:potionsmaster:calcinated_netherite_scrap_oresight_powder",
     "item:potionsmaster:activated_charcoal",
-    "item:industrialforegoing:mob_imprisonment_tool",
     "item:minecraft:netherite_sword",
     "item:minecraft:enchanting_table",
     "item:apotheosis:gem{\"apotheosis:gem\":\"apotheosis:core/ballast\",\"apotheosis:purity\":\"perfect\"}",
@@ -1482,7 +1369,6 @@
     "item:apotheosis:gem_fused_slate",
     "item:apotheosis:sigil_of_enhancement",
     "item:apotheosis:salvaging_table",
-    "item:minecraft:smithing_table",
     "item:minecraft:iron_pickaxe",
     "item:minecraft:iron_axe",
     "item:allthemodium:vibranium_plate",
@@ -1498,7 +1384,6 @@
     "item:apothic_enchanting:infused_seashelf",
     "item:apothic_enchanting:ender_library",
     "item:apothic_enchanting:library",
-    "item:minecraft:ender_chest",
     {
       "type": "item",
       "id": "apothic_enchanting:glowing_hellshelf",
@@ -1514,7 +1399,6 @@
     "item:mysticalagradditions:insanium_essence",
     "item:mysticalagriculture:dragon_egg_seeds",
     "item:mysticalagriculture:dragon_egg_essence",
-    "item:minecraft:dragon_head",
     "item:apothic_enchanting:endshelf",
     "item:minecraft:end_stone_bricks",
     "item:allthemodium:ancient_bookshelf",
@@ -1532,7 +1416,6 @@
     "item:apothic_enchanting:soul_touched_sculkshelf",
     "item:apothic_enchanting:soul_touched_deepshelf",
     "item:minecraft:sculk_catalyst",
-    "item:minecraft:soul_lantern",
     "item:minecraft:cracked_deepslate_tiles",
     "item:apothic_enchanting:warden_tendril",
     "item:apothic_enchanting:heart_seashelf",
@@ -1549,9 +1432,7 @@
       "id": "minecraft:nether_wart",
       "amount": 12
     },
-    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:awkward\"}}",
     "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:regeneration\"}}",
-    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:water\"}}",
     "item:enderio:basic_filter",
     "item:enderio:vacuum_chest",
     "item:ae2:fuzzy_card",
@@ -1570,13 +1451,9 @@
     "item:sophisticatedstorage:basic_to_iron_tier_upgrade",
     "item:sophisticatedstorage:barrel{\"sophisticatedstorage:wood_type\":\"mangrove\"}",
     "item:minecraft:mangrove_planks",
-    "item:sophisticatedbackpacks:stack_upgrade_tier_4",
     "item:sophisticatedbackpacks:stack_upgrade_omega_tier",
     "item:sophisticatedstorage:stack_upgrade_tier_5",
-    "item:minecraft:netherite_block",
     "item:minecraft:torch",
-    "item:occultism:book_of_binding_foliot",
-    "item:occultism:book_of_binding_bound_foliot",
     "item:occultism:ritual_dummy/possess_endermite",
     "item:minecraft:minecart",
     "item:minecraft:rail",
@@ -1622,8 +1499,6 @@
     "item:mekanism:module_laser_dissipation_unit",
     "item:mekanism:module_energy_unit",
     "item:gmut:module_gravitational_modulating_additional_unit",
-    "item:mekanism:module_gravitational_modulating_unit",
-    "item:mekanism:pellet_antimatter",
     "item:mekanism:module_base",
     "item:mekanism:nugget_bronze",
     "item:mekanism:mekasuit_boots",
@@ -1633,7 +1508,6 @@
     "item:minecraft:netherite_leggings",
     "item:minecraft:netherite_chestplate",
     "item:minecraft:diamond_helmet",
-    "item:minecraft:netherite_upgrade_smithing_template",
     "item:mekanism:modification_station",
     "item:mekanism:qio_dashboard",
     "item:mekanism:qio_drive_array",
@@ -1655,11 +1529,6 @@
     "item:mekanism:basic_thermodynamic_conductor",
     "item:integratedtunnels:part_importer_fluid",
     "item:integratedtunnels:part_interface_fluid",
-    {
-      "type": "mekanism_chemical",
-      "id": "mekanism:antimatter",
-      "amount": 1000
-    },
     "item:mekanism:boiler_valve",
     "item:mekanism:superheating_element",
     "item:mekanism:boiler_casing",
@@ -1702,9 +1571,7 @@
     "mekanism_chemical:mekanism:hydrofluoric_acid",
     "mekanism_chemical:mekanism:uranium_oxide",
     "mekanism_chemical:mekanism:uranium_hexafluoride",
-    "mekanism_chemical:mekanism:fissile_fuel",
     "mekanism_chemical:mekanismgenerators:deuterium",
-    "mekanism_chemical:mekanismgenerators:tritium",
     "item:mekanism:rotary_condensentrator",
     "item:mekanismgenerators:reactor_glass",
     "item:trashcans:energy_trash_can",
@@ -1716,7 +1583,6 @@
     "item:mekanism:laser",
     "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:flux\"}",
     "mekanism_chemical:mekanismgenerators:fusion_fuel",
-    "item:mekanism:chemical_infuser",
     "item:elevatorid:elevator_red",
     "item:elevatorid:elevator_white",
     "item:mekanism:pressure_disperser",
@@ -1750,7 +1616,6 @@
     "item:enderio:stone_gear",
     "item:ae2:certus_quartz_wrench",
     "item:mekanism:dust_fluorite",
-    "item:mekanism:pellet_polonium",
     "item:ae2:cell_workbench",
     "item:mekanism:radioactive_waste_barrel",
     "item:mekanism:ultimate_pressurized_tube",
@@ -1798,7 +1663,6 @@
     "item:mekanismgenerators:turbine_casing",
     "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:osmium\"}",
     "item:minecraft:conduit",
-    "item:mekanismgenerators:control_rod_assembly",
     "item:mekanismgenerators:fission_reactor_port",
     "item:ae2:guide",
     {
@@ -1873,8 +1737,6 @@
       "nbt": "{\"productivebees:bee_type\":\"productivebees:entro\"}",
       "amount": 4
     },
-    "item:minecraft:ender_pearl",
-    "item:minecraft:iron_nugget",
     "bee:productivebees:/entro",
     "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:entro\"}}",
     {
@@ -1929,12 +1791,6 @@
     "item:industrialforegoing:machine_frame_advanced",
     "item:industrialforegoing:machine_frame_simple",
     "item:industrialforegoing:machine_frame_pity",
-    "item:minecraft:netherite_scrap",
-    {
-      "type": "item",
-      "id": "mekanism:dust_netherite",
-      "amount": 2
-    },
     "item:mekanism:combiner",
     "item:industrialforegoing:gold_gear",
     "#item:c:gears/gold",
@@ -2101,416 +1957,332 @@
     "item:minecraft:lapis_block",
     "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:gold\"}",
     "item:minecraft:heart_of_the_sea",
-    "bee:productivebees:/gold",
-    "item:simplemagnets:advanced_demagnetization_coil",
-    "item:simplemagnets:basic_demagnetization_coil",
-    "item:arseng:source_cell_housing",
-    "item:ars_nouveau:manipulation_essence",
-    "item:arseng:source_storage_cell_16k",
-    "item:arseng:source_storage_cell_4k",
-    "item:minecraft:deepslate_tiles",
-    "item:minecraft:cobbled_deepslate",
-    "item:rftoolsbuilder:shape_card_quarry_clear_silk",
-    "item:rftoolsbuilder:shape_card_quarry_silk",
-    "item:minecraft:bricks",
-    "item:minecraft:calcite",
-    "item:mysticalagriculture:stone_seeds",
-    "item:mysticalagriculture:amethyst_seeds",
-    "item:mysticalagriculture:amethyst_essence",
-    "item:minecraft:diorite",
-    "item:mysticalagriculture:coal_seeds",
-    "item:mysticalagriculture:deepslate_seeds",
-    "item:mysticalagriculture:deepslate_essence",
-    "item:mysticalagriculture:coal_essence",
-    "item:occultism:iesnium_ingot",
-    "item:integrateddynamics:cable",
-    "item:integratedtunnels:part_importer_item",
-    "item:integratedtunnels:part_interface_item",
-    "item:enderio:ender_crystal",
-    "item:enderio:staff_of_travelling",
-    "item:ars_nouveau:mob_jar",
-    "item:ars_nouveau:ritual_containment",
-    "item:ars_nouveau:arcane_core",
-    "item:ars_nouveau:sourcestone",
-    "item:arseng:me_source_jar",
-    "item:ars_nouveau:arcane_pedestal",
-    "item:ars_nouveau:ritual_brazier",
-    "item:minecraft:stone_button",
-    "item:ars_nouveau:enchanting_apparatus",
-    "item:ars_nouveau:source_gem_block",
-    "item:ars_nouveau:imbuement_chamber",
-    "item:ars_nouveau:source_jar",
-    "item:ars_nouveau:volcanic_sourcelink",
-    "item:ars_nouveau:source_gem",
-    "item:ars_nouveau:archwood_planks",
-    "item:naturescompass:naturescompass",
-    "item:ars_nouveau:purple_archwood_log",
-    "item:justdirethings:droppert2",
-    "item:justdirethings:droppert1",
-    "item:actuallyadditions:dropper",
-    "item:occultism:raw_iesnium",
-    "item:occultism:iesnium_dust",
-    "item:sophisticatedstorage:advanced_magnet_upgrade",
-    "item:sophisticatedstorage:magnet_upgrade",
-    "item:sophisticatedstorage:pickup_upgrade",
-    "item:justdirethings:raw_blazegold_ore",
-    "item:sophisticatedstorage:upgrade_base",
-    "item:minecraft:mangrove_slab",
-    "item:chipped:mangrove_brick_barrel",
-    "item:shrink:shrinking_device",
-    "item:occultism:book_of_binding_marid",
-    "item:occultism:ritual_dummy/summon_marid_crusher",
-    "item:occultism:iesnium_block",
-    "item:minecraft:emerald_block",
-    "item:enderio:impulse_hopper",
-    "item:powah:book",
-    "item:powah:energy_hopper_starter",
-    "item:actuallyadditions:hopping_item_interface",
-    "item:extendedae:ex_drive",
-    "item:ae2:drive",
-    "item:productivebees:snow_nest",
-    "bee:productivebees:/obsidian",
-    "bee:productivebees:/magmatic",
-    "item:productivebees:nether_brick_nest",
-    "item:occultism:infused_pickaxe",
-    "item:occultism:book_of_binding_djinni",
-    "item:occultism:book_of_binding_bound_djinni",
-    "item:occultism:spirit_attuned_pickaxe_head",
-    "item:occultism:divination_rod",
-    "item:occultism:otherworld_goggles",
-    "item:occultism:infused_lenses",
-    "item:occultism:lenses",
-    "item:occultism:lens_frame",
-    {
-      "type": "item",
-      "id": "productivebees:spawn_egg_configurable_bee",
-      "nbt": "{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:silver\"}}",
-      "amount": 5
-    },
-    "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:redstone\"}",
-    "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:draconic\"}",
-    "item:productivebees:heated_centrifuge",
-    "item:productivebees:inactive_dragon_egg",
-    "item:productivebees:powered_centrifuge",
-    "item:megacells:mega_crafting_unit",
-    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:lure\":3}}}",
-    "item:megacells:mega_crafting_accelerator",
-    "item:megacells:accumulation_processor",
-    {
-      "type": "item",
-      "id": "megacells:printed_accumulation_processor",
-      "amount": 9
-    },
-    "item:megacells:sky_steel_block",
-    "item:megacells:sky_steel_ingot",
-    "item:ae2:logic_processor",
-    "bee:productivebees:/emerald",
-    "item:productivebees:feeder",
-    "bee:productivebees:/lapis",
-    "bee:productivebees:/chocolate_mining_bee",
-    "bee:productivebees:/slimy",
-    "item:productivebees:end_stone_nest",
-    "item:productivebees:cherry_wood_nest",
-    "item:minecraft:jukebox",
-    "item:hostilenetworks:prediction{\"hostilenetworks:data_model\":\"hostilenetworks:warden\"}",
-    "item:occultism:book_of_binding_afrit",
-    "item:occultism:book_of_binding_bound_afrit",
-    "item:minecraft:echo_shard{\"minecraft:item_name\":\u0027{\"translate\":\"item.occultism.ritual_dummy.possess_warden\"}\u0027,\"minecraft:lore\":[\u0027{\"translate\":\"item.occultism.ritual_dummy.possess_warden.tooltip\"}\u0027]}",
-    "item:occultism:ritual_dummy/wild_random_animal_water",
-    "item:occultism:ritual_dummy/possess_random_animal_water",
-    "item:minecraft:axolotl_spawn_egg",
-    "item:occultism:ritual_dummy/possess_warden",
-    "item:productivelib:upgrade_productivity_4",
-    "item:productivelib:upgrade_block",
-    "item:productivebees:wax_block",
-    "item:productivelib:upgrade_productivity_3",
-    "item:productivelib:upgrade_anti_teleport",
-    "item:productivelib:upgrade_simulator",
-    "item:productivelib:upgrade_productivity_2",
-    "item:productivelib:upgrade_productivity",
-    "item:productivebees:draconic_chunk",
-    "item:productivebees:draconic_dust",
-    "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:draconic\"}",
-    "bee:productivebees:/sculk",
-    "item:productivebees:obsidian_nest",
-    "item:minecraft:diamond_sword",
-    "item:hostilenetworks:prediction{\"hostilenetworks:data_model\":\"hostilenetworks:ender_dragon\"}",
-    "item:minecraft:dragon_breath",
-    "bee:productivebees:/copper",
-    "item:productivebees:breeding_chamber",
-    "item:integrateddynamics:facade",
-    "item:integratedterminals:menril_glass",
-    "item:minecraft:birch_fence",
-    "item:comforts:rope_and_nail",
-    "item:comforts:hammock_white",
-    "item:minecraft:birch_fence_gate",
-    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:luck_of_the_sea\":3}}}",
-    "item:mysticalagriculture:prudentium_fishing_rod",
-    "item:mysticalagriculture:inferium_fishing_rod",
-    "item:mysticalagriculture:inferium_gemstone",
-    "item:mysticalagriculture:inferium_ingot",
-    "item:mysticalagriculture:prosperity_gemstone",
-    "item:minecraft:fishing_rod",
-    "item:mysticalagriculture:prudentium_ingot",
-    "item:mysticalagriculture:prudentium_essence",
-    "item:mysticalagriculture:prosperity_ingot",
-    "item:mysticalagriculture:prudentium_gemstone",
-    "bee:productivebees:/water",
-    "item:productivebees:bee_nest_diamond_helmet",
-    "item:productivebees:wax",
-    "item:integratedterminals:part_terminal_storage",
-    "#item:c:glass_blocks/colorless",
-    "item:integrateddynamics:part_display_panel",
-    "item:integrateddynamics:part_static_light_panel",
-    "item:integrateddynamics:variable_transformer_output",
-    {
-      "type": "item",
-      "id": "minecraft:honey_bottle",
-      "remainder": "item:minecraft:glass_bottle"
-    },
-    "item:minecraft:honey_block",
-    "item:productivebees:honey_treat",
-    "item:minecraft:honeycomb",
-    "item:storagedrawers:drawer_key",
-    "item:storagedrawers:upgrade_template",
-    "bee:productivebees:/silver",
-    "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:iesnium\"}}",
-    "#item:minecraft:flowers",
-    "item:minecraft:feather",
-    "item:hostilenetworks:prediction{\"hostilenetworks:data_model\":\"hostilenetworks:elder_guardian\"}",
-    "item:productivelib:upgrade_time_2",
-    "item:productivelib:upgrade_time",
-    "item:minecraft:honeycomb_block",
-    "#item:c:storage_blocks/honeycombs",
-    "bee:productivebees:/iron",
-    "item:productivebees:stone_nest",
-    "bee:productivebees:/ashy_mining_bee"
+    "bee:productivebees:/gold"
   ],
   "craft_history": [
-    "minecraft:writable_book",
-    "enderio:enchanter",
-    "silentgear:starmetal_dust",
-    "silentgear:glittery_dust",
-    "minecraft:kjs/enchanted_book_2",
-    "evilcraft:crafting/vengeance_pickaxe",
-    "silentgear:gear/pickaxe",
-    "silentgear:part/grip",
-    "silentgear:gear/sword",
-    "silentgear:coating_blueprint",
-    "silentgear:blueprint_paper",
-    "minecraft:netherite_ingot",
-    "silentgear:nether_star_fragment",
+    "mekanism:transmitter/universal_cable/elite",
+    "mekanism:transmitter/universal_cable/advanced",
+    "mekanism:transmitter/universal_cable/basic",
+    "fluxnetworks:flux_point",
+    "fluxnetworks:flux_core",
+    "minecraft:ender_eye",
+    "minecraft:ender_pearl",
+    "minecraft:redstone_block",
+    "minecraft:chest",
+    "occultism:crafting/brush",
+    "minecraft:lever",
+    "minecraft:kjs/create_cut_calcite_bricks",
+    "rftoolsbuilder:shape_card_def",
+    "minecraft:kjs/calcite",
     "minecraft:clock",
-    "utilitarian:snad/snad",
-    "tombstone:book_of_disenchantment",
-    "silentgear:gear/sword_head",
-    "silentgear:crimson_steel_block",
-    "silentgear:gear/pickaxe_head",
-    "silentgear:starlight_charger",
-    "minecraft:quartz_block",
-    "silentgear:part/rod",
-    "sgearmetalworks:gear/sword_head",
-    "minecraft:kjs/potionsmaster_unobtainium_oresight_powder_2",
-    "potionsmaster:ender_powder",
-    "silentgear:salvager",
+    "minecraft:golden_carrot",
+    "minecraft:gold_nugget",
+    "minecraft:glass_bottle",
+    "sophisticatedbackpacks:advanced_magnet_upgrade_from_basic",
+    "sophisticatedbackpacks:magnet_upgrade",
+    "sophisticatedbackpacks:pickup_upgrade",
+    "sophisticatedbackpacks:upgrade_base",
+    "sophisticatedbackpacks:advanced_void_upgrade",
+    "sophisticatedbackpacks:void_upgrade",
+    "minecraft:netherite_ingot",
+    "constructionstick:template_angel",
+    "constructionstick:template_battery",
+    "sophisticatedbackpacks:advanced_refill_upgrade",
+    "sophisticatedbackpacks:refill_upgrade",
+    "sophisticatedbackpacks:stonecutter_upgrade",
+    "minecraft:stonecutter",
+    "sophisticatedbackpacks:advanced_restock_upgrade",
+    "sophisticatedbackpacks:restock_upgrade",
+    "actuallyadditions:tagged_sticky_piston",
     "minecraft:piston",
     "minecraft:oak_planks",
-    "minecraft:iron_block",
-    "justdirethings:itemcollector",
-    "minecraft:hopper",
-    "snad:snad",
-    "mekanism:upgrade/energy",
-    "mekanism:upgrade/speed",
-    "minecraft:shears",
-    "allthemodium:teleport_pad",
-    "trashcans:item_trash_can",
+    "forbidden_arcanus:apply_modifier_smithing_template",
+    "constructionstick:netherite_stick",
+    "minecraft:copper_ingot",
     "utilitarian:utility/logs_to_chests",
-    "rftoolsbase:filter_module",
-    "rftoolsbuilder:shape_card_quarry_clear",
-    "rftoolsbuilder:shape_card_quarry",
-    "rftoolsbuilder:shape_card_def",
-    "minecraft:bricks",
-    "minecraft:diamond_shovel",
-    "minecraft:diamond_pickaxe",
-    "rftoolsbuilder:builder",
-    "rftoolsbase:machine_frame",
-    "reliquary:uncrafting/blaze_rod",
-    "allthemodium:allthemodium_nugget_from_ingot",
-    "minecraft:kjs/potionsmaster_allthemodium_oresight_powder",
-    "silentgear:part/tip",
-    "silentgear:tip_blueprint",
+    "trashcans:item_trash_can",
+    "silentgear:crimson_iron_block",
+    "reliquary:uncrafting/string",
+    "reliquary:uncrafting/magma_cream",
+    "minecraft:gold_ingot_from_gold_block",
+    "reliquary:uncrafting/rotten_flesh",
+    "integrateddynamics:crafting/cable",
+    "torchmaster:feral_flare_lantern",
+    "mob_grinding_utils:recipe_solidifier",
+    "mob_grinding_utils:recipe_tank",
+    "utilitarian:utility/logs_to_hopper",
+    "mob_grinding_utils:recipe_entity_conveyor",
+    "mekanism:metallurgic_infuser",
+    "minecraft:furnace",
+    "forbidden_arcanus:polished_darkstone_slab",
+    "forbidden_arcanus:deorum_ingot",
+    "forbidden_arcanus:mundabitur_dust",
+    "tiab:time_in_a_bottle",
+    "forbidden_arcanus:diamond_blacksmith_gavel",
+    "forbidden_arcanus:blacksmith_gavel_head",
+    "forbidden_arcanus:test_tube",
+    "forbidden_arcanus:soul_extractor",
+    "minecraft:quartz_block",
+    "forbidden_arcanus:utrem_jar",
+    "forbidden_arcanus:edelwood_planks",
+    "farmingforblockheads:market",
+    "minecraft:dye_red_wool",
+    "evilcraft:crafting/undead_planks",
+    "minecraft:smithing_table",
+    "forbidden_arcanus:darkstone_pedestal",
+    "forbidden_arcanus:arcane_polished_darkstone_slab",
+    "forbidden_arcanus:arcane_polished_darkstone",
+    "forbidden_arcanus:polished_darkstone",
+    "forbidden_arcanus:arcane_polished_darkstone_pillar",
+    "forbidden_arcanus:chiseled_arcane_polished_darkstone",
+    "forbidden_arcanus:gilded_chiseled_polished_darkstone",
+    "forbidden_arcanus:chiseled_polished_darkstone",
+    "forbidden_arcanus:deorum_nugget_from_deorum_ingot",
+    "mob_grinding_utils:recipe_mob_swab",
+    "occultism:crafting/book_of_binding_foliot",
     "minecraft:blue_dye",
-    "sgearmetalworks:part/rod",
+    "minecraft:black_dye",
+    "occultism:crafting/golden_sacrificial_bowl",
+    "occultism:crafting/sacrificial_bowl",
+    "occultism:crafting/chalk_yellow_impure",
+    "occultism:crafting/chalk_white_impure",
+    "occultism:crafting/dictionary_of_spirits",
+    "mekanism:fluid_tank/basic",
+    "justdirethings:upgrade_hammer",
+    "minecraft:diamond_pickaxe",
+    "justdirethings:upgrade_dropteleport",
+    "justdirethings:upgrade_blank",
+    "minecraft:ender_chest",
+    "justdirethings:gooblock_tier4",
+    "tombstone:book_of_disenchantment",
+    "minecraft:writable_book",
+    "enderio:enchanter",
+    "justdirethings:gooblock_tier3",
+    "minecraft:end_crystal",
+    "mekanism:upgrade/speed",
+    "silentgear:glittery_dust",
+    "silentgear:part/grip",
+    "silentgear:grip_blueprint_alt",
+    "silentgear:blueprint_paper",
+    "silentgear:gear/pickaxe",
     "silentgear:azure_electrum_ingot",
     "silentgear:emerald_shard",
-    "enderio:stick",
+    "sgearmetalworks:part/rod",
+    "minecraft:brush",
+    "sgearmetalworks:gear/pickaxe_head",
+    "sophisticatedbackpacks:stack_upgrade_tier_2",
+    "sophisticatedbackpacks:stack_upgrade_tier_1_from_starter",
+    "minecraft:iron_block",
+    "sophisticatedbackpacks:stack_upgrade_starter_tier",
+    "minecraft:netherite_upgrade_smithing_template",
+    "forbidden_arcanus:iron_blacksmith_gavel",
+    "forbidden_arcanus:arcane_crystal_block_from_arcane_crystal",
+    "silentgear:gear/sword",
+    "silentgear:part/tip",
+    "silentgear:tip_blueprint",
+    "silentgear:coating_blueprint",
+    "sgearmetalworks:gear/sword_head",
+    "silentgear:part/rod",
+    "silentgear:starmetal_dust",
+    "silentgear:nether_star_fragment",
+    "minecraft:copper_block",
+    "sophisticatedbackpacks:stack_upgrade_tier_3",
+    "minecraft:diamond_block",
+    "minecraft:gold_block",
+    "silentgear:starlight_charger",
+    "silentgear:azure_electrum_block",
+    "silentgear:alloy_forge",
+    "rechiseled:chisel",
+    "silentgear:salvager",
+    "silentgear:material_grader",
+    "silentgear:advanced_upgrade_base",
+    "silentgear:diamond_shard",
+    "silentgear:upgrade_base",
     "mekanism:transmitter/mechanical_pipe/basic",
+    "minecraft:bucket",
+    "allthemodium:teleport_pad",
     "productivemetalworks:crafting/casting_table",
     "productivemetalworks:crafting/casting_basin",
     "productivemetalworks:crafting/fire_clay",
-    "productivemetalworks:crafting/light_blue_foundry_tank_from_dye",
-    "productivemetalworks:crafting/black_foundry_tank",
-    "productivemetalworks:crafting/light_blue_foundry_window_from_dye",
-    "productivemetalworks:crafting/black_foundry_window",
-    "productivemetalworks:crafting/foundry_tap",
-    "twilightforest:uncrafting_table",
-    "minecraft:crafting_table",
-    "minecraft:compass",
-    "productivemetalworks:crafting/light_blue_foundry_drain_from_dye",
     "productivemetalworks:crafting/black_foundry_drain",
-    "minecraft:light_blue_dye_from_blue_white_dye",
-    "productivemetalworks:crafting/light_blue_foundry_controller_from_dye",
-    "productivemetalworks:crafting/black_foundry_controller",
-    "productivemetalworks:crafting/light_blue_fire_bricks_from_dye_single",
+    "productivemetalworks:crafting/foundry_tap",
     "productivemetalworks:crafting/black_fire_bricks",
+    "productivemetalworks:crafting/black_foundry_controller",
+    "productivemetalworks:crafting/black_foundry_tank",
     "productivemetalworks:crafting/liquid_heating_coil",
-    "minecraft:bucket",
-    "minecraft:white_dye",
-    "silentgear:glowing_dust",
-    "silentgear:material_grader",
-    "silentgear:advanced_upgrade_base",
-    "silentgear:upgrade_base",
-    "mekanism:paper",
-    "minecraft:gold_nugget",
-    "silentgear:diamond_shard",
-    "fluxnetworks:flux_point",
-    "fluxnetworks:flux_core",
-    "minecraft:redstone_block",
+    "twilightforest:uncrafting_table",
+    "minecraft:compass",
+    "mekanism:control_circuit/elite",
+    "mekanism:tier_installer/advanced",
+    "mekanism:control_circuit/advanced",
+    "mekanism:tier_installer/basic",
+    "mekanism:tier_installer/ultimate",
+    "mekanism:control_circuit/ultimate",
+    "mekanism:tier_installer/elite",
+    "mekanism:upgrade/energy",
     "mekanism:digital_miner",
+    "mekanism:logistical_sorter",
     "mekanism:robit",
     "mekanism:personal_chest",
     "mekanism:energy_tablet",
-    "mekanism:logistical_sorter",
     "mekanism:steel_casing",
     "mekanism:teleportation_core",
-    "silentgear:crude_hammer",
-    "utilitarian:tiny_fuel/tiny_charcoal",
-    "minecraft:kjs/potionsmaster_gold_oresight_powder",
-    "silentgear:alloy_forge",
-    "angelring:angel_ring",
-    "minecraft:lever",
-    "mob_grinding_utils:gm_chicken_feed",
-    "minecraft:oak_fence",
-    "minecraft:comparator",
-    "minecraft:redstone_torch",
-    "mob_grinding_utils:recipe_mob_swab",
-    "minecraft:gold_block",
-    "angelring:diamond_ring",
-    "mekanism:jetpack",
-    "mekanism:chemical_tank/basic",
+    "rftoolsbase:filter_module",
+    "minecraft:hopper",
+    "rftoolsbuilder:shape_card_quarry_clear",
+    "rftoolsbuilder:shape_card_quarry",
+    "enderio:stick",
     "fluxnetworks:flux_plug",
-    "minecraft:ender_eye",
     "fluxnetworks:flux_block",
     "fluxnetworks:flux_controller",
-    "mekanism:tier_installer/ultimate",
-    "mekanism:control_circuit/ultimate",
-    "mekanism:control_circuit/elite",
-    "mekanism:tier_installer/elite",
-    "mekanism:control_circuit/advanced",
-    "mekanism:tier_installer/advanced",
-    "silentgear:crimson_steel_ingot",
-    "reliquary:uncrafting/magma_cream",
+    "rftoolsbuilder:builder",
+    "rftoolsbase:machine_frame",
+    "occultism:occultism.bound_book_of_bindingitem.occultism.book_of_binding_foliot",
+    "occultism:crafting/butcher_knife",
+    "justdirethings:eclipsealloy_hoe",
+    "mob_grinding_utils:gm_chicken_feed",
+    "minecraft:soul_lantern",
+    "minecraft:iron_nugget",
+    "minecraft:soul_torch",
+    "minecraft:comparator",
+    "mekanismtools:refined_obsidian/armor/boots",
+    "mekanismtools:refined_obsidian/armor/helmet",
+    "angelring:angel_ring",
+    "wstweaks:wither_skeleton_skull",
+    "angelring:diamond_ring",
+    "minecraft:oak_fence",
+    "comforts:sleeping_bag_white",
+    "justdirethings:experienceholder",
+    "justdirethings:gooblock_tier2",
+    "justdirethings:gooblock_tier1",
+    "minecraft:redstone_torch",
+    "mekanism:cardboard_box",
     "mekanism:precision_sawmill",
-    "sophisticatedbackpacks:upgrade_base",
-    "minecraft:copper_block",
     "sophisticatedbackpacks:crafting_upgrade",
-    "minecraft:chest",
+    "minecraft:crafting_table",
+    "actuallyadditions:atomic_reconstructor",
+    "actuallyadditions:iron_casing",
+    "minecraft:stone_button",
+    "minecraft:armor_stand",
+    "minecraft:smooth_stone_slab",
+    "minecraft:stick",
+    "integrateddynamics:crafting/squeezer",
+    "minecraft:torch",
+    "mekanism:jetpack",
+    "mekanism:chemical_tank/basic",
+    "simplemagnets:advancedmagnet",
+    "apotheosis:potion_charm",
+    "minecraft:brewing_stand",
+    "minecraft:kjs/potionsmaster_diamond_oresight_powder",
+    "potionsmaster:ender_powder",
+    "reliquary:uncrafting/ender_pearl",
+    "potionsmaster:tile_mortar",
+    "potionsmaster:pestle",
+    "mekanismtools:refined_obsidian/tools/pickaxe",
+    "minecraft:anvil",
+    "tombstone:blue_grave_simple",
+    "tombstone:blue_marble",
+    "evilcraft:crafting/vengeance_pickaxe",
+    "evilcraft:crafting/vein_sword",
+    "evilcraft:crafting/dark_stick",
+    "evilcraft:crafting/blood_infuser",
+    "evilcraft:crafting/blood_infusion_core",
+    "mekanism:atomic_disassembler",
+    "mekanismtools:refined_obsidian/armor/leggings",
+    "mekanismtools:refined_obsidian/armor/chestplate",
+    "simplemagnets:basicmagnet",
+    "evilcraft:crafting/blood_extractor",
+    "evilcraft:crafting/dark_spike",
+    "mekanismtools:refined_obsidian/tools/sword",
+    "mekanism:osmium_compressor",
+    "minecraft:iron_shovel",
+    "mekanism:energized_smelter",
+    "utilitarian:tiny_fuel/tiny_coal",
+    "mekanism:gauge_dropper",
+    "minecraft:glass_pane",
+    "mekanism:energy_cube/basic",
+    "mekanismgenerators:generator/gas_burning",
+    "mekanism:electrolytic_core",
+    "mekanism:configurator",
+    "cookingforblockheads:sink",
+    "minecraft:clay",
+    "mekanism:pressurized_reaction_chamber",
+    "mekanism:enrichment_chamber",
+    "mekanism:dynamic_tank",
+    "mekanism:electrolytic_separator",
+    "mekanism:crusher",
+    "minecraft:blast_furnace",
+    "actuallyadditions:coal_generator",
+    "alltheores:crafting/hammer/osmium/dust_from_raw",
+    "akashictome:tome",
+    "minecraft:bookshelf",
+    "silentgear:blueprint_book",
+    "silentgear:crude_hammer",
+    "silentgear:crude_knife",
+    "silentgear:crude_tool_parts",
+    "silentgear:stone_anvil",
+    "minecraft:shears",
+    "mekanismtools:bronze/armor/boots",
+    "minecraft:copper_door",
+    "mekanismtools:bronze/tools/shovel",
+    "mekanismtools:bronze/tools/axe",
+    "minecraft:kjs/mekanism_ingot_bronze",
+    "mekanismtools:bronze/tools/pickaxe",
+    "mekanismtools:bronze/tools/sword",
+    "mekanismtools:bronze/armor/leggings",
+    "mekanismtools:bronze/armor/chestplate",
+    "alltheores:crafting/hammer/copper/dust_from_raw",
+    "alltheores:crafting/hammer/iron/dust_from_raw",
+    "alltheores:bronze_ore_hammer",
+    "alltheores:crafting/bronze/block_from_ingot",
+    "alltheores:crafting/hammer/zinc/dust_from_raw",
+    "mekanismtools:bronze/armor/helmet",
+    "alltheores:copper_ore_hammer",
+    "constructionstick:copper_stick",
+    "minecraft:kjs/enchanted_book_2",
+    "utilitarian:snad/snad",
+    "silentgear:gear/sword_head",
+    "silentgear:crimson_steel_block",
+    "silentgear:gear/pickaxe_head",
+    "minecraft:kjs/potionsmaster_unobtainium_oresight_powder_2",
+    "justdirethings:itemcollector",
+    "snad:snad",
+    "minecraft:bricks",
+    "minecraft:diamond_shovel",
+    "reliquary:uncrafting/blaze_rod",
+    "allthemodium:allthemodium_nugget_from_ingot",
+    "minecraft:kjs/potionsmaster_allthemodium_oresight_powder",
+    "productivemetalworks:crafting/light_blue_foundry_tank_from_dye",
+    "productivemetalworks:crafting/light_blue_foundry_window_from_dye",
+    "productivemetalworks:crafting/black_foundry_window",
+    "productivemetalworks:crafting/light_blue_foundry_drain_from_dye",
+    "minecraft:light_blue_dye_from_blue_white_dye",
+    "productivemetalworks:crafting/light_blue_foundry_controller_from_dye",
+    "productivemetalworks:crafting/light_blue_fire_bricks_from_dye_single",
+    "minecraft:white_dye",
+    "silentgear:glowing_dust",
+    "mekanism:paper",
+    "utilitarian:tiny_fuel/tiny_charcoal",
+    "minecraft:kjs/potionsmaster_gold_oresight_powder",
+    "silentgear:crimson_steel_ingot",
     "sophisticatedbackpacks:diamond_backpack",
     "sophisticatedbackpacks:gold_backpack",
     "sophisticatedbackpacks:iron_backpack",
     "sophisticatedbackpacks:backpack",
     "minecraft:jungle_planks",
     "minecraft:oak_button",
-    "actuallyadditions:atomic_reconstructor",
-    "actuallyadditions:iron_casing",
-    "minecraft:torch",
     "tombstone:black_subaraki_grave",
     "tombstone:dark_marble",
-    "evilcraft:crafting/vein_sword",
-    "evilcraft:crafting/dark_spike",
-    "evilcraft:crafting/dark_stick",
-    "evilcraft:crafting/undead_planks",
-    "justdirethings:experienceholder",
     "minecraft:golden_apple",
     "minecraft:fletching_table",
     "easy_villagers:converter",
-    "minecraft:glass_bottle",
     "minecraft:fermented_spider_eye",
-    "minecraft:anvil",
     "easy_villagers:trader",
-    "justdirethings:gooblock_tier2",
-    "justdirethings:gooblock_tier1",
-    "integrateddynamics:crafting/squeezer",
-    "minecraft:armor_stand",
-    "minecraft:stick",
-    "mekanismtools:refined_obsidian/tools/sword",
-    "mekanismtools:refined_obsidian/armor/boots",
-    "mekanismtools:refined_obsidian/armor/leggings",
-    "mekanismtools:refined_obsidian/armor/chestplate",
-    "minecraft:smooth_stone_slab",
-    "mekanismtools:refined_obsidian/armor/helmet",
-    "mekanism:tier_installer/basic",
-    "mekanism:atomic_disassembler",
-    "mekanism:osmium_compressor",
     "enderio:primitive_alloy_smelter",
-    "minecraft:furnace",
     "minecraft:flint_and_steel",
-    "evilcraft:crafting/blood_infuser",
-    "evilcraft:crafting/blood_infusion_core",
-    "evilcraft:crafting/blood_extractor",
-    "akashictome:tome",
-    "minecraft:bookshelf",
-    "silentgear:blueprint_book",
-    "silentgear:crude_knife",
-    "silentgear:crude_tool_parts",
-    "silentgear:stone_anvil",
-    "mekanism:energized_smelter",
-    "mekanism:gauge_dropper",
-    "minecraft:glass_pane",
-    "mekanism:transmitter/universal_cable/basic",
-    "mekanism:configurator",
-    "simplemagnets:advancedmagnet",
-    "minecraft:ender_pearl",
-    "simplemagnets:basicmagnet",
-    "utilitarian:utility/logs_to_hopper",
-    "mekanism:energy_cube/basic",
-    "mekanismgenerators:generator/gas_burning",
-    "mekanism:electrolytic_core",
-    "mekanism:pressurized_reaction_chamber",
-    "mekanism:dynamic_tank",
-    "mekanism:enrichment_chamber",
-    "tiab:time_in_a_bottle",
-    "mekanism:electrolytic_separator",
-    "cookingforblockheads:sink",
-    "minecraft:clay",
-    "apotheosis:potion_charm",
-    "minecraft:blast_furnace",
-    "minecraft:kjs/potionsmaster_diamond_oresight_powder",
-    "minecraft:brewing_stand",
-    "potionsmaster:tile_mortar",
     "mekanismtools:osmium/tools/shovel",
-    "potionsmaster:pestle",
-    "mekanism:crusher",
-    "alltheores:crafting/hammer/iron/dust_from_raw",
-    "mekanism:fluid_tank/basic",
-    "mekanismtools:bronze/armor/boots",
-    "mekanismtools:bronze/armor/leggings",
-    "mekanismtools:bronze/armor/chestplate",
-    "mekanismtools:bronze/armor/helmet",
     "minecraft:kjs/mekanism_ingot_bronze_2",
-    "minecraft:iron_shovel",
-    "mekanismtools:bronze/tools/axe",
-    "mekanism:metallurgic_infuser",
-    "actuallyadditions:coal_generator",
-    "utilitarian:tiny_fuel/tiny_coal",
-    "alltheores:crafting/hammer/osmium/dust_from_raw",
-    "mekanismtools:bronze/tools/pickaxe",
-    "alltheores:crafting/hammer/copper/dust_from_raw",
-    "mekanismtools:bronze/tools/sword",
-    "alltheores:bronze_ore_hammer",
-    "alltheores:crafting/bronze/block_from_ingot",
     "alltheores:crafting/hammer/aluminum/dust_from_raw",
-    "alltheores:copper_ore_hammer",
     "minecraft:iron_pickaxe",
     "actuallyadditions:tiny_torch",
     "minecraft:stone_pickaxe",
@@ -2527,7 +2299,6 @@
     "apotheosis:sigil_of_socketing",
     "apotheosis:gem_fused_slate",
     "apotheosis:salvaging_table",
-    "minecraft:smithing_table",
     "minecraft:iron_axe",
     "minecraft:kjs/allthemodium_vibranium_plate",
     "minecraft:kjs/allthemodium_unobtainium_plate",
@@ -2541,7 +2312,6 @@
     "minecraft:prismarine_brick_slab",
     "apothic_enchanting:seashelf",
     "apothic_enchanting:library",
-    "minecraft:ender_chest",
     "apothic_enchanting:pickaxe_tome",
     "apothic_enchanting:geode_shelf",
     "apothic_enchanting:treasure_shelf",
@@ -2557,7 +2327,6 @@
     "hostilenetworks:living_matter/overworldian/potato",
     "apothic_enchanting:soul_touched_sculkshelf",
     "apothic_enchanting:soul_touched_deepshelf",
-    "minecraft:soul_lantern",
     "apothic_enchanting:echoing_sculkshelf",
     "apothic_enchanting:echoing_deepshelf",
     "ae2:network/blocks/interfaces_interface_part",
@@ -2586,7 +2355,6 @@
     "minecraft:mangrove_planks",
     "sophisticatedstorage:stack_upgrade_tier_5",
     "minecraft:netherite_block",
-    "occultism:crafting/book_of_binding_foliot",
     "minecraft:minecart",
     "minecraft:rail",
     "minecraft:white_carpet",
@@ -2633,7 +2401,6 @@
     "minecraft:netherite_chestplate_smithing",
     "minecraft:netherite_helmet_smithing",
     "minecraft:diamond_helmet",
-    "minecraft:netherite_upgrade_smithing_template",
     "mekanism:modification_station",
     "mekanism:qio_dashboard",
     "mekanism:portable_qio_dashboard",
@@ -2793,7 +2560,6 @@
     "advanced_ae:eaequantumaccel",
     "productivebees:comb_block/configurable_comb_block",
     "minecraft:sugar_from_honey_bottle",
-    "minecraft:iron_nugget",
     "advanced_ae:entrocrystal",
     "industrialforegoing:material_stonework_factory",
     "industrialforegoing:dissolution_chamber/pink_slime_ball",
@@ -2949,7 +2715,6 @@
     "rftoolsbuilder:shape_card_quarry_silk",
     "mysticalagriculture:essence/minecraft/calcite",
     "occultism:smelting/iesnium_ingot_from_dust",
-    "integrateddynamics:crafting/cable",
     "integratedtunnels:crafting/part_importer_item",
     "integratedtunnels:crafting/part_interface_item",
     "ars_nouveau:mob_jar",
@@ -2957,7 +2722,6 @@
     "ars_nouveau:arcane_core",
     "ars_nouveau:sourcestone",
     "ars_nouveau:arcane_pedestal",
-    "minecraft:stone_button",
     "ars_nouveau:enchanting_apparatus",
     "ars_nouveau:ritual_brazier",
     "ars_nouveau:source_gem_block",
@@ -3078,25 +2842,19 @@
     "productivebees:hives/advanced_mangrove_beehive",
     "productivebees:nests/beehive",
     "minecraft:campfire",
-    "occultism:crafting/golden_sacrificial_bowl",
     "minecraft:diamond",
     "occultism:crafting/chalk_blue_impure",
-    "occultism:crafting/chalk_white_impure",
     "minecraft:kjs/trident",
-    "occultism:crafting/sacrificial_bowl",
     "occultism:crafting/spirit_attuned_crystal",
     "occultism:crafting/chalk_black_impure",
     "minecraft:conduit",
     "minecraft:sea_lantern",
     "minecraft:prismarine",
-    "forbidden_arcanus:apply_modifier_smithing_template",
     "ae2:network/cells/item_storage_cell_64k_storage",
     "occultism:crafting/chalk_red_impure",
     "mysticalagriculture:essence/minecraft/gray_dye",
-    "occultism:crafting/brush",
     "elevatorid:redye_cyan",
     "mysticalagriculture:essence/minecraft/cyan_dye",
-    "minecraft:kjs/calcite",
     "occultism:crafting/chalk_orange_impure",
     "mysticalagriculture:essence/minecraft/black_dye",
     "mysticalagriculture:essence/minecraft/purple_dye",
@@ -3107,31 +2865,9 @@
     "industrialforegoing:diamond_gear",
     "industrialforegoing:dissolution_chamber",
     "industrialforegoing:plastic",
-    "minecraft:brush",
     "occultism:crafting/chalk_lime_impure",
     "mysticalagriculture:essence/minecraft/diamond",
-    "mob_grinding_utils:recipe_solidifier",
-    "mob_grinding_utils:recipe_tank",
-    "mob_grinding_utils:recipe_entity_conveyor",
-    "forbidden_arcanus:chiseled_polished_darkstone",
-    "forbidden_arcanus:diamond_blacksmith_gavel",
-    "forbidden_arcanus:blacksmith_gavel_head",
-    "forbidden_arcanus:soul_extractor",
-    "forbidden_arcanus:utrem_jar",
-    "forbidden_arcanus:edelwood_planks",
-    "farmingforblockheads:market",
-    "minecraft:dye_red_wool",
-    "forbidden_arcanus:test_tube",
-    "forbidden_arcanus:darkstone_pedestal",
-    "forbidden_arcanus:arcane_polished_darkstone_slab",
-    "forbidden_arcanus:arcane_polished_darkstone_pillar",
-    "forbidden_arcanus:arcane_polished_darkstone",
-    "forbidden_arcanus:arcane_crystal_block_from_arcane_crystal",
-    "forbidden_arcanus:polished_darkstone_slab",
-    "forbidden_arcanus:polished_darkstone",
-    "forbidden_arcanus:deorum_ingot",
     "minecraft:charcoal",
-    "forbidden_arcanus:mundabitur_dust",
     "mekanism:crushing/bone",
     "forbidden_arcanus:/mekanism_generated/smelting/arcane_crystal_dust_from_smelting",
     "emi:/emi/bucket_filling/justdirethings/xp_fluid_source",
@@ -3247,70 +2983,7 @@
     "minecraft:glowstone",
     "minecraft:redstone_lamp",
     "ae2:decorative/quartz_fixture",
-    "minecraft:repeater",
-    "ae2:materials/cardcrafting",
-    "ae2:network/parts/export_bus",
-    "minecraft:smooth_stone",
-    "ae2:network/cells/item_cell_housing",
-    "ae2:tools/network_memory_card",
-    "ae2:network/parts/tunnels_me",
-    "justdirethings:upgrade_flight",
-    "occultism:crafting/butcher_knife",
-    "industrialforegoing:latex_processing_unit",
-    "industrialforegoing:fluid_extractor",
-    "minecraft:light_weighted_pressure_plate",
-    "occultism:occultism.bound_book_of_bindingitem.occultism.book_of_binding_foliot",
-    "occultism:crafting/chalk_yellow_impure",
-    "minecraft:white_bed",
-    "minecraft:end_crystal",
-    "justdirethings:upgrade_blank",
-    "justdirethings:eclipsealloy_boots",
-    "justdirethings:eclipsealloy_leggings",
-    "justdirethings:eclipsealloy_chestplate",
-    "justdirethings:eclipsealloy_helmet",
-    "justdirethings:template_eclipsealloy",
-    "justdirethings:gooblock_tier4",
-    "occultism:occultism.bound_book_of_bindingitem.occultism.book_of_binding_afrit",
-    "minecraft:black_dye",
-    "occultism:crafting/dictionary_of_spirits",
-    "matc:master_infusion_crystal",
-    "matc:insanium_essence",
-    "minecraft:iron_hoe",
-    "matc:supremium_essence",
-    "matc:imperium_essence",
-    "matc:tertium_essence",
-    "advanced_ae:quantumcrafter",
-    "advanced_ae:eaequantumunit",
-    "ae2:network/cells/fluid_storage_cell_16k",
-    "advanced_ae:shatteredsingularity",
-    "mekanism:compat/ae2/ender_pearl_to_dust",
-    "mekanism:compat/ae2/sky_stone_to_dust",
-    "matc:supremium_crystal",
-    "ae2:network/cells/item_storage_cell_64k",
-    "mekanism:compat/ae2/sand_to_silicon",
-    "matc:inferium_crystal",
-    "matc:imperium_crystal",
-    "matc:tertium_crystal",
-    "matc:prudentium_crystal",
-    "mysticalagriculture:infusion_pedestal",
-    "mysticalagriculture:infusion_altar",
-    "justdirethings:upgrade_hammer",
-    "justdirethings:upgrade_dropteleport",
-    "justdirethings:celestigem_hoe",
-    "justdirethings:gooblock_tier3",
-    "ae2:network/blocks/interfaces_interface",
-    "ae2:network/parts/annihilation_plane_alt2",
-    "ae2:network/parts/import_bus",
-    "mekanism:processing/iron/enriched_dust",
-    "mekanism:processing/steel/enriched_iron_to_dust",
-    "advanced_ae:smalladvpatpropart",
-    "advanced_ae:certuscharger",
-    "ae2:tools/nether_quartz_cutting_knife",
-    "extendedae:ex_pattern_provider_upgrade",
-    "mekanism:kjs/mekanism_dust_copper",
-    "ae2:network/blocks/controller",
-    "ae2:smelting/smooth_sky_stone_block",
-    "glassential:glass_ethereal"
+    "minecraft:repeater"
   ],
   "recipe_defaults": {
     "added": [],

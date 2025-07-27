@@ -188,6 +188,6 @@
 		#The x component of this window's last position.
 		x = 358
 		#The y component of this window's last position.
-		y = 41
+		y = 40
 		#Determines whether this window is pinned, and should open automatically when the GUI is reopened.
 		pinned = false

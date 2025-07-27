@@ -21,7 +21,8 @@
 		"soundEvent": "minecraft:block.note_block.chime"
 	},
 	"mentionKeywords": [
-		"@MatsuKari"
+		"@MatsuKari",
+		"@xopazaru0343"
 	],
 	"ignoreSystemChats": false,
 	"enableChatSoundCooldown": false,
