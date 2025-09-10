@@ -1,0 +1,16 @@
+filename = 'integratedtunnels-1.21.1-neoforge-1.8.44-481.jar'
+name = 'IntegratedTunnels'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '467c35edabb08ffbf4d9f40fef5337a33275b34f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6864901
+project-id = 251389

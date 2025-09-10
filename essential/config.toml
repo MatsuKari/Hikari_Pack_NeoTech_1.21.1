@@ -50,7 +50,7 @@
 	[notifications.general]
 		disable_all_notifications = false
 		host_world_ip_warning = true
-		update_notifications = true
+		update_notifications = false
 		screenshot_toast_duration = 1
 		message_sound = true
 		online_friend_alert = true

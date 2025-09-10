@@ -1,0 +1,16 @@
+filename = 'Resourcify (1.21.1-neoforge)-1.7.4.jar'
+name = 'Resourcify'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5a612657a04e5e1213a66c6bf6a4377c4b55a512'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6787566
+project-id = 870076

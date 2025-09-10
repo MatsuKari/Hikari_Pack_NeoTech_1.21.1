@@ -124,6 +124,8 @@
 	# Default: 256
 	# Range: 1 ~ 2048
 	tool_max_break_eclipsealloy = 256
+	#waterbreathing
+	waterbreathing = true
 
 #Generator T1
 [generator_t1]

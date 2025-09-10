@@ -1,0 +1,16 @@
+filename = 'easy-piglins-neoforge-1.21.1-1.1.0.jar'
+name = 'Easy Piglins'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = 'b8afa0340180509abd7746b71e296a457bcbf25c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6213612
+project-id = 419372

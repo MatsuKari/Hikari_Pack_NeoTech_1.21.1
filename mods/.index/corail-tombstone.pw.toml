@@ -1,0 +1,16 @@
+filename = 'tombstone-neoforge-1.21.1-9.4.5.jar'
+name = 'Corail Tombstone'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '71b24aca0ee4df9c7f7b13a9d24c5829f2734746'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6819874
+project-id = 243707

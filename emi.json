@@ -1,54 +1,6 @@
 {
   "favorites": [
     {
-      "stack": "item:fluxnetworks:flux_plug"
-    },
-    {
-      "stack": "item:fluxnetworks:flux_point"
-    },
-    {
-      "stack": "item:fluxnetworks:flux_controller"
-    },
-    {
-      "stack": "item:mekanism:basic_fluid_tank"
-    },
-    {
-      "stack": "item:mekanism:electrolytic_core"
-    },
-    {
-      "stack": "item:mekanism:enrichment_chamber"
-    },
-    {
-      "stack": "item:mekanismgenerators:gas_burning_generator"
-    },
-    {
-      "stack": "item:cookingforblockheads:sink"
-    },
-    {
-      "stack": "item:mekanism:configurator"
-    },
-    {
-      "stack": "item:mekanism:gauge_dropper"
-    },
-    {
-      "stack": "item:mekanism:upgrade_speed"
-    },
-    {
-      "stack": "item:mekanism:upgrade_energy"
-    },
-    {
-      "stack": "item:mekanism:basic_tier_installer"
-    },
-    {
-      "stack": "item:mekanism:advanced_tier_installer"
-    },
-    {
-      "stack": "item:mekanism:elite_tier_installer"
-    },
-    {
-      "stack": "item:mekanism:ultimate_tier_installer"
-    },
-    {
       "stack": "item:mekanism:dust_obsidian"
     },
     {
@@ -76,9 +28,6 @@
       "stack": "item:evilcraft:undead_planks"
     },
     {
-      "stack": "item:evilcraft:blood_extractor"
-    },
-    {
       "stack": "item:comforts:hammock_white"
     },
     {
@@ -103,18 +52,6 @@
       "stack": "item:sophisticatedbackpacks:backpack"
     },
     {
-      "stack": "item:minecraft:ghast_tear"
-    },
-    {
-      "stack": "item:minecraft:elytra"
-    },
-    {
-      "stack": "item:minecraft:diamond_block"
-    },
-    {
-      "stack": "item:apotheosis:potion_charm{\"minecraft:potion_contents\":{potion:\"potionsmaster:diamond\"}}"
-    },
-    {
       "stack": "item:minecraft:potion"
     },
     {
@@ -128,38 +65,13 @@
       }
     },
     {
-      "stack": "item:minecraft:blaze_powder"
-    },
-    {
-      "stack": "item:minecraft:ghast_tear",
-      "recipe": "reliquary:uncrafting/ghast_tear"
-    },
-    {
-      "stack": "item:integrateddynamics:squeezer"
-    },
-    {
-      "stack": "item:minecraft:armor_stand"
-    },
-    {
       "stack": "item:minecraft:spawner"
-    },
-    {
-      "stack": "item:sophisticatedbackpacks:crafting_upgrade"
     },
     {
       "stack": "item:minecraft:leather"
     },
     {
-      "stack": "item:actuallyadditions:atomic_reconstructor"
-    },
-    {
       "stack": "item:mekanism:precision_sawmill"
-    },
-    {
-      "stack": "item:minecraft:clay_ball"
-    },
-    {
-      "stack": "item:constructionstick:netherite_stick"
     },
     {
       "stack": "item:minecraft:netherite_block"
@@ -168,16 +80,10 @@
       "stack": "item:minecraft:netherite_ingot"
     },
     {
-      "stack": "item:mekanism:ultimate_control_circuit"
-    },
-    {
       "stack": "item:mekanism:cardboard_box"
     },
     {
       "stack": "item:minecraft:comparator"
-    },
-    {
-      "stack": "item:mob_grinding_utils:mob_swab"
     },
     {
       "stack": "item:justdirethings:upgrade_hammer"
@@ -220,12 +126,6 @@
     },
     {
       "stack": "item:allthemodium:teleport_pad"
-    },
-    {
-      "stack": "item:fluxnetworks:flux_dust"
-    },
-    {
-      "stack": "item:fluxnetworks:flux_core"
     },
     {
       "stack": "item:rftoolsbase:filter_module"
@@ -341,9 +241,8 @@
     },
     {
       "stack": {
-        "type": "tag",
-        "registry": "minecraft:fluid",
-        "id": "c:molten_gold",
+        "type": "fluid",
+        "id": "productivemetalworks:molten_gold",
         "amount": 180
       }
     },
@@ -380,15 +279,6 @@
       "stack": "item:silentgear:nether_star_fragment"
     },
     {
-      "stack": "item:sophisticatedbackpacks:stack_upgrade_starter_tier"
-    },
-    {
-      "stack": "item:sophisticatedbackpacks:stack_upgrade_tier_3"
-    },
-    {
-      "stack": "item:sophisticatedbackpacks:stack_upgrade_tier_1"
-    },
-    {
       "stack": "item:sophisticatedbackpacks:stack_upgrade_tier_4"
     },
     {
@@ -413,9 +303,6 @@
       "stack": "item:forbidden_arcanus:utrem_jar"
     },
     {
-      "stack": "item:sophisticatedbackpacks:stack_upgrade_tier_2"
-    },
-    {
       "stack": "item:create:dough"
     },
     {
@@ -423,9 +310,6 @@
     },
     {
       "stack": "item:create:wheat_flour"
-    },
-    {
-      "stack": "#item:c:slime_balls"
     },
     {
       "stack": "item:silentgear:azure_electrum_ingot"
@@ -636,37 +520,118 @@
       "stack": "item:chipped:tiny_brick_bordered_deepslate"
     },
     {
-      "stack": "item:mekanism:basic_universal_cable"
-    },
-    {
-      "stack": "item:mekanism:advanced_universal_cable"
-    },
-    {
-      "stack": "item:mekanism:elite_universal_cable"
-    },
-    {
-      "stack": "item:easy_villagers:trader"
-    },
-    {
       "stack": "item:ae2:fluix_crystal"
     },
     {
       "stack": "item:ae2:certus_quartz_crystal"
     },
     {
-      "stack": "item:ae2:drive"
+      "stack": "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:water\"}}"
     },
     {
-      "stack": "item:ae2:item_storage_cell_16k"
+      "stack": "item:ae2:logic_processor"
+    },
+    {
+      "stack": "item:ae2:calculation_processor"
+    },
+    {
+      "stack": "item:appflux:energy_processor"
+    },
+    {
+      "stack": "item:extendedae:concurrent_processor"
+    },
+    {
+      "stack": "item:advanced_ae:quantum_processor"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "ae2:printed_logic_processor",
+        "amount": 4
+      }
+    },
+    {
+      "stack": "item:ae2:printed_calculation_processor"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "ae2:printed_silicon",
+        "amount": 4
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:redstone",
+        "amount": 4
+      }
+    },
+    {
+      "stack": "item:extendedae:crystal_assembler"
+    },
+    {
+      "stack": "item:ae2:sky_stone_tank"
+    },
+    {
+      "stack": "item:extendedae:machine_frame"
+    },
+    {
+      "stack": "item:ae2:crafting_terminal"
+    },
+    {
+      "stack": "item:minecraft:crafting_table"
+    },
+    {
+      "stack": "item:ae2:terminal"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "ae2:semi_dark_monitor",
+        "amount": 3
+      },
+      "recipe": "ae2:network/parts/panels_semi_dark_monitor"
+    },
+    {
+      "stack": "item:ae2:quartz_glass"
+    },
+    {
+      "stack": "item:ae2:inscriber"
+    },
+    {
+      "stack": "item:ae2:speed_card"
+    },
+    {
+      "stack": "item:ae2:advanced_card"
+    },
+    {
+      "stack": "item:extendedae:crystal_assembler",
+      "recipe": "extendedae:crystal_assembler"
+    },
+    {
+      "stack": "item:extendedae:entro_ingot"
+    },
+    {
+      "stack": "item:extendedae:entro_dust"
+    },
+    {
+      "stack": "item:extendedae:entro_crystal"
+    },
+    {
+      "stack": "item:extendedae:entro_seed"
+    },
+    {
+      "stack": "item:ae2:controller"
+    },
+    {
+      "stack": "item:ae2:drive"
     },
     {
       "stack": "item:ae2:storage_bus"
     },
     {
       "stack": "item:ae2:pattern_encoding_terminal"
-    },
-    {
-      "stack": "item:ae2:crafting_terminal"
     },
     {
       "stack": "item:ae2:pattern_access_terminal"
@@ -676,64 +641,605 @@
     },
     {
       "stack": "item:extendedae:ex_pattern_access_part"
+    },
+    {
+      "stack": "item:ae2:annihilation_core"
+    },
+    {
+      "stack": "item:ae2:formation_core"
+    },
+    {
+      "stack": "item:ae2:smooth_sky_stone_block"
+    },
+    {
+      "stack": "item:ae2:engineering_processor"
+    },
+    {
+      "stack": "item:ae2:printed_engineering_processor"
+    },
+    {
+      "stack": "item:extendedae:circuit_cutter"
+    },
+    {
+      "stack": "item:extendedae:concurrent_processor_press"
+    },
+    {
+      "stack": "item:chipped:tiny_calcite_bricks"
+    },
+    {
+      "stack": "item:chipped:spiraled_calcite"
+    },
+    {
+      "stack": "item:chipped:vertical_disordered_calcite_bricks"
+    },
+    {
+      "stack": "item:chipped:brick_bordered_calcite"
+    },
+    {
+      "stack": "item:chipped:thick_inlayed_calcite"
+    },
+    {
+      "stack": "item:chipped:tiny_brick_bordered_calcite"
+    },
+    {
+      "stack": "item:advanced_ae:small_adv_pattern_provider"
+    },
+    {
+      "stack": "item:appflux:induction_card"
+    },
+    {
+      "stack": "item:extendedae:wireless_ex_pat"
+    },
+    {
+      "stack": "item:ae2:wireless_crafting_terminal"
+    },
+    {
+      "stack": "item:ae2:wireless_access_point"
+    },
+    {
+      "stack": "item:ae2:me_p2p_tunnel"
+    },
+    {
+      "stack": "item:ae2:quartz_fiber"
+    },
+    {
+      "stack": "item:ae2:fluix_smart_dense_cable"
+    },
+    {
+      "stack": "item:enderio:conduit{\"enderio:conduit\":\"enderio:dense_me\"}"
+    },
+    {
+      "stack": "item:ae2:memory_card"
+    },
+    {
+      "stack": "item:ae2:fluix_glass_cable"
+    },
+    {
+      "stack": "item:ae2:fluix_smart_cable"
+    },
+    {
+      "stack": "item:ae2:fluix_covered_dense_cable"
+    },
+    {
+      "stack": "item:ae2:fluix_covered_cable"
+    },
+    {
+      "stack": "item:extendedae:ex_pattern_provider",
+      "recipe": "extendedae:assembler/ex_pattern_provider"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "extendedae:concurrent_processor_print",
+        "amount": 4
+      }
+    },
+    {
+      "stack": "item:extendedae:entro_block"
+    },
+    {
+      "stack": "item:ae2:basic_card"
+    },
+    {
+      "stack": "item:ae2:cable_pattern_provider"
+    },
+    {
+      "stack": "item:ae2:pattern_provider"
+    },
+    {
+      "stack": "item:ae2:blank_pattern"
+    },
+    {
+      "stack": "item:extendedae:ex_pattern_provider"
+    },
+    {
+      "stack": "item:mekanism:ingot_bronze"
+    },
+    {
+      "stack": "item:alltheores:bronze_ore_hammer"
+    },
+    {
+      "stack": "item:alltheores:copper_ore_hammer"
+    },
+    {
+      "stack": "item:minecraft:blast_furnace"
+    },
+    {
+      "stack": "item:mekanism:enrichment_chamber"
+    },
+    {
+      "stack": "item:mekanism:metallurgic_infuser"
+    },
+    {
+      "stack": "item:actuallyadditions:coal_generator"
+    },
+    {
+      "stack": "item:mekanism:steel_casing"
+    },
+    {
+      "stack": "item:mekanism:ingot_steel"
+    },
+    {
+      "stack": "item:justdirethings:gooblock_tier1"
+    },
+    {
+      "stack": "item:actuallyadditions:atomic_reconstructor"
+    },
+    {
+      "stack": "item:integrateddynamics:squeezer"
+    },
+    {
+      "stack": "item:justdirethings:itemcollector"
+    },
+    {
+      "stack": "item:justdirethings:ferricore_ingot"
+    },
+    {
+      "stack": "item:minecraft:rotten_flesh"
+    },
+    {
+      "stack": "item:minecraft:clay_ball"
+    },
+    {
+      "stack": "item:minecraft:sugar"
+    },
+    {
+      "stack": "item:tiab:time_in_a_bottle"
+    },
+    {
+      "stack": "item:simplemagnets:basicmagnet"
+    },
+    {
+      "stack": "item:mekanismgenerators:gas_burning_generator"
+    },
+    {
+      "stack": "mekanism_chemical:mekanism:ethene"
+    },
+    {
+      "stack": "item:mekanism:electrolytic_core"
+    },
+    {
+      "stack": "item:mekanism:basic_mechanical_pipe"
+    },
+    {
+      "stack": "item:mekanism:upgrade_energy"
+    },
+    {
+      "stack": "item:mekanism:upgrade_speed"
+    },
+    {
+      "stack": "item:mekanism:basic_tier_installer"
+    },
+    {
+      "stack": "item:mekanism:advanced_tier_installer"
+    },
+    {
+      "stack": "item:mekanism:elite_tier_installer"
+    },
+    {
+      "stack": "item:minecraft:blaze_powder"
+    },
+    {
+      "stack": "item:minecraft:brewing_stand"
+    },
+    {
+      "stack": "item:evilcraft:blood_infuser"
+    },
+    {
+      "stack": "item:evilcraft:hardened_blood_shard"
+    },
+    {
+      "stack": "item:evilcraft:blood_infusion_core"
+    },
+    {
+      "stack": "item:evilcraft:dark_power_gem"
+    },
+    {
+      "stack": "item:evilcraft:dark_spike"
+    },
+    {
+      "stack": "item:evilcraft:blood_extractor"
+    },
+    {
+      "stack": "item:apotheosis:potion_charm{\"minecraft:potion_contents\":{potion:\"potionsmaster:diamond\"}}"
+    },
+    {
+      "stack": "item:potionsmaster:diamond_oresight_powder"
+    },
+    {
+      "stack": "item:potionsmaster:calcinated_diamond_oresight_powder"
+    },
+    {
+      "stack": "item:mekanism:elite_control_circuit"
+    },
+    {
+      "stack": "item:justdirethings:blazegold_ingot"
+    },
+    {
+      "stack": "item:minecraft:emerald"
+    },
+    {
+      "stack": "item:minecraft:golden_apple"
+    },
+    {
+      "stack": "item:justdirethings:gooblock_tier3"
+    },
+    {
+      "stack": "item:justdirethings:gooblock_tier4"
+    },
+    {
+      "stack": "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:weakness\"}}"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:ender_eye",
+        "amount": 3
+      }
+    },
+    {
+      "stack": "item:minecraft:nether_star"
+    },
+    {
+      "stack": "item:mekanism:ultimate_tier_installer"
+    },
+    {
+      "stack": "item:mekanism:ultimate_control_circuit"
+    },
+    {
+      "stack": "item:minecraft:gold_block"
+    },
+    {
+      "stack": "item:angelring:diamond_ring"
+    },
+    {
+      "stack": "item:minecraft:ghast_tear",
+      "recipe": "reliquary:uncrafting/ghast_tear"
+    },
+    {
+      "stack": "item:minecraft:ghast_tear"
+    },
+    {
+      "stack": "item:minecraft:diamond_block"
+    },
+    {
+      "stack": "item:mekanism:digital_miner"
+    },
+    {
+      "stack": "item:mekanism:jetpack"
+    },
+    {
+      "stack": "item:mob_grinding_utils:mob_swab"
+    },
+    {
+      "stack": "item:botanypots:terracotta_hopper_botany_pot"
+    },
+    {
+      "stack": "item:minecraft:clock"
+    },
+    {
+      "stack": "item:fluxnetworks:flux_point"
+    },
+    {
+      "stack": "item:constructionstick:netherite_stick"
+    },
+    {
+      "stack": "item:minecraft:ancient_debris"
     }
   ],
   "lookup_history": [
-    "item:mekanism:elite_universal_cable",
-    "item:mekanism:advanced_universal_cable",
-    "item:mekanism:basic_universal_cable",
-    "item:fluxnetworks:flux_point",
+    {
+      "type": "item",
+      "id": "minecraft:crying_obsidian",
+      "amount": 3
+    },
+    "item:constructionstick:template_unbreakable",
+    "item:mob_grinding_utils:mob_swab",
+    "item:constructionstick:template_angel",
+    "item:minecraft:stick",
+    "#item:c:rods/wooden",
+    "item:constructionstick:netherite_stick",
+    "item:minecraft:netherite_upgrade_smithing_template",
+    "item:minecraft:ancient_debris",
     "item:fluxnetworks:flux_core",
+    "item:fluxnetworks:flux_point",
     "item:minecraft:ender_eye",
-    "item:minecraft:ender_pearl",
-    "item:fluxnetworks:flux_dust",
     "item:minecraft:redstone_block",
+    "item:mekanism:digital_miner",
+    "item:mekanism:logistical_sorter",
+    "item:minecraft:piston",
+    "item:mekanism:robit",
+    "item:mekanism:personal_chest",
+    "#item:mekanism:personal_storage",
     "item:minecraft:chest",
-    "item:occultism:brush",
+    "#item:c:chests/wooden",
+    "item:mekanism:energy_tablet",
+    "item:mekanism:steel_casing",
+    "item:mekanism:teleportation_core",
+    "item:fluxnetworks:flux_plug",
+    "item:fluxnetworks:flux_block",
+    "item:fluxnetworks:flux_controller",
+    "item:fluxnetworks:flux_dust",
+    "item:javd:portal_block",
+    "item:artifacts:bunny_hoppers{\"relics:data\":{abilities:{abilities:{hold:{extender:{cooldown:0,cooldownCap:0,ticking:0b},lock:{breaks:5},points:3,research:{links:{0:[I;1],1:[I;2],2:[I;3],4:[I;2],5:[I;1],6:[I;5],7:[I;5]},researched:1b},stats:{duration:{initialValue:4.59543d}}}}},leveling:{experience:627,level:9,luck:0,points:6}},\"relics:time\":0,\"relics:toggled\":0b}",
+    "item:minecraft:gold_block",
+    "item:angelring:angel_ring",
+    "item:angelring:diamond_ring",
+    "item:minecraft:diamond_block",
+    "item:mekanism:precision_sawmill",
+    "item:mekanism:sawdust",
+    "item:mob_grinding_utils:gm_chicken_feed",
+    "item:reliquary:catalyzing_gland",
+    "item:minecraft:sugar",
+    "item:utilitarian:snad",
+    "item:minecraft:iron_nugget",
+    "item:minecraft:soul_lantern",
+    "item:minecraft:soul_torch",
+    "item:minecraft:oak_fence",
+    "item:minecraft:clay",
+    "item:minecraft:terracotta",
+    "item:botanypots:terracotta_hopper_botany_pot",
+    "item:minecraft:hopper",
+    "item:minecraft:flower_pot",
     "item:minecraft:lever",
-    "item:minecraft:deepslate_tiles",
-    "item:create:cut_calcite_bricks",
-    "item:minecraft:calcite",
-    "item:rechiseledcreate:calcite_cut_polished_connecting",
-    "item:chipped:etched_calcite_bricks",
-    "item:rechiseledcreate:calcite_cut_small_brick_connecting",
-    "item:chipped:blank_calcite_carving",
-    "item:minecraft:stonecutter",
-    "item:rftoolsbuilder:shape_card_def",
-    "item:minecraft:bricks",
-    "item:apotheosis:potion_charm{\"minecraft:potion_contents\":{potion:\"minecraft:night_vision\"}}",
-    "item:minecraft:clock",
-    "item:minecraft:golden_carrot",
-    "item:minecraft:gold_nugget",
-    "item:minecraft:glass_bottle",
-    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:awkward\"}}",
-    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:night_vision\"}}",
-    "item:minecraft:carrot",
+    "item:minecraft:comparator",
+    "item:minecraft:redstone_torch",
+    "item:mekanism:upgrade_speed",
+    "item:mekanism:jetpack",
+    "item:mekanism:basic_chemical_tank",
+    "item:justdirethings:upgrade_flight",
+    "item:apotheosis:salvaging_table",
+    "item:minecraft:smithing_table",
+    "item:minecraft:iron_pickaxe",
+    "item:minecraft:iron_axe",
+    "item:mysticalagriculture:witherproof_block",
+    "item:mysticalagriculture:witherproof_bricks",
     "item:sophisticatedbackpacks:advanced_magnet_upgrade",
     "item:sophisticatedbackpacks:magnet_upgrade",
     "item:sophisticatedbackpacks:pickup_upgrade",
-    "item:sophisticatedbackpacks:upgrade_base",
-    "item:sophisticatedbackpacks:advanced_void_upgrade",
-    "item:sophisticatedbackpacks:void_upgrade",
-    "item:minecraft:netherite_ingot",
-    "item:sophisticatedbackpacks:netherite_backpack",
-    "item:constructionstick:template_battery",
-    "item:constructionstick:template_angel",
-    "item:constructionstick:template_unbreakable",
-    "item:sophisticatedbackpacks:advanced_refill_upgrade",
-    "item:sophisticatedbackpacks:refill_upgrade",
-    "item:sophisticatedbackpacks:stonecutter_upgrade",
-    "item:sophisticatedbackpacks:advanced_restock_upgrade",
-    "item:sophisticatedbackpacks:restock_upgrade",
     "item:minecraft:sticky_piston",
-    "item:minecraft:piston",
+    "item:actuallyadditions:rice_slimeball",
+    "#item:c:slime_balls",
+    "item:actuallyadditions:rice_dough",
+    "item:farmingforblockheads:market",
+    "item:minecraft:red_wool",
+    "item:actuallyadditions:rice_seeds",
+    "item:actuallyadditions:rice",
+    "item:sophisticatedbackpacks:upgrade_base",
+    "item:sophisticatedstorage:pickup_upgrade",
+    "item:sophisticatedstorage:magnet_upgrade",
+    "item:actuallyadditions:iron_casing",
+    "item:actuallyadditions:atomic_reconstructor",
+    {
+      "type": "item",
+      "id": "minecraft:rotten_flesh",
+      "amount": 39
+    },
+    "item:simplemagnets:advancedmagnet",
+    "item:simplemagnets:basicmagnet",
+    "item:mekanism:elite_control_circuit",
+    "item:mekanism:ultimate_control_circuit",
+    "item:mekanism:advanced_control_circuit",
+    "item:mekanism:elite_tier_installer",
+    "item:mekanism:advanced_tier_installer",
+    "item:mekanism:ultimate_tier_installer",
+    "item:mekanism:upgrade_energy",
+    "item:sophisticatedbackpacks:stack_upgrade_tier_2",
+    "item:sophisticatedbackpacks:stack_upgrade_tier_1",
+    "item:minecraft:iron_block",
+    "item:sophisticatedbackpacks:stack_upgrade_starter_tier",
+    "item:minecraft:copper_block",
+    "item:sophisticatedbackpacks:crafting_upgrade",
+    "item:comforts:rope_and_nail",
+    "item:comforts:hammock_white",
+    "item:comforts:sleeping_bag_white",
+    "item:mekmm:basic_pressurised_reacting_factory",
+    "item:mekanism:basic_tier_installer",
+    "item:mekanism:alloy_atomic",
+    "item:sophisticatedbackpacks:backpack",
+    "item:evilcraft:vengeance_pickaxe{\"minecraft:enchantments\":{levels:{\"evilcraft:vengeance\":3,\"minecraft:fortune\":5}}}",
+    "item:evilcraft:vein_sword{\"minecraft:enchantments\":{levels:{\"minecraft:looting\":2}}}",
+    "item:minecraft:anvil",
+    "item:actuallyadditions:empowered_diamatine_crystal",
+    "item:actuallyadditions:lens_of_disenchanting",
+    "item:evilcraft:dark_spike",
+    "item:evilcraft:dark_stick",
+    "item:evilcraft:undead_planks",
+    "item:justdirethings:experienceholder",
+    "item:minecraft:flint",
+    "item:minecraft:fermented_spider_eye",
+    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:weakness\"}}",
+    "item:minecraft:armor_stand",
+    "item:minecraft:smooth_stone_slab",
+    "item:minecraft:compass",
+    "item:twilightforest:maze_map_focus",
+    "item:twilightforest:uncrafting_table",
+    "item:mekanism:atomic_disassembler",
+    "item:easy_villagers:converter",
+    "item:minecraft:fletching_table",
+    "item:easy_villagers:trader",
+    "item:minecraft:emerald",
+    "item:justdirethings:gooblock_tier3",
+    "item:justdirethings:gooblock_tier4",
+    "item:justdirethings:gooblock_tier2",
+    "item:potionsmaster:gold_oresight_powder",
+    "item:potionsmaster:ender_powder",
+    "item:potionsmaster:redstone_oresight_powder",
+    "item:potionsmaster:calcinated_redstone_oresight_powder",
+    "item:evilcraft:blood_infuser",
+    "item:evilcraft:blood_infusion_core",
+    "item:apotheosis:potion_charm{\"minecraft:potion_contents\":{potion:\"potionsmaster:gold\"}}",
+    "item:apotheosis:gold_upgrade_smithing_template",
+    "item:potionsmaster:diamond_oresight_powder",
+    "item:minecraft:blaze_powder",
+    {
+      "type": "item",
+      "id": "potionsmaster:pestle",
+      "remainder": "item:potionsmaster:pestle"
+    },
+    {
+      "type": "item",
+      "id": "potionsmaster:tile_mortar",
+      "remainder": "item:potionsmaster:tile_mortar"
+    },
+    "item:evilcraft:blood_extractor",
+    "item:evilcraft:blood_extractor{\"cyclopscore:fluid_content\":{amount:5000,id:\"evilcraft:blood\"}}",
+    "item:evilcraft:dark_power_gem",
+    "item:mekanism:qio_drive_base",
+    "item:mekanism:qio_drive_hyper_dense",
+    "item:mekanism:qio_drive_time_dilating",
+    "item:mekanism:pellet_polonium",
+    "item:mekanism:qio_drive_supermassive{\"mekanism:drive_contents\":[L;6327544318930406159L,-5195439155052199758L,334L,-2633541538875686241L,-8301827255554182794L,144L,5916172805437276173L,-7667227161591089075L,2L,243052397755976265L,-6257072056060087457L,55L,-92225444624907565L,-5142363009835144720L,7L,-1925764044905690137L,-7546431564349614177L,16L,-478650357272788204L,-7659945493774195910L,40L,-8635799783312242953L,-5793904892215298440L,2049L,-6210315183384475114L,-8908833116440908714L,36L,-6761944237835138135L,-7739086545881483647L,9L,8874214133098958508L,-6671169018181885539L,5L,-8787988785145689027L,-4949570623963868097L,5L,-7319329248166393154L,-7171116940064975621L,7L,1182934452685129707L,-7781937883255528775L,8L,-4106873018917958151L,-7389275246733592487L,4L,3227077617972494686L,-5998801153662543342L,111L,-1739891144008252540L,-7415129420644971560L,7L,-1600674024506897780L,-7957029059879300713L,20L,3828296612360702585L,-6496931865628185829L,5L,5729808441195512460L,-4685270997869975822L,391L,3496624840632452707L,-6646824971176114913L,2L,-4979774041664371658L,-8583735495161738567L,11L,-7129218822955121557L,-7079809460333734515L,43L,1839605163330324964L,-6395890288137940737L,1L,6959515570826069857L,-6033064974030780287L,8L,-4365167800343247760L,-5488205241813079778L,2L,7969033112061953616L,-4911817000790570545L,1L,-7615384489773875079L,-5528328348429812346L,30L,4577091206035621076L,-5633087942591808820L,223L,1671827540191167624L,-5142601394320639302L,3L,3178447301432658638L,-7527234196450323558L,13L,-5926618141197778647L,-8474587809706740760L,6L,5566911478496709906L,-8877043867636678495L,267L,-2787471641718079138L,-8978545561283096424L,91L,6446826404139190630L,-6116444544198156741L,30538L,8290025764575789958L,-6161384641955279662L,4L,-8003927889485413168L,-6951401962561113729L,21L,7653293797944018905L,-6961475999568596120L,2L,1758958946615577477L,-8220583068936709036L,7L,2553328663507518662L,-4963363139802059652L,359L,-4986397235402555161L,-9128750607476572388L,1L,6124031493760241439L,-5486869523158623547L,2L,1604224177874881366L,-8144662225799895160L,33L,4733043134446848650L,-8840610641382651062L,2L,-3046723376474210297L,-8369865014701627393L,29L,4433640170905681929L,-9158791683493698972L,1L,-7495225629852220224L,-6647365342780354764L,105L,-9080044208928833000L,-7518416712965468185L,12L,3358465413592795676L,-5909987064654279268L,192L,-8771372590214000744L,-7821744951972371910L,1L,-8817724444518757755L,-4988527698839170580L,4L,-1556327769482048767L,-5272148462844283931L,3894L,-5665825807341239749L,-4625604653056114792L,27L,6013103752467859593L,-4828438695505795642L,3L,-6598445905847432717L,-8272238891455270604L,1L,2049711287790485614L,-7190370162055493838L,15L,4621332518585714695L,-4742644490381979925L,1L,7231332539075150489L,-7391367277277487897L,6242L,5468346636838456083L,-7536375149117899704L,212L,4291991913694646040L,-8168062704731509075L,4L,7220576529687397208L,-6845853069237429658L,1L,-233200012673923218L,-6508729091411621081L,1102L,-7922681664887371872L,-9103331231998166902L,485L,5315410212105830987L,-4683210302538405514L,63L,-2201287198141824074L,-5502104586855337086L,22L,-5236363490707553655L,-7991480287636327007L,12L,5901935034942965749L,-4929040619186234087L,75L,-746530171918791740L,-9167928654148963925L,67L,3102845297359277470L,-8707386950392921902L,183L,5971470396376958185L,-6117385176469741612L,6L,1808245253402804230L,-6369302460980764297L,570L,-1640830766026111651L,-5891365909466461942L,22L,-9130742384329798908L,-7326114876502998329L,7L,2004489607270187987L,-8554153470517365534L,4L,5530259984953655613L,-5258287814591176824L,44L,2567598273476445483L,-7190867666845734402L,163L,-5608980127904217335L,-5975733550340164517L,4L,4426361456102623287L,-7618614087165901324L,47654L,1621720442250347419L,-9164495678075027682L,5L,1633374294629630245L,-7709709948924310541L,2L,-2410409004383124074L,-5353722336476396717L,1L,5902672804971168588L,-8636065368373262602L,112L,-2533339016509307836L,-8428906233936072144L,75L,1777304603661979360L,-5124874772214683434L,27L,-1211651817186506413L,-6146533252402682070L,7L,2207470903971630114L,-8098839014734794715L,2L,-434416638147736330L,-6276523153843194343L,1L,9131920135404798965L,-8200171941184861015L,3988L,1462314969497223718L,-8170284949933426406L,182L,-5926549371679322961L,-7939570557170858837L,23934L,-7619948029928390322L,-9009897363038439189L,81247L,-7535939050939593634L,-5354420503573465559L,2L,2372685521827086366L,-8310057012057773810L,2L,8324487537585964234L,-5794928620534426177L,1L,7803541181409348248L,-6320028259094364568L,2L,-7958161154852436263L,-5614948472727413419L,59L,5616922283308566827L,-6764175803254194104L,161L,8973693669166435363L,-9172539355864856959L,1L,3021481907249958753L,-8097636553153458470L,60L,-4600090196132936276L,-5381893500290641118L,1L,-1819627830492246573L,-4969513431863519534L,1L,-5583476796122314608L,-6661440014763412862L,4L,-1874660313216299907L,-7883812020734385356L,73L,-1125833553188467832L,-8262920510670097946L,7L,-4976520441464927867L,-7434025535225216649L,402L,3235535592899693805L,-9159566469857239341L,4L,-7227044853844589514L,-6867817450295723709L,911018L,9079516527590853849L,-8578070189313202133L,11L,-1762088925754603210L,-9160510833583695500L,4L,-6871991404714964353L,-7846585028930305294L,564812L,-579915802671692944L,-6718912831881273181L,32L,-7564191988030879194L,-5186057517492636268L,15L,709486603282301369L,-4990478713134958768L,1L,-4243517473026653234L,-8055384511210806092L,1L,2933377707702829921L,-8766980927592898434L,12L,-7510441749851846790L,-5152878137131306695L,4L,5681010936808489136L,-6272424455813883781L,6L,6073484714316089053L,-7334178696667511157L,1L,6305697111080192853L,-5856028584589835905L,4L,-2494254546326958345L,-7653001855995903115L,35L,5016257918337041209L,-8396701290690231735L,31L,2077245808815849594L,-5282995949826966563L,8L,-4636976580953092648L,-7912962777621676438L,86L,-5532619390858541702L,-7554961174311510067L,3L,-22387975229390738L,-6176135138985797652L,16L,807454269404630306L,-7900106846858449560L,92L,2778238786740963597L,-7573365705515965927L,11L,-834231897039420982L,-5729828777777817392L,169L,5199689436486583296L,-5463508147475097769L,4L,7981442734609157753L,-8914458776030560066L,23L,-7393363615894386389L,-7273549117339134366L,1L,-1580046855139538183L,-4976566159540409334L,3L,8359180642849013867L,-6336475730384582235L,40L,-7359926488390022718L,-9069617852831666778L,6L,-8577473155285826087L,-8568793830960390114L,4L,690195807420960200L,-6291110396874110840L,3L,-2346120703435911171L,-9188975157652988745L,4L,3849519398701779487L,-6343760427455214646L,5L,2871991539638291346L,-9021683723440816143L,1L,3761124720187162657L,-6650054541569409143L,1L,-5384316096368521491L,-9200922179829066850L,310060L,4442853317064540331L,-6263710514261171043L,161L,5634589032228865336L,-8658051275455201264L,15L,-585776518114557559L,-8105263456309756967L,19L,1288243329350583605L,-8237224873204202805L,3L,2858111007421123625L,-6419865603297649443L,6L,448820283902216247L,-5509003297980149484L,3L,1978378734512785775L,-8156398181601913128L,17681L,704307198254010240L,-6204246831031828611L,26L,-6392831236705465823L,-6626276730762838329L,97L,3754327384729142243L,-8517028011675756220L,233513L,8326486710835823687L,-8742570841870102569L,2L,4295498144789382612L,-7498621363976771363L,3L,4599394105740575664L,-7630369857060265860L,4L,5637418369421102778L,-8817048261993017770L,242091L,4235228763127432953L,-5617980979625922911L,32L,234615753382317779L,-5442027446988444999L,1L,-6036162733483340145L,-8507975108083932368L,1L,4234724097136152185L,-5052756391265976211L,7L,-918687011769859991L,-8468523247479412398L,18L,4311425133172375592L,-8075566978893634459L,712L,6569510688419169527L,-7521922859425076861L,64L,-4433811011231596486L,-5029217273178623925L,2L,3717671307073572554L,-8156090757685308613L,1L,-7084590851276389580L,-8188274638142204270L,3088L,-4875278654280612537L,-8222844444378559309L,13184L,4592273623837328053L,-5743581068388749735L,1L,2365402973875749773L,-4651683877130971576L,14L,1904831269687871288L,-8431058594058182447L,40L,1763164897504936393L,-5961811058539918214L,6L,-7576877544611491880L,-4897229944904716098L,32L,8868068672957268596L,-8509121774918952778L,330L,-6348037089541010735L,-7547282754873343724L,450L,-8281767830284972347L,-5777939822243724057L,3L,6276000138416769745L,-7703751966862198630L,8L,-8018797495047731079L,-4886868405541277491L,556L,-7404508518925909959L,-8420931632694247639L,4L,-1707130864259610186L,-8239582509102707673L,338L,-2955001865494508781L,-5051659600581100407L,14L,859460453990222210L,-4934751004109310999L,9L,-5038987393968158254L,-8997494038696852669L,8L,-1888902238932613578L,-5664204090679941212L,133L,1670530024238631766L,-8711880967852221703L,1163L,6051225665690816391L,-6639562609724513536L,17006L,-3862872033982266511L,-7297814932217940889L,174L,-387791873015592222L,-6733070556029890472L,5L,3943672898919221314L,-8947686700434877669L,1L,-7958161793158263930L,-8016200975558019574L,4L,8479479625695970402L,-9159346181223165951L,3L,4629091576841719607L,-5910118921207778809L,11L,-5040061726839519781L,-4752642689051411191L,1L,-6039530205924539978L,-8136952787929426898L,2252L,-4169235208589980051L,-5424004458722500414L,9L,-6633587001442418644L,-8895812101411129136L,1L,3733502227996821210L,-5715736187255107649L,50L,-3163723039143411175L,-6108415212461013572L,1L,-5938085306750907362L,-5318686443584417027L,49L,4571962985240348046L,-8929030734537406510L,20L,-1947608532965900135L,-9081869599049227744L,4L,-3297028917306113966L,-9206580955256091208L,8L,6711825956779803141L,-5360656009582493389L,134L,2156204829963865701L,-7284366852482163589L,2L,-4640652597902162258L,-8353524257832675681L,1L,8258343012010508474L,-8035876911141829973L,134L,7767549736404730953L,-7434920612894372896L,174L,5068085312806995184L,-7033159522711408169L,137L,3149666324031620332L,-6425196172644073671L,34L,8535134585745657014L,-8981523772948457489L,986L,8121253451985932058L,-7601205935512617312L,1L,3918974483353652214L,-8970443392910489527L,1L,-5569502467393172331L,-5909374195230592097L,2L,3558312137097888546L,-8679762032979304307L,309L,-7471068178277642976L,-7574540906935999831L,35L,-6768671094631545381L,-7542000214266083269L,8L,2308962756057647277L,-8727489049418498792L,8L,-232449401430061915L,-8449855723804763771L,1L,-7115150995450871464L,-6069024894188277774L,3L,-4853949448467362275L,-7738227193980562347L,2L,9037502807033597792L,-7884302165210143668L,16L,6973946384969188090L,-6752593598895909509L,1L,6226596195429531919L,-7202266958168379444L,417L,-3840236133102108305L,-8410067565157905994L,3L,-9213260622141175081L,-5151757397701187649L,4L,6813013208506517818L,-8724694930020965365L,44343L,-1379178474575410736L,-9010485028594270635L,8L,-4401646523853094731L,-8057309882745497764L,451L,-5329981197532772013L,-6913678149808297195L,2L,1400030406031458609L,-4663189493813849320L,2L,-1546889114528364332L,-5251960951685247847L,37L,3626942361968331761L,-8663550588160792609L,22L,-7534702415075851271L,-8078059859680379796L,1L,7905770254029833480L,-6754549036746182708L,10L,-4252716010326046179L,-7422094298496449939L,1L,-5288134312521023384L,-8075063525301889426L,14L,-7124825760908031257L,-8317668015950675201L,21L,801929018475955894L,-5742086654864941232L,5L,3040645458120163711L,-4704273587225695057L,59488L,12576590304135259L,-5039656980105979648L,53L,1029901005572230584L,-5418996918959777054L,94L,7850013840088059085L,-7991207665697994186L,2L,-3955597020684991815L,-5554455202060653668L,13L,-8588988085606070876L,-4640801580579961171L,1L,-6006312612266491825L,-6029427163051806970L,58L,775858622608461380L,-5093575256974227285L,8L,6546509148361081831L,-7744346829106081127L,1L,4498175754777740794L,-5773098012096454161L,1788L,-8728633060851758586L,-6887516329734419283L,1L,-1650944868250271038L,-6026703673736311561L,1L,5682733073315088998L,-7869713291905485777L,11L,-6406422372362728678L,-7918765319343820364L,54L,-4639020229603604780L,-6765652787051406132L,3L,-9034542458272330050L,-7639105490706556360L,1L,-5475235817076797926L,-6628556239583542018L,249L,593112564067549501L,-5492490923495044205L,6L,4822263650664664072L,-6598711954141201539L,1L,-2436254947940349982L,-8612672129799094100L,1717L,6568201167636939732L,-7546537496430173891L,54L,3562212460381752525L,-6176217331140702592L,46L,9105702700041781736L,-6448634069182276761L,188L,-6373150875141980114L,-4896975598818469182L,66L,-1028428292390828026L,-5847521455115826906L,10606L,-109919078775763098L,-8206540700328177063L,49973L,7320171753312569128L,-6349584609557828786L,1L,7836495335385875006L,-7856402186533950758L,14L,-8571041630458920153L,-5280365923734159686L,1L,-8588417001516153626L,-7751604105383915692L,65L,-7828549569747989293L,-8905178662589878389L,228685L,-833612287269255098L,-7267621586499229582L,2L,3122420082638144936L,-5408847329509308745L,2L,6409893244512456368L,-4949559246131431907L,1L,-1173264278406938446L,-5184187948095573926L,40L,-5639847939454909804L,-7517474239497448778L,1L,8834710057745072820L,-7413546502056013687L,20L,7635640135676151587L,-6417506083163307390L,454L,3632276636791162886L,-7009508841931617499L,4L,-148127013326337014L,-4881123974454913391L,5L,-8851320379030288627L,-7440475868181628651L,5L,4163226969960696551L,-5817183175956768480L,2L,-7365434703852124129L,-6064468573058187394L,2L,-6105755038998835294L,-7545065044875215917L,49L,-4532248108419037071L,-6811804688409871965L,2L,-157825247868795322L,-6503088511460341142L,67458L,-861461262742568521L,-8220200338074542027L,3L,7734105982113106518L,-6530880759638429657L,337L,2907058267802324090L,-5297882032409542626L,835L,6715605456219555670L,-5620059313751491010L,1L,-1069294641180554216L,-6199368122474933910L,4612L,-8867737427294206065L,-6619365413313212474L,14L,5110152978051317873L,-9181060119465464537L,8L,637486137136073583L,-7273758792456623490L,1761L,1837823854380336651L,-5138165735367686809L,4L,3191723643746602372L,-8324013422495244828L,9L,4229711858272518829L,-7213407536297564976L,1L,-7859009999897998970L,-6036163015423277990L,15L,1748792434769611842L,-6893696766149936549L,128L,5773663797039677690L,-6975903460041089822L,3933L,-1387330243577888152L,-4652504590215060030L,3L,-2334837623627429969L,-7989469382411413243L,11L,6635634537513370582L,-8121856093212181211L,110L,-6238494438781730757L,-5955924557212477473L,973L,3950278575633940900L,-6408181522528655006L,2L,-7479437820429778684L,-8608430624069708355L,1L,-4094809828281660720L,-5349855034848692054L,2L,1307990176022677663L,-6679864827664160572L,6L,-7157077324700824584L,-6737126260304373564L,12L,8801613617248685673L,-6705246284769670736L,41L,-3327583804769874083L,-8189200298644560137L,2L,711275229000451456L,-6783732551276490245L,8L,790733153803126816L,-6102575447821203426L,10L,2946378199296787113L,-8610444631444537306L,9L,367840408268195147L,-7435450622404697524L,6L,3627858698692018259L,-5061593425141895856L,37L,-5878488300971539663L,-9194278533778836092L,1L,6388085872425780683L,-4682031060433228349L,3L,-1500227996960666743L,-6112962551065886085L,29L,2694441360529965208L,-6827233605333710730L,89L,-1920173296328028593L,-6301820297653457063L,1L,-1670171892439429701L,-6286868726589819586L,43540L,-3663681707144821319L,-6682591004678240810L,1L,4880974758205935611L,-5898685765747708994L,10L,-6541084257999698663L,-8543129472419882165L,13L,4921977014921281627L,-5080139483251091432L,15L,-3450269860740380651L,-6792436040358238113L,75099L,1573472874223455377L,-5005863724969526163L,1L,1770899803220232378L,-4794756278339677917L,5L,-818180219177254044L,-5459938021194287596L,93153L,7479149433050517042L,-6147120214861827116L,2438L,-6193718813489215579L,-8480981133381398071L,1L,-5788573758615632092L,-6475762075857694256L,906763L,-7580187926302076949L,-6574397391829993201L,5L,-4941849101709064874L,-8662258148840904844L,11L,-5831080693480797131L,-7928036091631247318L,37378L,6283615062405497119L,-5135185247232457032L,2L,-8570909213175168314L,-6515645951933121162L,192L,3458651156161448571L,-7431216360104360249L,5L,-2152627708523362099L,-5866054683353861037L,45L,2973229569788363293L,-6535772683733414200L,1L,-442799916632030331L,-4617094096624895441L,2076L,-8605284090029191858L,-5827266847408418040L,8L,1171641589358938580L,-4651140290818517591L,2L,-8232504444501670860L,-7144108750864418051L,1L,5341167540250755322L,-8903602027590275625L,688L,-6052224980497185101L,-5639881085725638845L,467L,-2795367856304208062L,-4905387472471082352L,43L,-1567770514368409780L,-6968027901031128072L,46L,-1183768939741755009L,-6456807095434121208L,15L,-6811246891967560198L,-8862331266207646073L,3L,766456495718680938L,-8094469701605840438L,10L,5869202383290647152L,-5805118094622858660L,1L,-1748405502324551921L,-6646361707764210162L,48L,99499915178362942L,-8948113332874074330L,510L,4397527837508060323L,-5569193138282638416L,49L,2535590937838830408L,-8283283902552546718L,401L,-7675849266885541024L,-7983716782185446980L,29L,-4767611547234187965L,-8183328351194574414L,76L,4446919203938256424L,-6785729829059013938L,16L,9130984109082101363L,-4951112852521091107L,1L,-6069089785357973005L,-5870162570559876775L,1L,-6010615500029231L,-5850702801693289667L,1L,2463589735118360022L,-8893046121000328871L,1493L,6684867135681089120L,-8938117249919930332L,20L,-7704651728321426082L,-6614664243029107026L,1L,-7129607143259026994L,-7826218522853456822L,181L,-6175142677015737078L,-7703523423752013189L,20L,-5055047824276108730L,-6634538824105621634L,10L,6055640619437540076L,-5529159343518542778L,1L,5729702205123283544L,-5508430322772339371L,49L,260813466704695172L,-6510401057190062967L,20L,5957982230247982499L,-8246865645681121028L,3L,4359835722576251314L,-6670404028482206494L,174788L,-6617613124296750343L,-8963360842642974995L,1726L,-746980752294983559L,-8468515462204763791L,1L,7727030613793588243L,-8700869886788117091L,18L,713758684518303637L,-7519768634653662717L,5L,-1796845489577048435L,-5151182470397186185L,23725L,365577247647416370L,-5091218633243277386L,64L,-6311171461768131283L,-5761122141780121802L,9L,8263089670715360792L,-5628454578589763261L,2L,-4325632460816236201L,-8698189063126088036L,64L,-2204512391618607862L,-7024174855420542285L,1728L,-3719360625678989481L,-8952647909734884021L,179L,-8298285189856935519L,-7147732396438658832L,4L,-8965110460075913643L,-5224799129784143399L,157L,1342213954657734145L,-6997539986141258596L,11L,-7596774816088833931L,-6558678749838110065L,24L,-2399459152274830826L,-8921030965792268236L,2L,-7859039943538749475L,-7753379587595878929L,22L,60212382375365888L,-7763869319462572555L,1L,-3205573276732930751L,-5879241135913664430L,250872L,-3699742366647366393L,-6198109333287924890L,301L,8371382973873474620L,-7607516028700462268L,4L,6398161523851283638L,-7781078746321676470L,509L,6890959381802730115L,-7053411503593802843L,5L,8486400202901703445L,-8345246921208354766L,34L,6745656773590534710L,-7259279892335916606L,7L,6335693809210378004L,-4859020495691436249L,1L,-7594408394407130529L,-7659115522490815322L,5L,8108300484133015380L,-7986976213910295702L,53L,-7967899541454434809L,-8275714840260345025L,6L,-7567527083498781850L,-6088730435330066690L,3L,6374840501948992502L,-7621609073983075305L,33L,4879902167101295574L,-8313317775318507432L,1L,5007095617443284721L,-8961548988125270036L,1L,-2974763127343527864L,-9172018687531973643L,3L,-4479101696088783103L,-7545174498411972533L,3L,8971937390390757137L,-7313842292259110358L,1L,-2036091358296783966L,-6911661311820535735L,8L,167819622751751348L,-6874331532344835802L,30L,-2522835393452749208L,-8655261782335389346L,1L,5191340519478676709L,-7279725502120838661L,16L,-3698324158606129444L,-5282455055576992697L,1L,-908677029935561009L,-6821284100078943112L,128L,8265293547930668227L,-5781666152733694573L,49871L,-3482460030425283891L,-4862198181866908051L,19L,8622043250435115501L,-5695090004116143112L,92703L,5750887292292776782L,-8394267775761909214L,19L,5077607520410093762L,-6441422504217411018L,166L,7133491490546992508L,-7504344210419697948L,20934L,8395610427310991L,-6428422951319389481L,1258L,3613802571808852190L,-7441870241368863173L,223L,6928004365402260214L,-7978510906274935724L,10L,625436301433128935L,-5803517638639193633L,3L,-16447771779775565L,-6570239451646339576L,15L,5196352764396060787L,-4803154496031775452L,18L,-8123320371079069293L,-5043014626668979364L,31023L,553207146213101084L,-7390001130733275462L,16L,9197215881473968260L,-4684492921740494961L,19L,1100174881245973812L,-7114804351631165209L,124L,-8090204706511633739L,-7747347900902462494L,3L,1349888289822490762L,-6216978021651142393L,1L,3775447059847990184L,-7841014201379321641L,115935L,383496368020539959L,-9158721246923577664L,931L,3144941974945087661L,-7047842422725470011L,6L,-5699761314435939119L,-5132783690217630413L,150L,7982141077920301857L,-6165163528599579633L,1L,-3771917988659443470L,-8206824484286649346L,5L,8095629937331292994L,-4714261495202380761L,1L,-7977893737171368734L,-7379506333493695318L,68L,-8282301785373259974L,-5548992704992921763L,9L,5076378494913432414L,-8622582197529461021L,374L,2414200960295192614L,-7105014562261172073L,96L,6536786200745692352L,-8838721351229260445L,172L,-5257985090731491155L,-7399645978397381118L,2L,2811416496098462032L,-8939174355581914953L,1L,2373219048421148367L,-6667790146499374077L,2L,-52778433549284458L,-5054375580206124262L,1L,2331906031058177119L,-5176330222603138032L,1L,-8857851566099053382L,-5116738659509985419L,726L,-3562662726200045719L,-8488749444647418352L,74L,-1578464019924693476L,-4760491865319882686L,4L,-2970969287478983550L,-7428699329525909453L,1L,7567207718323112761L,-6025267306480897803L,1L,-1986806170357119559L,-4950116867981811107L,32L,6378202161018064016L,-7722902832778546215L,3L,6176404360176027182L,-9192389029996756262L,3L,1359283960200774574L,-6788893459189027829L,175L,1765032517212391390L,-8855373046378150052L,10L,-7722525514018502845L,-5993912745123619081L,174L,7342962165117044169L,-5520723104897789701L,7L,-3564617821194205624L,-4795294534537768687L,41L,525264882208295393L,-5987931357466211967L,10L,-7287258852765512831L,-7021309556306747847L,57L,5889040351482105464L,-4713507567335239045L,1L,5487390389215513659L,-6671942699637531190L,4L,2968559408161701912L,-5824688632576492453L,1L,-6323413733820446419L,-4706851561820267758L,3L,2652487778924577371L,-8994418983429556987L,3L,-5122978152753246929L,-5423712253155448764L,6L,6005420598654160090L,-4679537188602398608L,1L,-5690201205134572202L,-7227076983840296278L,11L,-8798276731978955462L,-4687095311403749233L,31L,-6134329889205368683L,-7799803366266666531L,1L,-963390220586103912L,-4846303086018113294L,5L,7650921513340193798L,-4795705377780143783L,2L,-4336165974526115342L,-8552755636360061674L,5L,-977163982578236999L,-6398898084452097552L,22L,-6089921088482424512L,-7527884440070994375L,33L,5727897594795279786L,-8196804078715419490L,15L,-2576984175130228789L,-8097284587121798922L,1656L,-8182792319152600190L,-9071618554675549941L,2178L,-981120684440008761L,-7222778299086206962L,1L,8173091133747511943L,-5216502077074493865L,317122L,775581012782892870L,-6613105586809164846L,2L,8934821849768742821L,-9092205447005031058L,1L,-8069602681363674412L,-5823473682880159815L,25L,-7243249807512943828L,-7774412143088496525L,49L,-4143532323145105183L,-7664252268693441953L,7L,3349018614346825977L,-9049788606367668763L,1L,-2100097676319570914L,-6491829850046129967L,7L,-2818657839366912489L,-7650714579609269071L,258L,7516280585341390641L,-8947641649643436662L,58L,-397285196645054682L,-5691114158831799814L,15L,5002377151867274704L,-9191628915040764213L,1L,-1533291121477072948L,-8277541037093739817L,1L,-6126945991473739096L,-8497630850089413047L,1L,-4097946987602687437L,-8189728482068450383L,110L,7491319290797179967L,-7397328729083308377L,1L,6952804511057199837L,-5743453070427373807L,3L,621392265164113896L,-6872949658297256090L,95L,-7435439711896452896L,-5377549588863059245L,1L,295636729245155901L,-6900090116058553314L,1L,5718235449119229983L,-5515926431779291346L,26L,3746271544777130906L,-5119414528128341705L,1L,2213586452492667105L,-7161158305470961579L,5L,59158120612906192L,-5109533561438850692L,103L,6819229378865414698L,-5877981867651581223L,1L,-8785042931980022251L,-5182144503638238759L,240L,6888708557593134950L,-5167494210662429554L,3L,-4644212046851324703L,-7698945306487089551L,1L,6413043015973162260L,-5657865161167093752L,14L,-3920851944402236941L,-7731624590940606362L,49L,-7775249003475022623L,-4666014120360784913L,3L,8693993281175241799L,-7441842569104592136L,73L,-3649732502874206534L,-4893965987477327965L,28L,6358553329412620541L,-8730732346090013017L,1L,8952858921270395464L,-6870768449399910792L,27L,3958901638811895748L,-5616351522035310205L,10L,5320595171616377722L,-6002553752617959118L,432L,2744153145358696876L,-9126736997011987074L,3L,7460239525343743077L,-6082771870921420694L,2L,1987682249171355638L,-7795956885797166335L,9605L,-8601660544815116797L,-4830033671828413108L,58L,1136893057394493364L,-7865732042058250400L,26L,5801242446434093192L,-6549895587408805829L,28750L,-6035102960489053825L,-5327898786228257425L,559L,-4255262513865079859L,-8794503167799532192L,9L,8966676527876424231L,-6062331015581290301L,619L,8094481849052187361L,-5861432582772301295L,1L,-4440879291462761961L,-6943373386747681526L,12L,-1371208112998235459L,-5329009537016422520L,169832L,-6002848467053558076L,-7266343939731519358L,4L,2517051097271257763L,-5365535287460569614L,1L,-8709739290585511747L,-7799735765499841266L,37L,-8187245567665486585L,-5564099117658016852L,6L,8172029013948123823L,-7093331920129935581L,572L,-7245503108491295789L,-4964009666161426113L,1L,2181870024113079630L,-6528174307255490875L,3L,-4805398126317975884L,-8789993260250353472L,3L,-7415706032277862750L,-7744918485301239026L,228L,-1730598394307263472L,-8826373261959712475L,16L,-6048712724647427193L,-5010825694943306764L,35L,-6796474793434724949L,-7955539267708971717L,24L,9111019586941305685L,-9143423752069063171L,8L,8798638291598856064L,-6594760017591534015L,24L,1310095091674860527L,-6682526831001054823L,10L,-6527546983058355203L,-5939392828186382786L,7L,-6418446687172343028L,-6076034668394161907L,1L,2549059554021688057L,-8101644445552917178L,11L,-6067274629329827687L,-4819651829475989768L,1128L,-7955809732238225640L,-6882847512293291695L,233L,4242764452929752741L,-8278008868388120080L,14L,3386031027010882035L,-4847012964851129543L,2L,-6932582029456292086L,-5313100581179934180L,230L,-6236500980979511963L,-9047488314352899945L,7L,1966690391303340939L,-6370960710592216125L,3L,4687079748665692147L,-5089054347531409454L,1L,4712952642934295056L,-7896627036903956594L,244L,3978322640656352207L,-7686539825294445198L,116L,8982778800065299040L,-4665745505842988139L,1L],\"mekanism:drive_metadata\":{count:5478350L,types:559}}",
+    "item:mekanism:dust_obsidian",
+    "item:mekanism:osmium_compressor",
+    "item:minecraft:bucket",
+    "item:mekanism:basic_fluid_tank",
+    {
+      "type": "item",
+      "id": "mekanism:dust_iron",
+      "amount": 54
+    },
+    "item:trashcans:item_trash_can",
+    "item:ae2:fluix_covered_dense_cable",
+    "item:mekanism:hdpe_sheet",
+    "item:mekanism:hdpe_pellet",
+    "item:mekanism:substrate",
+    "item:mekanism:energized_smelter",
+    "item:mekanism:basic_universal_cable",
+    "item:mekanism:basic_energy_cube",
+    "item:mekanismgenerators:gas_burning_generator",
+    "item:mekanism:electrolytic_core",
+    "item:mekanism:gauge_dropper",
+    "item:minecraft:glass_pane",
+    "#item:c:glass_panes",
+    "item:mekanism:configurator",
+    "item:mekanism:basic_mechanical_pipe",
+    "item:mekanism:pressurized_reaction_chamber",
+    "item:cookingforblockheads:sink",
+    "item:mekanism:dynamic_tank",
+    "item:mekanism:enrichment_chamber",
+    "item:mekanism:crusher",
+    {
+      "type": "item",
+      "id": "minecraft:lava_bucket",
+      "remainder": "item:minecraft:bucket"
+    },
+    "item:mekanism:electrolytic_separator",
+    "item:mekanism:dust_tin",
+    "item:mekanism:dust_osmium",
+    "item:mekanism:dust_copper",
+    "item:mekanism:dust_lead",
+    "item:mekanism:dust_uranium",
+    "item:mekanism:dust_gold",
+    "item:alltheores:aluminum_dust",
+    "bee:productivebees:/glowing",
+    "bee:productivebees:/chocolate_mining_bee",
+    "bee:productivebees:/redstone",
+    "mekanism_chemical:mekanism:ethene",
+    "item:snad:snad",
+    "item:justdirethings:itemcollector",
+    "item:justdirethings:gooblock_tier1",
+    "item:tiab:time_in_a_bottle",
+    "item:minecraft:clock",
+    "item:minecraft:glass_bottle",
+    "item:integrateddynamics:squeezer",
+    "item:mekanism:metallurgic_infuser",
+    "item:justdirethings:generatort1",
+    "item:actuallyadditions:coal_generator",
+    "item:mekanism:ingot_bronze",
+    "item:minecraft:blast_furnace",
+    "item:alltheores:copper_ore_hammer",
+    "item:ae2:quartz_glass",
+    "item:ae2:molecular_assembler",
+    "item:ae2:annihilation_core",
+    "item:ae2:pattern_provider",
+    "item:extendedae:ex_pattern_provider",
+    "item:ae2:blank_pattern",
+    "item:ae2:fluix_glass_cable",
+    "item:ae2:cable_pattern_provider",
+    "item:minecraft:crafting_table",
+    "#item:ae2:pattern_provider",
+    "item:ae2:formation_core",
+    "item:ae2:quartz_fiber",
+    {
+      "type": "tag",
+      "registry": "minecraft:item",
+      "id": "ae2:glass_cable",
+      "amount": 6
+    },
+    {
+      "type": "item",
+      "id": "ae2:capacity_card",
+      "amount": 3
+    },
+    "item:ae2:basic_card",
+    "item:extendedae:entro_block",
+    {
+      "type": "item",
+      "id": "extendedae:concurrent_processor_print",
+      "amount": 4
+    },
+    "item:extendedae:concurrent_processor",
+    "item:extendedae:ex_pattern_provider_part",
+    "item:ae2:fluix_smart_dense_cable",
+    "item:ae2:fluix_smart_cable",
+    "item:ae2:fluix_covered_cable",
+    "item:minecraft:golden_apple",
+    "item:minecraft:brewing_stand",
+    "item:forbidden_arcanus:growing_edelwood",
+    "#item:c:glass_panes/colorless",
+    "item:minecraft:loom",
     "item:minecraft:oak_planks",
     "#item:minecraft:planks",
-    "#item:chipped:calcite",
-    "item:forbidden_arcanus:apply_modifier_smithing_template",
-    "item:constructionstick:netherite_stick",
-    "item:trashcans:item_trash_can",
-    "#item:c:chests/wooden",
+    "item:ae2:memory_card",
+    "item:ae2:me_p2p_tunnel",
+    {
+      "type": "fluid",
+      "id": "productivebees:honey",
+      "amount": 0
+    },
+    "item:createaddition:cake_base",
+    "item:createaddition:cake_base_baked",
+    "item:createaddition:honey_cake",
+    {
+      "type": "item",
+      "id": "minecraft:redstone",
+      "amount": 8,
+      "chance": 0.5
+    },
+    {
+      "type": "item",
+      "id": "productivebees:configurable_comb",
+      "nbt": "{\"productivebees:bee_type\":\"productivebees:redstone\"}",
+      "amount": 64
+    },
+    {
+      "type": "fluid",
+      "id": "mekanism:heavy_water",
+      "amount": 2
+    },
+    "mekanism_chemical:mekanismgenerators:deuterium",
+    "mekanism_chemical:mekanismgenerators:tritium",
     {
       "type": "fluid",
       "id": "mekanism:brine",
@@ -741,7 +1247,97 @@
     },
     "fluid:mekanism:lithium",
     "mekanism_chemical:mekanism:lithium",
-    "mekanism_chemical:mekanismgenerators:tritium",
+    {
+      "type": "mekanism_chemical",
+      "id": "mekanismgenerators:fusion_fuel",
+      "amount": 7992000
+    },
+    "item:allthemodium:allthemodium_upgrade_smithing_template",
+    "item:silentgear:pickaxe_head{\"silentgear:material_list\":[{item:{count:1,id:\"kubejs:silent_allthemodium_plate\"},material:\"silentgear:silentgear/silentgear_materials/allthemodium\"},{item:{count:1,id:\"kubejs:silent_allthemodium_plate\"},material:\"silentgear:silentgear/silentgear_materials/allthemodium\"},{item:{count:1,id:\"kubejs:silent_allthemodium_plate\"},material:\"silentgear:silentgear/silentgear_materials/allthemodium\"}]}",
+    {
+      "type": "fluid",
+      "id": "allthemodium:molten_allthemodium",
+      "amount": 0
+    },
+    "item:ae2:item_storage_cell_16k",
+    "item:ae2:crafting_unit",
+    "item:ae2:cell_component_16k",
+    "item:ae2:cell_component_4k",
+    "item:ae2:cell_component_1k",
+    "item:ae2:drive",
+    "item:ae2:pattern_encoding_terminal",
+    "item:ae2:crafting_terminal",
+    "item:ae2:terminal",
+    "item:ae2:controller",
+    "item:ae2:speed_card",
+    "item:ae2:advanced_card",
+    "item:minecraft:stonecutter",
+    "item:extendedae:circuit_cutter",
+    "item:extendedae:concurrent_processor_press",
+    "item:ae2:calculation_processor_press",
+    "item:extendedae:machine_frame",
+    "item:ae2:printed_engineering_processor",
+    "item:ae2:engineering_processor",
+    "item:extendedae:crystal_assembler",
+    "item:extendedae:entro_ingot",
+    "item:extendedae:entro_seed",
+    "item:ae2:growth_accelerator",
+    "item:extendedae:entro_crystal",
+    "item:extendedae:entro_dust",
+    "item:ae2:sky_stone_tank",
+    "#item:ae2:illuminated_panel",
+    "item:ae2:inscriber",
+    "item:ae2:semi_dark_monitor",
+    "item:ae2:logic_processor",
+    "item:ae2:charger",
+    {
+      "type": "item",
+      "id": "reliquary:alkahestry_tome",
+      "nbt": "{\"reliquary:charge\":4}",
+      "remainder": "item:reliquary:alkahestry_tome{\"reliquary:charge\":0}"
+    },
+    {
+      "type": "item",
+      "id": "minecraft:water_bucket",
+      "remainder": "item:minecraft:bucket"
+    },
+    {
+      "type": "item",
+      "id": "minecraft:apple",
+      "amount": 5
+    },
+    "item:easy_villagers:villager{\"easy_villagers:villager\":{AbsorptionAmount:0.0f,Age:130,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Brain:{memories:{\"minecraft:potential_job_site\":{value:{dimension:\"allthemodium:mining\",pos:[I;340,254,66]}}}},CanPickUpLoot:1b,DeathTime:0s,FallFlying:0b,FoodLevel:0b,ForcedAge:0,Gossips:[],HandDropChances:[0.085f,0.085f],HandItems:[{},{}],Health:20.0f,HurtByTimestamp:0,HurtTime:0s,Inventory:[],LastGossipDecay:3959374L,LastRestock:3959418L,LeftHanded:0b,Offers:{Recipes:[{buy:{count:2,id:\"minecraft:emerald\"},demand:-12,maxUses:12,priceMultiplier:0.05f,sell:{count:1,id:\"ae2:meteorite_compass\"},xp:5},{buy:{count:3,id:\"minecraft:emerald\"},demand:-12,maxUses:12,priceMultiplier:0.05f,sell:{count:4,id:\"ae2:certus_quartz_crystal\"},xp:10}]},PersistenceRequired:0b,RestocksToday:1,VillagerData:{level:1,profession:\"ae2:fluix_researcher\",type:\"minecraft:plains\"},Xp:0,attributes:[{base:48.0d,id:\"minecraft:generic.follow_range\",modifiers:[{amount:0.01734440109600897d,id:\"minecraft:random_spawn_bonus\",operation:\"add_multiplied_base\"}]},{base:0.5d,id:\"minecraft:generic.movement_speed\"},{base:0.0d,id:\"minecraft:generic.oxygen_bonus\"}],\"neoforge:spawn_type\":\"SPAWN_EGG\"}}",
+    "item:minecraft:villager_spawn_egg",
+    "item:mekanism:elite_universal_cable",
+    "item:mekanism:advanced_universal_cable",
+    "item:minecraft:ender_pearl",
+    "item:occultism:brush",
+    "item:minecraft:deepslate_tiles",
+    "item:create:cut_calcite_bricks",
+    "item:minecraft:calcite",
+    "item:rechiseledcreate:calcite_cut_polished_connecting",
+    "item:chipped:etched_calcite_bricks",
+    "item:rechiseledcreate:calcite_cut_small_brick_connecting",
+    "item:chipped:blank_calcite_carving",
+    "item:rftoolsbuilder:shape_card_def",
+    "item:minecraft:bricks",
+    "item:minecraft:golden_carrot",
+    "item:minecraft:gold_nugget",
+    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:awkward\"}}",
+    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:night_vision\"}}",
+    "item:minecraft:carrot",
+    "item:sophisticatedbackpacks:advanced_void_upgrade",
+    "item:sophisticatedbackpacks:void_upgrade",
+    "item:minecraft:netherite_ingot",
+    "item:sophisticatedbackpacks:netherite_backpack",
+    "item:constructionstick:template_battery",
+    "item:sophisticatedbackpacks:advanced_refill_upgrade",
+    "item:sophisticatedbackpacks:refill_upgrade",
+    "item:sophisticatedbackpacks:stonecutter_upgrade",
+    "item:sophisticatedbackpacks:advanced_restock_upgrade",
+    "item:sophisticatedbackpacks:restock_upgrade",
+    "#item:chipped:calcite",
+    "item:forbidden_arcanus:apply_modifier_smithing_template",
     {
       "type": "mekanism_chemical",
       "id": "mekanism:antimatter",
@@ -749,13 +1345,11 @@
     },
     "item:mekanism:pellet_antimatter",
     "item:mekanism:module_gravitational_modulating_unit",
-    "item:mekanism:pellet_polonium",
     "mekanism_chemical:mekanism:nuclear_waste",
     "mekanism_chemical:mekanism:fissile_fuel",
     "item:integrateddynamics:cable",
     {
-      "type": "tag",
-      "registry": "minecraft:fluid",
+      "type": "fluid",
       "id": "minecraft:water",
       "amount": 20000
     },
@@ -763,9 +1357,7 @@
     "item:torchmaster:feral_flare_lantern",
     "item:mob_grinding_utils:xpsolidifier",
     "item:mob_grinding_utils:tank",
-    "item:minecraft:hopper",
     "item:mob_grinding_utils:entity_conveyor",
-    "item:mekanism:metallurgic_infuser",
     "item:minecraft:furnace",
     "item:mekanism:chemical_infuser",
     "item:forbidden_arcanus:hephaestus_forge_tier_3",
@@ -773,7 +1365,6 @@
     "item:forbidden_arcanus:chiseled_polished_darkstone",
     "item:forbidden_arcanus:deorum_ingot",
     "item:forbidden_arcanus:mundabitur_dust",
-    "item:tiab:time_in_a_bottle",
     "item:forbidden_arcanus:diamond_blacksmith_gavel",
     "item:forbidden_arcanus:blacksmith_gavel_head",
     "item:forbidden_arcanus:hephaestus_forge_tier_2",
@@ -782,10 +1373,6 @@
     "item:forbidden_arcanus:soul_extractor",
     "item:minecraft:quartz_block",
     "item:forbidden_arcanus:utrem_jar",
-    "item:farmingforblockheads:market",
-    "item:minecraft:red_wool",
-    "item:evilcraft:undead_planks",
-    "item:minecraft:smithing_table",
     "item:forbidden_arcanus:darkstone_pedestal",
     "item:forbidden_arcanus:arcane_polished_darkstone_slab",
     "item:forbidden_arcanus:arcane_polished_darkstone",
@@ -795,7 +1382,6 @@
     "item:forbidden_arcanus:gilded_chiseled_polished_darkstone",
     "item:forbidden_arcanus:deorum_nugget",
     "item:forbidden_arcanus:arcane_crystal_dust",
-    "item:mob_grinding_utils:mob_swab",
     "item:occultism:book_of_binding_empty",
     "item:occultism:book_of_binding_foliot",
     "item:minecraft:blue_dye",
@@ -805,21 +1391,16 @@
     "item:occultism:chalk_yellow_impure",
     "item:occultism:chalk_white_impure",
     "item:occultism:dictionary_of_spirits",
-    "item:mekanism:basic_fluid_tank",
     "item:justdirethings:upgrade_hammer",
     "item:minecraft:diamond_pickaxe",
     "item:justdirethings:upgrade_dropteleport",
     "item:justdirethings:upgrade_blank",
     "item:minecraft:ender_chest",
-    "item:justdirethings:gooblock_tier4",
     "item:tombstone:book_of_disenchantment",
     "item:minecraft:writable_book",
     "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:silk_touch\":1}}}",
     "item:enderio:enchanter",
-    "item:justdirethings:gooblock_tier3",
     "item:minecraft:end_crystal",
-    "item:minecraft:blaze_powder",
-    "item:mekanism:upgrade_speed",
     "item:silentgear:glittery_dust",
     "item:silentgear:grip_blueprint",
     "item:silentgear:blueprint_paper",
@@ -841,19 +1422,12 @@
     },
     "item:forbidden_arcanus:xpetrified_orb",
     "item:minecraft:slime_ball",
-    "#item:c:slime_balls",
     "item:create:dough",
     "item:create:wheat_flour",
-    "item:sophisticatedbackpacks:stack_upgrade_tier_2",
     "item:sophisticatedbackpacks:stack_upgrade_tier_3",
-    "item:sophisticatedbackpacks:stack_upgrade_tier_1",
-    "item:minecraft:iron_block",
-    "item:sophisticatedbackpacks:stack_upgrade_starter_tier",
-    "item:minecraft:netherite_upgrade_smithing_template",
     "item:apotheosis:iron_upgrade_smithing_template",
     "item:allthemodium:unobtainium_upgrade_smithing_template",
     "item:allthemodium:vibranium_upgrade_smithing_template",
-    "item:allthemodium:allthemodium_upgrade_smithing_template",
     "item:silentgear:coating_smithing_template",
     "item:ae2:fluix_block",
     "#item:ae2:quartz_sword",
@@ -862,7 +1436,6 @@
     "item:forbidden_arcanus:enchanted_soul",
     "item:forbidden_arcanus:edelwood_log",
     "item:forbidden_arcanus:carved_edelwood_log",
-    "item:forbidden_arcanus:growing_edelwood",
     "item:minecraft:poppy",
     "item:forbidden_arcanus:edelwood_planks",
     "item:enderio:broken_spawner",
@@ -881,10 +1454,7 @@
     "item:silentgear:nether_star_fragment",
     "item:silentgear:azure_electrum_dust",
     "item:minecraft:dragon_head",
-    "item:minecraft:copper_block",
-    "item:minecraft:diamond_block",
     "item:sophisticatedbackpacks:stack_upgrade_tier_4",
-    "item:minecraft:gold_block",
     "item:silentgear:starlight_charger",
     "item:minecraft:polished_blackstone",
     "item:silentgear:blaze_gold_ingot",
@@ -916,9 +1486,8 @@
     },
     "item:minecraft:polished_blackstone_bricks",
     {
-      "type": "tag",
-      "registry": "minecraft:fluid",
-      "id": "c:molten_steel",
+      "type": "fluid",
+      "id": "productivemetalworks:molten_steel",
       "amount": 360
     },
     "item:productivemetalworks:ingot_cast",
@@ -928,15 +1497,12 @@
     "item:silentgear:diamond_shard",
     "item:silentgear:upgrade_base",
     "item:silentgear:crimson_steel_ingot",
-    "item:mekanism:basic_mechanical_pipe",
-    "item:minecraft:bucket",
     "item:allthemodium:teleport_pad",
     "item:productivemetalworks:casting_table",
     "item:productivemetalworks:casting_basin",
     "item:productivemetalworks:black_foundry_drain",
     "item:productivemetalworks:foundry_tap",
     "item:productivemetalworks:fire_clay",
-    "item:minecraft:blast_furnace",
     "item:productivemetalworks:black_foundry_controller",
     "item:productivemetalworks:black_foundry_tank",
     "item:productivemetalworks:fire_brick",
@@ -946,32 +1512,10 @@
     "item:productivemetalworks:pink_fire_bricks",
     "item:productivemetalworks:light_gray_fire_bricks",
     "item:productivemetalworks:liquid_heating_coil",
-    "item:twilightforest:uncrafting_table",
-    "item:minecraft:crafting_table",
-    "item:minecraft:compass",
-    "item:twilightforest:maze_map_focus",
-    "item:mekanism:elite_control_circuit",
-    "item:mekanism:elite_tier_installer",
-    "item:mekanism:advanced_tier_installer",
-    "item:mekanism:advanced_control_circuit",
-    "item:mekanism:basic_tier_installer",
-    "item:mekanism:ultimate_tier_installer",
-    "item:mekanism:ultimate_control_circuit",
-    "item:mekanism:digital_miner",
-    "item:mekanism:logistical_sorter",
-    "item:mekanism:robit",
-    "item:mekanism:personal_chest",
-    "#item:mekanism:personal_storage",
-    "item:mekanism:energy_tablet",
-    "item:mekanism:steel_casing",
-    "item:mekanism:teleportation_core",
     "item:minecraft:grass_block",
     "item:rftoolsbase:filter_module",
     "item:rftoolsbuilder:shape_card_quarry_clear",
     "item:rftoolsbuilder:shape_card_quarry",
-    "item:fluxnetworks:flux_controller",
-    "item:fluxnetworks:flux_plug",
-    "item:fluxnetworks:flux_block",
     "item:rftoolsbuilder:builder",
     "item:rftoolsbase:machine_frame",
     "item:rftoolsbuilder:shape_card_quarry_clear_silk",
@@ -996,18 +1540,7 @@
     "item:justdirethings:eclipsealloy_hoe",
     "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:water\"}}",
     "item:minecraft:dragon_breath",
-    "item:mob_grinding_utils:gm_chicken_feed",
-    "item:minecraft:soul_lantern",
-    "item:minecraft:iron_nugget",
-    "item:minecraft:soul_torch",
-    "item:minecraft:comparator",
     "item:mekanism:cardboard_box",
-    {
-      "type": "item",
-      "id": "reliquary:catalyzing_gland",
-      "amount": 2
-    },
-    "item:minecraft:ancient_debris",
     "item:mekanism:dirty_netherite_scrap",
     "item:mekanism:dust_netherite",
     "item:minecraft:netherite_block",
@@ -1018,61 +1551,21 @@
     "item:justdirethings:raw_eclipsealloy",
     "item:justdirethings:eclipsealloy_ingot",
     "item:justdirethings:eclipsealloy_block",
-    "item:mekanism:upgrade_energy",
-    "item:angelring:angel_ring",
     {
       "type": "item",
       "id": "minecraft:wither_skeleton_skull",
       "amount": 2
     },
-    "item:minecraft:fermented_spider_eye",
     "item:minecraft:spawner",
-    "item:angelring:diamond_ring",
     "item:industrialforegoing:plastic",
     "item:industrialforegoing:mob_imprisonment_tool",
-    "item:minecraft:oak_fence",
-    "item:comforts:sleeping_bag_white",
-    "item:justdirethings:experienceholder",
     "item:justdirethings:raw_blazegold_ore",
     "item:justdirethings:raw_blazegold",
     "item:justdirethings:blazegold_ingot",
-    "item:justdirethings:gooblock_tier2",
-    "item:justdirethings:gooblock_tier1",
-    "item:minecraft:redstone_torch",
-    "item:mekanism:precision_sawmill",
-    "item:sophisticatedbackpacks:crafting_upgrade",
-    "item:actuallyadditions:atomic_reconstructor",
-    "item:actuallyadditions:iron_casing",
-    "item:minecraft:stick",
-    "#item:c:rods/wooden",
     "item:minecraft:leather",
-    {
-      "type": "item",
-      "id": "minecraft:rotten_flesh",
-      "amount": 20
-    },
-    "item:mekanism:sawdust",
-    "item:minecraft:armor_stand",
-    "item:integrateddynamics:squeezer",
     "item:minecraft:ghast_tear",
-    "item:mekanism:jetpack",
-    "item:mekanism:basic_chemical_tank",
-    "item:simplemagnets:advancedmagnet",
     "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"potionsmaster:diamond\"}}",
-    "item:potionsmaster:diamond_oresight_powder",
-    "item:potionsmaster:ender_powder",
-    {
-      "type": "item",
-      "id": "potionsmaster:pestle",
-      "remainder": "item:potionsmaster:pestle"
-    },
-    {
-      "type": "item",
-      "id": "potionsmaster:tile_mortar",
-      "remainder": "item:potionsmaster:tile_mortar"
-    },
     "item:potionsmaster:calcinated_diamond_oresight_powder",
-    "item:minecraft:anvil",
     "item:evilcraft:undead_sapling",
     "item:tombstone:decorative_grave_simple{\"tombstone:tb_model_texture\":2}",
     {
@@ -1084,47 +1577,20 @@
     "item:tombstone:essence_of_undeath",
     "item:tombstone:dark_marble",
     "item:tombstone:decorative_grave_simple",
-    "item:evilcraft:vengeance_pickaxe{\"minecraft:enchantments\":{levels:{\"evilcraft:vengeance\":3,\"minecraft:fortune\":5}}}",
-    "item:evilcraft:vein_sword{\"minecraft:enchantments\":{levels:{\"minecraft:looting\":2}}}",
-    "item:evilcraft:dark_stick",
-    "item:evilcraft:blood_infuser",
-    "item:evilcraft:blood_infusion_core",
-    "item:evilcraft:dark_power_gem",
-    "item:evilcraft:blood_extractor",
     "item:structurecompass:structure_compass",
-    "item:mekanism:atomic_disassembler",
     "item:mekanismtools:refined_obsidian_chestplate",
-    "item:comforts:rope_and_nail",
-    "item:comforts:hammock_white",
-    "item:simplemagnets:basicmagnet",
-    "item:evilcraft:dark_spike",
     "item:mekanismtools:refined_obsidian_sword",
-    "item:mekanism:osmium_compressor",
-    "item:mekanism:dust_obsidian",
-    "item:mekanism:energized_smelter",
-    "item:mekanism:gauge_dropper",
     {
       "type": "item",
       "id": "minecraft:oak_leaves",
       "amount": 2
     },
     "item:minecraft:allium",
-    "item:mekanism:basic_energy_cube",
-    "item:mekanismgenerators:gas_burning_generator",
-    "item:mekanism:electrolytic_core",
-    "item:mekanism:dynamic_tank",
-    "item:mekanism:pressurized_reaction_chamber",
-    "item:mekanism:configurator",
     "item:create:precision_mechanism",
-    "item:cookingforblockheads:sink",
-    "item:mekanism:enrichment_chamber",
-    "item:mekanism:electrolytic_separator",
-    "item:mekanism:crusher",
     "item:rftoolsutility:syringe{\"rftoolsutility:syringe_data\":{level:0,mob:\"minecraft:allay\"}}",
     "item:occultism:ritual_dummy/possess_random_animal_small",
     "item:minecraft:allay_spawn_egg",
     "item:reliquary:rib_bone",
-    "item:actuallyadditions:coal_generator",
     "item:akashictome:tome",
     "item:minecraft:bookshelf",
     "item:silentgear:blueprint_book",
@@ -1134,8 +1600,6 @@
     "item:silentgear:crude_tool_parts",
     "item:silentgear:stone_anvil",
     "item:minecraft:copper_door",
-    "item:mekanism:ingot_bronze",
-    "item:alltheores:copper_ore_hammer",
     "item:minecraft:trapped_chest",
     "item:silentgear:shears{\"!minecraft:attribute_modifiers\":{},\"minecraft:item_name\":\u0027{\"translate\":\"item.silentgear.shears.nameProper\",\"with\":[{\"translate\":\"material.silentgear.copper\"}]}\u0027,\"minecraft:tool\":{rules:[{blocks:\"minecraft:cobweb\",correct_for_drops:1b,speed:12.5f},{blocks:\"#minecraft:leaves\",speed:12.5f},{blocks:\"#minecraft:wool\",speed:4.1666665f},{blocks:[\"minecraft:vine\",\"minecraft:glow_lichen\"],speed:1.6666666f}]},\"silentgear:construction\":{broken_count:0,example:0b,parts:[{item:{components:{\"silentgear:material_list\":[{item:{count:1,id:\"minecraft:copper_ingot\"},material:\"silentgear:copper\"}]},count:1,id:\"silentgear:shear_blades\"},part:\"silentgear:shear_blades\"},{item:{components:{\"silentgear:material_list\":[{item:{count:1,id:\"minecraft:oak_planks\"},material:\"silentgear:wood\"}]},count:1,id:\"silentgear:rod\"},part:\"silentgear:rod\"}],repairedCount:0},\"silentgear:model_index\":3,\"silentgear:model_key\":\"shears:shear_blades{copper},rod{wood},\",\"silentgear:properties\":{\"silentgear:armor\":10.0f,\"silentgear:armor_durability\":12.000001f,\"silentgear:armor_toughness\":0.0f,\"silentgear:attack_damage\":1.5f,\"silentgear:attack_reach\":6.0f,\"silentgear:attack_speed\":4.0f,\"silentgear:block_reach\":0.0f,\"silentgear:charging_value\":1.2999998f,\"silentgear:draw_speed\":0.0f,\"silentgear:durability\":143.752f,\"silentgear:enchantment_value\":15.0f,\"silentgear:harvest_speed\":5.0f,\"silentgear:harvest_tier\":{incorrect_blocks_for_tool:\"silentgear:incorrect_for_copper_tools\",level_hint:\"1.5\",name:\"copper\"},\"silentgear:knockback_resistance\":0.0f,\"silentgear:magic_armor\":8.0f,\"silentgear:magic_damage\":1.0f,\"silentgear:projectile_accuracy\":0.0f,\"silentgear:projectile_speed\":0.0f,\"silentgear:ranged_damage\":0.1f,\"silentgear:rarity\":12.000001f,\"silentgear:repair_efficiency\":1.25f,\"silentgear:repair_value\":0.0f,\"silentgear:traits\":[{conditions:[{gear_type:\"silentgear:tool\",type:\"silentgear:gear_type\"}],level:1,trait:\"silentgear:soft\"},{conditions:[],level:2,trait:\"silentgear:flexible\"}]}}",
     "item:constructionstick:copper_stick",
@@ -1145,10 +1609,7 @@
     "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sharpness\":5}}}",
     "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fortune\":5}}}",
     "item:silentgear:blaze_gold_dust",
-    "item:minecraft:sugar",
     "item:minecraft:sugar_cane",
-    "item:snad:snad",
-    "item:utilitarian:snad",
     "item:snad:red_snad",
     {
       "type": "fluid",
@@ -1171,9 +1632,8 @@
       "amount": 200
     },
     {
-      "type": "tag",
-      "registry": "minecraft:fluid",
-      "id": "c:molten_gold",
+      "type": "fluid",
+      "id": "productivemetalworks:molten_gold",
       "amount": 90
     },
     {
@@ -1203,18 +1663,12 @@
       "id": "allthemodium:raw_allthemodium",
       "amount": 4
     },
-    "item:justdirethings:itemcollector",
     "item:itemcollectors:advanced_collector",
     "item:itemcollectors:basic_collector",
     {
       "type": "item",
       "id": "minecraft:raw_gold",
       "amount": 22
-    },
-    {
-      "type": "item",
-      "id": "mekanism:dust_gold",
-      "amount": 19
     },
     {
       "type": "fluid",
@@ -1259,10 +1713,8 @@
     "item:silentgear:crushed_shulker_shell",
     "item:silentgear:netherwood_sapling",
     "item:silentgear:glowing_dust",
-    "item:mekanism:dust_osmium",
     "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:mundane\"}}",
     "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"potionsmaster:gold\"}}",
-    "item:potionsmaster:gold_oresight_powder",
     "item:potionsmaster:calcinated_gold_oresight_powder",
     "item:minecraft:heavy_core",
     "item:minecraft:mace",
@@ -1271,8 +1723,6 @@
       "id": "minecraft:dragon_egg",
       "amount": 23
     },
-    "item:potionsmaster:redstone_oresight_powder",
-    "item:potionsmaster:calcinated_redstone_oresight_powder",
     "item:minecraft:breeze_rod",
     {
       "type": "item",
@@ -1298,7 +1748,6 @@
     "item:sophisticatedbackpacks:diamond_backpack",
     "item:sophisticatedbackpacks:gold_backpack",
     "item:sophisticatedbackpacks:iron_backpack",
-    "item:sophisticatedbackpacks:backpack",
     "item:tombstone:decorative_subaraki_grave",
     "item:tombstone:carmin_marble",
     "item:tombstone:green_marble",
@@ -1308,23 +1757,15 @@
       "id": "evilcraft:undead_log",
       "amount": 9
     },
-    "item:minecraft:golden_apple",
-    "item:easy_villagers:converter",
-    "item:minecraft:fletching_table",
     "item:minecraft:mossy_cobblestone",
-    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:weakness\"}}",
     "item:minecraft:spider_eye",
-    "item:minecraft:emerald",
-    "item:easy_villagers:trader",
     {
       "type": "item",
       "id": "justdirethings:ferricore_ingot",
       "amount": 36
     },
     "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:looting\":3}}}",
-    "item:minecraft:smooth_stone_slab",
     "item:mekanism:alloy_reinforced",
-    "item:mekanism:alloy_atomic",
     "#item:evilcraft:undead_logs",
     "item:enderio:dark_steel_ingot",
     "item:enderio:sag_mill",
@@ -1337,7 +1778,6 @@
     "#item:c:gears/iron",
     "item:mekanism:dust_refined_obsidian",
     "item:mekanism:ingot_refined_obsidian",
-    "item:mekanism:dust_iron",
     "item:minecraft:raw_iron",
     {
       "type": "item",
@@ -1345,7 +1785,6 @@
       "amount": 2
     },
     "item:minecraft:flint_and_steel",
-    "item:minecraft:flint",
     "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"potionsmaster:redstone\"}}",
     "item:mekanism:block_bronze",
     "item:minecraft:diamond",
@@ -1368,9 +1807,6 @@
     "item:apotheosis:sigil_of_rebirth",
     "item:apotheosis:gem_fused_slate",
     "item:apotheosis:sigil_of_enhancement",
-    "item:apotheosis:salvaging_table",
-    "item:minecraft:iron_pickaxe",
-    "item:minecraft:iron_axe",
     "item:allthemodium:vibranium_plate",
     "item:apotheosis:augmenting_table",
     "item:apotheosis:reforging_table",
@@ -1462,12 +1898,6 @@
     "item:occultism:spawn_egg/possessed_endermite",
     "mekanism_chemical:mekanism:sodium",
     "item:minecraft:sniffer_egg",
-    {
-      "type": "item",
-      "id": "mekanism:hdpe_pellet",
-      "amount": 3
-    },
-    "item:mekanism:hdpe_sheet",
     "item:minecraft:netherite_helmet",
     "item:mekanism:module_color_modulation_unit",
     "item:mekanism:pigment_mixer",
@@ -1514,10 +1944,6 @@
     "item:mekanism:portable_qio_dashboard",
     "item:mekanism:qio_exporter",
     "item:mekanism:qio_importer",
-    "item:mekanism:qio_drive_supermassive",
-    "item:mekanism:qio_drive_time_dilating",
-    "item:mekanism:qio_drive_hyper_dense",
-    "item:mekanism:qio_drive_base",
     "item:mekanism:ultimate_chemical_tank",
     "item:mekanism:elite_chemical_tank",
     "item:mekanism:advanced_chemical_tank",
@@ -1532,7 +1958,6 @@
     "item:mekanism:boiler_valve",
     "item:mekanism:superheating_element",
     "item:mekanism:boiler_casing",
-    "item:mekanism:dust_lead",
     "item:mekanism:ingot_lead",
     "item:mekanismgenerators:fission_fuel_assembly",
     "item:mekanism:pellet_plutonium",
@@ -1571,7 +1996,6 @@
     "mekanism_chemical:mekanism:hydrofluoric_acid",
     "mekanism_chemical:mekanism:uranium_oxide",
     "mekanism_chemical:mekanism:uranium_hexafluoride",
-    "mekanism_chemical:mekanismgenerators:deuterium",
     "item:mekanism:rotary_condensentrator",
     "item:mekanismgenerators:reactor_glass",
     "item:trashcans:energy_trash_can",
@@ -1582,7 +2006,6 @@
     "item:mekanism:laser_amplifier",
     "item:mekanism:laser",
     "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:flux\"}",
-    "mekanism_chemical:mekanismgenerators:fusion_fuel",
     "item:elevatorid:elevator_red",
     "item:elevatorid:elevator_white",
     "item:mekanism:pressure_disperser",
@@ -1595,7 +2018,6 @@
     "item:mekanism:solar_neutron_activator",
     "item:mekanism:dust_bronze",
     "item:merequester:requester",
-    "item:minecraft:redstone",
     "item:integrateddynamics:variable_transformer_input",
     "item:mekanismgenerators:fusion_reactor_controller",
     "item:mekanismgenerators:fusion_reactor_port",
@@ -1622,7 +2044,6 @@
     "item:mekanism:elite_pressurized_tube",
     "item:mekanism:advanced_pressurized_tube",
     "item:mekanism:basic_pressurized_tube",
-    "item:ae2:speed_card",
     "item:morered:red_alloy_wire",
     "item:mekanismgenerators:fission_reactor_logic_adapter",
     "item:mekanism:laser_tractor_beam",
@@ -1632,7 +2053,6 @@
       "id": "mekanism:ethene",
       "amount": 50
     },
-    "item:mekanism:substrate",
     "item:mekanism:isotopic_centrifuge",
     "item:mekanism:upgrade_chemical",
     "item:mekanism:block_fluorite",
@@ -1671,7 +2091,6 @@
       "amount": 16
     },
     "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:uraninite\"}",
-    "item:mekanism:dust_uranium",
     "item:mekanism:ingot_uranium",
     "bee:productivebees:/wasted_radioactive",
     "item:utilitarian:angel_block",
@@ -1690,7 +2109,6 @@
     "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:osmium\"}",
     "bee:productivebees:/osmium",
     "item:productivebees:bee_cage{\"minecraft:custom_data\":{Age:-8654,AngerTime:0,ArmorItems:[{},{},{},{}],ForcedAge:0,HandItems:[{},{}],HasConverted:0b,HasNectar:0b,HasStung:0b,Health:10.0f,HivePos:[I;205,253,-367],Invulnerable:0b,MaxHealth:10.0f,NeoForgeData:{},PersistenceRequired:0b,attributes:[{base:0.0d,id:\"minecraft:generic.oxygen_bonus\"},{base:0.30000001192092896d,id:\"minecraft:generic.movement_speed\"}],bee_type:\"solitary\",entity:\"productivebees:neon_cuckoo_bee\",flower_pos:[I;205,252,-366],isProductiveBee:1b,mod:\"FMLModContainer\",name:\"Neon Cuckoo Bee\",\"neoforge:attachments\":{\"apotheosis:tier_augments_applied\":1b,\"productivebees:attributes_handler\":{bee_behavior:\"behavior.diurnal\",bee_endurance:\"endurance.normal\",bee_productivity:\"productivity.medium\",bee_temper:\"temper.normal\",bee_weather_tolerance:\"weather_tolerance.none\"},\"twilightforest:fortification_shields\":{permanent_shields:0,temporary_shields:0}}}}",
-    "bee:productivebees:/redstone",
     "bee:productivebees:/mason_bee",
     "item:productivebees:acacia_wood_nest",
     "item:minecraft:wooden_sword",
@@ -1739,13 +2157,6 @@
     },
     "bee:productivebees:/entro",
     "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:entro\"}}",
-    {
-      "type": "item",
-      "id": "extendedae:entro_dust",
-      "amount": 32
-    },
-    "item:extendedae:entro_crystal",
-    "item:extendedae:entro_seed",
     "bee:productivebees:/fluix",
     "bee:productivebees:/ender",
     "bee:productivebees:/spacial",
@@ -1758,7 +2169,6 @@
     "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:glowing\"}",
     "item:minecraft:glowstone_dust",
     "item:ae2:sky_stone_block",
-    "bee:productivebees:/glowing",
     "item:extendedae:ex_export_bus_part",
     "item:trashcans:liquid_trash_can",
     "item:megacells:1m_crafting_storage",
@@ -1848,159 +2258,248 @@
     "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:frosty\"}",
     "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:crystalline\"}",
     "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:uraninite\"}",
-    "item:powah:uraninite_block",
-    {
-      "type": "item",
-      "id": "powah:uraninite_ore_poor",
-      "amount": 3
-    },
-    "item:minecraft:tnt",
-    "bee:productivebees:/creeper_bee",
-    "item:minecraft:jungle_fence",
-    "bee:productivebees:/sweat_bee",
-    "item:minecraft:ice",
-    "#item:productivebees:flowers/frozen",
-    "item:appflux:redstone_crystal",
-    "item:appflux:core_1k",
-    "item:appflux:core_1m",
-    "item:appflux:fe_1k_cell",
-    "item:appflux:fe_cell_housing",
-    "item:appflux:energy_processor",
-    "item:extendedae:concurrent_processor",
-    "item:extendedae:concurrent_processor_print",
-    "item:powah:thermo_generator_nitro",
-    "item:powah:thermo_generator_spirited",
-    "item:powah:thermoelectric_plate",
-    "item:mekanismcovers:empty_cover",
-    "item:mekanism:nugget_osmium",
-    "item:enderio:conduit{\"enderio:conduit\":\"enderio:me\"}",
-    "item:minecraft:quartz",
-    "item:powah:energizing_rod_blazing",
-    "item:powah:energizing_rod_hardened",
-    "item:powah:energizing_rod_basic",
-    "item:powah:energizing_rod_starter",
-    "item:powah:capacitor_hardened",
-    "item:powah:steel_energized",
-    "item:powah:capacitor_blazing",
-    "item:kubejs:lava_cell",
-    "item:ae2:cell_component_256k",
-    "item:powah:energizing_rod_nitro",
-    "item:powah:energizing_rod_spirited",
-    "item:powah:capacitor_nitro",
-    "item:powah:energy_cable_nitro",
-    "item:powah:energy_cable_spirited",
-    "item:powah:capacitor_spirited",
-    "item:powah:energizing_rod_niotic",
-    "item:powah:energy_cable_niotic",
-    "item:powah:capacitor_niotic",
-    "item:powah:capacitor_basic_large",
-    "item:powah:energy_cable_blazing",
-    "item:powah:crystal_nitro",
-    "item:powah:blazing_crystal_block",
-    "item:powah:crystal_spirited",
-    "item:powah:crystal_niotic",
-    "item:mekanism:enriched_refined_obsidian",
-    "item:mekanism:ultimate_induction_provider",
-    "item:mekanism:elite_induction_provider",
-    "item:mekanism:advanced_induction_provider",
-    "item:mekanism:basic_induction_provider",
-    "item:powah:thermo_generator_blazing",
-    "item:mekanism:ultimate_induction_cell",
-    "item:mekanism:ultimate_energy_cube",
-    "item:mekanism:elite_induction_cell",
-    "item:mekanism:elite_energy_cube",
-    "item:mekanism:advanced_induction_cell",
-    "item:mekanism:advanced_energy_cube",
-    "item:mekanism:basic_induction_cell",
-    "item:mekanism:induction_port",
-    "item:mekanism:induction_casing",
-    "item:appmek:chemical_storage_cell_16k",
-    "item:appmek:chemical_storage_cell_4k",
-    "item:appmek:chemical_cell_housing",
-    "item:mekanism:chemical_crystallizer",
-    "item:mekanism:enriched_diamond",
-    "item:advanced_ae:adv_pattern_provider_capacity_upgrade",
-    "item:megacells:sky_osmium_ingot",
-    "item:mekanism:ingot_osmium",
-    "item:minecraft:iron_ingot",
-    "item:minecraft:orange_dye",
-    "item:integrateddynamics:crystalized_menril_chunk",
-    "item:mekanism:ultimate_thermodynamic_conductor",
-    "item:mekanism:elite_thermodynamic_conductor",
-    "item:mekanism:advanced_thermodynamic_conductor",
-    "item:mekanism:thermal_evaporation_controller",
-    "item:minecraft:coal",
-    "item:mekanism:enriched_carbon",
-    "item:mekanism:thermal_evaporation_valve",
-    "item:mekanism:basic_control_circuit",
-    "item:mekanism:thermal_evaporation_block",
-    "item:minecraft:lapis_lazuli",
-    "item:ae2:item_storage_cell_64k{\"ae2:storage_cell_inv\":[{\"#\":56L,\"#t\":\"ae2:i\",id:\"ae2:fluix_glass_cable\"},{\"#\":24L,\"#t\":\"ae2:i\",id:\"forbidden_arcanus:ender_pearl_fragment\"},{\"#\":2270L,\"#t\":\"ae2:i\",components:{\"productivebees:bee_type\":\"productivebees:iron\"},id:\"productivebees:configurable_comb\"},{\"#\":25L,\"#t\":\"ae2:i\",id:\"minecraft:nether_wart\"},{\"#\":5L,\"#t\":\"ae2:i\",id:\"silentgear:bort\"},{\"#\":3L,\"#t\":\"ae2:i\",id:\"ae2:logic_processor\"},{\"#\":52L,\"#t\":\"ae2:i\",id:\"minecraft:spider_eye\"},{\"#\":14L,\"#t\":\"ae2:i\",id:\"minecraft:deepslate_copper_ore\"},{\"#\":27L,\"#t\":\"ae2:i\",id:\"actuallyadditions:black_quartz\"},{\"#\":763L,\"#t\":\"ae2:i\",components:{\"productivebees:bee_type\":\"productivebees:iesnium\"},id:\"productivebees:configurable_comb\"},{\"#\":1360L,\"#t\":\"ae2:i\",components:{\"productivebees:bee_type\":\"productivebees:lapis\"},id:\"productivebees:configurable_comb\"},{\"#\":4L,\"#t\":\"ae2:i\",id:\"mysticalagriculture:prosperity_gemstone\"},{\"#\":31L,\"#t\":\"ae2:i\",id:\"evilcraft:dark_gem\"},{\"#\":60L,\"#t\":\"ae2:i\",id:\"mekanism:alloy_infused\"},{\"#\":36L,\"#t\":\"ae2:i\",id:\"minecraft:coal\"},{\"#\":3L,\"#t\":\"ae2:i\",id:\"mekanism:alloy_atomic\"},{\"#\":188L,\"#t\":\"ae2:i\",id:\"alltheores:raw_lead\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"mekanism:alloy_reinforced\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"minecraft:pitcher_pod\"},{\"#\":7L,\"#t\":\"ae2:i\",id:\"allthemodium:vibranium_upgrade_smithing_template\"},{\"#\":106669L,\"#t\":\"ae2:i\",id:\"minecraft:redstone\"},{\"#\":30L,\"#t\":\"ae2:i\",id:\"reliquary:molten_core\"},{\"#\":89L,\"#t\":\"ae2:i\",id:\"justdirethings:ferricore_ingot\"},{\"#\":20L,\"#t\":\"ae2:i\",id:\"minecraft:gray_wool\"},{\"#\":96L,\"#t\":\"ae2:i\",id:\"minecraft:deepslate_diamond_ore\"},{\"#\":49L,\"#t\":\"ae2:i\",id:\"minecraft:amethyst_block\"},{\"#\":173L,\"#t\":\"ae2:i\",id:\"mekanism:dust_osmium\"},{\"#\":51L,\"#t\":\"ae2:i\",id:\"mekanism:bio_fuel\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"ae2:calculation_processor\"},{\"#\":15L,\"#t\":\"ae2:i\",id:\"allthemodium:raw_unobtainium\"},{\"#\":58L,\"#t\":\"ae2:i\",id:\"forbidden_arcanus:arcane_crystal\"},{\"#\":235L,\"#t\":\"ae2:i\",id:\"alltheores:raw_osmium\"},{\"#\":46L,\"#t\":\"ae2:i\",id:\"minecraft:red_sand\"},{\"#\":65L,\"#t\":\"ae2:i\",id:\"minecraft:deepslate_gold_ore\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"minecraft:carrot\"},{\"#\":22L,\"#t\":\"ae2:i\",id:\"mysticalagriculture:soulium_dust\"},{\"#\":9L,\"#t\":\"ae2:i\",id:\"allthemodium:raw_vibranium\"},{\"#\":75L,\"#t\":\"ae2:i\",id:\"mysticalagriculture:prosperity_shard\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"mekanism:enriched_refined_obsidian\"},{\"#\":28L,\"#t\":\"ae2:i\",id:\"ae2:charged_certus_quartz_crystal\"},{\"#\":65L,\"#t\":\"ae2:i\",id:\"alltheores:fluorite\"},{\"#\":7L,\"#t\":\"ae2:i\",components:{\"xnet:mimic_data\":{state:{Name:\"minecraft:deepslate_tiles\"}}},id:\"xnet:facade\"},{\"#\":22L,\"#t\":\"ae2:i\",id:\"minecraft:magma_cream\"},{\"#\":5L,\"#t\":\"ae2:i\",id:\"ae2:printed_silicon\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"mekanism:dust_refined_obsidian\"},{\"#\":48L,\"#t\":\"ae2:i\",id:\"minecraft:gunpowder\"},{\"#\":21L,\"#t\":\"ae2:i\",id:\"powah:dielectric_paste\"},{\"#\":20L,\"#t\":\"ae2:i\",id:\"silentgear:azure_silver_ingot\"},{\"#\":71L,\"#t\":\"ae2:i\",id:\"mekanism:ingot_osmium\"},{\"#\":6L,\"#t\":\"ae2:i\",id:\"silentgear:nether_banana\"},{\"#\":31L,\"#t\":\"ae2:i\",id:\"alltheores:raw_tin\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"ae2:annihilation_core\"},{\"#\":2299L,\"#t\":\"ae2:i\",id:\"minecraft:amethyst_shard\"},{\"#\":35L,\"#t\":\"ae2:i\",id:\"minecraft:dead_bush\"},{\"#\":18L,\"#t\":\"ae2:i\",id:\"ae2:sky_dust\"},{\"#\":40L,\"#t\":\"ae2:i\",id:\"minecraft:raw_copper\"},{\"#\":8L,\"#t\":\"ae2:i\",id:\"minecraft:prismarine\"},{\"#\":1L,\"#t\":\"ae2:i\",id:\"ae2:advanced_card\"},{\"#\":151L,\"#t\":\"ae2:i\",id:\"ae2:singularity\"},{\"#\":26L,\"#t\":\"ae2:i\",id:\"minecraft:dragon_egg\"},{\"#\":319L,\"#t\":\"ae2:i\",id:\"minecraft:copper_ore\"},{\"#\":7L,\"#t\":\"ae2:i\",id:\"justdirethings:raw_ferricore\"},{\"#\":112L,\"#t\":\"ae2:i\",id:\"minecraft:obsidian\"}]}",
-    "item:extendedae:ex_import_bus_part",
-    {
-      "type": "item",
-      "id": "productivebees:configurable_comb",
-      "nbt": "{\"productivebees:bee_type\":\"productivebees:ender\"}",
-      "amount": 32
-    },
-    "#item:productivebees:flowers/ender",
-    {
-      "type": "item",
-      "id": "minecraft:chorus_flower",
-      "chance": 0.01
-    },
-    "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:iron\"}",
-    "item:minecraft:jungle_planks",
-    "item:ae2importexportcard:export_card",
-    "item:ae2importexportcard:import_card",
-    "item:ae2wtlib:magnet_card",
-    "item:minecraft:lapis_block",
-    "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:gold\"}",
-    "item:minecraft:heart_of_the_sea",
-    "bee:productivebees:/gold"
+    "item:powah:uraninite_block"
   ],
   "craft_history": [
-    "mekanism:transmitter/universal_cable/elite",
-    "mekanism:transmitter/universal_cable/advanced",
-    "mekanism:transmitter/universal_cable/basic",
+    "constructionstick:template_unbreakable",
+    "mob_grinding_utils:recipe_mob_swab",
+    "constructionstick:template_angel",
+    "constructionstick:netherite_stick",
+    "minecraft:stick",
+    "minecraft:netherite_upgrade_smithing_template",
+    "minecraft:netherite_ingot",
+    "mekanism:upgrade/speed",
+    "mekanism:upgrade/energy",
     "fluxnetworks:flux_point",
     "fluxnetworks:flux_core",
     "minecraft:ender_eye",
-    "minecraft:ender_pearl",
     "minecraft:redstone_block",
+    "mekanism:digital_miner",
+    "mekanism:logistical_sorter",
+    "minecraft:piston",
+    "mekanism:robit",
+    "mekanism:personal_chest",
     "minecraft:chest",
-    "occultism:crafting/brush",
-    "minecraft:lever",
-    "minecraft:kjs/create_cut_calcite_bricks",
-    "rftoolsbuilder:shape_card_def",
-    "minecraft:kjs/calcite",
+    "mekanism:energy_tablet",
+    "mekanism:steel_casing",
+    "mekanism:teleportation_core",
+    "fluxnetworks:flux_plug",
+    "fluxnetworks:flux_block",
+    "fluxnetworks:flux_controller",
+    "javd:portal_block",
+    "angelring:angel_ring",
+    "minecraft:gold_block",
+    "angelring:diamond_ring",
+    "minecraft:diamond_block",
+    "mekanism:precision_sawmill",
+    "mob_grinding_utils:gm_chicken_feed",
     "minecraft:clock",
-    "minecraft:golden_carrot",
-    "minecraft:gold_nugget",
-    "minecraft:glass_bottle",
+    "snad:snad",
+    "minecraft:soul_lantern",
+    "minecraft:iron_nugget",
+    "minecraft:soul_torch",
+    "minecraft:oak_fence",
+    "enderio:stick",
+    "botanypots:botanypots/crafting/terracotta_hopper_botany_pot_quick",
+    "minecraft:clay",
+    "utilitarian:utility/logs_to_hopper",
+    "minecraft:flower_pot",
+    "minecraft:lever",
+    "minecraft:comparator",
+    "minecraft:redstone_torch",
+    "mekanism:jetpack",
+    "mekanism:chemical_tank/basic",
+    "apotheosis:salvaging_table",
+    "minecraft:smithing_table",
+    "minecraft:iron_pickaxe",
+    "minecraft:iron_axe",
     "sophisticatedbackpacks:advanced_magnet_upgrade_from_basic",
     "sophisticatedbackpacks:magnet_upgrade",
     "sophisticatedbackpacks:pickup_upgrade",
+    "actuallyadditions:tagged_sticky_piston",
+    "actuallyadditions:rice_slime",
+    "farmingforblockheads:market",
+    "minecraft:dye_red_wool",
     "sophisticatedbackpacks:upgrade_base",
+    "actuallyadditions:atomic_reconstructor",
+    "actuallyadditions:iron_casing",
+    "simplemagnets:advancedmagnet",
+    "simplemagnets:basicmagnet",
+    "mekanism:tier_installer/ultimate",
+    "mekanism:control_circuit/ultimate",
+    "mekanism:control_circuit/elite",
+    "mekanism:tier_installer/elite",
+    "mekanism:control_circuit/advanced",
+    "mekanism:tier_installer/basic",
+    "mekanism:tier_installer/advanced",
+    "sophisticatedbackpacks:stack_upgrade_tier_2",
+    "sophisticatedbackpacks:stack_upgrade_tier_1_from_starter",
+    "minecraft:iron_block",
+    "sophisticatedbackpacks:stack_upgrade_starter_tier",
+    "minecraft:copper_block",
+    "sophisticatedbackpacks:crafting_upgrade",
+    "minecraft:crafting_table",
+    "comforts:rope_and_nail",
+    "comforts:hammock_white",
+    "comforts:sleeping_bag_white",
+    "minecraft:shears",
+    "sophisticatedbackpacks:diamond_backpack",
+    "sophisticatedbackpacks:gold_backpack",
+    "sophisticatedbackpacks:iron_backpack",
+    "mekmm:factory/basic/pressurised_reacting",
+    "evilcraft:crafting/vengeance_pickaxe",
+    "evilcraft:crafting/vein_sword",
+    "minecraft:anvil",
+    "evilcraft:crafting/dark_spike",
+    "evilcraft:crafting/dark_stick",
+    "evilcraft:crafting/undead_planks",
+    "justdirethings:experienceholder",
+    "minecraft:golden_apple",
+    "minecraft:glass_bottle",
+    "minecraft:fermented_spider_eye",
+    "minecraft:armor_stand",
+    "mekanismtools:refined_obsidian/armor/boots",
+    "mekanismtools:refined_obsidian/armor/leggings",
+    "mekanismtools:refined_obsidian/armor/chestplate",
+    "mekanismtools:refined_obsidian/armor/helmet",
+    "twilightforest:uncrafting_table",
+    "minecraft:oak_planks",
+    "minecraft:compass",
+    "mekanism:atomic_disassembler",
+    "easy_villagers:converter",
+    "minecraft:fletching_table",
+    "easy_villagers:trader",
+    "justdirethings:gooblock_tier2",
+    "apotheosis:potion_charm",
+    "minecraft:kjs/potionsmaster_gold_oresight_powder",
+    "potionsmaster:ender_powder",
+    "minecraft:kjs/potionsmaster_redstone_oresight_powder",
+    "evilcraft:crafting/blood_infuser",
+    "evilcraft:crafting/blood_infusion_core",
+    "mekanismtools:refined_obsidian/tools/pickaxe",
+    "minecraft:kjs/potionsmaster_diamond_oresight_powder",
+    "minecraft:ender_pearl",
+    "potionsmaster:pestle",
+    "potionsmaster:tile_mortar",
+    "minecraft:brewing_stand",
+    "evilcraft:crafting/blood_extractor",
+    "minecraft:flint_and_steel",
+    "mekanismtools:refined_obsidian/tools/sword",
+    "mekanism:osmium_compressor",
+    "minecraft:bucket",
+    "mekanism:fluid_tank/basic",
+    "minecraft:diamond_pickaxe",
+    "trashcans:item_trash_can",
+    "mekanismtools:bronze/tools/shovel",
+    "mekanism:energized_smelter",
+    "utilitarian:utility/logs_to_chests",
+    "mekanism:transmitter/universal_cable/basic",
+    "mekanism:energy_cube/basic",
+    "mekanismgenerators:generator/gas_burning",
+    "mekanism:electrolytic_core",
+    "mekanism:gauge_dropper",
+    "minecraft:glass_pane",
+    "utilitarian:tiny_fuel/tiny_charcoal",
+    "mekanism:configurator",
+    "mekanism:transmitter/mechanical_pipe/basic",
+    "cookingforblockheads:sink",
+    "mekanism:pressurized_reaction_chamber",
+    "mekanism:dynamic_tank",
+    "mekanism:enrichment_chamber",
+    "mekanism:crusher",
+    "mekanism:electrolytic_separator",
+    "utilitarian:snad/snad",
+    "justdirethings:itemcollector",
+    "justdirethings:gooblock_tier1",
+    "tiab:time_in_a_bottle",
+    "minecraft:smooth_stone_slab",
+    "mekanismtools:bronze/tools/axe",
+    "minecraft:kjs/mekanism_ingot_bronze",
+    "minecraft:oak_button",
+    "integrateddynamics:crafting/squeezer",
+    "alltheores:crafting/hammer/iron/dust_from_raw",
+    "utilitarian:tiny_fuel/tiny_coal",
+    "actuallyadditions:coal_generator",
+    "mekanism:metallurgic_infuser",
+    "minecraft:furnace",
+    "alltheores:crafting/hammer/osmium/dust_from_raw",
+    "alltheores:crafting/hammer/copper/dust_from_raw",
+    "alltheores:bronze_ore_hammer",
+    "mekanismtools:bronze/tools/pickaxe",
+    "mekanismtools:bronze/armor/boots",
+    "mekanismtools:bronze/armor/leggings",
+    "mekanismtools:bronze/armor/chestplate",
+    "mekanismtools:bronze/armor/helmet",
+    "alltheores:crafting/bronze/block_from_ingot",
+    "minecraft:blast_furnace",
+    "minecraft:stone_pickaxe",
+    "alltheores:crafting/hammer/zinc/dust_from_raw",
+    "alltheores:copper_ore_hammer",
+    "minecraft:stone_axe",
+    "minecraft:wooden_pickaxe",
+    "ae2:materials/annihilationcore",
+    "ae2:network/blocks/pattern_providers_interface",
+    "alltheores:smelting/iron/dust_smelting",
+    "mekanism:kjs/mekanism_dust_iron",
+    "ae2:network/crafting/patterns_blank",
+    "ae2:decorative/quartz_glass",
+    "ae2:network/cables/glass_fluix",
+    "ae2:network/blocks/pattern_providers_interface_part",
+    "extendedae:ex_pattern_provider_part",
+    "ae2:materials/formationcore",
+    "ae2:network/parts/quartz_fiber_part",
+    "ae2:materials/cardcapacity",
+    "ae2:materials/basiccard",
+    "extendedae:entro_block",
+    "ae2:network/cables/dense_smart_fluix",
+    "ae2:network/cables/smart_fluix",
+    "ae2:network/cables/dense_covered_fluix",
+    "ae2:network/cables/covered_fluix",
+    "minecraft:loom",
+    "ae2:tools/network_memory_card",
+    "ae2:network/parts/tunnels_me",
+    "ae2:network/cells/item_storage_cell_16k",
+    "ae2:network/crafting/16k_cpu_crafting_storage",
+    "ae2:network/crafting/cpu_crafting_unit",
+    "ae2:network/cells/item_storage_components_cell_16k_part",
+    "ae2:network/cells/item_storage_components_cell_4k_part",
+    "ae2:network/cells/item_storage_components_cell_1k_part",
+    "ae2:decorative/quartz_block",
+    "ae2:network/blocks/storage_drive",
+    "ae2:network/parts/terminals_pattern_encoding",
+    "ae2:network/parts/terminals_crafting",
+    "ae2:network/parts/terminals",
+    "ae2:network/blocks/controller",
+    "ae2:materials/cardspeed",
+    "ae2:materials/advancedcard",
+    "minecraft:stonecutter",
+    "extendedae:machine_frame_mirror",
+    "extendedae:crystal_assembler",
+    "ae2:misc/deconstruction_certus_quartz_block",
+    "extendedae:entro_seed",
+    "ae2:network/blocks/crystal_processing_growth_accelerator",
+    "ae2:misc/tank_sky_stone",
+    "ae2:network/blocks/inscribers",
+    "ae2:network/parts/panels_semi_dark_monitor",
+    "ae2:network/blocks/crystal_processing_charger",
+    "mekanism:transmitter/universal_cable/elite",
+    "mekanism:transmitter/universal_cable/advanced",
+    "occultism:crafting/brush",
+    "minecraft:kjs/create_cut_calcite_bricks",
+    "rftoolsbuilder:shape_card_def",
+    "minecraft:kjs/calcite",
+    "minecraft:golden_carrot",
+    "minecraft:gold_nugget",
     "sophisticatedbackpacks:advanced_void_upgrade",
     "sophisticatedbackpacks:void_upgrade",
-    "minecraft:netherite_ingot",
-    "constructionstick:template_angel",
     "constructionstick:template_battery",
     "sophisticatedbackpacks:advanced_refill_upgrade",
     "sophisticatedbackpacks:refill_upgrade",
     "sophisticatedbackpacks:stonecutter_upgrade",
-    "minecraft:stonecutter",
     "sophisticatedbackpacks:advanced_restock_upgrade",
     "sophisticatedbackpacks:restock_upgrade",
-    "actuallyadditions:tagged_sticky_piston",
-    "minecraft:piston",
-    "minecraft:oak_planks",
     "forbidden_arcanus:apply_modifier_smithing_template",
-    "constructionstick:netherite_stick",
     "minecraft:copper_ingot",
-    "utilitarian:utility/logs_to_chests",
-    "trashcans:item_trash_can",
     "silentgear:crimson_iron_block",
     "reliquary:uncrafting/string",
     "reliquary:uncrafting/magma_cream",
@@ -2010,14 +2509,10 @@
     "torchmaster:feral_flare_lantern",
     "mob_grinding_utils:recipe_solidifier",
     "mob_grinding_utils:recipe_tank",
-    "utilitarian:utility/logs_to_hopper",
     "mob_grinding_utils:recipe_entity_conveyor",
-    "mekanism:metallurgic_infuser",
-    "minecraft:furnace",
     "forbidden_arcanus:polished_darkstone_slab",
     "forbidden_arcanus:deorum_ingot",
     "forbidden_arcanus:mundabitur_dust",
-    "tiab:time_in_a_bottle",
     "forbidden_arcanus:diamond_blacksmith_gavel",
     "forbidden_arcanus:blacksmith_gavel_head",
     "forbidden_arcanus:test_tube",
@@ -2025,10 +2520,6 @@
     "minecraft:quartz_block",
     "forbidden_arcanus:utrem_jar",
     "forbidden_arcanus:edelwood_planks",
-    "farmingforblockheads:market",
-    "minecraft:dye_red_wool",
-    "evilcraft:crafting/undead_planks",
-    "minecraft:smithing_table",
     "forbidden_arcanus:darkstone_pedestal",
     "forbidden_arcanus:arcane_polished_darkstone_slab",
     "forbidden_arcanus:arcane_polished_darkstone",
@@ -2038,7 +2529,6 @@
     "forbidden_arcanus:gilded_chiseled_polished_darkstone",
     "forbidden_arcanus:chiseled_polished_darkstone",
     "forbidden_arcanus:deorum_nugget_from_deorum_ingot",
-    "mob_grinding_utils:recipe_mob_swab",
     "occultism:crafting/book_of_binding_foliot",
     "minecraft:blue_dye",
     "minecraft:black_dye",
@@ -2047,9 +2537,7 @@
     "occultism:crafting/chalk_yellow_impure",
     "occultism:crafting/chalk_white_impure",
     "occultism:crafting/dictionary_of_spirits",
-    "mekanism:fluid_tank/basic",
     "justdirethings:upgrade_hammer",
-    "minecraft:diamond_pickaxe",
     "justdirethings:upgrade_dropteleport",
     "justdirethings:upgrade_blank",
     "minecraft:ender_chest",
@@ -2059,7 +2547,6 @@
     "enderio:enchanter",
     "justdirethings:gooblock_tier3",
     "minecraft:end_crystal",
-    "mekanism:upgrade/speed",
     "silentgear:glittery_dust",
     "silentgear:part/grip",
     "silentgear:grip_blueprint_alt",
@@ -2070,11 +2557,6 @@
     "sgearmetalworks:part/rod",
     "minecraft:brush",
     "sgearmetalworks:gear/pickaxe_head",
-    "sophisticatedbackpacks:stack_upgrade_tier_2",
-    "sophisticatedbackpacks:stack_upgrade_tier_1_from_starter",
-    "minecraft:iron_block",
-    "sophisticatedbackpacks:stack_upgrade_starter_tier",
-    "minecraft:netherite_upgrade_smithing_template",
     "forbidden_arcanus:iron_blacksmith_gavel",
     "forbidden_arcanus:arcane_crystal_block_from_arcane_crystal",
     "silentgear:gear/sword",
@@ -2085,10 +2567,7 @@
     "silentgear:part/rod",
     "silentgear:starmetal_dust",
     "silentgear:nether_star_fragment",
-    "minecraft:copper_block",
     "sophisticatedbackpacks:stack_upgrade_tier_3",
-    "minecraft:diamond_block",
-    "minecraft:gold_block",
     "silentgear:starlight_charger",
     "silentgear:azure_electrum_block",
     "silentgear:alloy_forge",
@@ -2098,8 +2577,6 @@
     "silentgear:advanced_upgrade_base",
     "silentgear:diamond_shard",
     "silentgear:upgrade_base",
-    "mekanism:transmitter/mechanical_pipe/basic",
-    "minecraft:bucket",
     "allthemodium:teleport_pad",
     "productivemetalworks:crafting/casting_table",
     "productivemetalworks:crafting/casting_basin",
@@ -2110,110 +2587,23 @@
     "productivemetalworks:crafting/black_foundry_controller",
     "productivemetalworks:crafting/black_foundry_tank",
     "productivemetalworks:crafting/liquid_heating_coil",
-    "twilightforest:uncrafting_table",
-    "minecraft:compass",
-    "mekanism:control_circuit/elite",
-    "mekanism:tier_installer/advanced",
-    "mekanism:control_circuit/advanced",
-    "mekanism:tier_installer/basic",
-    "mekanism:tier_installer/ultimate",
-    "mekanism:control_circuit/ultimate",
-    "mekanism:tier_installer/elite",
-    "mekanism:upgrade/energy",
-    "mekanism:digital_miner",
-    "mekanism:logistical_sorter",
-    "mekanism:robit",
-    "mekanism:personal_chest",
-    "mekanism:energy_tablet",
-    "mekanism:steel_casing",
-    "mekanism:teleportation_core",
     "rftoolsbase:filter_module",
     "minecraft:hopper",
     "rftoolsbuilder:shape_card_quarry_clear",
     "rftoolsbuilder:shape_card_quarry",
-    "enderio:stick",
-    "fluxnetworks:flux_plug",
-    "fluxnetworks:flux_block",
-    "fluxnetworks:flux_controller",
     "rftoolsbuilder:builder",
     "rftoolsbase:machine_frame",
     "occultism:occultism.bound_book_of_bindingitem.occultism.book_of_binding_foliot",
     "occultism:crafting/butcher_knife",
     "justdirethings:eclipsealloy_hoe",
-    "mob_grinding_utils:gm_chicken_feed",
-    "minecraft:soul_lantern",
-    "minecraft:iron_nugget",
-    "minecraft:soul_torch",
-    "minecraft:comparator",
-    "mekanismtools:refined_obsidian/armor/boots",
-    "mekanismtools:refined_obsidian/armor/helmet",
-    "angelring:angel_ring",
     "wstweaks:wither_skeleton_skull",
-    "angelring:diamond_ring",
-    "minecraft:oak_fence",
-    "comforts:sleeping_bag_white",
-    "justdirethings:experienceholder",
-    "justdirethings:gooblock_tier2",
-    "justdirethings:gooblock_tier1",
-    "minecraft:redstone_torch",
     "mekanism:cardboard_box",
-    "mekanism:precision_sawmill",
-    "sophisticatedbackpacks:crafting_upgrade",
-    "minecraft:crafting_table",
-    "actuallyadditions:atomic_reconstructor",
-    "actuallyadditions:iron_casing",
     "minecraft:stone_button",
-    "minecraft:armor_stand",
-    "minecraft:smooth_stone_slab",
-    "minecraft:stick",
-    "integrateddynamics:crafting/squeezer",
     "minecraft:torch",
-    "mekanism:jetpack",
-    "mekanism:chemical_tank/basic",
-    "simplemagnets:advancedmagnet",
-    "apotheosis:potion_charm",
-    "minecraft:brewing_stand",
-    "minecraft:kjs/potionsmaster_diamond_oresight_powder",
-    "potionsmaster:ender_powder",
     "reliquary:uncrafting/ender_pearl",
-    "potionsmaster:tile_mortar",
-    "potionsmaster:pestle",
-    "mekanismtools:refined_obsidian/tools/pickaxe",
-    "minecraft:anvil",
     "tombstone:blue_grave_simple",
     "tombstone:blue_marble",
-    "evilcraft:crafting/vengeance_pickaxe",
-    "evilcraft:crafting/vein_sword",
-    "evilcraft:crafting/dark_stick",
-    "evilcraft:crafting/blood_infuser",
-    "evilcraft:crafting/blood_infusion_core",
-    "mekanism:atomic_disassembler",
-    "mekanismtools:refined_obsidian/armor/leggings",
-    "mekanismtools:refined_obsidian/armor/chestplate",
-    "simplemagnets:basicmagnet",
-    "evilcraft:crafting/blood_extractor",
-    "evilcraft:crafting/dark_spike",
-    "mekanismtools:refined_obsidian/tools/sword",
-    "mekanism:osmium_compressor",
     "minecraft:iron_shovel",
-    "mekanism:energized_smelter",
-    "utilitarian:tiny_fuel/tiny_coal",
-    "mekanism:gauge_dropper",
-    "minecraft:glass_pane",
-    "mekanism:energy_cube/basic",
-    "mekanismgenerators:generator/gas_burning",
-    "mekanism:electrolytic_core",
-    "mekanism:configurator",
-    "cookingforblockheads:sink",
-    "minecraft:clay",
-    "mekanism:pressurized_reaction_chamber",
-    "mekanism:enrichment_chamber",
-    "mekanism:dynamic_tank",
-    "mekanism:electrolytic_separator",
-    "mekanism:crusher",
-    "minecraft:blast_furnace",
-    "actuallyadditions:coal_generator",
-    "alltheores:crafting/hammer/osmium/dust_from_raw",
     "akashictome:tome",
     "minecraft:bookshelf",
     "silentgear:blueprint_book",
@@ -2221,32 +2611,14 @@
     "silentgear:crude_knife",
     "silentgear:crude_tool_parts",
     "silentgear:stone_anvil",
-    "minecraft:shears",
-    "mekanismtools:bronze/armor/boots",
     "minecraft:copper_door",
-    "mekanismtools:bronze/tools/shovel",
-    "mekanismtools:bronze/tools/axe",
-    "minecraft:kjs/mekanism_ingot_bronze",
-    "mekanismtools:bronze/tools/pickaxe",
     "mekanismtools:bronze/tools/sword",
-    "mekanismtools:bronze/armor/leggings",
-    "mekanismtools:bronze/armor/chestplate",
-    "alltheores:crafting/hammer/copper/dust_from_raw",
-    "alltheores:crafting/hammer/iron/dust_from_raw",
-    "alltheores:bronze_ore_hammer",
-    "alltheores:crafting/bronze/block_from_ingot",
-    "alltheores:crafting/hammer/zinc/dust_from_raw",
-    "mekanismtools:bronze/armor/helmet",
-    "alltheores:copper_ore_hammer",
     "constructionstick:copper_stick",
     "minecraft:kjs/enchanted_book_2",
-    "utilitarian:snad/snad",
     "silentgear:gear/sword_head",
     "silentgear:crimson_steel_block",
     "silentgear:gear/pickaxe_head",
     "minecraft:kjs/potionsmaster_unobtainium_oresight_powder_2",
-    "justdirethings:itemcollector",
-    "snad:snad",
     "minecraft:bricks",
     "minecraft:diamond_shovel",
     "reliquary:uncrafting/blaze_rod",
@@ -2262,33 +2634,18 @@
     "minecraft:white_dye",
     "silentgear:glowing_dust",
     "mekanism:paper",
-    "utilitarian:tiny_fuel/tiny_charcoal",
-    "minecraft:kjs/potionsmaster_gold_oresight_powder",
     "silentgear:crimson_steel_ingot",
-    "sophisticatedbackpacks:diamond_backpack",
-    "sophisticatedbackpacks:gold_backpack",
-    "sophisticatedbackpacks:iron_backpack",
     "sophisticatedbackpacks:backpack",
     "minecraft:jungle_planks",
-    "minecraft:oak_button",
     "tombstone:black_subaraki_grave",
     "tombstone:dark_marble",
-    "minecraft:golden_apple",
-    "minecraft:fletching_table",
-    "easy_villagers:converter",
-    "minecraft:fermented_spider_eye",
-    "easy_villagers:trader",
     "enderio:primitive_alloy_smelter",
-    "minecraft:flint_and_steel",
     "mekanismtools:osmium/tools/shovel",
     "minecraft:kjs/mekanism_ingot_bronze_2",
     "alltheores:crafting/hammer/aluminum/dust_from_raw",
-    "minecraft:iron_pickaxe",
     "actuallyadditions:tiny_torch",
-    "minecraft:stone_pickaxe",
     "minecraft:dark_oak_planks",
     "minecraft:acacia_planks",
-    "minecraft:wooden_pickaxe",
     "minecraft:spruce_planks",
     "industrialforegoing:mob_imprisonment_tool",
     "craftingstation:crafting_station",
@@ -2298,8 +2655,6 @@
     "apotheosis:sigil_of_rebirth",
     "apotheosis:sigil_of_socketing",
     "apotheosis:gem_fused_slate",
-    "apotheosis:salvaging_table",
-    "minecraft:iron_axe",
     "minecraft:kjs/allthemodium_vibranium_plate",
     "minecraft:kjs/allthemodium_unobtainium_plate",
     "apotheosis:augmenting_table",
@@ -2427,7 +2782,6 @@
     "mekanism:superheating_element",
     "mekanism:boiler_casing",
     "mekanism:separator/brine",
-    "ae2:network/blocks/pattern_providers_interface_part",
     "alltheores:crafting/lead/raw_block_from_raw",
     "ae2:network/blocks/io_port",
     "extendedae:void_cell",
@@ -2705,7 +3059,6 @@
     "mekanism:sawing/log/jungle",
     "ae2importexportcard:export_card",
     "ae2importexportcard:import_card",
-    "ae2wtlib:magnet_card",
     "minecraft:lapis_block",
     "simplemagnets:advanced_demagnetization_coil",
     "simplemagnets:basic_demagnetization_coil",
@@ -2742,7 +3095,6 @@
     "minecraft:emerald_block",
     "powah:crafting/manual",
     "extendedae:assembler/ex_drive",
-    "ae2:network/blocks/storage_drive",
     "minecraft:magma_cream",
     "productivebees:nests/nether_brick_nest",
     "occultism:crafting/book_of_binding_djinni",
@@ -2783,8 +3135,6 @@
     "minecraft:diamond_sword",
     "integrateddynamics:crafting/facade",
     "minecraft:birch_fence",
-    "comforts:rope_and_nail",
-    "comforts:hammock_white",
     "minecraft:birch_fence_gate",
     "mysticalagriculture:gear/prudentium_fishing_rod",
     "mysticalagriculture:gear/inferium_fishing_rod",
@@ -2934,56 +3284,7 @@
     "appflux:induction_card",
     "extendedae:assembler/energy_processor",
     "extendedae:cutter/energy_processor",
-    "appflux:charged_redstone_block",
-    "advanced_ae:chargedredstone",
-    "advanced_ae:redstonecrystal",
-    "enderio:alloy_smelter",
-    "enderio:void_chassis",
-    "ae2:network/parts/cable_anchor",
-    "mysticalagriculture:prosperity_seed_base",
-    "powah:crafting/ender_gate_blazing",
-    "powah:energizing/ender_core",
-    "powah:crafting/dielectric_casing",
-    "powah:crafting/capacitor_basic_tiny",
-    "powah:crafting/capacitor_basic",
-    "powah:crafting/dielectric_rod_2",
-    "emi:/emi/bucket_filling/minecraft/lava",
-    "extendedae:assembler/caner",
-    "extendedae:ingredient_buffer",
-    "extendedae:machine_frame_mirror",
-    "advanced_ae:entroingot",
-    "mekanism:kjs/extendedae_entro_dust",
-    "powah:crafting/dielectric_paste",
-    "minecraft:iron_bars",
-    "powah:crafting/dielectric_rod_h",
-    "powah:energizing/blazing_crystal_2",
-    "ae2:network/parts/formation_plane_alt",
-    "xnet:netcable_blue",
-    "ae2:network/crafting/4k_cpu_crafting_storage",
-    "ae2:network/crafting/64k_cpu_crafting_storage",
-    "ae2:network/crafting/cpu_crafting_accelerator",
-    "ae2:network/crafting/cpu_crafting_unit",
-    "ae2:network/blocks/storage_chest",
-    "ae2:network/parts/terminals",
-    "ae2:tools/network_color_applicator",
-    "sophisticatedbackpacks:anvil_upgrade",
-    "jei:/enderio/enchanting/sweeping_edge_3",
-    "xnet:advanced_connector_blue",
-    "xnet:connector_blue",
-    "ae2:network/cables/smart_fluix",
-    "ae2wtlib:wireless_universal_terminal/upgrade_pattern_encoding",
-    "ae2wtlib:pattern_encoding/wireless_pattern_encoding_terminal",
-    "ae2:network/parts/terminals_pattern_encoding",
-    "ae2:network/parts/terminals_crafting",
-    "extendedae:u_terminal/xc",
-    "extendedae:wireless_ex_pat",
-    "ae2:network/wireless_part",
-    "extendedae:assembler/ex_pattern_access_terminal",
-    "ae2:network/parts/terminals_pattern_access",
-    "minecraft:glowstone",
-    "minecraft:redstone_lamp",
-    "ae2:decorative/quartz_fixture",
-    "minecraft:repeater"
+    "appflux:charged_redstone_block"
   ],
   "recipe_defaults": {
     "added": [],

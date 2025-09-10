@@ -1,0 +1,16 @@
+filename = 'botanypots-neoforge-1.21.1-21.1.39.jar'
+name = 'Botany Pots'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '87af1cb27a9439b9a237da5855103d5664df4ab76110762a36314c7f8e44ec6eb348fcad537cb92de429b160ab1e4c89f3506c0f7dc4588c24fbc5b77318774c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/U6BUTZ7K/versions/Ss0l9EUz/botanypots-neoforge-1.21.1-21.1.39.jar'
+
+[update.modrinth]
+mod-id = 'U6BUTZ7K'
+version = 'Ss0l9EUz'

@@ -65,8 +65,15 @@
   "apothic_spawners": {
     "spawner": true
   },
+  "entangled": {
+    "entangled_block_component": true
+  },
   "mekanismcovers": {
     "cover_component": true
+  },
+  "growthacceleratortiers": {
+    "boosted_growth_accelerator": true,
+    "directional_growth_accelerator": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -133,15 +140,16 @@
     "display.content": true,
     "display.status": true
   },
-  "tombstone": {
-    "graves": true
-  },
   "jade_access": {
     "held_item": true,
     "sign": true,
     "block": true,
     "entity": true,
     "entity_variant": true
+  },
+  "tombstone": {
+    "decorative_graves": true,
+    "player_graves": true
   },
   "apotheosis": {
     "adventure": true

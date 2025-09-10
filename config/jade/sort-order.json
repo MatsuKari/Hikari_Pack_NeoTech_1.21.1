@@ -28,9 +28,12 @@
   "easy_villagers:breeder": null,
   "easy_villagers:converter": null,
   "easy_villagers:villager": null,
+  "entangled:entangled_block_component": null,
   "extendedae:jade_chamber": null,
   "extendedae:jade_wireless": null,
   "extendedae:tile_data": null,
+  "growthacceleratortiers:boosted_growth_accelerator": null,
+  "growthacceleratortiers:directional_growth_accelerator": null,
   "integrateddynamicscompat:drying_basin": null,
   "integrateddynamicscompat:mechanical_drying_basin": null,
   "integrateddynamicscompat:mechanical_squeezer": null,
@@ -135,7 +138,9 @@
   "storagedrawers:main": null,
   "tesseract:remove_default": null,
   "tesseract:tesseract": null,
+  "tombstone:decorative_graves": null,
   "tombstone:graves": null,
+  "tombstone:player_graves": null,
   "twilightforest:chiseled_bookshelf_spawner": null,
   "twilightforest:quest_ram_wool": null
 }

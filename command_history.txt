@@ -1,50 +1,50 @@
-/tp xopazaru0343
-/kill
-/tp xopazaru0343
-/kill
-/tp xopazaru0343
-/kill
-/difficulty peaceful
-/tp xopazaru0343
-/kill
-/tp xopazaru0343
-/kill
-/probejs enable
-/kubejs hand
-/reload
+/gamemode spectator
+/gamemode survival
+/locate structure minecraft:village_plains
+/tp @s -256 ~ 368
+/gamemode spectator
+/gamemode survival
+/time set night
+/weather clear
+/gamerule doWeatherCycle false
+/locate biome minecraft:mushroom_fields
+/tp @s -2626 61 1074
+/seed
+/gamerule doDaylightCycle
+/locate structure minecraft:end_city
+/tp @s -272 80 1040
+/summon minecraft:chicken
+/locate biome minecraft:soul_sand_valley
+/tp @s -188 87 188
+/gamemode spectator
+/gamemode survival
+/tp @s -188 87 188
+/gamemode spectator
+/gamemode survival
+/summon minecraft:chicken
+/locate structure minecraft:end_city
+/tp @s -928 ~ 1632
 /locate structure minecraft:bastion_remnant
-/tp @s -400 ~ 352
+/tp @s -288 ~ -576
 /gamemode spectator
 /gamemode survival
 /gamemode spectator
+/gamemode survival
 /locate structure minecraft:bastion_remnant
-/tp @s -80 ~ -800
+/tp @s -576 ~ -416
+/gamemode spectator
 /gamemode survival
 /gamemode spectator
 /gamemode survival
-/reload
-/kill
-/tp xopazaru0343
-/kill
-/sgear_mats dump true
-/tp xopazaru0343
-/kill
-/tp xopazaru0343
-/KILL
-/kill
-/tp xopazaru0343
-/kill
-/tp xopazaru0343
-/kill
-/locate structure allthemodium:dungeon
-/tp @s -736 ~ 16
-/kill
+/gamemode spectator
 /gamemode survival
-/kill
-/time set day
-/time set noon
-/backup start
-/time set noon
-/time set day
-/curios add charm MatsuKari 3
-/reload
+/gamemode spectator
+/gamemode survival
+/locate structure minecraft:ruined_portal
+/tp @s -576 ~ 272
+/gamemode spectator
+/gamemode survival
+/locate structure minecraft:ruined_portal_mountain
+/tp @s 96 ~ 2032
+/gamemode spectator
+/gamemode survival

@@ -1,0 +1,16 @@
+filename = 'alltheleaks-1.0.1+1.21.1-neoforge.jar'
+name = 'All The Leaks'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '968e919c7e4d1fda73121cafeb1f295599168f5b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6930692
+project-id = 1091339

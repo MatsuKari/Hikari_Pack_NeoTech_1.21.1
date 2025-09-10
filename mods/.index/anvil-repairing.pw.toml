@@ -1,0 +1,16 @@
+filename = 'anvilrepairing-neoforge-1.21.1-21.1.1.jar'
+name = 'Anvil Repairing'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8e0da6eec032434b7ae7eb1e2066756ae9a69fd0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5953516
+project-id = 889205
