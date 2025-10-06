@@ -2,7 +2,7 @@
 [general]
 
 	[general.general]
-		timestamps_format = 0
+		timestamps_format = 1
 		streamer_mode = false
 		modcore_warning = true
 		replace_window_title = true

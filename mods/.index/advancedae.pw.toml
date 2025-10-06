@@ -1,4 +1,4 @@
-filename = 'AdvancedAE-1.4.0-1.21.1.jar'
+filename = 'AdvancedAE-1.5.1-1.21.1.jar'
 name = 'Advanced AE'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '9c478e49c1bb86ca5b31a0481277df00983dc778'
+hash = '408e9b633f64f7b7951b080b327350dfc537b5fd'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6932981
+file-id = 7069551
 project-id = 1084104

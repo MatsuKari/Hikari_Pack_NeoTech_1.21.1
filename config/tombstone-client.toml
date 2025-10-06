@@ -77,3 +77,5 @@
 	show_tooltip_combine = true
 	#Prevent night vision from flashing when less than 5 seconds left [false/true|default:true]
 	no_blinking_nightvision = true
+	#Scales Tombstone guiscreens to be larger as possible [false/true|default:true]
+	scale_guiscreens = true

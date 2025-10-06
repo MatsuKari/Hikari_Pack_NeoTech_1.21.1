@@ -1,50 +1,50 @@
-/gamemode spectator
+/reload
+/kubejs hand
+/reload
+/xp add MatsuKari 7 levels
+/gamemode creative
 /gamemode survival
-/locate structure minecraft:village_plains
-/tp @s -256 ~ 368
-/gamemode spectator
+/gamemode creative
 /gamemode survival
-/time set night
-/weather clear
-/gamerule doWeatherCycle false
-/locate biome minecraft:mushroom_fields
-/tp @s -2626 61 1074
-/seed
-/gamerule doDaylightCycle
-/locate structure minecraft:end_city
-/tp @s -272 80 1040
-/summon minecraft:chicken
-/locate biome minecraft:soul_sand_valley
-/tp @s -188 87 188
+/gamerule keepInventory
+/locate structure minecraft:fortress
+/tp @s 192 ~ 64
+/gamemode creative
 /gamemode spectator
-/gamemode survival
-/tp @s -188 87 188
-/gamemode spectator
-/gamemode survival
-/summon minecraft:chicken
-/locate structure minecraft:end_city
-/tp @s -928 ~ 1632
-/locate structure minecraft:bastion_remnant
-/tp @s -288 ~ -576
-/gamemode spectator
+/locate structure minecraft:fortress
 /gamemode survival
 /gamemode spectator
+/locate structure minecraft:fortress
+/tp @s 1568 ~ 192
+/gamemode
 /gamemode survival
-/locate structure minecraft:bastion_remnant
-/tp @s -576 ~ -416
+/kubejs hand
+/reload
+/reloa
+/reload
+/kubejs hand
+/reload
+/locate structure minecraft:ancient_city
+/tp @s 144 ~ 992
 /gamemode spectator
 /gamemode survival
-/gamemode spectator
+/gamerule keepInventory
+/summon minecraft:warden
+/datapack list enabled
+/datapack list available
+/reload
+/summon minecraft:villager
+/tiab addTime 999999
+/gamerule keepInventory
+/gamerule keepInventory false
+/kill
+/summon minecraft:villager
+/gamemode creative
+/gamemode survival
+/xp set MatsuKari 27 levels
+/summon minecraft:villager
 /gamemode survival
 /gamemode spectator
 /gamemode survival
-/gamemode spectator
-/gamemode survival
-/locate structure minecraft:ruined_portal
-/tp @s -576 ~ 272
-/gamemode spectator
-/gamemode survival
-/locate structure minecraft:ruined_portal_mountain
-/tp @s 96 ~ 2032
 /gamemode spectator
 /gamemode survival

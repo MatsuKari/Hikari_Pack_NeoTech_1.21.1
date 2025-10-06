@@ -1,33 +1,29 @@
-filename = 'EuphoriaPatcher-1.6.5-r5.5.1-neoforge.jar'
+filename = 'EuphoriaPatcher-1.7.0-r5.6-neoforge.jar'
 name = 'Euphoria Patches'
-side = 'both'
+side = 'client'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [
     '1.20.5',
     '1.20.6',
     '1.21',
-    '1.21-Snapshot',
     '1.21.1',
-    '1.21.1-Snapshot',
     '1.21.2',
-    '1.21.2-Snapshot',
     '1.21.3',
     '1.21.4',
-    '1.21.4-Snapshot',
-    '1.21.5-Snapshot',
+    '1.21.5',
     '1.21.6',
-    '1.21.6-snapshot',
     '1.21.7',
-    '1.21.8'
+    '1.21.8',
+    '1.21.9'
 ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '7b5a8ca79ee45778c495ac7dfa8cde4ba8b706ec'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '6c802e34fe8e1bf0a789dbd62d059971578e7d194d1142039b82f72a29e9ac7561007a891c6a91fbfc7e66f0d71a9c221838be2144556ea222241eba10a37f61'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4H6sumDB/versions/XRFbbGvQ/EuphoriaPatcher-1.7.0-r5.6-neoforge.jar'
 
-[update.curseforge]
-file-id = 6653765
-project-id = 915902
+[update.modrinth]
+mod-id = '4H6sumDB'
+version = 'XRFbbGvQ'
