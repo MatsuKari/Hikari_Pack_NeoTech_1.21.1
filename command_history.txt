@@ -1,16 +1,3 @@
-/reload
-/kubejs hand
-/reload
-/xp add MatsuKari 7 levels
-/gamemode creative
-/gamemode survival
-/gamemode creative
-/gamemode survival
-/gamerule keepInventory
-/locate structure minecraft:fortress
-/tp @s 192 ~ 64
-/gamemode creative
-/gamemode spectator
 /locate structure minecraft:fortress
 /gamemode survival
 /gamemode spectator
@@ -47,4 +34,17 @@
 /gamemode spectator
 /gamemode survival
 /gamemode spectator
+/gamemode survival
+/gamerule keepInventory
+/gamerule keepInventory true
+/reload
+/locate structure minecraft:stronghold
+/gamemode creative
+/tp @s -192 ~ 1504
+/gamemode survival
+/gamemode spectator
+/seed
+/gamemode creative
+/gamemode survival
+/gamemode creative
 /gamemode survival

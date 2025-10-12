@@ -1,4 +1,4 @@
-filename = 'industrialforegoing-1.21-3.6.35.jar'
+filename = 'industrialforegoing-1.21-3.6.36.jar'
 name = 'Industrial Foregoing'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'ea8a69bf09ba7a8db39301818256be388572a53d'
+hash = '9b8f1cf49d45a0a297c8edfb4e1e39bab637a33b'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7068972
+file-id = 7073719
 project-id = 266515

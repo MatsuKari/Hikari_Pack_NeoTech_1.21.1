@@ -1,4 +1,4 @@
-filename = 'growthacceleratortiers-1.0.3_neoforge_1.21.1.jar'
+filename = 'growthacceleratortiers-1.0.4_neoforge_1.21.1.jar'
 name = 'Growth Accelerator Tiers'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '64101810c87bb8cd71c7052863ca8a150a5f7c31'
+hash = 'c1b449c50b755204b120cce44e885868da85d80d'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6918890
+file-id = 7092792
 project-id = 1316818

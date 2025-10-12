@@ -1,12 +1,13 @@
-filename = 'EuphoriaPatcher-1.7.0-r5.6-neoforge.jar'
-name = 'Euphoria Patches'
-side = 'client'
+filename = 'EuphoriaPatcher-1.7.2-r5.6.1-neoforge.jar'
+name = 'Euphoria Patcher'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [
     '1.20.5',
     '1.20.6',
     '1.21',
     '1.21.1',
+    '1.21.10',
     '1.21.2',
     '1.21.3',
     '1.21.4',
@@ -19,11 +20,11 @@ x-prismlauncher-mc-versions = [
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '6c802e34fe8e1bf0a789dbd62d059971578e7d194d1142039b82f72a29e9ac7561007a891c6a91fbfc7e66f0d71a9c221838be2144556ea222241eba10a37f61'
+hash = 'd9fa5d55670a80ef80c612af38c3f7bf172202201ea67f7398a3a8c828ca626fcdf2d111478df3941ce08a49872fe9e5cd2b0a8775be32f5cd10be33d7b83f1c'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/4H6sumDB/versions/XRFbbGvQ/EuphoriaPatcher-1.7.0-r5.6-neoforge.jar'
+url = 'https://cdn.modrinth.com/data/4H6sumDB/versions/yaSayjbD/EuphoriaPatcher-1.7.2-r5.6.1-neoforge.jar'
 
 [update.modrinth]
 mod-id = '4H6sumDB'
-version = 'XRFbbGvQ'
+version = 'yaSayjbD'
