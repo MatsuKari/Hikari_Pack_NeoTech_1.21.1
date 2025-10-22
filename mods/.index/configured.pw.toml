@@ -1,4 +1,4 @@
-filename = 'configured-neoforge-1.21.1-2.6.0.jar'
+filename = 'configured-neoforge-1.21.1-2.6.2.jar'
 name = 'Configured'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'f118a9d2172368300627737b257bd2c0fb89e4d5'
+hash = '2f93de329681c11e03692c424f276d5041960946'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5873783
+file-id = 7122915
 project-id = 457570

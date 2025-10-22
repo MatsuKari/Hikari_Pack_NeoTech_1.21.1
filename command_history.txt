@@ -1,50 +1,50 @@
-/locate structure minecraft:fortress
-/gamemode survival
-/gamemode spectator
-/locate structure minecraft:fortress
-/tp @s 1568 ~ 192
-/gamemode
-/gamemode survival
-/kubejs hand
-/reload
-/reloa
-/reload
-/kubejs hand
-/reload
-/locate structure minecraft:ancient_city
-/tp @s 144 ~ 992
-/gamemode spectator
-/gamemode survival
-/gamerule keepInventory
-/summon minecraft:warden
-/datapack list enabled
-/datapack list available
-/reload
-/summon minecraft:villager
-/tiab addTime 999999
-/gamerule keepInventory
-/gamerule keepInventory false
-/kill
-/summon minecraft:villager
-/gamemode creative
-/gamemode survival
-/xp set MatsuKari 27 levels
-/summon minecraft:villager
-/gamemode survival
-/gamemode spectator
-/gamemode survival
-/gamemode spectator
-/gamemode survival
-/gamerule keepInventory
-/gamerule keepInventory true
-/reload
-/locate structure minecraft:stronghold
-/gamemode creative
-/tp @s -192 ~ 1504
-/gamemode survival
-/gamemode spectator
 /seed
 /gamemode creative
 /gamemode survival
 /gamemode creative
 /gamemode survival
+/gamemode spectator
+/gamemode survival
+/locate structure minecraft:bastion_remnant
+/gamemode spectator
+/tp @s 160 ~ -416
+/locate structure minecraft:bastion_remnant
+/tp @s 1024 ~ 144
+/locate structure minecraft:bastion_remnant
+/tp @s 1440 ~ -736
+/locate structure minecraft:bastion_remnant
+/tp @s 2784 ~ -624
+/locate structure minecraft:bastion_remnant
+/tp @s 1744 ~ -240
+/locate structure minecraft:bastion_remnant
+/tp @s 2192 ~ -1408
+/gamemode survival
+/gamemode spectator
+/gamemode survival
+/gamemode spectator
+/gamemode survival
+/locate biome minecraft:end_highlands
+/tp @s 841 58 -704
+/gamemode spectator
+/gamemode survival
+/gamemode spectator
+/gamemode survival
+/gamemode spectator
+/gamemode survival
+/gamemode spectator
+/gamemode survival
+/gamemode spectator
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamerule doDaylightCycle

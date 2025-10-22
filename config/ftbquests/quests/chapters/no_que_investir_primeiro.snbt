@@ -638,7 +638,7 @@
 				consume_items: false
 				id: "790769FA29E93F2A"
 				item: { count: 1, id: "sophisticatedbackpacks:netherite_backpack" }
-				only_from_crafting: true
+				only_from_crafting: false
 				type: "item"
 			}]
 			x: -8.0d

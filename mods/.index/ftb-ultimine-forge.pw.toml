@@ -1,4 +1,4 @@
-filename = 'ftb-ultimine-neoforge-2101.1.10.jar'
+filename = 'ftb-ultimine-neoforge-2101.1.11.jar'
 name = 'FTB Ultimine'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '417ab773ad0c0f15f8696363c7cc7fd7348dae6c'
+hash = 'e17ef9635ae25c4fc2c44e6d4d1cc08e05d131f7'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7025219
+file-id = 7133742
 project-id = 386134

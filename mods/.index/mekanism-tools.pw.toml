@@ -1,5 +1,5 @@
 filename = 'MekanismTools-1.21.1-10.7.16.82.jar'
-name = 'Mekanism: Tools'
+name = 'Mekanism Tools'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

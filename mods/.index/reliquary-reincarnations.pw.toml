@@ -1,4 +1,4 @@
-filename = 'reliquary-1.21.1-2.0.61.1305.jar'
+filename = 'reliquary-1.21.1-2.0.62.1310.jar'
 name = 'Reliquary Reincarnations'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '4a44d2a4460bfa093642091d885ec6348841eb79'
+hash = '00d780d453e3e3db640f42b9fa9d468e8253b7d2'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7010155
+file-id = 7117855
 project-id = 241319
