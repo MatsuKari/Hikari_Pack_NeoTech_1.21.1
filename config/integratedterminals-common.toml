@@ -65,3 +65,5 @@
 		versionChecker = true
 		#If client-directed packets should be serialized in a separate thread.
 		packetSerializationEnableMultithreading = true
+		#If client-received packets should be deserialized in a separate thread.
+		packetDeserializationEnableMultithreading = true

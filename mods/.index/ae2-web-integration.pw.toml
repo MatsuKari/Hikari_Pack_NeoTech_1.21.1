@@ -1,0 +1,16 @@
+filename = 'ae2webintegration-1.0.0-neoforge-1.21.1.jar'
+name = 'AE2 Web Integration'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a2c4e912580a6e689b829832e8d39609b2df88b137a0c43fea5426fe1ae0da30837ad69617c83e445f746e82d01e8a9683502cd30fea4febf718d8614ca36651'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8MGTfmHF/versions/aV7hn1Pl/ae2webintegration-1.0.0-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = '8MGTfmHF'
+version = 'aV7hn1Pl'

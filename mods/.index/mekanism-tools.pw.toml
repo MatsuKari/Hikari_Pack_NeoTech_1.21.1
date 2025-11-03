@@ -1,16 +1,16 @@
-filename = 'MekanismTools-1.21.1-10.7.16.82.jar'
-name = 'Mekanism Tools'
+filename = 'MekanismTools-1.21.1-10.7.17.83.jar'
+name = 'Mekanism: Tools'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '981a545dd867038f3e44def1e56f33336aaf4d9e'
+hash = '91c9c2c8ee1e58f10b765d64f1e59b1a2b11a64b'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7017667
+file-id = 7132172
 project-id = 268567

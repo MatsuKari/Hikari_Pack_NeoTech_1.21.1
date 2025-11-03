@@ -1,16 +1,16 @@
-filename = 'integratedterminals-1.21.1-neoforge-1.6.17.jar'
+filename = 'integratedterminals-1.21.1-neoforge-1.6.17-617.jar'
 name = 'IntegratedTerminals'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '53fe8d1cf563562b042cca1c0f2eb48fe3e67d00'
+hash = '065a7dac06657acda5a077042d0d070a7696336b'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7117029
+file-id = 7146703
 project-id = 295910

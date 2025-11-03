@@ -1,4 +1,4 @@
-filename = 'mekmm-1.21.1-1.0.5.jar'
+filename = 'mekmm-1.21.1-1.0.6.jar'
 name = 'Mekanism: MoreMachine'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '9a735d2465fc9d8a3bce75417ac0331ab91d0a06'
+hash = '8f267715458e8caecd7a9c4bda2bd9c6f61b20b8'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7019511
+file-id = 7135942
 project-id = 1275257

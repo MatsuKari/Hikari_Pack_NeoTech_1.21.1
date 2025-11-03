@@ -1,16 +1,16 @@
-filename = 'kubejs-mekanism-neoforge-2101.1.6-build.6.jar'
+filename = 'kubejs-mekanism-neoforge-2101.1.7-build.13.jar'
 name = 'KubeJS Mekanism'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = 'a3aafe7e047968d990dc9eb13c0e1c9f48da0127'
+hash = '40d56e38ae0504ed786745cd3fddd8550a85fb20'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5697210
+file-id = 7105866
 project-id = 418651

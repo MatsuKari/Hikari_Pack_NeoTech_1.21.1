@@ -1,50 +1,50 @@
-/seed
+/locate structure minecraft:monument
+/tp @s -304 ~ -1360
+/gamerule doWeatherCycle
+/gamerule doWeatherCycle true
+/weather thunder
+/locate biome minecraft:mangrove_swamp
+/tp @s -176 63 513
+/reload
+/locate poi minecraft:bee_nest
+/tp @s 442 ~ 200
+/locate poi minecraft:beehive
+/locate poi minecraft:bee_nest
+/tp @s 681 ~ -195
+/locate poi minecraft:bee_nest
+/tp @s 853 ~ -188
+/locate poi minecraft:bee_nest
+/tp @s 1121 ~ 573
+/locate poi minecraft:bee_nest
+/tp @s 1222 ~ 358
+/weather clear
+/gamerule doWeatherCycle false
+/locate poi minecraft:bee_nest
+/tp @s 442 ~ 200
+/locate poi minecraft:bee_nest
+/tp @s 615 ~ 227
+/locate poi minecraft:bee_nest
+/tp @s 753 ~ 98
+/setblock ~ ~ ~ minecraft:bee_nest{BlockStateTag:{honey_level:5}}
+/setblock ~ ~ ~ minecraft:bee_nest{BlockStateTag:{honey_level:1}}
+/give MatsuKari beehive{BlockStateTag:{honey_level:"5"}} 1
+/give @p minecraft:beehive[minecraft:block_state={honey_level: "5"}] 1
 /gamemode creative
 /gamemode survival
-/gamemode creative
-/gamemode survival
+/give @p minecraft:beehive[minecraft:block_state={honey_level: "5"}] 1
+/locate poi minecraft:bee_nest
+/tp @s 753 ~ 98
+/locate poi minecraft:bee_nest
+/tp @s 1171 ~ -562
 /gamemode spectator
 /gamemode survival
-/locate structure minecraft:bastion_remnant
-/gamemode spectator
-/tp @s 160 ~ -416
-/locate structure minecraft:bastion_remnant
-/tp @s 1024 ~ 144
-/locate structure minecraft:bastion_remnant
-/tp @s 1440 ~ -736
-/locate structure minecraft:bastion_remnant
-/tp @s 2784 ~ -624
-/locate structure minecraft:bastion_remnant
-/tp @s 1744 ~ -240
-/locate structure minecraft:bastion_remnant
-/tp @s 2192 ~ -1408
-/gamemode survival
+/tp @s 1171 ~ -562
 /gamemode spectator
 /gamemode survival
+/reload
+/locate biome minecraft:mangrove_swamp
+/tp @s -43 71 574
+/kubejs hand
 /gamemode spectator
 /gamemode survival
-/locate biome minecraft:end_highlands
-/tp @s 841 58 -704
-/gamemode spectator
-/gamemode survival
-/gamemode spectator
-/gamemode survival
-/gamemode spectator
-/gamemode survival
-/gamemode spectator
-/gamemode survival
-/gamemode spectator
-/gamemode survival
-/gamemode creative
-/gamemode survival
-/gamemode creative
-/gamemode survival
-/gamemode creative
-/gamemode survival
-/gamemode creative
-/gamemode survival
-/gamemode creative
-/gamemode survival
-/gamemode creative
-/gamemode survival
-/gamerule doDaylightCycle
+/reload

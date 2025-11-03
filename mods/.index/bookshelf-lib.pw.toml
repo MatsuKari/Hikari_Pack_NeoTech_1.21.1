@@ -1,4 +1,4 @@
-filename = 'bookshelf-neoforge-1.21.1-21.1.77.jar'
+filename = 'bookshelf-neoforge-1.21.1-21.1.78.jar'
 name = 'Bookshelf'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'd2a29b701928743ed65edbb3de14a78c83fd2c237754504568d626a0c8d90cb6bb1b2a7da763059b823ca239a68edbbda0e6a9c5a16d297a1b7ab79ff1cca8e8'
+hash = 'ffc711fd16eab6d05f6c8b558f7bd57fb8961898533458a8b6fe424eeced7bac308725c7a08915e86eca612f188cceddcfc09fb4d6356b65dea25879ed0ab303'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/uy4Cnpcm/versions/FCWZI9Zk/bookshelf-neoforge-1.21.1-21.1.77.jar'
+url = 'https://cdn.modrinth.com/data/uy4Cnpcm/versions/NuBaoVg8/bookshelf-neoforge-1.21.1-21.1.78.jar'
 
 [update.modrinth]
 mod-id = 'uy4Cnpcm'
-version = 'FCWZI9Zk'
+version = 'NuBaoVg8'
