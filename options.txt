@@ -253,7 +253,6 @@ key_key.ftbultimine:key.mouse.4
 key_ftbultimine.change_shape.next:key.keyboard.up
 key_ftbultimine.change_shape.prev:key.keyboard.down
 key_key.ftbteams.open_gui:key.keyboard.unknown
-key_key.ftbquests.quests:key.keyboard.unknown
 key_key.ftbchunks.map:key.keyboard.unknown
 key_key.ftbchunks.toggle_minimap:key.keyboard.unknown
 key_key.ftbchunks.claim_manager:key.keyboard.unknown
@@ -261,6 +260,7 @@ key_key.ftbchunks.minimap.zoomIn:key.keyboard.unknown
 key_key.ftbchunks.minimap.zoomOut:key.keyboard.unknown
 key_key.ftbchunks.add_waypoint:key.keyboard.unknown
 key_key.ftbchunks.waypoint_manager:key.keyboard.unknown
+key_key.ftbquests.quests:key.keyboard.unknown
 key_justdirethings.key.toggle_tool:key.keyboard.unknown
 key_justdirethings.key.toolUI:key.keyboard.unknown
 key_key.kubejs.kubedex:key.keyboard.unknown
@@ -369,8 +369,8 @@ key_darksteel.upgrade.flight.keybind:key.keyboard.g
 key_darksteel.upgrade.nightvision.keybind:key.keyboard.v
 key_key.easy_villagers.pick_up:key.keyboard.unknown
 key_key.easy_villagers.cycle_trades:key.keyboard.unknown
-key_legendarytooltips.key.scrollTooltips:key.keyboard.left.shift
 key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
+key_legendarytooltips.key.scrollTooltips:key.keyboard.left.shift
 key_keybind.reliquary.fortune_coin:key.keyboard.unknown
 key_key.irons_spellbooks.spell_wheel:key.keyboard.r
 key_key.irons_spellbooks.spell_wheel_toggle:key.keyboard.unknown

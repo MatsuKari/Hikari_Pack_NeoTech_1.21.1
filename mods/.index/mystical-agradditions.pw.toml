@@ -1,4 +1,4 @@
-filename = 'MysticalAgradditions-1.21.1-8.0.9.jar'
+filename = 'MysticalAgradditions-1.21.1-8.0.10.jar'
 name = 'Mystical Agradditions'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'f267c58d8a4a5ea19e4744416b7d6f59c08addd6'
+hash = '7d213dfee620b09195744c2d3736f49bb6a11890'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6875207
+file-id = 7180792
 project-id = 256247

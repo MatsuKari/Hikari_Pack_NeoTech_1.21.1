@@ -1,9 +1,3 @@
-/locate structure minecraft:monument
-/tp @s -304 ~ -1360
-/gamerule doWeatherCycle
-/gamerule doWeatherCycle true
-/weather thunder
-/locate biome minecraft:mangrove_swamp
 /tp @s -176 63 513
 /reload
 /locate poi minecraft:bee_nest
@@ -48,3 +42,9 @@
 /gamemode spectator
 /gamemode survival
 /reload
+/locate biome minecraft:flower_forest
+/tp @s 1206 71 319
+/summon minecraft:chicken
+/locate biome minecraft:swamp
+/tp @s 1208 70 989
+/summon minecraft:slime
