@@ -204,7 +204,7 @@
 
 ["Hive Upgrades"]
 	#Time bonus gained from time upgrade. 0.2 means 20% reduction of a bee's time inside the hive or centrifuge processing time.
-	# Default: 0.2
+	# Default: 0.15
 	# Range: 0.0 ~ 1.0
 	timeBonus = 0.2
 	#Multiplier per productivity alpha upgrade installed in the hive.

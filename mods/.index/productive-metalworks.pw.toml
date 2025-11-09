@@ -1,4 +1,4 @@
-filename = 'productivemetalworks-1.21.1-1.13.0.jar'
+filename = 'productivemetalworks-1.21.1-1.13.1.jar'
 name = 'Productive Metalworks'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '0877ce76db6443511cea346449c8a1e0064f2964'
+hash = '16f6003dfff3b2118957271389cc7b3f032349a9'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7146137
+file-id = 7186059
 project-id = 1184570

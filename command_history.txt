@@ -1,31 +1,3 @@
-/tp @s -176 63 513
-/reload
-/locate poi minecraft:bee_nest
-/tp @s 442 ~ 200
-/locate poi minecraft:beehive
-/locate poi minecraft:bee_nest
-/tp @s 681 ~ -195
-/locate poi minecraft:bee_nest
-/tp @s 853 ~ -188
-/locate poi minecraft:bee_nest
-/tp @s 1121 ~ 573
-/locate poi minecraft:bee_nest
-/tp @s 1222 ~ 358
-/weather clear
-/gamerule doWeatherCycle false
-/locate poi minecraft:bee_nest
-/tp @s 442 ~ 200
-/locate poi minecraft:bee_nest
-/tp @s 615 ~ 227
-/locate poi minecraft:bee_nest
-/tp @s 753 ~ 98
-/setblock ~ ~ ~ minecraft:bee_nest{BlockStateTag:{honey_level:5}}
-/setblock ~ ~ ~ minecraft:bee_nest{BlockStateTag:{honey_level:1}}
-/give MatsuKari beehive{BlockStateTag:{honey_level:"5"}} 1
-/give @p minecraft:beehive[minecraft:block_state={honey_level: "5"}] 1
-/gamemode creative
-/gamemode survival
-/give @p minecraft:beehive[minecraft:block_state={honey_level: "5"}] 1
 /locate poi minecraft:bee_nest
 /tp @s 753 ~ 98
 /locate poi minecraft:bee_nest
@@ -48,3 +20,31 @@
 /locate biome minecraft:swamp
 /tp @s 1208 70 989
 /summon minecraft:slime
+/summon minecraft:chicken
+/locate biome minecraft:lush_caves
+/tp @s 468 7 512
+/locate biome minecraft:warm_ocean
+/tp @s 272 70 13
+/locate structure minecraft:ocean_ruin_warm
+/tp @s 0 ~ 32
+/reload
+/summon minecraft:chicken
+/locate biome minecraft:crimson_forest
+/tp @s -128 73 261
+/locate biome minecraft:bamboo_jungle
+/tp @s 176 71 656
+/reload
+/kubejs hand
+/reload
+/iconexporter config general.defaultScale 128
+/iconexporter config general.defaultScale 500
+/iconexporter config general.defaultScale 192
+/iconexporter export 192
+/reload
+/locate biome minecraft:deep_ocean
+/tp @s 1404 64 1282
+/gamerule randomTickSpeed 50
+/gamerule randomTickSpeed 300
+/gamerule randomTickSpeed 800
+/gamerule randomTickSpeed 3000
+/gamerule randomTickSpeed 3

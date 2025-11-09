@@ -5,5 +5,6 @@
   "mekanism:tile.machine.compressor": 0.0,
   "mekanism:tile.machine.energized_smelter": 0.0,
   "mekanism:tile.machine.electrolytic_separator": 0.0,
-  "mekanism:tile.machine.enrichment_chamber": 0.0
+  "mekanism:tile.machine.enrichment_chamber": 0.0,
+  "minecraft:block.dispenser.fail": 0.0
 }
