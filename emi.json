@@ -432,9 +432,6 @@
       "stack": "item:occultism:ritual_dummy/possess_elder_guardian"
     },
     {
-      "stack": "item:productivebees:feeder"
-    },
-    {
       "stack": "item:minecraft:skeleton_skull"
     },
     {
@@ -631,107 +628,6 @@
       "stack": "item:mifa:speed_addon_3{\"titanium:augments\":{Speed:4.0f}}"
     },
     {
-      "stack": "item:minecraft:honey_bottle"
-    },
-    {
-      "stack": "item:minecraft:heart_of_the_sea",
-      "recipe": "mysticalagriculture:essence/minecraft/heart_of_the_sea"
-    },
-    {
-      "stack": "item:mysticalagriculture:prismarine_essence"
-    },
-    {
-      "stack": "item:minecraft:nautilus_shell"
-    },
-    {
-      "stack": "item:minecraft:nautilus_shell",
-      "recipe": "mysticalagriculture:essence/minecraft/nautilus_shell"
-    },
-    {
-      "stack": "item:mysticalagriculture:fish_essence"
-    },
-    {
-      "stack": "item:mysticalagriculture:diamond_essence"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "mysticalagriculture:squid_seeds",
-        "chance": 0.0
-      }
-    },
-    {
-      "stack": "item:mysticalagriculture:soul_jar{\"mysticalagriculture:soul_jar\":{souls:6.0d,type:\"mysticalagriculture:squid\"}}"
-    },
-    {
-      "stack": "item:mysticalagriculture:soul_extractor"
-    },
-    {
-      "stack": "item:mysticalagriculture:soulium_dagger"
-    },
-    {
-      "stack": "item:mysticalagriculture:soulium_ingot"
-    },
-    {
-      "stack": "item:mysticalagriculture:machine_frame"
-    },
-    {
-      "stack": "item:mysticalagriculture:soulium_ingot",
-      "recipe": "mysticalagriculture:soulium_ingot"
-    },
-    {
-      "stack": "item:mysticalagriculture:soulium_dust"
-    },
-    {
-      "stack": "item:minecraft:golden_sword"
-    },
-    {
-      "stack": "item:mysticalagriculture:soul_jar"
-    },
-    {
-      "stack": "item:mysticalagriculture:soul_dust"
-    },
-    {
-      "stack": "item:mysticalagriculture:soulstone_smooth"
-    },
-    {
-      "stack": "item:mysticalagriculture:soulstone"
-    },
-    {
-      "stack": "item:forbidden_arcanus:tentacle"
-    },
-    {
-      "stack": "item:mysticalagriculture:upgrade_base"
-    },
-    {
-      "stack": "item:mysticalagriculture:inferium_upgrade"
-    },
-    {
-      "stack": "item:mysticalagriculture:prudentium_upgrade"
-    },
-    {
-      "stack": "item:mysticalagriculture:tertium_upgrade"
-    },
-    {
-      "stack": "item:mysticalagriculture:imperium_upgrade"
-    },
-    {
-      "stack": "item:mysticalagriculture:supremium_upgrade"
-    },
-    {
-      "stack": "item:mysticalagriculture:soulium_seed_base"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "mysticalagriculture:prismarine_seeds",
-        "chance": 0.0
-      }
-    },
-    {
-      "stack": "item:mysticalagriculture:prismarine_agglomeratio"
-    },
-    {
       "stack": {
         "type": "item",
         "id": "mysticalagriculture:diamond_seeds",
@@ -749,33 +645,162 @@
       }
     },
     {
-      "stack": "item:productivebees:heated_centrifuge"
+      "stack": "bee:productivebees:/insanium"
     },
     {
-      "stack": "item:productivebees:centrifuge"
+      "stack": "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:insanium\"}}"
     },
     {
-      "stack": "item:minecraft:grindstone"
+      "stack": "item:mysticalagradditions:insanium_block"
     },
     {
-      "stack": "item:create:transmitter"
+      "stack": "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:supremium\"}}"
     },
     {
-      "stack": "item:create:andesite_casing"
+      "stack": "item:mysticalagriculture:supremium_block"
     },
     {
-      "stack": "item:sophisticatedstorage:pickup_upgrade"
+      "stack": "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:prosperity\"}}"
     },
     {
-      "stack": "item:sophisticatedstorage:upgrade_base"
+      "stack": "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:prosperity\"}}",
+      "recipe": "productivebees:/prosperity_incubation"
+    },
+    {
+      "stack": "bee:productivebees:/prosperity"
+    },
+    {
+      "stack": "item:mysticalagriculture:prosperity_block"
+    },
+    {
+      "stack": "bee:productivebees:/crystalline"
+    },
+    {
+      "stack": "item:productivebees:feeder"
+    },
+    {
+      "stack": "item:productivebees:nether_quartz_nest"
+    },
+    {
+      "stack": "item:productivebees:quartz_netherrack"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:egg",
+        "amount": 8
+      },
+      "recipe": "mysticalagriculture:essence/minecraft/egg"
+    },
+    {
+      "stack": "item:mysticalagriculture:chicken_essence"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "mysticalagriculture:chicken_seeds",
+        "chance": 0.0
+      }
+    },
+    {
+      "stack": "item:mysticalagriculture:soul_jar{\"mysticalagriculture:soul_jar\":{souls:8.0d,type:\"mysticalagriculture:chicken\"}}"
+    },
+    {
+      "stack": "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:imperium\"}"
+    },
+    {
+      "stack": "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:imperium\"}"
+    },
+    {
+      "stack": "bee:productivebees:/imperium"
+    },
+    {
+      "stack": "bee:productivebees:/fluix"
+    },
+    {
+      "stack": "bee:productivebees:/spacial"
+    },
+    {
+      "stack": "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:fluix\"}",
+      "recipe": "productivebees:bee_produce/appliedenergistics2/fluix_bee"
+    },
+    {
+      "stack": "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:fluix\"}",
+      "recipe": "productivebees:fluix_honeycomb"
     }
   ],
   "lookup_history": [
+    "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:fluix\"}",
+    "bee:productivebees:/fluix",
+    {
+      "type": "item",
+      "id": "mysticalagradditions:insanium_essence",
+      "amount": 9
+    },
+    "item:mysticalagriculture:supremium_block",
+    "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:supremium\"}}",
+    "item:mysticalagriculture:inferium_block",
+    "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:inferium\"}}",
+    "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:imperium\"}",
+    {
+      "type": "item",
+      "id": "productivebees:configurable_honeycomb",
+      "nbt": "{\"productivebees:bee_type\":\"productivebees:insanium\"}",
+      "chance": 0.4
+    },
+    "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:imperium\"}}",
+    "item:mysticalagriculture:imperium_block",
+    "item:mysticalagriculture:imperium_essence",
+    {
+      "type": "item",
+      "id": "productivebees:configurable_comb",
+      "nbt": "{\"productivebees:bee_type\":\"productivebees:prosperity\"}",
+      "amount": 16
+    },
+    {
+      "type": "item",
+      "id": "productivebees:draconic_dust",
+      "amount": 36
+    },
+    {
+      "type": "item",
+      "id": "productivebees:configurable_comb",
+      "nbt": "{\"productivebees:bee_type\":\"productivebees:draconic\"}",
+      "amount": 64
+    },
+    "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:prosperity\"}}",
+    "item:minecraft:egg",
+    {
+      "type": "item",
+      "id": "mysticalagriculture:chicken_seeds",
+      "chance": 0.0
+    },
+    "item:mysticalagriculture:soul_jar{\"mysticalagriculture:soul_jar\":{souls:8.0d,type:\"mysticalagriculture:chicken\"}}",
+    "item:minecraft:tropical_fish",
+    "item:mysticalagriculture:chicken_essence",
+    "bee:productivebees:/crystalline",
+    "bee:productivebees:/prosperity",
+    "item:productivebees:honey_treat{\"productivebees:gene_group_list\":[{attribute:\"type\",purity:100,value:\"productivebees:prosperity\"}]}",
+    "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:insanium\"}}",
+    "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:tertium\"}}",
+    "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:prudentium\"}}",
+    {
+      "type": "item",
+      "id": "productivebees:bee_cage",
+      "nbt": "{\"minecraft:custom_data\":{Age:0,AngerTime:0,ArmorItems:[{},{},{},{}],FireType:\"minecraft:\",ForcedAge:0,HandItems:[{},{}],HasConverted:0b,HasNectar:0b,HasStung:0b,Health:10.0f,HivePos:[I;56,73,4],Invulnerable:0b,MaxHealth:10.0f,NeoForgeData:{},PersistenceRequired:0b,Tags:[\"refresh_entity_exists\"],attributes:[{base:0.0d,id:\"minecraft:generic.armor\",modifiers:[{amount:4.0d,id:\"apotheosis:frontier/armor\",operation:\"add_value\"}]},{base:0.30000001192092896d,id:\"minecraft:generic.movement_speed\"},{base:0.0d,id:\"minecraft:generic.oxygen_bonus\"}],bee_type:\"hive\",breathCollectionCooldown:600,entity:\"productivebees:configurable_bee\",isProductiveBee:1b,mod:\"FMLModContainer\",name:\"Crystalline Bee\",\"neoforge:attachments\":{\"accessories:inventory_holder\":{},\"apotheosis:tier_augments_applied\":1b,\"productivebees:attributes_handler\":{bee_behavior:\"behavior.diurnal\",bee_endurance:\"endurance.medium\",bee_productivity:\"productivity.high\",bee_temper:\"temper.normal\",bee_weather_tolerance:\"weather_tolerance.none\"},\"twilightforest:fortification_shields\":{permanent_shields:0,temporary_shields:0}},type:\"productivebees:crystalline\"}}",
+      "amount": 2
+    },
+    "item:mysticalagriculture:prosperity_block",
+    "item:minecraft:iron_sword",
+    "item:productivebees:nether_quartz_nest",
+    "item:productivebees:quartz_netherrack",
+    "item:minecraft:nether_quartz_ore",
+    "item:productivebees:feeder",
+    "item:minecraft:smooth_stone_slab",
+    "item:minecraft:redstone",
     "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:draconic\"}",
     "item:mob_grinding_utils:mob_swab",
     "item:minecraft:honeycomb",
-    "item:productivebees:honey_treat",
-    "item:productivebees:feeder",
     "item:create:pulse_timer",
     "#item:c:plates/brass",
     {
@@ -785,7 +810,6 @@
     },
     "bee:productivebees:/draconic",
     "item:minecraft:mangrove_fence",
-    "item:productivebees:bee_cage{\"minecraft:custom_data\":{Age:0,AngerTime:505,AngryAt:[I;-148094256,668943337,-1369942804,81194581],ArmorItems:[{},{},{},{}],FireType:\"minecraft:\",ForcedAge:0,HandItems:[{},{}],HasConverted:0b,HasNectar:0b,HasStung:0b,Health:10.0f,Invulnerable:0b,MaxHealth:10.0f,NeoForgeData:{},PersistenceRequired:0b,Tags:[\"refresh_entity_exists\"],attributes:[{base:0.0d,id:\"minecraft:generic.oxygen_bonus\"},{base:0.0d,id:\"minecraft:generic.armor\",modifiers:[{amount:4.0d,id:\"apotheosis:frontier/armor\",operation:\"add_value\"}]},{base:0.30000001192092896d,id:\"minecraft:generic.movement_speed\"},{base:2.0d,id:\"minecraft:generic.attack_damage\"}],bee_type:\"hive\",breathCollectionCooldown:600,entity:\"productivebees:configurable_bee\",isProductiveBee:1b,mod:\"FMLModContainer\",name:\"Prismarine Bee\",\"neoforge:attachments\":{\"accessories:inventory_holder\":{},\"apotheosis:tier_augments_applied\":1b,\"productivebees:attributes_handler\":{bee_behavior:\"behavior.diurnal\",bee_endurance:\"endurance.weak\",bee_productivity:\"productivity.medium\",bee_temper:\"temper.hostile\",bee_weather_tolerance:\"weather_tolerance.any\"},\"twilightforest:fortification_shields\":{permanent_shields:0,temporary_shields:0}},type:\"productivebees:prismarine\"}}",
     "item:minecraft:fishing_rod{\"minecraft:enchantments\":{levels:{\"minecraft:luck_of_the_sea\":3}},\"minecraft:repair_cost\":1}",
     "item:minecraft:writable_book",
     "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:luck_of_the_sea\":3}}}",
@@ -848,7 +872,6 @@
     "item:integrateddynamics:menril_berries",
     "item:integrateddynamics:menril_log",
     "item:mysticalagradditions:insanium_farmland",
-    "item:mysticalagradditions:insanium_essence",
     "item:allthemodium:allthemodium_upgrade_smithing_template",
     "item:allthemodium:allthemodium_hoe",
     "item:allthemodium:allthemodium_rod",
@@ -1051,7 +1074,6 @@
     "item:occultism:ritual_dummy/possess_phantom",
     "item:occultism:chalk_rainbow",
     "item:elevatorid:elevator_white",
-    "item:productivebees:draconic_dust",
     "item:minecraft:sea_lantern",
     "item:productivelib:upgrade_productivity_2",
     "item:minecraft:echo_shard",
@@ -1358,18 +1380,8 @@
     "#item:botanypots:soil/dirt",
     "item:minecraft:melon_seeds",
     "item:botanypots:terracotta_hopper_botany_pot",
-    "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:imperium\"}}",
-    "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:supremium\"}}",
-    "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:insanium\"}}",
-    "bee:productivebees:/insanium",
     "item:matc:supremium_crystal",
     "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:insanium\"}",
-    {
-      "type": "item",
-      "id": "productivebees:configurable_honeycomb",
-      "nbt": "{\"productivebees:bee_type\":\"productivebees:insanium\"}",
-      "chance": 0.4
-    },
     {
       "type": "item",
       "id": "minecraft:mangrove_roots",
@@ -1406,7 +1418,6 @@
     "item:enderio:slice_and_splice",
     "item:justdirethings:eclipsealloy_axe",
     "item:minecraft:armor_stand",
-    "item:minecraft:smooth_stone_slab",
     "item:enderio:soul_vial",
     "item:enderio:soularium_nugget",
     "item:industrialforegoing:iron_gear",
@@ -1488,7 +1499,6 @@
     "item:mysticalagriculture:prosperity_seed_base",
     "item:mysticalagriculture:netherite_seeds",
     "item:mysticalagriculture:supremium_essence",
-    "item:mysticalagriculture:imperium_essence",
     "item:mysticalagriculture:tertium_essence",
     "item:mysticalagriculture:prudentium_essence",
     "item:mysticalagriculture:master_infusion_crystal",
@@ -1581,7 +1591,7 @@
     "item:powah:dielectric_rod_horizontal",
     "item:powah:dielectric_rod",
     "item:minecraft:iron_bars",
-    "item:reliquary:potion{\"minecraft:potion_contents\":{custom_effects:[{amplifier:1b,duration:6750,id:\"minecraft:jump_boost\",\"neoforge:cures\":[\"milk\",\"protected_by_totem\"],show_icon:1b}]}}",
+    "item:reliquary:potion{\"minecraft:potion_contents\":{custom_effects:[{amplifier:1b,duration:6750,id:\"minecraft:jump_boost\",\"neoforge:cures\":[\"protected_by_totem\",\"milk\"],show_icon:1b}]}}",
     "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"apothic_attributes:vitality\"}}",
     "item:ae2:fluid_storage_cell_16k",
     "item:powah:dielectric_paste",
@@ -1593,7 +1603,6 @@
       "id": "ae2:sky_stone_block",
       "amount": 16
     },
-    "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:fluix\"}",
     "item:ae2:charged_certus_quartz_crystal",
     "item:ae2:condenser",
     "item:ae2:vibration_chamber",
@@ -2092,43 +2101,21 @@
     "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:weakness\"}}",
     "item:minecraft:compass",
     "item:easy_villagers:converter",
-    "item:minecraft:fletching_table",
-    "item:minecraft:emerald",
-    "item:justdirethings:gooblock_tier2",
-    "item:potionsmaster:gold_oresight_powder",
-    "item:potionsmaster:calcinated_redstone_oresight_powder",
-    "item:apotheosis:gold_upgrade_smithing_template",
-    "item:evilcraft:blood_extractor{\"cyclopscore:fluid_content\":{amount:5000,id:\"evilcraft:blood\"}}",
-    "item:evilcraft:dark_power_gem",
-    "item:mekanism:qio_drive_base",
-    "item:mekanism:qio_drive_hyper_dense",
-    "item:mekanism:qio_drive_time_dilating",
-    {
-      "type": "item",
-      "id": "mekanism:dust_iron",
-      "amount": 54
-    },
-    "item:mekanism:substrate",
-    "item:mekanism:basic_universal_cable",
-    "item:mekanism:dust_lead",
-    "item:mekanism:dust_uranium",
-    "item:alltheores:aluminum_dust",
-    "item:justdirethings:itemcollector",
-    "item:justdirethings:generatort1",
-    "item:alltheores:copper_ore_hammer",
-    "item:ae2:cable_pattern_provider",
-    "item:minecraft:golden_apple",
-    "item:minecraft:brewing_stand",
-    "item:forbidden_arcanus:growing_edelwood",
-    "#item:c:glass_panes/colorless",
-    "item:minecraft:loom",
-    "item:ae2:me_p2p_tunnel"
+    "item:minecraft:fletching_table"
   ],
   "craft_history": [
     "productivebees:honey_treat_gene",
+    "mysticalagriculture:supremium_block",
+    "mysticalagriculture:inferium_block",
+    "mysticalagriculture:supremium_essence_uncraft",
+    "mysticalagriculture:essence/minecraft/egg",
+    "minecraft:iron_sword",
+    "productivebees:quartz_netherrack",
+    "productivebees:feeder",
+    "minecraft:smooth_stone_slab",
+    "productivebees:/centrifuge/dusts/honeycomb_redstone_block",
     "mob_grinding_utils:recipe_mob_swab",
     "productivebees:honeycomb_from_block",
-    "productivebees:feeder",
     "create:crafting/logistics/pulse_timer",
     "productivebees:honey_treat_from_block",
     "minecraft:mangrove_fence",
@@ -2459,7 +2446,6 @@
     "kubejs:kjs/trident",
     "justdirethings:eclipsealloy_axe",
     "minecraft:armor_stand",
-    "minecraft:smooth_stone_slab",
     "enderio:slice_and_splice",
     "enderio:soul_vial",
     "enderio:soularium_nugget",
@@ -3075,7 +3061,6 @@
     "mekanism:chemical_tank/advanced",
     "mekanism:sps_port",
     "industrialforegoing:mob_crusher",
-    "minecraft:iron_sword",
     "integratedtunnels:crafting/part_importer_fluid",
     "integratedtunnels:crafting/part_interface_fluid",
     "mekanism:boiler_valve",
@@ -3142,13 +3127,7 @@
     "mekanism:upgrade/chemical",
     "mekanism:processing/uranium/hydrofluoric_acid_from_block",
     "productivebees:/centrifuge/gems/honeycomb_fluorite_block",
-    "mekanism:chemical_dissolution_chamber",
-    "occultism:crushing/obsidian_dust",
-    "mekanism:chemical_infusing/sulfuric_acid",
-    "mekanism:chemical_infusing/sulfur_trioxide",
-    "mekanism:oxidizing/sulfur_dioxide",
-    "productivebees:/centrifuge/dusts/honeycomb_sulfur_block",
-    "mekanism:chemical_oxidizer"
+    "mekanism:chemical_dissolution_chamber"
   ],
   "recipe_defaults": {
     "added": [],

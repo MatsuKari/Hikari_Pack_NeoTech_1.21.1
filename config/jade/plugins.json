@@ -134,6 +134,9 @@
     "milk_jar": true,
     "toaster": true
   },
+  "beer": {
+    "beer": true
+  },
   "storagedrawers": {
     "display.stacklimit": true,
     "main": true,
@@ -146,10 +149,6 @@
     "block": true,
     "entity": true,
     "entity_variant": true
-  },
-  "tombstone": {
-    "decorative_graves": true,
-    "player_graves": true
   },
   "apotheosis": {
     "adventure": true
