@@ -1,4 +1,4 @@
-filename = 'enderio-8.0.5-alpha.jar'
+filename = 'enderio-8.0.7-alpha.jar'
 name = 'Ender IO'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'alpha'
 
 [download]
-hash = '79348c1145ca53411b74520c738fa83b203d05d7'
+hash = 'e3636ea7ed47064f38b399ff03407a8c7934259c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7134432
+file-id = 7204349
 project-id = 64578

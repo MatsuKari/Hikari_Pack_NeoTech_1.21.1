@@ -727,11 +727,127 @@
     {
       "stack": "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:fluix\"}",
       "recipe": "productivebees:fluix_honeycomb"
+    },
+    {
+      "stack": "item:minecraft:raw_gold"
+    },
+    {
+      "stack": "bee:productivebees:/gold"
+    },
+    {
+      "stack": "bee:productivebees:/mason_bee"
+    },
+    {
+      "stack": "item:productivebees:nether_gold_nest"
+    },
+    {
+      "stack": "item:occultism:spawn_egg/marid"
+    },
+    {
+      "stack": {
+        "type": "fluid",
+        "id": "industrialforegoing:pink_slime",
+        "amount": 0
+      }
+    },
+    {
+      "stack": "bee:productivebees:/pink_slimy"
+    },
+    {
+      "stack": "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:pink_slimy\"}"
+    },
+    {
+      "stack": "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:pink_slimy\"}"
+    },
+    {
+      "stack": "item:productivebees:acacia_wood_nest"
+    },
+    {
+      "stack": "item:productivebees:cherry_wood_nest"
+    },
+    {
+      "stack": "item:productivebees:dark_oak_wood_nest"
+    },
+    {
+      "stack": "item:productivebees:end_stone_nest"
+    },
+    {
+      "stack": "item:productivebees:centrifuge"
     }
   ],
   "lookup_history": [
-    "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:fluix\"}",
+    "item:minecraft:stonecutter",
+    "item:ae2:fuzzy_card",
+    {
+      "type": "item",
+      "id": "productivebees:configurable_comb",
+      "nbt": "{\"productivebees:bee_type\":\"productivebees:draconic\"}",
+      "amount": 56
+    },
+    {
+      "type": "item",
+      "id": "minecraft:raw_gold",
+      "amount": 20
+    },
+    {
+      "type": "item",
+      "id": "productivebees:configurable_comb",
+      "nbt": "{\"productivebees:bee_type\":\"productivebees:gold\"}",
+      "amount": 64
+    },
+    "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:prosperity\"}",
+    "item:productivebees:heated_centrifuge",
+    "item:productivebees:inactive_dragon_egg",
+    "item:productivebees:powered_centrifuge",
+    "item:productivebees:centrifuge",
+    "item:productivebees:end_stone_nest",
+    "item:minecraft:grindstone",
+    "item:minecraft:copper_block",
+    "item:extendedae:io_bus_upgrade",
+    "item:ae2:item_storage_cell_256k",
+    "bee:productivebees:/spacial",
     "bee:productivebees:/fluix",
+    "bee:productivebees:/pink_slimy",
+    {
+      "type": "fluid",
+      "id": "industrialforegoing:pink_slime",
+      "amount": 0
+    },
+    "item:minecraft:redstone",
+    {
+      "type": "item",
+      "id": "productivebees:configurable_comb",
+      "nbt": "{\"productivebees:bee_type\":\"productivebees:emerald\"}",
+      "amount": 64
+    },
+    "bee:productivebees:/emerald",
+    "item:minecraft:iron_sword",
+    "bee:productivebees:/ender",
+    "bee:productivebees:/diamond",
+    "bee:productivebees:/slimy",
+    "item:productivebees:cherry_wood_nest",
+    "item:minecraft:wooden_sword",
+    "item:productivebees:acacia_wood_nest",
+    "bee:productivebees:/blue_banded_bee",
+    "bee:productivebees:/lapis",
+    "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:pink_slimy\"}",
+    "bee:productivebees:/gold",
+    {
+      "type": "item",
+      "id": "productivebees:bee_cage",
+      "nbt": "{\"minecraft:custom_data\":{Age:0,AngerTime:0,ArmorItems:[{},{},{},{}],FireType:\"minecraft:\",ForcedAge:0,HandItems:[{},{}],HasConverted:0b,HasNectar:0b,HasStung:0b,Health:10.0f,HivePos:[I;56,73,5],Invulnerable:0b,MaxHealth:10.0f,NeoForgeData:{},PersistenceRequired:0b,Tags:[\"refresh_entity_exists\"],attributes:[{base:0.30000001192092896d,id:\"minecraft:generic.movement_speed\"},{base:0.0d,id:\"minecraft:generic.armor\",modifiers:[{amount:4.0d,id:\"apotheosis:frontier/armor\",operation:\"add_value\"}]},{base:0.0d,id:\"minecraft:generic.oxygen_bonus\"}],bee_type:\"hive\",breathCollectionCooldown:600,entity:\"productivebees:configurable_bee\",isProductiveBee:1b,mod:\"FMLModContainer\",name:\"Gold Bee\",\"neoforge:attachments\":{\"accessories:inventory_holder\":{},\"apotheosis:tier_augments_applied\":1b,\"productivebees:attributes_handler\":{bee_behavior:\"behavior.diurnal\",bee_endurance:\"endurance.weak\",bee_productivity:\"productivity.normal\",bee_temper:\"temper.normal\",bee_weather_tolerance:\"weather_tolerance.none\"},\"twilightforest:fortification_shields\":{permanent_shields:0,temporary_shields:0}},type:\"productivebees:gold\"}}",
+      "amount": 2
+    },
+    "item:minecraft:diamond_sword",
+    "item:productivebees:nether_gold_nest",
+    "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:gold\"}",
+    {
+      "type": "item",
+      "id": "productivebees:configurable_comb",
+      "nbt": "{\"productivebees:bee_type\":\"productivebees:imperium\"}",
+      "amount": 64
+    },
+    "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:fluix\"}",
     {
       "type": "item",
       "id": "mysticalagradditions:insanium_essence",
@@ -753,20 +869,8 @@
     "item:mysticalagriculture:imperium_essence",
     {
       "type": "item",
-      "id": "productivebees:configurable_comb",
-      "nbt": "{\"productivebees:bee_type\":\"productivebees:prosperity\"}",
-      "amount": 16
-    },
-    {
-      "type": "item",
       "id": "productivebees:draconic_dust",
       "amount": 36
-    },
-    {
-      "type": "item",
-      "id": "productivebees:configurable_comb",
-      "nbt": "{\"productivebees:bee_type\":\"productivebees:draconic\"}",
-      "amount": 64
     },
     "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:prosperity\"}}",
     "item:minecraft:egg",
@@ -784,20 +888,12 @@
     "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:insanium\"}}",
     "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:tertium\"}}",
     "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:prudentium\"}}",
-    {
-      "type": "item",
-      "id": "productivebees:bee_cage",
-      "nbt": "{\"minecraft:custom_data\":{Age:0,AngerTime:0,ArmorItems:[{},{},{},{}],FireType:\"minecraft:\",ForcedAge:0,HandItems:[{},{}],HasConverted:0b,HasNectar:0b,HasStung:0b,Health:10.0f,HivePos:[I;56,73,4],Invulnerable:0b,MaxHealth:10.0f,NeoForgeData:{},PersistenceRequired:0b,Tags:[\"refresh_entity_exists\"],attributes:[{base:0.0d,id:\"minecraft:generic.armor\",modifiers:[{amount:4.0d,id:\"apotheosis:frontier/armor\",operation:\"add_value\"}]},{base:0.30000001192092896d,id:\"minecraft:generic.movement_speed\"},{base:0.0d,id:\"minecraft:generic.oxygen_bonus\"}],bee_type:\"hive\",breathCollectionCooldown:600,entity:\"productivebees:configurable_bee\",isProductiveBee:1b,mod:\"FMLModContainer\",name:\"Crystalline Bee\",\"neoforge:attachments\":{\"accessories:inventory_holder\":{},\"apotheosis:tier_augments_applied\":1b,\"productivebees:attributes_handler\":{bee_behavior:\"behavior.diurnal\",bee_endurance:\"endurance.medium\",bee_productivity:\"productivity.high\",bee_temper:\"temper.normal\",bee_weather_tolerance:\"weather_tolerance.none\"},\"twilightforest:fortification_shields\":{permanent_shields:0,temporary_shields:0}},type:\"productivebees:crystalline\"}}",
-      "amount": 2
-    },
     "item:mysticalagriculture:prosperity_block",
-    "item:minecraft:iron_sword",
     "item:productivebees:nether_quartz_nest",
     "item:productivebees:quartz_netherrack",
     "item:minecraft:nether_quartz_ore",
     "item:productivebees:feeder",
     "item:minecraft:smooth_stone_slab",
-    "item:minecraft:redstone",
     "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:draconic\"}",
     "item:mob_grinding_utils:mob_swab",
     "item:minecraft:honeycomb",
@@ -881,7 +977,6 @@
     "item:minecraft:diamond_hoe",
     "item:botanypots:terracotta_botany_pot",
     "item:silentgear:nether_banana",
-    "item:minecraft:wooden_sword",
     "bee:productivebees:/chocolate_mining_bee",
     "item:productivebees:gene{\"productivebees:gene_group\":{attribute:\"productivity\",purity:100,value:\"productivity.very_high\"}}",
     "item:productivebees:spawn_egg_configurable_bee{\"minecraft:entity_data\":{id:\"productivebees:configurable_bee\",type:\"productivebees:kamikaz\"}}",
@@ -892,7 +987,6 @@
     "item:sophisticatedstorage:barrel{\"sophisticatedstorage:wood_type\":\"mangrove\"}",
     "item:productivebees:gene_indexer",
     "item:productivebees:bottler",
-    "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:gold\"}",
     "item:minecraft:elytra",
     "item:angelring:diamond_ring",
     "item:angelring:angel_ring",
@@ -902,12 +996,6 @@
       "id": "productivebees:honey",
       "amount": 0
     },
-    "item:productivebees:heated_centrifuge",
-    "item:productivebees:inactive_dragon_egg",
-    "item:productivebees:powered_centrifuge",
-    "item:minecraft:copper_block",
-    "item:productivebees:centrifuge",
-    "item:minecraft:grindstone",
     "item:mekanism:basic_control_circuit",
     "item:minecraft:honey_bottle",
     "item:productivelib:upgrade_productivity_4",
@@ -1060,7 +1148,6 @@
     "item:industrialforegoing:machine_frame_pity",
     "item:alltheores:diamond_gear",
     "item:productivebees:slimy_nest{\"minecraft:bees\":[{entity_data:{HasConverted:0b,bee_type:\"hive\",id:\"productivebees:configurable_bee\",type:\"productivebees:slimy\"},min_ticks_in_hive:600,ticks_in_hive:4598}]}",
-    "bee:productivebees:/slimy",
     "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:slimy\"}",
     "item:minecraft:slime_ball",
     "#item:c:slime_balls",
@@ -1146,7 +1233,6 @@
     "item:minecraft:beehive",
     "item:minecraft:shears",
     "#item:c:tools/shear",
-    "item:minecraft:diamond_sword",
     "item:productivebees:nest_locator",
     "item:minecraft:note_block",
     "item:hostilenetworks:prediction{\"hostilenetworks:data_model\":\"hostilenetworks:ender_dragon\"}",
@@ -1195,7 +1281,6 @@
     "item:powah:capacitor_nitro",
     "item:powah:crystal_nitro",
     "item:powah:blazing_crystal_block",
-    "item:ae2:fuzzy_card",
     "item:minecraft:wither_spawn_egg",
     "item:hostilenetworks:prediction_matrix",
     "item:hostilenetworks:loot_fabricator",
@@ -1798,11 +1883,7 @@
     },
     "item:ars_nouveau:starbuncle_shards",
     "item:ars_nouveau:starbuncle_se",
-    "item:productivebees:configurable_comb{\"productivebees:bee_type\":\"productivebees:emerald\"}",
     "item:productivebees:configurable_honeycomb{\"productivebees:bee_type\":\"productivebees:emerald\"}",
-    "bee:productivebees:/lapis",
-    "bee:productivebees:/diamond",
-    "bee:productivebees:/emerald",
     "item:javd:portal_block",
     "item:sophisticatedbackpacks:stack_upgrade_tier_2",
     "item:sophisticatedbackpacks:stack_upgrade_tier_1",
@@ -2083,33 +2164,27 @@
     "item:mysticalagriculture:witherproof_bricks",
     "item:sophisticatedbackpacks:advanced_magnet_upgrade",
     "item:sophisticatedbackpacks:magnet_upgrade",
-    "item:sophisticatedbackpacks:pickup_upgrade",
-    "item:actuallyadditions:rice_slimeball",
-    "item:actuallyadditions:rice_dough",
-    "item:actuallyadditions:rice_seeds",
-    "item:actuallyadditions:rice",
-    {
-      "type": "item",
-      "id": "minecraft:rotten_flesh",
-      "amount": 39
-    },
-    "item:sophisticatedbackpacks:backpack",
-    "item:actuallyadditions:empowered_diamatine_crystal",
-    "item:actuallyadditions:lens_of_disenchanting",
-    "item:evilcraft:undead_planks",
-    "item:minecraft:fermented_spider_eye",
-    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:weakness\"}}",
-    "item:minecraft:compass",
-    "item:easy_villagers:converter",
-    "item:minecraft:fletching_table"
+    "item:sophisticatedbackpacks:pickup_upgrade"
   ],
   "craft_history": [
+    "minecraft:stonecutter",
+    "ae2:materials/cardfuzzy",
+    "productivebees:heated_centrifuge",
+    "productivebees:inactive_dragon_egg",
+    "productivebees:powered_centrifuge/mekanism",
+    "productivebees:centrifuge",
+    "minecraft:grindstone",
+    "minecraft:copper_block",
+    "extendedae:ex_bus_upgrade_alt",
+    "ae2:network/cells/item_storage_cell_256k_storage",
     "productivebees:honey_treat_gene",
+    "minecraft:iron_sword",
+    "minecraft:wooden_sword",
+    "minecraft:diamond_sword",
     "mysticalagriculture:supremium_block",
     "mysticalagriculture:inferium_block",
     "mysticalagriculture:supremium_essence_uncraft",
     "mysticalagriculture:essence/minecraft/egg",
-    "minecraft:iron_sword",
     "productivebees:quartz_netherrack",
     "productivebees:feeder",
     "minecraft:smooth_stone_slab",
@@ -2163,7 +2238,6 @@
     "minecraft:netherite_upgrade_smithing_template",
     "mysticalagriculture:essence/minecraft/netherite_ingot",
     "minecraft:diamond_hoe",
-    "minecraft:wooden_sword",
     "sophisticatedstorage:advanced_magnet_upgrade_from_basic",
     "sophisticatedstorage:magnet_upgrade",
     "sophisticatedstorage:pickup_upgrade",
@@ -2173,13 +2247,7 @@
     "productivebees:gene_indexer",
     "productivebees:bottler",
     "productivebees:/centrifuge/honeycomb_block",
-    "productivebees:heated_centrifuge",
-    "productivebees:inactive_dragon_egg",
-    "productivebees:powered_centrifuge/mekanism",
-    "minecraft:copper_block",
-    "productivebees:centrifuge",
     "productivebees:centrifuge_cauldron",
-    "minecraft:grindstone",
     "industrialforegoing:kjs/9sxql1sta3drke4u4envlrdjp",
     "productivelib:upgrades/productivity_4",
     "productivelib:upgrades/block",
@@ -2283,7 +2351,6 @@
     "productivebees:hives/advanced_mangrove_beehive",
     "productivebees:nests/beehive",
     "minecraft:shears",
-    "minecraft:diamond_sword",
     "productivebees:nest_locator",
     "minecraft:note_block",
     "minecraft:end_crystal",
@@ -2311,7 +2378,6 @@
     "powah:crafting/capacitor_nitro",
     "powah:energizing/nitro_crystal",
     "powah:crafting/blazing_crystal_block",
-    "ae2:materials/cardfuzzy",
     "hostilenetworks:prediction_matrix",
     "hostilenetworks:loot_fabricator",
     "hostilenetworks:sim_chamber",
@@ -2837,7 +2903,6 @@
     "ae2:network/cells/item_storage_cell_16k",
     "ae2:network/crafting/16k_cpu_crafting_storage",
     "ae2:network/blocks/controller",
-    "minecraft:stonecutter",
     "extendedae:crystal_assembler",
     "ae2:misc/deconstruction_certus_quartz_block",
     "ae2:misc/tank_sky_stone",
@@ -3125,9 +3190,7 @@
     "mekanism:isotopic_centrifuge",
     "mekanism:processing/uranium/sulfuric_acid",
     "mekanism:upgrade/chemical",
-    "mekanism:processing/uranium/hydrofluoric_acid_from_block",
-    "productivebees:/centrifuge/gems/honeycomb_fluorite_block",
-    "mekanism:chemical_dissolution_chamber"
+    "mekanism:processing/uranium/hydrofluoric_acid_from_block"
   ],
   "recipe_defaults": {
     "added": [],

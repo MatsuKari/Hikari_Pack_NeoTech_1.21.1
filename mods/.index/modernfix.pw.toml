@@ -1,4 +1,4 @@
-filename = 'modernfix-neoforge-5.25.0+mc1.21.1.jar'
+filename = 'modernfix-neoforge-5.25.1+mc1.21.1.jar'
 name = 'ModernFix'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '7bf356cc557b8c01fc59105ea73140586bf4afe1'
+hash = '5407ee2d311f6f16773292fe22942a023a19677d'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7190626
+file-id = 7200212
 project-id = 790626
