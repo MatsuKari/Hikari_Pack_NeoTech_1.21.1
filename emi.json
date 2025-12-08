@@ -776,6 +776,7 @@
     }
   ],
   "lookup_history": [
+    "item:buildinggadgets2:gadget_building",
     "item:minecraft:stonecutter",
     "item:ae2:fuzzy_card",
     {
@@ -1567,7 +1568,6 @@
     "item:advanced_ae:reaction_chamber",
     "item:forbidden_arcanus:eternal_stella",
     "item:buildinggadgets2:gadget_exchanging",
-    "item:buildinggadgets2:gadget_building",
     "item:minecraft:glowstone_dust",
     "item:torchmaster:feral_flare_lantern",
     "item:minecraft:glass",
@@ -2167,6 +2167,7 @@
     "item:sophisticatedbackpacks:pickup_upgrade"
   ],
   "craft_history": [
+    "buildinggadgets2:gadget_building",
     "minecraft:stonecutter",
     "ae2:materials/cardfuzzy",
     "productivebees:heated_centrifuge",
@@ -3189,8 +3190,7 @@
     "mekanism:processing/uranium/fissile_fuel",
     "mekanism:isotopic_centrifuge",
     "mekanism:processing/uranium/sulfuric_acid",
-    "mekanism:upgrade/chemical",
-    "mekanism:processing/uranium/hydrofluoric_acid_from_block"
+    "mekanism:upgrade/chemical"
   ],
   "recipe_defaults": {
     "added": [],

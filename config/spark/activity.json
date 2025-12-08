@@ -5,6 +5,58 @@
       "name": "MatsuKari",
       "uniqueId": "f72c42d0-27df-43e9-ae58-54ec04d6ee55"
     },
+    "time": 1765063703501,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/EGk78CcynO"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "MatsuKari",
+      "uniqueId": "f72c42d0-27df-43e9-ae58-54ec04d6ee55"
+    },
+    "time": 1765063476242,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/9p3ucTxd6z"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "MatsuKari",
+      "uniqueId": "f72c42d0-27df-43e9-ae58-54ec04d6ee55"
+    },
+    "time": 1765063386379,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/4jJyLdLdCP"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "MatsuKari",
+      "uniqueId": "f72c42d0-27df-43e9-ae58-54ec04d6ee55"
+    },
+    "time": 1765063365156,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/JMfQtWitOd"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "MatsuKari",
+      "uniqueId": "f72c42d0-27df-43e9-ae58-54ec04d6ee55"
+    },
     "time": 1763507656433,
     "type": "Profiler (live)",
     "data": {

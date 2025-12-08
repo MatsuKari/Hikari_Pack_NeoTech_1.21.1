@@ -255,7 +255,6 @@ key_key.ftbultimine:key.mouse.4
 key_ftbultimine.change_shape.next:key.keyboard.up
 key_ftbultimine.change_shape.prev:key.keyboard.down
 key_key.ftbteams.open_gui:key.keyboard.unknown
-key_key.ftbquests.quests:key.keyboard.unknown
 key_key.ftbchunks.map:key.keyboard.unknown
 key_key.ftbchunks.toggle_minimap:key.keyboard.unknown
 key_key.ftbchunks.claim_manager:key.keyboard.unknown
@@ -263,6 +262,7 @@ key_key.ftbchunks.minimap.zoomIn:key.keyboard.unknown
 key_key.ftbchunks.minimap.zoomOut:key.keyboard.unknown
 key_key.ftbchunks.add_waypoint:key.keyboard.unknown
 key_key.ftbchunks.waypoint_manager:key.keyboard.unknown
+key_key.ftbquests.quests:key.keyboard.unknown
 key_justdirethings.key.toggle_tool:key.keyboard.unknown
 key_justdirethings.key.toolUI:key.keyboard.unknown
 key_key.kubejs.kubedex:key.keyboard.unknown
