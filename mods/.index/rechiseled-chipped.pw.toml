@@ -1,4 +1,4 @@
-filename = 'rechiseled_chipped-1.4-1.21.1.jar'
+filename = 'rechiseled_chipped-1.4.1-1.21.1.jar'
 name = 'Rechiseled: Chipped'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'e038b5c150babffa95ee6631e3ad67bf50e701f3'
+hash = 'd02c7a266b5b320b9a195dc115a8257de1c87333'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7229753
+file-id = 7244301
 project-id = 1007578

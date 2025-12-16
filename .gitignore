@@ -1,7 +1,9 @@
+.mixin.out
 .probe
 /backups
 /crash-reports
 /defaultconfigs
+/essential
 /icon-exports-x64
 /jarmods
 /kubejs/config

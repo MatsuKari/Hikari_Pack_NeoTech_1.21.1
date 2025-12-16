@@ -1,4 +1,4 @@
-filename = 'productivebees-1.21.1-13.11.0.jar'
+filename = 'productivebees-1.21.1-13.11.1.jar'
 name = 'Productive Bees'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '76d649ab68209dbbe81fb373a1df5c8560c88e54'
+hash = '9eac732036778e695103f77e6bb7147d189be90c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7196650
+file-id = 7267606
 project-id = 377897

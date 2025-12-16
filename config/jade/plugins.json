@@ -143,12 +143,20 @@
     "display.content": true,
     "display.status": true
   },
+  "evilcraft": {
+    "box_of_eternal_closure": true,
+    "broom": true
+  },
   "jade_access": {
     "held_item": true,
     "sign": true,
     "block": true,
     "entity": true,
     "entity_variant": true
+  },
+  "tombstone": {
+    "decorative_graves": true,
+    "player_graves": true
   },
   "apotheosis": {
     "adventure": true

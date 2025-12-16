@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: schxv-kem2n
-created: 2025-04-30T22:38:05-03:00

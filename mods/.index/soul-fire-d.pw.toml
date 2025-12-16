@@ -1,16 +1,16 @@
-filename = 'soul-fire-d-neoforge-1.21-5.1.6.jar'
-name = "Soul fire'd"
+filename = 'soul-fire-d-neoforge-1.21-6.0.2.jar'
+name = "Soul Fire'd"
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'e0905706ea0d4a7f72b6cc2100b0072276e748b0'
+hash = '50ef5dae6e73c7a358ff782440124b37def5998e'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6248773
+file-id = 7274980
 project-id = 662413

@@ -1,16 +1,16 @@
-filename = 'evilcraft-1.21.1-neoforge-1.2.78.jar'
+filename = 'evilcraft-1.21.1-neoforge-1.2.79-715.jar'
 name = 'EvilCraft'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '85f8595c259201fbc1be5087130d8cdb531e2633'
+hash = '48537fe0b392d9039d73c48f125ef99a7932e850'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6886667
+file-id = 7223513
 project-id = 74610

@@ -1,4 +1,4 @@
-filename = 'ae2importexportcard-1.21-1.4.0.jar'
+filename = 'ae2importexportcard-1.21.1-1.4.1.jar'
 name = 'AE2 Import Export Card'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '24151e160a35fe2c21854d9ead6919930807b0b7'
+hash = 'd9acf9aa56528bd37f63ad23bdaba3184634b0e4'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5577253
+file-id = 7203365
 project-id = 982512

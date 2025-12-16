@@ -1,4 +1,4 @@
-filename = 'rftoolspower-1.21-7.0.4.jar'
+filename = 'rftoolspower-1.21-7.0.5.jar'
 name = 'RFToolsPower'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '553d1bafbee27b776e7cefcbf706628b223172da'
+hash = '93569f85bc24e70284ce03ee48646550c4a17fdc'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7209149
+file-id = 7263410
 project-id = 290209

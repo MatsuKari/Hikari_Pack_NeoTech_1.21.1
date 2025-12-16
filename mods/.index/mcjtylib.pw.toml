@@ -1,4 +1,4 @@
-filename = 'mcjtylib-1.21-9.0.17.jar'
+filename = 'mcjtylib-1.21-9.0.20.jar'
 name = 'McJtyLib'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '1a678cc96722d9c9bf16d4a5ee25db7c390b3fdd'
+hash = '3a42bcacd5b886ab0ce3076b64f1177b1dcd300a'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7229152
+file-id = 7299488
 project-id = 233105

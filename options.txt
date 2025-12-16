@@ -6,7 +6,7 @@ entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
 japaneseGlyphVariants:false
-fov:0.125
+fov:0.1
 fovEffectScale:1.0
 darknessEffectScale:1.0
 glintSpeed:0.5
@@ -75,7 +75,7 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
 joinedFirstServer:true
 hideBundleTutorial:true
@@ -161,6 +161,9 @@ key_key.silentgear.displayItemProperties:key.keyboard.left.control
 key_key.silentgear.displayTraitDescriptions:key.keyboard.left.shift
 key_key.silentgear.displayItemConstruction:key.keyboard.left.alt
 key_key.silentgear.openItem:key.keyboard.x
+key_tombstone.message.knowledge_of_death:key.keyboard.unknown
+key_tombstone.message.config:key.keyboard.unknown
+key_tombstone.message.compendium:key.keyboard.unknown
 key_accessories.key.open_accessories_screen:key.keyboard.h
 key_key.sfm.more_info:key.keyboard.left.shift
 key_key.sfm.container_inspector.activation_key:key.keyboard.i:CONTROL

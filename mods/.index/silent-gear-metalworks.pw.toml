@@ -1,4 +1,4 @@
-filename = 'sgearmetalworks-1.21.1-1.4.5.jar'
+filename = 'sgearmetalworks-1.21.1-1.4.6.jar'
 name = 'Silent Gear Metalworks'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'a74164eee6f104411ce6f3ab96eee27f841c2d33'
+hash = '1951c74de72370cc3fc69f9bbb5248562a855d7b'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7129979
+file-id = 7270331
 project-id = 1199188

@@ -1,7 +1,3 @@
-/tp @s 468 7 512
-/locate biome minecraft:warm_ocean
-/tp @s 272 70 13
-/locate structure minecraft:ocean_ruin_warm
 /tp @s 0 ~ 32
 /reload
 /summon minecraft:chicken
@@ -48,3 +44,7 @@
 /spark profiler start --timeout 180
 /spark profiler cancel
 /spark tickmonitor
+/datapack list enabled
+/datapack list available
+/reload
+/tp xopazaru0343

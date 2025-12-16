@@ -1,4 +1,4 @@
-filename = 'Essential_1-3-10-1_neoforge_1-21-1.jar'
+filename = 'Essential_1-3-10-3_neoforge_1-21-1.jar'
 name = 'Essential Mod'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'bc0fe7900d8eef290763a3da22b0273937c8bad9'
+hash = 'e71d45c0eb35e2acf3c3d9f491ca1f25b654b2a7'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7192459
+file-id = 7284925
 project-id = 546670

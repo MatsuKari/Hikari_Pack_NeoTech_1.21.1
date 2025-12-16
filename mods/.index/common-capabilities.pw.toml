@@ -1,16 +1,16 @@
-filename = 'commoncapabilities-1.21.1-neoforge-2.11.2.jar'
+filename = 'commoncapabilities-1.21.1-neoforge-2.11.2-296.jar'
 name = 'CommonCapabilities'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '726ce8975b9c79edafc9308685dbbe47c7c3ec1d'
+hash = '173054e3c20452e332643b9e6484f5f0ca607210'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7229332
+file-id = 7234592
 project-id = 247007

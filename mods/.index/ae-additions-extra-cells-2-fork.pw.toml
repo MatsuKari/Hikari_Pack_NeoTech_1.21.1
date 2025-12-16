@@ -1,16 +1,16 @@
-filename = 'AEAdditions-1.21.1-6.0.1.jar'
-name = 'AE Additions - ExtraCells2 Fork'
+filename = 'AEAdditions-1.21.1-6.0.2.jar'
+name = 'AE Additions'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = 'ae1f10e0e4cd54ca2c61bf2e335b5bf18c9a7d1b'
+hash = '127856adc3aadef9240168ece9f1290345ac2ff8'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6599517
+file-id = 7212291
 project-id = 493962
