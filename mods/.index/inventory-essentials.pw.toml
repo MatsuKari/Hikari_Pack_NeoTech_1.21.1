@@ -1,4 +1,4 @@
-filename = 'inventoryessentials-neoforge-1.21.1-21.1.10.jar'
+filename = 'inventoryessentials-neoforge-1.21.1-21.1.12.jar'
 name = 'Inventory Essentials'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '97736ace38641138b2ff61cf905df271364e56d7'
+hash = 'e94fc29654ba02d1894233004adb04962942639d'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7308473
+file-id = 7316139
 project-id = 368825

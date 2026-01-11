@@ -1,4 +1,4 @@
-filename = 'occultism-1.21.1-neoforge-1.197.0.jar'
+filename = 'occultism-1.21.1-neoforge-1.200.0.jar'
 name = 'Occultism'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'dcfcd64b530e3ed938eeef76be175491072201a6'
+hash = '9f132c933264cfb982bf727117f4b22ec4de360f'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7185645
+file-id = 7368809
 project-id = 361026

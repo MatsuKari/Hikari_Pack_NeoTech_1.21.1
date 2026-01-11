@@ -1,50 +1,50 @@
-/tp @s 0 ~ 32
-/reload
-/summon minecraft:chicken
-/locate biome minecraft:crimson_forest
-/tp @s -128 73 261
-/locate biome minecraft:bamboo_jungle
-/tp @s 176 71 656
-/reload
-/kubejs hand
-/reload
-/iconexporter config general.defaultScale 128
-/iconexporter config general.defaultScale 500
-/iconexporter config general.defaultScale 192
-/iconexporter export 192
-/reload
-/locate biome minecraft:deep_ocean
-/tp @s 1404 64 1282
-/gamerule randomTickSpeed 50
-/gamerule randomTickSpeed 300
-/gamerule randomTickSpeed 800
-/gamerule randomTickSpeed 3000
-/gamerule randomTickSpeed 3
-/reload
-/kubejs hand
-/reload
-/spark profiler start
-/spark profiler open
-/spark profiler stop
-/spark tickmonitor
-/spark profiler stop
-/spark tickmonitor
-/spark profiler start
-/spark profiler stop
-/spark profiler start
-/spark profiler stop
-/spark profiler --only-ticks-over 90
-/spark profiler open
-/spark tps
-/spark profiler open
-/spark profiler stop
-/spark profiler cancel
-/spark profiler stop
-/spark profiler open
-/spark profiler start --timeout 180
-/spark profiler cancel
-/spark tickmonitor
-/datapack list enabled
-/datapack list available
-/reload
+/timecycle reset
+/timecycle status
+/timecycle set 1000 1000
+/timecycle status
+/timecycle reset
+/timecycle set 10s 10s
+/gamerule doDaylightCycle
+/gamerule doDaylightCycle true
+/timecycle status
+/timecycle set 100 100
+/weather
+/weather clear
+/timecycle status
+/timecycle reset
+/timecycle status
 /tp xopazaru0343
+/reload
+/locate biome minecraft:mangrove_swamp
+/tp @s 120 125 -365
+/locate poi minecraft:bee_nest
+/tp @s -1786 ~ 646
+/locate poi minecraft:bee_nest
+/tp @s -1496 ~ 801
+/locate poi minecraft:bee_nest
+/tp @s -1569 ~ 872
+/kill xopazaru0343
+/tp xopazaru0343
+/summon minecraft:chicken
+/summon minecraft:camel
+/summon minecraft:cow
+/summon minecraft:chicken
+/locate biome minecraft:lush_caves
+/tp @s -2067 54 1337
+/summon minecraft:cow
+/locate biome minecraft:warm_ocean
+/tp @s -796 110 -77
+/locate structure minecraft:ocean_ruin_warm
+/tp @s -1184 ~ -480
+/locate structure minecraft:ocean_ruin_warm
+/tp @s -1136 ~ 480
+/locate structure minecraft:ocean_ruin_warm
+/tp @s -528 ~ 96
+/summon minecraft:chicken
+/locate biome ars_nouveau:archwood_forest
+/tp @s -2662 120 -204
+/weather clear
+/op atomic_flail
+/tp atomic_flail
+/time set midnight
+/tp atomic_flail

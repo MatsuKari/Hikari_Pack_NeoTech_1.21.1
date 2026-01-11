@@ -1,4 +1,4 @@
-filename = 'apothic_compats-0.2.0.2.jar'
+filename = 'apothic_compats-0.2.0.3.jar'
 name = 'Apothic Compats'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '3efdfcaed96f3cd1a1fae77bc796f733c8a142cb'
+hash = 'd0bb53dd9ea99b324d9968e953af5da63fbab898'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7197009
+file-id = 7312876
 project-id = 1188699
