@@ -1,16 +1,16 @@
-filename = 'tiab-neoforge-6.5.1.jar'
-name = 'Time in a bottle [FORGE\NEOFORGE\FABRIC]'
+filename = 'tiab-neoforge-6.5.3.jar'
+name = 'Time In A Bottle'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '7be8b777f305c2c641ef3431a452627e76295a10'
+hash = '237da69b1245bfb18ffabacd50e535f1b4addf39'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7315015
+file-id = 7356966
 project-id = 895919

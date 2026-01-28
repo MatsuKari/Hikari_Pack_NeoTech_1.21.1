@@ -1,4 +1,4 @@
-filename = 'Glassential-renewed-1.21.1-3.3.2.jar'
+filename = 'Glassential-renewed-1.21.1-3.3.3.jar'
 name = 'Glassential-renewed'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'e5bdd3524502951639a56ad904b6413865bb493b'
+hash = 'ccd2eef25f9905991a39796f340b1577769b14a8'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6996870
+file-id = 7442887
 project-id = 945149

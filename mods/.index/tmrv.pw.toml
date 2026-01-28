@@ -1,4 +1,4 @@
-filename = 'toomanyrecipeviewers-0.7.0+mc.21.1.jar'
+filename = 'toomanyrecipeviewers-0.7.1+mc.21.1.jar'
 name = 'TooManyRecipeViewers'
 side = 'client'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '6f50e476a0b542ddaefdbd3fcc5ceb22791244a5'
+hash = 'a13279348d76bb3ecf8ff1b978ebd5bf8b7e3d52'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7259317
+file-id = 7410429
 project-id = 1194921

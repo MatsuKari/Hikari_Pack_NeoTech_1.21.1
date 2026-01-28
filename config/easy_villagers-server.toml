@@ -30,11 +30,11 @@
 	#The minimum amount of time in ticks the trader takes to restock
 	# Default: 1200
 	# Range: > 1
-	min_restock_time = 1200
+	min_restock_time = 2
 	#The maximum amount of time in ticks the trader takes to restock
 	# Default: 3600
 	# Range: > 2
-	max_restock_time = 3600
+	max_restock_time = 2
 
 [auto_trader]
 	#The minimum amount of time in ticks the auto trader takes to restock

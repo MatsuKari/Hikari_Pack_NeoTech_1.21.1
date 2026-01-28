@@ -1,4 +1,4 @@
-filename = 'iconexporter-1.21.1-neoforge-1.4.0-158.jar'
+filename = 'iconexporter-1.21.1-neoforge-1.4.0-162.jar'
 name = 'IconExporter'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '0297da1115cd2185a2de8101a8ad551eba207ecc'
+hash = '12f1c022ea19419af19123d06902d2b5c2b821d0'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7234594
+file-id = 7339551
 project-id = 327048

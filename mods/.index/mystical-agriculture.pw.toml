@@ -1,4 +1,4 @@
-filename = 'MysticalAgriculture-1.21.1-8.0.21.jar'
+filename = 'MysticalAgriculture-1.21.1-8.0.22.jar'
 name = 'Mystical Agriculture'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '759e86b6434d187a5bc0c592d3f5b6196f4b946c'
+hash = '45aa358a1dbf7e40175efdaf46a9804051c65bef'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7297892
+file-id = 7397787
 project-id = 246640

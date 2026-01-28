@@ -1,16 +1,16 @@
-filename = 'cyclopscore-1.21.1-neoforge-1.27.2-848.jar'
+filename = 'cyclopscore-1.21.1-neoforge-1.28.0.jar'
 name = 'Cyclops Core'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'f32cac53cd9a3d2a7ecef49c7824b80d0810c73f'
+hash = 'f072555c4506bf73e5e041f0bf91f55533a0aba8'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7233423
+file-id = 7365285
 project-id = 232758

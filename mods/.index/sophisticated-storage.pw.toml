@@ -1,4 +1,4 @@
-filename = 'sophisticatedstorage-1.21.1-1.5.16.1386.jar'
+filename = 'sophisticatedstorage-1.21.1-1.5.20.1422.jar'
 name = 'Sophisticated Storage'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'ca3d49d12de32e9202a72aa3aff33a59c8a26dc5'
+hash = '1553d2644a5ae09c9cb31b5f5a2d0774c5e78853'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7326290
+file-id = 7436697
 project-id = 619320

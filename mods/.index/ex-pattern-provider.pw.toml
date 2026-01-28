@@ -1,4 +1,4 @@
-filename = 'ExtendedAE-1.21-2.2.26-neoforge.jar'
+filename = 'ExtendedAE-1.21-2.2.27-neoforge.jar'
 name = 'ExtendedAE'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '3cd350e10ea87cc65187eefea1c99774acecfd55'
+hash = '9a21592d9879f6edb98021298962ff7f5da32a81'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7299485
+file-id = 7356474
 project-id = 892005

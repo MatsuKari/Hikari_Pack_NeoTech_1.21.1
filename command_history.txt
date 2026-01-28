@@ -1,50 +1,50 @@
-/timecycle reset
-/timecycle status
-/timecycle set 1000 1000
-/timecycle status
-/timecycle reset
-/timecycle set 10s 10s
-/gamerule doDaylightCycle
-/gamerule doDaylightCycle true
-/timecycle status
-/timecycle set 100 100
-/weather
-/weather clear
-/timecycle status
-/timecycle reset
-/timecycle status
-/tp xopazaru0343
+/ae2 channelmode x2
+/summon minecraft:cow
 /reload
-/locate biome minecraft:mangrove_swamp
-/tp @s 120 125 -365
-/locate poi minecraft:bee_nest
-/tp @s -1786 ~ 646
-/locate poi minecraft:bee_nest
-/tp @s -1496 ~ 801
-/locate poi minecraft:bee_nest
-/tp @s -1569 ~ 872
-/kill xopazaru0343
-/tp xopazaru0343
 /summon minecraft:chicken
-/summon minecraft:camel
-/summon minecraft:cow
-/summon minecraft:chicken
-/locate biome minecraft:lush_caves
-/tp @s -2067 54 1337
-/summon minecraft:cow
-/locate biome minecraft:warm_ocean
-/tp @s -796 110 -77
-/locate structure minecraft:ocean_ruin_warm
-/tp @s -1184 ~ -480
-/locate structure minecraft:ocean_ruin_warm
-/tp @s -1136 ~ 480
-/locate structure minecraft:ocean_ruin_warm
-/tp @s -528 ~ 96
-/summon minecraft:chicken
-/locate biome ars_nouveau:archwood_forest
-/tp @s -2662 120 -204
+/summon minecraft:villager
+/summon occultism:demonic_husband
 /weather clear
-/op atomic_flail
-/tp atomic_flail
-/time set midnight
-/tp atomic_flail
+/locate biome minecraft:savanna
+/locate biome minecraft:savanna_plateau
+/tp @s 715 74 184
+/locate biome minecraft:snowy_plains
+/tp @s 1791 83 -2259
+/summon minecraft:chicken
+/kill
+/summon minecraft:chicken
+/summon minecraft:sheep
+/tp 341 84 -6
+/gamemode creative
+/gamemode survival
+/ae2 channelmode x2
+/locate structure minecraft:monument
+/tp @s -304 ~ -1360
+/gamemode spectator
+/gamemode survival
+/summon minecraft:pig
+/locate structure minecraft:pillager_outpost
+/tp @s 672 ~ -992
+/gamemode spectator
+/gamemode survival
+/gamemode spectator
+/gamemode survival
+/gamemode spectator
+/gamemode survival
+/gamemode spectator
+/gamemode survival
+/summon minecraft:cow
+/locate structure minecraft:pillager_outpost
+/tp @s 672 ~ -992
+/summon minecraft:chicken
+/summon minecraft:ravager
+/summon minecraft:wandering_trader
+/summon minecraft:chicken
+/summon minecraft:pig
+/gamemode creative
+/gamemode survival
+/summon minecraft:pig
+/summon minecraft:chicken
+/summon minecraft:wandering_trader
+/summon minecraft:cow
+/mek radiation removeAll

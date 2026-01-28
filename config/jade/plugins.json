@@ -65,9 +65,6 @@
   "apothic_spawners": {
     "spawner": true
   },
-  "entangled": {
-    "entangled_block_component": true
-  },
   "mekanismcovers": {
     "cover_component": true
   },
@@ -198,6 +195,7 @@
     "infused_farmland": true
   },
   "twilightforest": {
+    "drying_rack": true,
     "chiseled_bookshelf_spawner": true,
     "quest_ram_wool": true
   },

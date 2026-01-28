@@ -46,12 +46,17 @@
 	#Effects that may not be used in the Infusion Pylon.
 	#This list will override the allowed effect list.
 	infusionDeniedEffects = []
+	#The maximum potency that can be applied in the Infusion Pylon.
+	#This value is 0-indexed, so a Resistance V potion would be potency 4.
+	# Default: 3
+	# Range: 0 ~ 255
+	infusionMaximumPotency = 3
 
 [harvester_pylon]
 	#Delay between harvest attempts (in ticks).
 	# Default: 60
 	# Range: 10 ~ 120
-	harvesterWorkDelay = 60
+	harvesterWorkDelay = 10
 	#Whether the harvester requires a hoe to work.
 	#If enabled, it will use 1 durability per harvest action
 	harvesterRequiresTool = true
