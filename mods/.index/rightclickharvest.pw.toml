@@ -1,16 +1,17 @@
-filename = 'rightclickharvest-neoforge-4.6.0+1.21.1.jar'
+filename = 'rightclickharvest-neoforge-4.6.1+1.21.1.jar'
 name = 'Right Click Harvest'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'V4.6.1+1.21.1 (NeoForge 1.21.1)'
 
 [download]
-hash = 'dca04a75c8ff6ee77451a8c2513c23ad6907f321'
+hash = '473b960c0cae751b7752a43df4756010e30988fa'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7025545
+file-id = 7508749
 project-id = 452834

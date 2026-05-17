@@ -1,30 +1,46 @@
-filename = 'EuphoriaPatcher-1.7.8-r5.6.1-neoforge.jar'
+filename = 'EuphoriaPatcher-1.8.0-r5.7-neoforge.jar'
 name = 'Euphoria Patcher'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [
     '1.20.5',
+    '1.20.5',
+    '1.20.6',
     '1.20.6',
     '1.21',
+    '1.21',
+    '1.21.1',
     '1.21.1',
     '1.21.10',
+    '1.21.10',
+    '1.21.11',
+    '1.21.11',
+    '1.21.2',
     '1.21.2',
     '1.21.3',
+    '1.21.3',
+    '1.21.4',
     '1.21.4',
     '1.21.5',
+    '1.21.5',
+    '1.21.6',
     '1.21.6',
     '1.21.7',
+    '1.21.7',
     '1.21.8',
+    '1.21.8',
+    '1.21.9',
     '1.21.9'
 ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.8.0-r5.7-neoforge'
 
 [download]
-hash = 'ac41967dfc942d2f53f3ab0c8a832fa24ba770834437b438c4758005cfcbee3b78ea2ebc44a75b2f26831ab36ea19fbe9adb459e172b873f42f421bd32f2a339'
+hash = 'c059557eba310f8f7aee22e608dce2bdc18ac0fc58078d95482bfafd1320f47b1f007b23541fbbaf389e0b701424d0db3328ae412be43e8378c45f631587f4b0'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/4H6sumDB/versions/ZJvpKsmV/EuphoriaPatcher-1.7.8-r5.6.1-neoforge.jar'
+url = 'https://cdn.modrinth.com/data/4H6sumDB/versions/yqhNc7wJ/EuphoriaPatcher-1.8.0-r5.7-neoforge.jar'
 
 [update.modrinth]
 mod-id = '4H6sumDB'
-version = 'ZJvpKsmV'
+version = 'yqhNc7wJ'

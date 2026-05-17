@@ -1,7 +1,3 @@
-/ae2 channelmode x2
-/summon minecraft:cow
-/reload
-/summon minecraft:chicken
 /summon minecraft:villager
 /summon occultism:demonic_husband
 /weather clear
@@ -48,3 +44,7 @@
 /summon minecraft:wandering_trader
 /summon minecraft:cow
 /mek radiation removeAll
+/summon minecraft:ravager
+/summon minecraft:chicken
+/reload
+/summon minecraft:chicken
