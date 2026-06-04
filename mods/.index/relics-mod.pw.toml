@@ -1,16 +1,25 @@
-filename = 'relics-1.21.1-0.10.7.6.jar'
+filename = 'relics-1.21.1-0.12.6.jar'
 name = 'Relics'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.12.6'
 
 [download]
-hash = 'd01514adde52d511bc857495d35e9b6a7b1423a7'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '0bd588999c5e1300724851866f2d05cc8a739dc95d9c74c3442819d5229a9862a4fc437b15b7fb90e5c778e297af7c168a819708982939e56b7cbbdc15d81160'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OCJRPujW/versions/rfPZrLeC/relics-1.21.1-0.12.6.jar'
 
-[update.curseforge]
-file-id = 6879532
-project-id = 445274
+[update.modrinth]
+mod-id = 'OCJRPujW'
+version = 'rfPZrLeC'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vvuO3ImH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'RH2KUdKJ'
+type = 'REQUIRED'

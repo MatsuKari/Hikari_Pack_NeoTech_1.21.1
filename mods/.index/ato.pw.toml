@@ -1,9 +1,11 @@
 filename = 'alltheores-3.0.5_neoforge_1.21.1.jar'
 name = 'ATO - All the Ores'
-side = 'both'
+side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'alltheores-3.0.5_neoforge_1.21.1.jar'
 
 [download]
 hash = 'e6c4b87bd69de58fc6182c8f7743eb4ef40d3272'

@@ -4,6 +4,7 @@ side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.1'
 
 [download]
 hash = 'e8cd3883a5e69306d44b9271148c11b0b083b28254eb023b266baa3782942b97e6ba4d34c1d24ec679cdba4df3bb8f2bf30b4fd2ae0a5e96ae9f90117cfeaded'
@@ -14,3 +15,11 @@ url = 'https://cdn.modrinth.com/data/xuSfEm2D/versions/xkh2uIm9/tiab_charger-1.2
 [update.modrinth]
 mod-id = 'xuSfEm2D'
 version = 'xkh2uIm9'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LQdpBqdS'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'tfpHINm8'
+type = 'REQUIRED'

@@ -1,16 +1,21 @@
-filename = 'SubtleEffects-neoforge-1.21.1-1.13.2-hotfix.1.jar'
+filename = 'SubtleEffects-neoforge-1.21.1-1.14.3.jar'
 name = 'Subtle Effects'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.14.3'
 
 [download]
-hash = '507e145249aa5eb5ddb1b97f9e48084219ba81d2b97f5b7dc5e6a72b368f6dbeaf1c521b0a722e5125b88e94dfb2586ee5c992340678c5de52567c67d72a924d'
+hash = 'efaf415d9dad768ac9b3893973349db65d7848b42d99952e82dbd1b0e66163ba09cfc2233953a8887b54da5ef52e366d7fa18f1b467e05780639be10a0e1e0ef'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/4q8UOK1d/versions/conRdzcK/SubtleEffects-neoforge-1.21.1-1.13.2-hotfix.1.jar'
+url = 'https://cdn.modrinth.com/data/4q8UOK1d/versions/s3Fo4cDk/SubtleEffects-neoforge-1.21.1-1.14.3.jar'
 
 [update.modrinth]
 mod-id = '4q8UOK1d'
-version = 'conRdzcK'
+version = 's3Fo4cDk'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hYykXjDp'
+type = 'REQUIRED'

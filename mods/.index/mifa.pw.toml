@@ -4,13 +4,19 @@ side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.1.0'
 
 [download]
-hash = 'b59f8679cae16ee38254cd30c2fa4977e4830661'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = 'f34c2cc855d610469534594e18434bb848184c956130d57a6f6472bbe79ccfd1c3e8bf22665613714df3a168a29c1c07fd77d1ff7b067ef73bcb472f4b6d0e90'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Ig6QciUH/versions/vZO6UvRA/mifa-neoforge-1.21.x-2.1.0.jar'
 
-[update.curseforge]
-file-id = 6288756
-project-id = 1086142
+[update.modrinth]
+mod-id = 'Ig6QciUH'
+version = 'vZO6UvRA'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lWxpUd04'
+type = 'REQUIRED'
+version = 'aKL8me1V'

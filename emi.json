@@ -620,6 +620,7 @@
     }
   ],
   "lookup_history": [
+    "item:extendedae:fishbig",
     "item:industrialforegoing:laser_drill",
     "item:industrialforegoing:stasis_chamber",
     "item:mifa:speed_addon_8{\"titanium:augments\":{Speed:9.0f}}",
@@ -821,7 +822,6 @@
       "id": "ars_nouveau:wilden_spike",
       "amount": 6
     },
-    "item:artifacts:villager_hat{\"relics:data\":{abilities:{abilities:{discount:{extender:{cooldown:0,cooldownCap:0,ticking:0b},lock:{breaks:5},points:7,research:{links:{0:[I;1,2,3],3:[I;6],4:[I;5,3],6:[I;5]},researched:1b},stats:{multiplier:{initialValue:17.63084d}}},passive:{extender:{cooldown:0,cooldownCap:0,ticking:0b},lock:{breaks:5},points:0,research:{links:{1:[I;2],2:[I;3,0],3:[I;6,4,5],5:[I;7,4],6:[I;5],7:[I;8,4],8:[I;5,6]},researched:1b},stats:{}}}},leveling:{experience:584,level:7,luck:0,points:0}}}",
     "item:ars_nouveau:whirlisprig_shards",
     "item:minecraft:tripwire_hook",
     "item:apotheosis:gem{\"apotheosis:gem\":\"apotheosis:core/lunar\",\"apotheosis:purity\":\"perfect\"}",
@@ -2338,10 +2338,6 @@
     "ae2:network/crafting/cpu_crafting_unit",
     "ae2:upgrade/item_storage_cell_1k_to_4k",
     "ae2:network/cells/item_storage_cell_1k",
-    "sophisticatedbackpacks:diamond_backpack",
-    "sophisticatedbackpacks:gold_backpack",
-    "sophisticatedbackpacks:iron_backpack_from_copper",
-    "sophisticatedbackpacks:iron_backpack",
     "ae2:network/blocks/storage_drive",
     "matc:prudentium_crystal",
     "mysticalagriculture:prosperity_seed_base",
@@ -2687,7 +2683,6 @@
     "mekanism:transmitter/thermodynamic_conductor/elite",
     "mekanism:transmitter/thermodynamic_conductor/advanced",
     "mekanism:transmitter/thermodynamic_conductor/basic",
-    "silentgear:graded_mat_test",
     "kubejs:kjs/powah_steel_energized",
     "mekanism:kjs/red_dye",
     "extendedae:assembler/assembler_matrix_speed",
@@ -2804,7 +2799,6 @@
     "sophisticatedbackpacks:crafting_upgrade",
     "actuallyadditions:atomic_reconstructor",
     "actuallyadditions:iron_casing",
-    "enderio:stick",
     "evilcraft:crafting/blood_extractor",
     "evilcraft:crafting/dark_spike",
     "mekanismtools:refined_obsidian/armor/boots",

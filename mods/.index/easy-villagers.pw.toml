@@ -1,16 +1,29 @@
-filename = 'easy-villagers-neoforge-1.21.1-1.1.40.jar'
+filename = 'easy-villagers-neoforge-1.21.1-1.1.35.jar'
 name = 'Easy Villagers'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '[NEOFORGE][1.21.1] Easy Villagers 1.21.1-1.1.35'
 
 [download]
-hash = '1793e796dc656b0f751017310d641a0c9ea60eb9'
+hash = 'd7890a072e751729262ac0ca90a81ace6c1508ff'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7340307
+file-id = 6831416
 project-id = 400514
+
+[[x-prismlauncher-dependencies]]
+addonId = '324717'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '245211'
+type = 'OPTIONAL'

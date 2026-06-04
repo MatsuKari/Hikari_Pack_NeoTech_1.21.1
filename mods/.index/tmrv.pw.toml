@@ -1,16 +1,25 @@
-filename = 'toomanyrecipeviewers-0.7.1+mc.21.1.jar'
+filename = 'toomanyrecipeviewers-0.7.3+mc.21.1.jar'
 name = 'TooManyRecipeViewers'
 side = 'client'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.7.3+mc.21.1'
 
 [download]
-hash = 'a13279348d76bb3ecf8ff1b978ebd5bf8b7e3d52'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '79fc75b844bc74c40e885190cdd63f6449085f388428202ae6af175081db891bce3b67d2fba6299078f45090aefbd40e2cfbffb2c4438e82b052f83013b4c774'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yFypjcfd/versions/slJJPeMk/toomanyrecipeviewers-0.7.3%2Bmc.21.1.jar'
 
-[update.curseforge]
-file-id = 7410429
-project-id = 1194921
+[update.modrinth]
+mod-id = 'yFypjcfd'
+version = 'slJJPeMk'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'INCOMPATIBLE'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'fRiHVvU7'
+type = 'REQUIRED'

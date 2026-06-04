@@ -1,17 +1,18 @@
-filename = 'ars_nouveau-1.21.1-5.10.3.jar'
+filename = 'ars_nouveau-1.21.1-5.11.5.jar'
 name = 'Ars Nouveau'
 side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'ars_nouveau-1.21.1-5.10.3'
+x-prismlauncher-version-number = '5.11.5'
 
 [download]
-hash = '5efb91e75e322454156984ba548cb43e98b4b397'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '7849418f985a665bfccb8e790ab560f9cf81354b2eab03eb6e03e55f270bbc611a66ecc11e09d539f2e5755bc7b680b7fa85b46c49bdee9211fb1eb9f4cfb1bc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TKB6INcv/versions/8VP4YHYr/ars_nouveau-1.21.1-5.11.5.jar'
 
-[update.curseforge]
-file-id = 6827634
-project-id = 401955
+[update.modrinth]
+mod-id = 'TKB6INcv'
+version = '8VP4YHYr'

@@ -4,11 +4,5 @@
     "name": "MatsuKari",
     "level": 4,
     "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "659b0c33-254e-4323-b29c-7d14876dae70",
-    "name": "atomic_flail",
-    "level": 4,
-    "bypassesPlayerLimit": false
   }
 ]

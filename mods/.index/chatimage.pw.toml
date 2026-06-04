@@ -1,16 +1,18 @@
 filename = 'ChatImage-1.4.7+1.21.0+neoforge.jar'
 name = 'ChatImage'
 side = 'both'
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.4.7+1.21.0+neoforge'
 
 [download]
-hash = '5050acc4d27e8118eede0c67c3c0a86e41f3ec1a'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = 'e835bcf7a27ff04c713359fe9d64277a929de5e6271da9b86702cff62d9e9b980853fa1a4cc54e0b9e7e39bdf4dcf44ccbdf51b5444e717e71a8ab1fd14e4c64'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zhVN1dvW/versions/hqAoNNVF/ChatImage-1.4.7%2B1.21.0%2Bneoforge.jar'
 
-[update.curseforge]
-file-id = 6397934
-project-id = 818089
+[update.modrinth]
+mod-id = 'zhVN1dvW'
+version = 'hqAoNNVF'

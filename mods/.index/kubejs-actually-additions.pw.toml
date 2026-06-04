@@ -1,16 +1,25 @@
 filename = 'kubejs_actuallyadditions-neoforge-1.21.1-0.3.0.jar'
 name = 'KubeJS Actually Additions'
-side = 'both'
+side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.21.1-0.3.0+neoforge'
 
 [download]
-hash = '75dc853d2c2483f8719070904d187864c8c9ed8e'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '034652bd13226f1bed96504172ecf2e5cf6642aacc19125d0485683ebc4fc3486aec5f6a510c079d3cd6f2d801c7b5cfb02d3e9b0f4862322b7aa0e384cc3a7e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9UjcQ49t/versions/qzz8Odsy/kubejs_actuallyadditions-neoforge-1.21.1-0.3.0.jar'
 
-[update.curseforge]
-file-id = 7159465
-project-id = 1126546
+[update.modrinth]
+mod-id = '9UjcQ49t'
+version = 'qzz8Odsy'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'umyGl7zF'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '4K7Q3nqd'
+type = 'REQUIRED'

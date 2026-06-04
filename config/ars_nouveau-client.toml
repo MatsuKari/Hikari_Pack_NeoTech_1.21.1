@@ -51,6 +51,8 @@
 	ySpellName = 30
 	#Whether the Selection HUD is toggled or held
 	toggleSelectionHUD = true
+	#If scrolling in the Storage Lectern should be inverted
+	invertLecternScrolling = false
 
 #Misc
 [misc]

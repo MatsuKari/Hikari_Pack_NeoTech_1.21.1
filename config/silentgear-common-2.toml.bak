@@ -146,16 +146,16 @@
 	#The median (most common, average) grade that a material grader with tier 1 catalyst will produce.
 	#Higher tier catalysts will increase the median by one grade per tier past 1 (if 1 = C, 2 = B, etc.)
 	#Allowed Values: NONE, E, D, C, B, A, S, SS, SSS, MAX
-	median_grade = "C"
+	median_grade = "MAX"
 	#The standard deviation of grades the material grader will produce.
 	#Grades are normally distributed, with the median grade being at the center of the bell curve.
 	#Larger numbers will make both higher and lower grades more common.
 	#Extremely large values may completely break the curve, yielding mostly the lowest and highest grades.
 	# Default: 1.5
 	# Range: 0.0 ~ 100.0
-	standard_deviation = 1.5
+	standard_deviation = 100.0
 	#If enabled, allows the material grader to grade the individual materials inside a gear part
-	can_grade_parts = false
+	can_grade_parts = true
 
 #Settings for the salvager
 [salvager]
@@ -180,13 +180,18 @@
 	#The rate at which the starlight charger gathers energy during the night
 	# Default: 100
 	# Range: > 0
-	charge_rate = 100
+	charge_rate = 5000
 	#The maximum amount of energy the starlight charger can store
 	# Default: 1000000
 	# Range: > 0
 	max_charge = 1000000
 	#If enabled, allows the starlight charger to charge the individual materials inside a gear part
 	can_charge_parts = false
+	#The time of day the starlight charger can gather energy
+	#Allowed Values: DAYTIME, NIGHTTIME, ANYTIME
+	work_time = "ANYTIME"
+	#If true, the starlight charger only works with a clear view of the sky above it
+	requires_view_of_sky = true
 
 	[debug.logging]
 		#Log property calculations in the log file every time gear properties are recalculated

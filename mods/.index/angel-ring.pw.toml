@@ -1,9 +1,10 @@
 filename = 'angelring-1.21.1-neoforge-3.0.0+beta.3.jar'
-name = 'Angel Ring 3'
-side = 'both'
+name = 'Angel Ring'
+side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Angel Ring 3 v3.0.0+beta.3 for MC 1.21.1'
 
 [download]
 hash = '49a92b35e2185fe3964475731dd5f536793d43f0'
@@ -14,3 +15,23 @@ url = ''
 [update.curseforge]
 file-id = 6891800
 project-id = 333396
+
+[[x-prismlauncher-dependencies]]
+addonId = '1219748'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1219737'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1315611'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '938917'
+type = 'OPTIONAL'

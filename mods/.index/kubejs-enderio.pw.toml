@@ -1,17 +1,25 @@
-filename = 'kubejs_enderio-neoforge-1.21.1-0.10.0.jar'
+filename = 'kubejs_enderio-neoforge-1.21.1-0.13.0.jar'
 name = 'KubeJS EnderIO'
-side = ''
+side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'KubeJS-EnderIO-NeoForge-1.21.1-0.10.0'
+x-prismlauncher-version-number = '1.21.1-0.13.0+neoforge'
 
 [download]
-hash = 'b3e9c1b9567262d47baeee34a088393e3d3eed63'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '440d562bf639b347bf03bcb8e93b9a50320f8fe98512685516e77f56f11fb7d5c5f5470df5d49f218abe5798e088164085f57e30ec1c3d143a46c1e74e7430ca'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BotkzaBk/versions/FksQL3Sq/kubejs_enderio-neoforge-1.21.1-0.13.0.jar'
 
-[update.curseforge]
-file-id = 7534682
-project-id = 910379
+[update.modrinth]
+mod-id = 'BotkzaBk'
+version = 'FksQL3Sq'
+
+[[x-prismlauncher-dependencies]]
+addonId = '49ZofO4f'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'umyGl7zF'
+type = 'REQUIRED'

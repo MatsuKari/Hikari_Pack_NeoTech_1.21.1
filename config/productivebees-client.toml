@@ -11,3 +11,5 @@
 	renderEntitiesInAmber = true
 	#Bees never wear santa hats.
 	neverChristmas = false
+	#Enable april fools jokes
+	enableJokes = true

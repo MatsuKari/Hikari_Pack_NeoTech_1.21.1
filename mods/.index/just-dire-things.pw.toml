@@ -1,6 +1,7 @@
 filename = 'justdirethings-1.5.7.jar'
 name = 'Just Dire Things'
 side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'

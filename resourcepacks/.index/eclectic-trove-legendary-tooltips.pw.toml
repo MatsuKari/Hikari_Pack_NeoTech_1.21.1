@@ -1,0 +1,18 @@
+filename = 'EclecticTrove-noconfig-1.20.2-1.3.0.zip'
+name = 'Eclectic Trove (Legendary Tooltips)'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'EclecticTrove-noconfig-1.20.2-1.3.0.zip'
+
+[download]
+hash = '986a564604ea8cda92808b1617f4aeb5b55f9afc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4933734
+project-id = 538850
