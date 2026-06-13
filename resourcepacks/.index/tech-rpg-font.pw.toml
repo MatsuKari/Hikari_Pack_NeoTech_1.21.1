@@ -3,16 +3,16 @@ name = 'Tech RPG Font'
 side = 'client'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = []
-x-prismlauncher-mc-versions = [ '1.20.5' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '1.0.2'
+x-prismlauncher-mc-versions = [ '1.21.6', '1.21.7', '1.21.8', '1.21.9', '1.21.10', '1.21.11', '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.3'
 
 [download]
-hash = 'a309ec95c3719dff0a9ce26f56a305afd6308fb22cdc292bfb95c331dc43dfe1ed6cea21f38adf127a9e7d4ea3f2646c8839eef709c726329434db7ae9311823'
+hash = 'b28f00fa4b28de3bdcdaa372ef2260b26dc1a72178090d88560809627d8b7528de36ac3a7714f6d245472d50a99afa8da294717887fda8ed7197e522eeda22cc'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/XFnaXwdB/versions/JcH4Bo7M/Tech RPG Font.zip'
+url = 'https://cdn.modrinth.com/data/XFnaXwdB/versions/Kv0IUcMD/Tech RPG Font.zip'
 
 [update.modrinth]
 mod-id = 'XFnaXwdB'
-version = 'JcH4Bo7M'
+version = 'Kv0IUcMD'
