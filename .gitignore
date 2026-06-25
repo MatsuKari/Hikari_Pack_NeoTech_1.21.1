@@ -2,6 +2,26 @@
 .probe
 /backups
 /crash-reports
+/cache
+/coremods
+/data
+/debug
+/disabledmods
+/downloads
+/dynamic-resource-pack-cache
+/emojiful
+/ESM
+/fancymenu_data
+/moddata
+/moonlight-global-datapacks
+/Potionsmaster
+/output
+/resourcify-temp
+/schematics
+/server-resource-packs
+/texturepacks
+/unlim
+/waypoints
 /defaultconfigs
 /essential
 /icon-exports-x64
@@ -18,6 +38,11 @@
 patchouli_data.json
 usercache.json
 usernamecache.json
+realms_persistence.json
+whitelist.json
+servers.essential.dat
+twitchIntegration.dat
+servers.dat_old
 
 #ignorando extensões de arquivos
 *.log

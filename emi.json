@@ -620,6 +620,7 @@
     }
   ],
   "lookup_history": [
+    "item:mekanism:pellet_antimatter",
     "item:extendedae:fishbig",
     "item:industrialforegoing:laser_drill",
     "item:industrialforegoing:stasis_chamber",
@@ -827,7 +828,6 @@
     "item:apotheosis:gem{\"apotheosis:gem\":\"apotheosis:core/lunar\",\"apotheosis:purity\":\"perfect\"}",
     "item:mekanism:module_teleportation_unit",
     "mekanism_chemical:mekanism:spent_nuclear_waste",
-    "item:mekanism:pellet_antimatter",
     "mekanism_chemical:mekanism:fissile_fuel",
     {
       "type": "mekanism_chemical",
@@ -2004,7 +2004,6 @@
     "sophisticatedstorage:pickup_upgrade",
     "actuallyadditions:tagged_sticky_piston",
     "sophisticatedstorage:upgrade_base",
-    "sophisticatedstorage:mangrove_barrel",
     "utilitarian:utility/mangrove_logs_to_slabs",
     "minecraft:mangrove_slab",
     "integratedtunnels:crafting/part_interface_item",
@@ -2630,7 +2629,6 @@
     "productivelib:upgrades/child",
     "productivebees:nest_locator",
     "minecraft:note_block",
-    "mekanismcovers:cover",
     "alltheores:crafting/osmium/nugget_from_ingot",
     "powah:energizing/dry_ice",
     "minecraft:blue_ice",

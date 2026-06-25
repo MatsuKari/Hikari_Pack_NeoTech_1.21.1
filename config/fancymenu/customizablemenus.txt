@@ -9,3 +9,15 @@ net.minecraft.client.gui.screens.TitleScreen {
 net.minecraft.client.gui.screens.worldselection.SelectWorldScreen {
 }
 
+net.minecraft.client.gui.screens.packs.PackSelectionScreen {
+}
+
+net.minecraft.client.gui.screens.options.OptionsScreen {
+}
+
+me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
+}
+
+net.irisshaders.iris.gui.screen.ShaderPackScreen {
+}
+

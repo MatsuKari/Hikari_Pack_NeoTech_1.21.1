@@ -38,6 +38,7 @@
   "extendedae:tile_data": null,
   "growthacceleratortiers:boosted_growth_accelerator": null,
   "growthacceleratortiers:directional_growth_accelerator": null,
+  "hostilenetworks:io_port_mode": null,
   "integrateddynamicscompat:drying_basin": null,
   "integrateddynamicscompat:mechanical_drying_basin": null,
   "integrateddynamicscompat:mechanical_squeezer": null,
