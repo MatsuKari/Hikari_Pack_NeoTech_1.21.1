@@ -397,6 +397,7 @@ chunk_rebuild_scheduler = "culling"
 				spore = true
 				self_sacrifice_projectile = true
 				shadow_glaive = true
+				ghostly_fog = true
 				relic_experience_orb = true
 
 			[light_sources.settings.entities.apotheosis]

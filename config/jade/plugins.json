@@ -68,9 +68,6 @@
   "hostilenetworks": {
     "io_port_mode": true
   },
-  "mekanismcovers": {
-    "cover_component": true
-  },
   "growthacceleratortiers": {
     "boosted_growth_accelerator": true,
     "directional_growth_accelerator": true

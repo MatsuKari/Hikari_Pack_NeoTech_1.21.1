@@ -21,3 +21,6 @@ me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
 net.irisshaders.iris.gui.screen.ShaderPackScreen {
 }
 
+net.minecraft.client.gui.screens.PauseScreen {
+}
+

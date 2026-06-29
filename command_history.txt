@@ -1,5 +1,3 @@
-/ae2 channelmode x2
-/locate structure minecraft:monument
 /tp @s -304 ~ -1360
 /gamemode spectator
 /gamemode survival
@@ -48,3 +46,5 @@
 /gamemode creative
 /gamemode survival
 /time set midnight
+/gamerule keepInventory
+/kill MatsuKari

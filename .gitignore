@@ -2,7 +2,7 @@
 .probe
 /backups
 /crash-reports
-/cache
+/.cache
 /coremods
 /data
 /debug
@@ -10,11 +10,14 @@
 /downloads
 /dynamic-resource-pack-cache
 /emojiful
+/essential 
+/dynamic-resource-pack-cache
 /ESM
 /fancymenu_data
 /moddata
 /moonlight-global-datapacks
 /Potionsmaster
+/particular_cache
 /output
 /resourcify-temp
 /schematics

@@ -1,21 +1,21 @@
 filename = 'commoncapabilities-1.21.1-neoforge-2.11.5.jar'
-name = 'CommonCapabilities'
-side = ''
+name = 'Common Capabilities'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'commoncapabilities-1.21.1-neoforge-2.11.5.jar'
+x-prismlauncher-version-number = '1.21.1-2.11.5'
 
 [download]
-hash = 'c44b1623e8a65521d7c7b2913d9b1042fa448519'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '2dc7d7a387c7597f6d9e314d82008202453391487bed0b71a51055cd1812f405198c366f88648b6b19c7aaac78ef03e31d67c3b1f3a1e753576123a468b30944'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/oFXrCkDI/versions/c50bCinZ/commoncapabilities-1.21.1-neoforge-2.11.5.jar'
 
-[update.curseforge]
-file-id = 8247199
-project-id = 247007
+[update.modrinth]
+mod-id = 'oFXrCkDI'
+version = 'c50bCinZ'
 
 [[x-prismlauncher-dependencies]]
-addonId = '232758'
+addonId = 'Z9DM0LJ4'
 type = 'REQUIRED'
