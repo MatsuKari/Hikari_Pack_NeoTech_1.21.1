@@ -237,6 +237,28 @@ chunk_rebuild_scheduler = "culling"
 				special_snowball = true
 				concussive_shot = true
 
+			[light_sources.settings.entities.quark]
+				quark_boat = true
+				dyed_item_frame = true
+				stool = true
+				skull_pike = true
+				gravisand = true
+				toretoise = true
+				parrot_egg = true
+				foxhound = true
+				stoneling = true
+				torch_arrow = true
+				wraith = true
+				shiba = true
+				totem = true
+				forgotten = true
+				quark_chest_boat = true
+				glass_frame = true
+				crab = true
+				pickarang = true
+				soul_bead = true
+				flamerang = true
+
 			[light_sources.settings.entities.integrateddynamics]
 				item_targetted = true
 

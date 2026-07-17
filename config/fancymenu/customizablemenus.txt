@@ -24,3 +24,6 @@ net.irisshaders.iris.gui.screen.ShaderPackScreen {
 net.minecraft.client.gui.screens.PauseScreen {
 }
 
+com.terraformersmc.mod_menu.gui.ModsScreen {
+}
+

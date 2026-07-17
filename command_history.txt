@@ -1,9 +1,3 @@
-/tp @s -304 ~ -1360
-/gamemode spectator
-/gamemode survival
-/summon minecraft:pig
-/locate structure minecraft:pillager_outpost
-/tp @s 672 ~ -992
 /gamemode spectator
 /gamemode survival
 /gamemode spectator
@@ -48,3 +42,9 @@
 /time set midnight
 /gamerule keepInventory
 /kill MatsuKari
+/kill
+/gamerule keepInventory
+/kill
+/locate biome minecraft:snowy_taiga
+/tp @s -1146 72 -633
+/time

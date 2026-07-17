@@ -730,6 +730,14 @@
     "curseForgeHash": 2798632357,
     "modrinthHash": "550f272c140566f0961c1bb3fdfb1a6272be30dd"
   },
+  "cwb-neoforge-3.0.0+mc1.21.jar": {
+    "jarName": "cwb-neoforge-3.0.0+mc1.21.jar",
+    "modId": "cubes_without_borders",
+    "name": "Cubes Without Borders",
+    "version": "3.0.0+mc1.21",
+    "curseForgeHash": 3980672706,
+    "modrinthHash": "6fe849c4a488107572c9af9d7d8329d93376f343"
+  },
   "cyclopscore-1.21.1-neoforge-1.29.1.jar": {
     "jarName": "cyclopscore-1.21.1-neoforge-1.29.1.jar",
     "modId": "cyclopscore",
@@ -882,13 +890,13 @@
     "curseForgeHash": 1171734073,
     "modrinthHash": "df830a2c4eae2cd8eaecb3445d10b86a3af0c759"
   },
-  "Emojiful-Neoforge-1.21-5.2.2-all.jar": {
-    "jarName": "Emojiful-Neoforge-1.21-5.2.2-all.jar",
+  "Emojiful-Neoforge-1.21-5.2.3-all.jar": {
+    "jarName": "Emojiful-Neoforge-1.21-5.2.3-all.jar",
     "modId": "emojiful",
     "name": "Emojiful",
-    "version": "5.2.2",
-    "curseForgeHash": 1294475247,
-    "modrinthHash": "268e955adb7eecf60b0c182c5ce865e464f289e7"
+    "version": "5.2.3",
+    "curseForgeHash": 148137093,
+    "modrinthHash": "d126435eccfd67f790c3901be4bfad6c3ab8672e"
   },
   "enchdesc-neoforge-1.21.1-21.1.10.jar": {
     "jarName": "enchdesc-neoforge-1.21.1-21.1.10.jar",
@@ -1265,6 +1273,14 @@
     "curseForgeHash": 2273521401,
     "modrinthHash": "4f4a939b4dfc3664add2659e5981390c1ba199fc"
   },
+  "ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar": {
+    "jarName": "ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
+    "modId": "immersiveui",
+    "name": "ImmersiveUI",
+    "version": "0.3.3",
+    "curseForgeHash": 3305623467,
+    "modrinthHash": "5e9dda03c6142400b95dc3114675e07c943d554d"
+  },
   "industrial-foregoing-souls-1.21.1-1.10.7.jar": {
     "jarName": "industrial-foregoing-souls-1.21.1-1.10.7.jar",
     "modId": "industrialforegoingsouls",
@@ -1320,14 +1336,6 @@
     "version": "3.4.28",
     "curseForgeHash": 507699904,
     "modrinthHash": "1bfd8bbb862a8cf55fd83947ded2b0eeda8c6bc8"
-  },
-  "InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar": {
-    "jarName": "InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
-    "modId": "inventoryprofilesnext",
-    "name": "Inventory Profiles Next",
-    "version": "2.2.5",
-    "curseForgeHash": 2506326347,
-    "modrinthHash": "b09d7c0820c233ea34af54d0a3ab7ed510b32dcc"
   },
   "invtweaks-1.21.1-1.3.2.jar": {
     "jarName": "invtweaks-1.21.1-1.3.2.jar",
@@ -2315,6 +2323,14 @@
     "curseForgeHash": 3577795448,
     "modrinthHash": "3e250ce97139cac78664e6723df226d21066a715"
   },
+  "sodium-extra-neoforge-0.9.0+mc1.21.1.jar": {
+    "jarName": "sodium-extra-neoforge-0.9.0+mc1.21.1.jar",
+    "modId": "sodium_extra",
+    "name": "Sodium Extra",
+    "version": "0.9.0+mc1.21.1",
+    "curseForgeHash": 2681611316,
+    "modrinthHash": "1e20510d2bfb72dc369059a14e81f0fa417d81a2"
+  },
   "sodium-neoforge-0.8.12-beta.2+mc1.21.1.jar": {
     "jarName": "sodium-neoforge-0.8.12-beta.2+mc1.21.1.jar",
     "modId": "sodium",
@@ -2579,13 +2595,13 @@
     "curseForgeHash": 3350539298,
     "modrinthHash": "4d587b41a44e5e16cb150e55b4d90401c8a51f5a"
   },
-  "utilitarian-1.21.1-0.19.2.jar": {
-    "jarName": "utilitarian-1.21.1-0.19.2.jar",
+  "utilitarian-1.21.1-0.13.4.jar": {
+    "jarName": "utilitarian-1.21.1-0.13.4.jar",
     "modId": "utilitarian",
     "name": "Utilitarian",
-    "version": "1.21.1-0.19.2",
-    "curseForgeHash": 1105900281,
-    "modrinthHash": "b7727fad292c86085b10c5fd3ef89d2d48ac9f29"
+    "version": "1.21.1-0.13.4",
+    "curseForgeHash": 3838987227,
+    "modrinthHash": "2f11000acc42cd1bba18a7250d3b8ece7201691c"
   },
   "valhelsia_core-neoforge-1.21.1-1.1.5.jar": {
     "jarName": "valhelsia_core-neoforge-1.21.1-1.1.5.jar",

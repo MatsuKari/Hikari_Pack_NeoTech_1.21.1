@@ -44,15 +44,3 @@ windChargeAirSupplyEnabled = true
 # Default: 100
 # Range: > 1
 windChargeAirAmount = 100
-#Enable No Raider module
-noRaiderEnabled = true
-#Block range for muffling sounds with the sound muffler.
-# Default: 8
-# Range: > 1
-soundMufflerBlockRange = 8
-#Enable Flower Duplication. Duplicate small flowers when bonemealed just like tall flowers
-flowerDuplicationEnabled = true
-#Enable to let mobs despawn despite them holding items
-despawnWhenHoldingItems = true
-#Enable Cursed Earth module
-cursedEarthEnabled = true

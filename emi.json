@@ -620,6 +620,22 @@
     }
   ],
   "lookup_history": [
+    "item:minecraft:stonecutter",
+    "item:ae2:fluid_storage_cell_16k{\"ae2:storage_cell_inv\":[{\"#\":815520L,\"#t\":\"ae2:f\",id:\"industrialforegoing:meat\"},{\"#\":528244L,\"#t\":\"ae2:f\",id:\"industrialforegoing:latex\"},{\"#\":39076L,\"#t\":\"ae2:f\",id:\"industrialforegoing:pink_slime\"},{\"#\":8116400L,\"#t\":\"ae2:f\",id:\"productivebees:honey\"},{\"#\":31000L,\"#t\":\"ae2:f\",id:\"allthemodium:soul_lava\"},{\"#\":1347760L,\"#t\":\"ae2:f\",id:\"industrialforegoing:ether_gas\"}]}",
+    "item:toolbelt:pouch",
+    "item:minecraft:torch",
+    "item:chipped:calcite_bricks",
+    {
+      "type": "item",
+      "id": "chipped:flat_calcite_tiles",
+      "amount": 64
+    },
+    "item:mysticalagriculture:supremium_essence",
+    {
+      "type": "item",
+      "id": "mysticalagriculture:diamond_seeds",
+      "amount": 48
+    },
     "item:mekanism:pellet_antimatter",
     "item:extendedae:fishbig",
     "item:industrialforegoing:laser_drill",
@@ -921,7 +937,6 @@
     "#item:enderio:clear_glass_dp",
     "item:enderio:clear_glass_d",
     "item:enderio:clear_glass_dnp",
-    "item:toolbelt:pouch",
     {
       "type": "item",
       "id": "minecraft:cobbled_deepslate",
@@ -1265,7 +1280,6 @@
     "item:ars_nouveau:worn_notebook",
     "item:ars_nouveau:alchemical_sourcelink",
     "item:mysticalagradditions:insanium_essence",
-    "item:mysticalagriculture:supremium_essence",
     "item:mysticalagriculture:tertium_essence",
     "item:mysticalagriculture:imperium_essence",
     "item:mysticalagriculture:prudentium_essence",
@@ -1685,7 +1699,6 @@
       "id": "extendedae:entro_dust",
       "amount": 4
     },
-    "item:minecraft:stonecutter",
     "item:ae2:silicon_press",
     "item:ae2:cable_pattern_provider",
     "item:extendedae:entro_seed",
@@ -1933,18 +1946,13 @@
       "amount": 0
     },
     "item:minecraft:honey_bottle",
-    "item:productivelib:upgrade_productivity_4",
-    "item:productivelib:upgrade_block",
-    "item:productivebees:wax_block",
-    "item:minecraft:item_frame",
-    {
-      "type": "item",
-      "id": "mysticalagriculture:fish_seeds",
-      "chance": 0.0
-    },
-    "item:mysticalagriculture:fish_essence"
+    "item:productivelib:upgrade_productivity_4"
   ],
   "craft_history": [
+    "minecraft:stonecutter",
+    "toolbelt:pouch",
+    "minecraft:torch",
+    "chipped_express:stonecutting_chipped_calcite_bricks_from_chipped_calcite",
     "industrialforegoing:laser_drill",
     "industrialforegoing:stasis_chamber",
     "mob_grinding_utils:gm_chicken_feed",
@@ -2044,7 +2052,6 @@
     "enderio:recolor_clear_glass_dp_lime",
     "enderio:dark_steel_grinding_ball",
     "enderio:invert_clear_glass_dp",
-    "toolbelt:pouch",
     "toolbelt:belt",
     "occultism:crafting/brush",
     "minecraft:end_rod",
@@ -2135,9 +2142,7 @@
     "minecraft:copper_block",
     "utilitarian:tiny_fuel/tiny_coal",
     "minecraft:furnace",
-    "minecraft:stone_axe",
     "minecraft:stick",
-    "minecraft:stone_pickaxe",
     "minecraft:wooden_axe",
     "minecraft:wooden_pickaxe",
     "minecraft:crafting_table",
@@ -2467,7 +2472,6 @@
     "alltheores:smelting/gold/dust_smelting",
     "minecraft:gold_block",
     "extendedae:machine_frame_mirror",
-    "minecraft:stonecutter",
     "minecraft:stone",
     "ae2:materials/advancedcard",
     "extendedae:crystal_assembler",
@@ -2506,7 +2510,6 @@
     "buildinggadgets2:gadget_building",
     "sophisticatedbackpacks:advanced_refill_upgrade",
     "sophisticatedbackpacks:refill_upgrade",
-    "minecraft:chest",
     "sophisticatedbackpacks:stonecutter_upgrade",
     "sophisticatedbackpacks:advanced_magnet_upgrade_from_basic",
     "sophisticatedbackpacks:magnet_upgrade",
@@ -2766,9 +2769,7 @@
     "justdirethings:experienceholder",
     "mekanism:metallurgic_infuser",
     "enderio:enchanter",
-    "minecraft:lectern",
     "utilitarian:utility/oak_logs_to_slabs",
-    "minecraft:bookshelf",
     "justdirethings:gooblock_tier3",
     "justdirethings:gooblock_tier2",
     "justdirethings:gooblock_tier1",
@@ -2824,7 +2825,6 @@
     "potionsmaster:pestle",
     "simplemagnets:basicmagnet",
     "reliquary:uncrafting/ender_pearl",
-    "minecraft:torch",
     "mekanism:energized_smelter",
     "farmingforblockheads:market",
     "minecraft:spruce_button",

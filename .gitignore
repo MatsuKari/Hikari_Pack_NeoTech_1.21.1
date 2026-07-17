@@ -2,6 +2,7 @@
 .probe
 /backups
 /crash-reports
+/cache
 /.cache
 /coremods
 /data
