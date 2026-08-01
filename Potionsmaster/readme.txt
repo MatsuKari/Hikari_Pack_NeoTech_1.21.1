@@ -1,1 +1,0 @@
-copy the config and kubejs folders to the root of your installation folder(this does need kubejs to function properly, tho crafttweaker may have similar options

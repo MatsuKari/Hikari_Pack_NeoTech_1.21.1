@@ -1,25 +1,25 @@
-filename = 'connector-2.0.0-beta.15+1.21.1-full.jar'
+filename = 'connector-2.0.0-beta.16+1.21.1-full.jar'
 name = 'Sinytra Connector'
 side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'Connector 2.0.0 beta 15'
+x-prismlauncher-version-number = 'Connector 2.0.0 beta 16'
 
 [download]
-hash = '5a1ce35ac53ad7d303d616e6e77f6be119ab722f'
+hash = 'de3950b72686e8d4c0851ae050b2cbe00d90d2e4'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8368043
+file-id = 8546239
 project-id = 890127
-
-[[x-prismlauncher-dependencies]]
-addonId = '889079'
-type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
 addonId = '913445'
 type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '889079'
+type = 'REQUIRED'

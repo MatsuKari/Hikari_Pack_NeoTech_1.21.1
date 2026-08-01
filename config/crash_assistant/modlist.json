@@ -93,6 +93,14 @@
     "curseForgeHash": 1013891937,
     "modrinthHash": "7a54db29c574f4a20377e13b255549f2090f8d2a"
   },
+  "aether-1.21.1-1.5.10-neoforge.jar": {
+    "jarName": "aether-1.21.1-1.5.10-neoforge.jar",
+    "modId": "aether",
+    "name": "The Aether",
+    "version": "1.5.10",
+    "curseForgeHash": 2820329512,
+    "modrinthHash": "7554b1dd391b8dd06a810918ec705d0493f693eb"
+  },
   "AkashicTome-1.8-30.jar": {
     "jarName": "AkashicTome-1.8-30.jar",
     "modId": "akashictome",
@@ -101,13 +109,13 @@
     "curseForgeHash": 2582116492,
     "modrinthHash": "6493e575f295e18fac1f7c5399c05c53caa1f7ce"
   },
-  "alltheleaks-1.1.10+1.21.1-neoforge.jar": {
-    "jarName": "alltheleaks-1.1.10+1.21.1-neoforge.jar",
+  "alltheleaks-1.1.11+1.21.1-neoforge.jar": {
+    "jarName": "alltheleaks-1.1.11+1.21.1-neoforge.jar",
     "modId": "alltheleaks",
     "name": "All The Leaks",
-    "version": "1.1.10+1.21.1-neoforge",
-    "curseForgeHash": 2274201648,
-    "modrinthHash": "00bf99e3a09204a555dc219a9648423c93f529d4"
+    "version": "1.1.11+1.21.1-neoforge",
+    "curseForgeHash": 3899353244,
+    "modrinthHash": "f94d617b2e887e4bee6f54377c0a931bae823032"
   },
   "allthemodium-3.0.0_mc_1.21.1.jar": {
     "jarName": "allthemodium-3.0.0_mc_1.21.1.jar",
@@ -589,10 +597,10 @@
     "curseForgeHash": 1001771497,
     "modrinthHash": "e977d86eec39d49295df4e2c4265d6710ae065e8"
   },
-  "connector-2.0.0-beta.15+1.21.1-full.jar": {
-    "jarName": "connector-2.0.0-beta.15+1.21.1-full.jar",
-    "curseForgeHash": 2457760852,
-    "modrinthHash": "5a1ce35ac53ad7d303d616e6e77f6be119ab722f"
+  "connector-2.0.0-beta.16+1.21.1-full.jar": {
+    "jarName": "connector-2.0.0-beta.16+1.21.1-full.jar",
+    "curseForgeHash": 248164793,
+    "modrinthHash": "f874627f9b3f8c33c8ef7f904a0084742aad48e5"
   },
   "ConstructionSticks-1.21.1-1.4.1.jar": {
     "jarName": "ConstructionSticks-1.21.1-1.4.1.jar",
@@ -762,13 +770,13 @@
     "curseForgeHash": 1470661885,
     "modrinthHash": "42adc6405eae940dd729b9f101e144b5ae0d2d3a"
   },
-  "drippyloadingscreen_neoforge_3.1.2_MC_1.21.1.jar": {
-    "jarName": "drippyloadingscreen_neoforge_3.1.2_MC_1.21.1.jar",
+  "drippyloadingscreen_neoforge_3.1.5_MC_1.21.1.jar": {
+    "jarName": "drippyloadingscreen_neoforge_3.1.5_MC_1.21.1.jar",
     "modId": "drippyloadingscreen",
     "name": "Drippy Loading Screen",
-    "version": "3.1.2",
-    "curseForgeHash": 976803780,
-    "modrinthHash": "b47a59369a55f818cadd9e0eeb9352b4028a5e9b"
+    "version": "3.1.5",
+    "curseForgeHash": 2326404052,
+    "modrinthHash": "9d27991a7f5a551265692abf8ed40ece10ea1958"
   },
   "dummmmmmy-neoforge-1.21-2.1.0.jar": {
     "jarName": "dummmmmmy-neoforge-1.21-2.1.0.jar",
@@ -1032,14 +1040,6 @@
     "version": "7.0.3",
     "curseForgeHash": 2808038058,
     "modrinthHash": "9563692efb708b6b568df27a01ec52f6311928ef"
-  },
-  "flatbedrock-neoforge-87.0.0.jar": {
-    "jarName": "flatbedrock-neoforge-87.0.0.jar",
-    "modId": "flatbedrock",
-    "name": "Flat Bedrock",
-    "version": "87.0.0",
-    "curseForgeHash": 2263747018,
-    "modrinthHash": "ff6bdbf6d18c53277efaab3731fc6436deff37db"
   },
   "flightapi-neoforge-1.1.1.jar": {
     "jarName": "flightapi-neoforge-1.1.1.jar",
@@ -1497,6 +1497,14 @@
     "curseForgeHash": 873284408,
     "modrinthHash": "4fc7f5bf9a7b49039f4973bec041be1aa47970b7"
   },
+  "JustEnoughMekanismMultiblocks-1.21.1-7.7.jar": {
+    "jarName": "JustEnoughMekanismMultiblocks-1.21.1-7.7.jar",
+    "modId": "jei_mekanism_multiblocks",
+    "name": "Just Enough Mekanism Multiblocks",
+    "version": "7.7",
+    "curseForgeHash": 1025812875,
+    "modrinthHash": "ff4e9eded15a0118f3cf1182cab2d1cd137d89af"
+  },
   "justzoom_neoforge_2.1.0_MC_1.21.1.jar": {
     "jarName": "justzoom_neoforge_2.1.0_MC_1.21.1.jar",
     "modId": "justzoom",
@@ -1630,6 +1638,14 @@
     "curseForgeHash": 3702269079,
     "modrinthHash": "a5dae941acc991df3f0de56bd8367f719824f131"
   },
+  "MagnumTorch-v21.1.1-1.21.1-NeoForge.jar": {
+    "jarName": "MagnumTorch-v21.1.1-1.21.1-NeoForge.jar",
+    "modId": "magnumtorch",
+    "name": "Magnum Torch",
+    "version": "21.1.1",
+    "curseForgeHash": 1870681286,
+    "modrinthHash": "e507e0c5c0008d541da9f1f64842446c4ecb9d1f"
+  },
   "matc-1.7.1.jar": {
     "jarName": "matc-1.7.1.jar",
     "modId": "matc",
@@ -1662,6 +1678,22 @@
     "curseForgeHash": 1015786058,
     "modrinthHash": "f0b1a44bf30c8a9e14e2fa7fce37360191aa55e8"
   },
+  "mekagenjei-1.2.jar": {
+    "jarName": "mekagenjei-1.2.jar",
+    "modId": "mekagenjei",
+    "name": "MekaGenJei",
+    "version": "1.2",
+    "curseForgeHash": 3392105909,
+    "modrinthHash": "922aff2f71b69d76163728dfa5bf6c664268ff9d"
+  },
+  "mekajadeupgrade-1.3.jar": {
+    "jarName": "mekajadeupgrade-1.3.jar",
+    "modId": "mekajadeupgrade",
+    "name": "MekaJadeUpgrades",
+    "version": "1.3",
+    "curseForgeHash": 1714392361,
+    "modrinthHash": "5ae42c638c56fd0f29437c26a1be5faa76f3b172"
+  },
   "Mekanism-1.21.1-10.7.19.85.jar": {
     "jarName": "Mekanism-1.21.1-10.7.19.85.jar",
     "modId": "mekanism",
@@ -1670,6 +1702,14 @@
     "curseForgeHash": 3418132722,
     "modrinthHash": "b78945c40cfe7640408f3fd1e44da385a8c8b805"
   },
+  "mekanism_clean_vision-1.0.6-1.21.1.jar": {
+    "jarName": "mekanism_clean_vision-1.0.6-1.21.1.jar",
+    "modId": "mekanism_clean_vision",
+    "name": "Mekanism: CleanVision",
+    "version": "1.0.6-1.21.1",
+    "curseForgeHash": 2219607188,
+    "modrinthHash": "0a9f838966f7e7803e48426a2c6abddbc7e63a3d"
+  },
   "mekanism_unleashed-0.3.4.jar": {
     "jarName": "mekanism_unleashed-0.3.4.jar",
     "modId": "mekanism_unleashed",
@@ -1677,6 +1717,14 @@
     "version": "1.21.1-0.3.4",
     "curseForgeHash": 2079445133,
     "modrinthHash": "713c70fefebf78631dd39edbfa0f838928911c60"
+  },
+  "mekanismcovers-1.3-BETA+1.21.jar": {
+    "jarName": "mekanismcovers-1.3-BETA+1.21.jar",
+    "modId": "mekanismcovers",
+    "name": "Mekanism Covers",
+    "version": "1.3-BETA+1.21",
+    "curseForgeHash": 3368829855,
+    "modrinthHash": "1cfb68fcc9b833af7b992024943dc1e8d45799af"
   },
   "MekanismGenerators-1.21.1-10.7.19.85.jar": {
     "jarName": "MekanismGenerators-1.21.1-10.7.19.85.jar",
@@ -1781,6 +1829,14 @@
     "version": "5.0",
     "curseForgeHash": 2451896851,
     "modrinthHash": "c9b26ad977aaa6c2d1bd1ad681edd77cf466537d"
+  },
+  "moremekasuitmodules-1.21.1-1.0.1.jar": {
+    "jarName": "moremekasuitmodules-1.21.1-1.0.1.jar",
+    "modId": "moremekasuitmodules",
+    "name": "MekanismMoreMekaSuitModules",
+    "version": "1.0.1",
+    "curseForgeHash": 840939255,
+    "modrinthHash": "118988c69ddee93938c9d6327e1b28082282a5e1"
   },
   "morered-1.21.1-6.0.0.3.jar": {
     "jarName": "morered-1.21.1-6.0.0.3.jar",
@@ -1998,6 +2054,14 @@
     "curseForgeHash": 2982501720,
     "modrinthHash": "84f8c539fa326dc723ae62b7a6916d6b01982d07"
   },
+  "potionsmaster-21.1.113-1.0.1.jar": {
+    "jarName": "potionsmaster-21.1.113-1.0.1.jar",
+    "modId": "potionsmaster",
+    "name": "PotionsMaster",
+    "version": "1.0.1",
+    "curseForgeHash": 2115549216,
+    "modrinthHash": "3ccdba6e6e63f22dc67c18e309415b31846e94d6"
+  },
   "Powah-6.2.10.jar": {
     "jarName": "Powah-6.2.10.jar",
     "modId": "powah",
@@ -2206,13 +2270,13 @@
     "curseForgeHash": 8062480,
     "modrinthHash": "acc4b6deca5c9cc87c33f114daf5d8f75081ed85"
   },
-  "rscd-fabric-mc23w31a-1.0.0.jar": {
-    "jarName": "rscd-fabric-mc23w31a-1.0.0.jar",
+  "rscd-1.0.0.jar": {
+    "jarName": "rscd-1.0.0.jar",
     "modId": "rscd",
-    "name": "Revert Stackable Curing Discount",
+    "name": "rscd for matsu",
     "version": "1.0.0",
-    "curseForgeHash": 1348280081,
-    "modrinthHash": "81dd48fbf06fb1374a9ea06e3ea651cf3b5e50b2"
+    "curseForgeHash": 1365948812,
+    "modrinthHash": "eb16ecfd4cde2bbc5ae6649054de644dc2bc4a3f"
   },
   "ScalableCatsForce-NeoForge-3.7.1-build-11-with-library.jar": {
     "jarName": "ScalableCatsForce-NeoForge-3.7.1-build-11-with-library.jar",
@@ -2507,13 +2571,13 @@
     "curseForgeHash": 3168310682,
     "modrinthHash": "34db760aa9a1a8cec512e32b93e51525dbcb3597"
   },
-  "titanium-1.21-4.0.43.jar": {
-    "jarName": "titanium-1.21-4.0.43.jar",
+  "titanium-1.21-4.0.45.jar": {
+    "jarName": "titanium-1.21-4.0.45.jar",
     "modId": "titanium",
     "name": "Titanium",
-    "version": "4.0.43",
-    "curseForgeHash": 138444591,
-    "modrinthHash": "e2f62d1bcdd38dd91679a2114e9946d9415746ee"
+    "version": "4.0.45",
+    "curseForgeHash": 1017383991,
+    "modrinthHash": "c718d4d8713b83964f9b8feea4443a25feb84fc9"
   },
   "tombstone-neoforge-1.21.1-9.4.9.jar": {
     "jarName": "tombstone-neoforge-1.21.1-9.4.9.jar",
