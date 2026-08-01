@@ -10,6 +10,7 @@
 		id: "ftbquests:missing_item"
 	}
 	id: "3CEA7BE195C0452C"
+	images: [ ]
 	order_index: 1
 	quest_links: [ ]
 	quests: [
@@ -30,7 +31,7 @@
 				{
 					consume_items: false
 					id: "373058BFA1E21587"
-					item: { count: 1, id: "apotheosis:common_material" }
+					item: { count: 1, id: "apotheosis:mysterious_scrap_metal" }
 					only_from_crafting: false
 					optional_task: true
 					type: "item"
@@ -38,7 +39,7 @@
 				{
 					consume_items: false
 					id: "6B1768E44954D6FA"
-					item: { count: 1, id: "apotheosis:uncommon_material" }
+					item: { count: 1, id: "apotheosis:timeworn_fabric" }
 					only_from_crafting: false
 					optional_task: true
 					type: "item"
@@ -46,7 +47,7 @@
 				{
 					consume_items: false
 					id: "35CEA2B14BA065CE"
-					item: { count: 1, id: "apotheosis:rare_material" }
+					item: { count: 1, id: "apotheosis:luminous_crystal_shard" }
 					only_from_crafting: false
 					optional_task: true
 					type: "item"
@@ -54,7 +55,7 @@
 				{
 					consume_items: false
 					id: "5FFC398FD60C0397"
-					item: { count: 1, id: "apotheosis:epic_material" }
+					item: { count: 1, id: "apotheosis:arcane_sands" }
 					only_from_crafting: false
 					optional_task: true
 					type: "item"
@@ -62,7 +63,7 @@
 				{
 					consume_items: false
 					id: "65EEEE44DFA53A47"
-					item: { count: 1, id: "apotheosis:mythic_material" }
+					item: { count: 1, id: "apotheosis:godforged_pearl" }
 					only_from_crafting: false
 					optional_task: true
 					type: "item"

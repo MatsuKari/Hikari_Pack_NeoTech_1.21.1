@@ -1,0 +1,18 @@
+filename = 'Beautiful Enchanted Books - MC 1.21.1 - 8.0.0.zip'
+name = 'Beautiful Enchanted Books'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '8.0.0'
+
+[download]
+hash = '1c43304cfb64339c9244f47341786ce4751957d212712f4c3de642594559cd8eca3167e9a63b06276e8c06a0f387a6146467d65283ff7cb12d0f4e49c8b66e26'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VDTtLGSV/versions/mpwYIfqN/Beautiful Enchanted Books - MC 1.21.1 - 8.0.0.zip'
+
+[update.modrinth]
+mod-id = 'VDTtLGSV'
+version = 'mpwYIfqN'

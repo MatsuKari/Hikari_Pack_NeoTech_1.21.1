@@ -7,6 +7,7 @@
 		id: "mekanism:enrichment_chamber"
 	}
 	id: "1E6263F4CE5BB26C"
+	images: [ ]
 	order_index: 0
 	quest_links: [ ]
 	quests: [

@@ -7,6 +7,7 @@
 		id: "easy_villagers:trader"
 	}
 	id: "2929FCC822B990D8"
+	images: [ ]
 	order_index: 8
 	quest_links: [ ]
 	quests: [

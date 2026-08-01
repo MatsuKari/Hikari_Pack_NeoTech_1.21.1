@@ -1,33 +1,33 @@
-filename = 'integratedterminals-1.21.1-neoforge-1.7.0.jar'
-name = 'Integrated Terminals'
-side = 'both'
+filename = 'integratedterminals-1.21.1-neoforge-1.7.0-800.jar'
+name = 'IntegratedTerminals'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.1-1.7.0'
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.21.1-1.7.0-800'
 
 [download]
-hash = '312fc9167d9926b8338e780431f244a4efe84f8291b9aeb528ad3534c12718ed51009aff5a88e8db562c1989a784600d047ffb38e85b1232644db0562b065724'
+hash = 'a6fb0b0ef603317b394a38d3674299550e86de6da94088b9f5c5eebc71da2342a18cd3b80254c6b5824f1fa74b9a78f05c79abfd845e08f6b9ef0c0e46e6b388'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/HmLJoQ1K/versions/hMWDjQq8/integratedterminals-1.21.1-neoforge-1.7.0.jar'
+url = 'https://cdn.modrinth.com/data/HmLJoQ1K/versions/O0yNFhtE/integratedterminals-1.21.1-neoforge-1.7.0-800.jar'
 
 [update.modrinth]
 mod-id = 'HmLJoQ1K'
-version = 'hMWDjQq8'
+version = 'O0yNFhtE'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'Etqy1Omb'
-type = 'REQUIRED'
+addonId = 'qwpACdla'
+type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'Z9DM0LJ4'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'yYzdQHJI'
+addonId = 'Etqy1Omb'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'qwpACdla'
-type = 'OPTIONAL'
+addonId = 'yYzdQHJI'
+type = 'REQUIRED'

@@ -7,6 +7,7 @@
 		id: "evilcraft:dark_power_gem"
 	}
 	id: "1543E1B7B93CFE05"
+	images: [ ]
 	order_index: 4
 	quest_links: [ ]
 	quests: [

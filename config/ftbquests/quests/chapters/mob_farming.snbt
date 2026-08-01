@@ -4,6 +4,7 @@
 	filename: "mob_farming"
 	group: "6A64FD893155BC3E"
 	id: "6C1DB73A63BABAC5"
+	images: [ ]
 	order_index: 0
 	quest_links: [ ]
 	quests: [{

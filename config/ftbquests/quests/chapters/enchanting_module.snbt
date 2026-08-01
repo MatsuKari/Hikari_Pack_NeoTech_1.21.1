@@ -5,9 +5,9 @@
 	group: "7F298F3A58653C61"
 	id: "320111664615CD36"
 	images: [{
-		click: "https://encurtador.net/IAXhC"
+		click_action: "open_uri:https://encurtador.net/IAXhC"
 		height: 1.0d
-		hover: ["Tutorial Automatic Enchantment Setup for Apotheosis by EpicEnchants"]
+		id: "68CC705F34918788"
 		image: "hikaripackmodern:textures/automatic_apotheosis_enchanting_table_area.png"
 		rotation: 0.0d
 		width: 1.783457249070632d

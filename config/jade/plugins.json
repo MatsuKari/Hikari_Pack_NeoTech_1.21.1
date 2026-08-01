@@ -120,6 +120,9 @@
   "productivemetalworks": {
     "casting": true
   },
+  "quark": {
+    "oretoise_eating_cooldown": true
+  },
   "reliquary": {
     "pedestal": true,
     "altar": true,

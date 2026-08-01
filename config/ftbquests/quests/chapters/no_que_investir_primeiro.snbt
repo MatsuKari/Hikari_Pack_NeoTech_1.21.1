@@ -12,6 +12,7 @@
 		id: "sophisticatedbackpacks:backpack"
 	}
 	id: "738BAE6BE77257FF"
+	images: [ ]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -26,11 +27,9 @@
 			hide_dependency_lines: false
 			icon: {
 				components: {
-					"minecraft:potion_contents": {
-						potion: "potionsmaster:lapis"
-					}
+					"ftbquests:missing_item": "apotheosis:potion_charm"
 				}
-				id: "apotheosis:potion_charm"
+				id: "ftbquests:missing_item"
 			}
 			id: "4B4F529D709C0AD9"
 			tags: [
@@ -42,14 +41,12 @@
 				consume_items: false
 				icon: {
 					components: {
-						"minecraft:potion_contents": {
-							potion: "potionsmaster:lapis"
-						}
+						"ftbquests:missing_item": "apotheosis:potion_charm"
 					}
-					id: "apotheosis:potion_charm"
+					id: "ftbquests:missing_item"
 				}
 				id: "0060382B0C9DB6A6"
-				item: { components: { "minecraft:potion_contents": { potion: "potionsmaster:lapis" } }, count: 1, id: "apotheosis:potion_charm" }
+				item: { components: { "minecraft:potion_contents": { } }, count: 1, id: "apotheosis:potion_charm" }
 				match_components: "fuzzy"
 				only_from_crafting: false
 				optional_task: true
@@ -849,7 +846,7 @@
 			tasks: [{
 				consume_items: false
 				id: "3F16846FB5B2F745"
-				item: { count: 1, id: "craftingstation:crafting_station" }
+				item: { components: { "ftbquests:missing_item": "craftingstation:crafting_station" }, count: 1, id: "ftbquests:missing_item" }
 				only_from_crafting: true
 				type: "item"
 			}]

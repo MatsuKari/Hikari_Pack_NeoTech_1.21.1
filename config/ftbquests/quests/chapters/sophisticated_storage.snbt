@@ -7,6 +7,7 @@
 		id: "sophisticatedbackpacks:backpack"
 	}
 	id: "63579105D7471B83"
+	images: [ ]
 	order_index: 0
 	quest_links: [ ]
 	quests: [

@@ -7,6 +7,7 @@
 		id: "silentgear:blueprint_book"
 	}
 	id: "7FB32760B8306C86"
+	images: [ ]
 	order_index: 6
 	quest_links: [ ]
 	quests: [

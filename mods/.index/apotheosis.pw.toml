@@ -1,23 +1,35 @@
-filename = 'Apotheosis-1.21.1-8.5.4.jar'
+filename = 'Apotheosis-1.21.1-8.6.1.jar'
 name = 'Apotheosis'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.1-8.5.4'
+x-prismlauncher-version-number = '1.21.1-8.6.1'
 
 [download]
-hash = '338933d96a451205fdce94eb1443c6f88c55cd5c8bcd45bfd23948a7c39bd11f1fb103ceec75e344d8f1fed92bf26df13e7ba04cffee7ba805cbfe5f081f2245'
+hash = 'b07e68cdee9529aac5e232e2b4a696aa01e4e25895ea3277c2ed991e29342657e9a594e308b6e1e5d5834f27fd531b755cc4476738012f3096fccd06863414bc'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/rqFWfVlz/versions/Vp2TR6ib/Apotheosis-1.21.1-8.5.4.jar'
+url = 'https://cdn.modrinth.com/data/rqFWfVlz/versions/sLyTVplu/Apotheosis-1.21.1-8.6.1.jar'
 
 [update.modrinth]
 mod-id = 'rqFWfVlz'
-version = 'Vp2TR6ib'
+version = 'sLyTVplu'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'pL8MtgqY'
+addonId = 'DGaH8Rh0'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mH8wdmqr'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'DfxVkOAO'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nU0bVIaL'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
@@ -29,25 +41,13 @@ addonId = 'UVtY3ZAC'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'mH8wdmqr'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
 addonId = 'u6dRKJwZ'
 type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'DfxVkOAO'
-type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'nvQzSEkH'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'nU0bVIaL'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'DGaH8Rh0'
+addonId = 'pL8MtgqY'
 type = 'REQUIRED'

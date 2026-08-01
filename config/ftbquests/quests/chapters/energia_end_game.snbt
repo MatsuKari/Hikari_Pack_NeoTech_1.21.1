@@ -8,9 +8,9 @@
 	}
 	id: "6A3A1ACFF432B9EE"
 	images: [{
-		click: "https://encurtador.net/OZJVN"
+		click_action: "open_uri:https://encurtador.net/OZJVN"
 		height: 1.0d
-		hover: ["Mais Informações sobre o Setup Aqui"]
+		id: "0F60455FD8889B78"
 		image: "hikaripackmodern:textures/mekanism_logo.png"
 		rotation: 0.0d
 		width: 1.0d

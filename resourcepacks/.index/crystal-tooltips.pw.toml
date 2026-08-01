@@ -1,0 +1,50 @@
+filename = 'Crystal-Tooltips.zip'
+name = 'Crystal Tooltips'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2',
+    '26.2'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.2.3'
+
+[download]
+hash = 'ab3ac9ab322416fc49896ec468d885e6563db0008dac242edf55a86975d1221db284e431ba027025ca6aa2be93240c0e21a22e58eb9784ee6ead8ff15ad579aa'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FVonl8G5/versions/GzQ6H8NE/Crystal-Tooltips.zip'
+
+[update.modrinth]
+mod-id = 'FVonl8G5'
+version = 'GzQ6H8NE'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'atHH8NyV'
+type = 'REQUIRED'

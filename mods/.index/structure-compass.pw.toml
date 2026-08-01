@@ -1,18 +1,18 @@
-filename = 'StructureCompass-1.21.1-4.1.1.jar'
-name = 'Structure Compass'
+filename = 'StructureCompass-1.21.1-4.2.1.jar'
+name = 'Structure Compass Mod'
 side = 'server'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'StructureCompass-1.21.1-4.1.1.jar'
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'StructureCompass-1.21.1-4.2.1.jar'
 
 [download]
-hash = '98c2ac758e9813fcfb75449fd168cb1c78adcc96'
+hash = 'e1204b7f9e2650b1a1969efb043586d90bddd063'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7130481
+file-id = 8439673
 project-id = 319598

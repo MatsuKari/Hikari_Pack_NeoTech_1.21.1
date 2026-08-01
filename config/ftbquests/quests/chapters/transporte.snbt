@@ -10,6 +10,7 @@
 		id: "ftbquests:missing_item"
 	}
 	id: "424EE6D57C144C83"
+	images: [ ]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
