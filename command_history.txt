@@ -1,6 +1,3 @@
-/gamemode spectator
-/gamemode survival
-/gamemode spectator
 /gamemode survival
 /gamemode spectator
 /gamemode survival
@@ -48,3 +45,6 @@
 /locate biome minecraft:snowy_taiga
 /tp @s -1146 72 -633
 /time
+/time set day
+/weather
+/weather clear

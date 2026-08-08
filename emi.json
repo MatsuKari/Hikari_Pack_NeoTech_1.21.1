@@ -620,6 +620,7 @@
     }
   ],
   "lookup_history": [
+    "item:mysticalagriculture:amethyst_seeds",
     "item:minecraft:stonecutter",
     "item:ae2:fluid_storage_cell_16k{\"ae2:storage_cell_inv\":[{\"#\":815520L,\"#t\":\"ae2:f\",id:\"industrialforegoing:meat\"},{\"#\":528244L,\"#t\":\"ae2:f\",id:\"industrialforegoing:latex\"},{\"#\":39076L,\"#t\":\"ae2:f\",id:\"industrialforegoing:pink_slime\"},{\"#\":8116400L,\"#t\":\"ae2:f\",id:\"productivebees:honey\"},{\"#\":31000L,\"#t\":\"ae2:f\",id:\"allthemodium:soul_lava\"},{\"#\":1347760L,\"#t\":\"ae2:f\",id:\"industrialforegoing:ether_gas\"}]}",
     "item:toolbelt:pouch",
@@ -1181,7 +1182,6 @@
       "id": "minecraft:sandstone",
       "amount": 64
     },
-    "item:mysticalagriculture:amethyst_seeds",
     "item:minecraft:green_dye",
     "item:justdirethings:itemcollector",
     "item:occultism:spawn_egg/possessed_skeleton",
@@ -2574,7 +2574,6 @@
     "productivebees:bottler",
     "productivebees:/centrifuge/honeycomb_block",
     "productivebees:centrifuge_cauldron",
-    "industrialforegoing:kjs/9sxql1sta3drke4u4envlrdjp",
     "productivelib:upgrades/productivity_4",
     "productivelib:upgrades/block",
     "productivebees:wax_block",
