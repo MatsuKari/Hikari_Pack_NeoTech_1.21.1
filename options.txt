@@ -230,11 +230,11 @@ key_placebo.toggleWings:key.keyboard.unknown
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
 key_key.hostilenetworks.open_deep_learner:key.keyboard.keypad.8
 key_keyinfo.copycats.fill_copycat:key.keyboard.unknown
 key_artifacts.key.helium_flamingo.activate:key.keyboard.unknown
@@ -339,8 +339,8 @@ key_key.itemzoom.zoom.in:key.keyboard.unknown
 key_key.itemzoom.zoom.out:key.keyboard.unknown
 key_key.relics.research_relic:key.keyboard.unknown
 key_key.relics.active_abilities_list:key.keyboard.left.alt
-key_key.twilightforest.item_display_map_cycle:key.keyboard.unknown
 key_key.twilightforest.zoom:key.keyboard.unknown
+key_key.twilightforest.item_display_map_cycle:key.keyboard.unknown
 key_key.twilightforest.red_thread_vision:key.keyboard.unknown
 key_key.twilightforest.swap_hotbar:key.keyboard.unknown
 key_key.actualladditions.crafting_stick_open.desc:key.keyboard.unknown
@@ -459,8 +459,8 @@ key_key.advanced_ae.quantum_armor_config:key.keyboard.unknown
 key_key.advanced_ae.quantum_magnet_upgrade:key.keyboard.unknown
 key_key.advanced_ae.quantum_auto_stock_upgrade:key.keyboard.unknown
 key_key.advanced_ae.quantum_night_vision_upgrade:key.keyboard.unknown
-key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
 key_legendarytooltips.key.scrollTooltips:key.keyboard.left.shift
+key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
 key_quark.keybind.autorun:key.keyboard.unknown
 key_quark.keybind.back:key.keyboard.unknown
 key_quark.keybind.camera_mode:key.keyboard.f12

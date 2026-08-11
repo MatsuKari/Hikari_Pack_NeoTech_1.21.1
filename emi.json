@@ -620,6 +620,10 @@
     }
   ],
   "lookup_history": [
+    "item:kubejs:lava_cell",
+    "item:occultism:ritual_dummy/summon_demonic_wife",
+    "item:occultism:celestial_chalice",
+    "item:createaddition:electric_motor",
     "item:mysticalagriculture:amethyst_seeds",
     "item:minecraft:stonecutter",
     "item:ae2:fluid_storage_cell_16k{\"ae2:storage_cell_inv\":[{\"#\":815520L,\"#t\":\"ae2:f\",id:\"industrialforegoing:meat\"},{\"#\":528244L,\"#t\":\"ae2:f\",id:\"industrialforegoing:latex\"},{\"#\":39076L,\"#t\":\"ae2:f\",id:\"industrialforegoing:pink_slime\"},{\"#\":8116400L,\"#t\":\"ae2:f\",id:\"productivebees:honey\"},{\"#\":31000L,\"#t\":\"ae2:f\",id:\"allthemodium:soul_lava\"},{\"#\":1347760L,\"#t\":\"ae2:f\",id:\"industrialforegoing:ether_gas\"}]}",
@@ -820,7 +824,6 @@
     "item:occultism:book_of_binding_afrit",
     "item:occultism:iesnium_sacrificial_bowl",
     "item:occultism:book_of_binding_foliot",
-    "item:occultism:celestial_chalice",
     "item:minecraft:goat_spawn_egg",
     "item:minecraft:bell",
     "item:minecraft:gold_nugget",
@@ -1494,7 +1497,6 @@
     "item:sophisticatedbackpacks:gold_backpack",
     "item:sophisticatedbackpacks:iron_backpack",
     "item:powah:blazing_crystal_block",
-    "item:kubejs:lava_cell",
     "item:ae2:drive",
     "item:extendedae:ex_drive",
     "item:advanced_ae:quantum_alloy_plate",
@@ -1944,9 +1946,7 @@
       "type": "fluid",
       "id": "productivebees:honey",
       "amount": 0
-    },
-    "item:minecraft:honey_bottle",
-    "item:productivelib:upgrade_productivity_4"
+    }
   ],
   "craft_history": [
     "minecraft:stonecutter",
