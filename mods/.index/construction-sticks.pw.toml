@@ -1,27 +1,27 @@
-filename = 'ConstructionSticks-1.21.1-1.4.1.jar'
+filename = 'ConstructionSticks-1.21.1-1.4.2.jar'
 name = 'Construction Sticks'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.4.1'
+x-prismlauncher-version-number = '1.4.2'
 
 [download]
-hash = '527c2569ae884ffb26a4ca9ed56f12cd25d6c6026014413fc2a0da148c30564ee65849f98f6bc15c8e63dc3a73ef5f0a876c418bf25526b0548597b9ad4c9276'
+hash = 'ed32969c9f99fdd5eac2a277ac747362f872aa89adb761f252f00d84d745d244a34ff1a6d999f8bf0fb0eabbd145e7bd8201ecc783c0006c8fdf841bd163d448'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/ooyjDLZt/versions/5WHsHqPE/ConstructionSticks-1.21.1-1.4.1.jar'
+url = 'https://cdn.modrinth.com/data/ooyjDLZt/versions/o16G9HVe/ConstructionSticks-1.21.1-1.4.2.jar'
 
 [update.modrinth]
 mod-id = 'ooyjDLZt'
-version = '5WHsHqPE'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'u6dRKJwZ'
-type = 'OPTIONAL'
+version = 'o16G9HVe'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'T9PomCSv'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
