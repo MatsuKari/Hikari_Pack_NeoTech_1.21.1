@@ -1,0 +1,25 @@
+filename = 'rechiseledae-1.0.1-neoforge-mc1.21.1.jar'
+name = 'Rechiseled: Applied Energistics 2'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.1-neoforge-mc1.21.1'
+
+[download]
+hash = '28bed0dc2bf6e91da94e4290cfc572290c17498c30b9d46c268e5bae3994e4aa93d8313f90cbfa3b18c5475d9a46c54f0682b05d9f18b7eaf33b36d544035f64'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1Tpwnc5h/versions/oNnXXgvi/rechiseledae-1.0.1-neoforge-mc1.21.1.jar'
+
+[update.modrinth]
+mod-id = '1Tpwnc5h'
+version = 'oNnXXgvi'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'B0g2vT6l'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'XxWD5pD3'
+type = 'REQUIRED'

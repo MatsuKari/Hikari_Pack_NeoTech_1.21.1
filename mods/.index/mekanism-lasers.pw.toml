@@ -1,0 +1,29 @@
+filename = 'mekanism_lasers-1.1.10.3-c.jar'
+name = 'Mekanism Lasers'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'mekanism_lasers-1.1.10.3-c.jar'
+
+[download]
+hash = 'bef83dbd088a8ef96f18a94166880c0f93c6a4db'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8383748
+project-id = 1060096
+
+[[x-prismlauncher-dependencies]]
+addonId = '898746'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1031448'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '268560'
+type = 'REQUIRED'
