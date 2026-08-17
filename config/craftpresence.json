@@ -22,7 +22,7 @@
     "fallbackBiomeIcon": "unknown",
     "biomeData": {
       "default": {
-        "textOverride": "No Bioma {biome.name}"
+        "textOverride": "In Biome {biome.name}"
       }
     }
   },
@@ -78,7 +78,7 @@
         "iconOverride": "glacio1024x1024"
       },
       "default": {
-        "textOverride": "Na Dimensão: [{dimension.name}]"
+        "textOverride": "On Dimension: [{dimension.name}]"
       },
       "moon": {
         "textOverride": "",
@@ -120,18 +120,18 @@
   },
   "statusMessages": {
     "mainMenuData": {
-      "textOverride": "No Menu Principal",
+      "textOverride": "In Main Menu",
       "iconOverride": "121_menu1024x1024"
     },
     "loadingData": {
-      "textOverride": "Carregando Modpack...",
+      "textOverride": "At Loading Phase...",
       "iconOverride": "loading1024x1024"
     },
     "lanData": {
-      "textOverride": "Jogando um Mundo Lan"
+      "textOverride": "Playing a LAN World: "
     },
     "singleplayerData": {
-      "textOverride": "Modpack:"
+      "textOverride": "Playing World: {world.name}"
     },
     "realmData": {
       "textOverride": "Jogando no {server.motd.raw}"
@@ -195,13 +195,13 @@
       "activityType": 0,
       "statusDisplayType": 0,
       "partyPrivacy": 1,
-      "details": "{getFirst(menu.message, (_general.player != null ? custom.matsuWorldInfo : ''))} Olhando Para : {entity.target.message}",
+      "details": "{getFirst(menu.message, (_general.player != null ? custom.matsuWorldInfo : ''))} Looking at : {entity.target.message}",
       "detailsUrl": "",
       "gameState": "[{pack.name}] Player: [{player.name}] {getOrDefault(screen.message)} {_general.player != null ? custom.player_info_health : ''}",
       "gameStateUrl": "",
       "appName": "",
       "largeImageKey": "{getFirst(menu.icon, dimension.icon)}",
-      "largeImageText": "{getFirst(menu.message, (_general.player != null ? custom.matsuWorldInfo : ''))} Segurando: {item.message.holding}",
+      "largeImageText": "{getFirst(menu.message, (_general.player != null ? custom.matsuWorldInfo : ''))} Holding: {item.message.holding}",
       "largeImageUrl": "",
       "smallImageKey": "{_general.player != null ? player.icon : pack.icon}",
       "smallImageText": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",

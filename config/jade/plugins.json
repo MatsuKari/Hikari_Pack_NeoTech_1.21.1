@@ -105,6 +105,16 @@
     "crafting_monitor": true,
     "part_name": true
   },
+  "extendedae_plus": {
+    "labeled_wireless_component": true,
+    "wt_locked": true,
+    "wt_frequency": true,
+    "wt_network_usable": true,
+    "wt_master_mode": true,
+    "wt_channels": true,
+    "wt_master_location": true,
+    "wt_owner": true
+  },
   "enderio": {
     "soul_bound": true
   },
@@ -119,6 +129,9 @@
     "villager": true,
     "converter": true,
     "breeder": true
+  },
+  "jade_trades": {
+    "villager_trades": true
   },
   "productivemetalworks": {
     "casting": true
@@ -152,6 +165,11 @@
   "evilcraft": {
     "box_of_eternal_closure": true,
     "broom": true
+  },
+  "neoecoae": {
+    "eco_drive": true,
+    "eco_crafting_worker": true,
+    "eco_crafting_system": true
   },
   "jade_access": {
     "held_item": true,
@@ -194,6 +212,17 @@
     "canvas_beehive": true,
     "bee_attributes": true
   },
+  "jade_vs": {
+    "block_velocity.display_mode": "SPEED_ONLY",
+    "ship_velocity": false,
+    "ship_angular_velocity.degrees_mode": true,
+    "ship_mass": true,
+    "ship_velocity.display_mode": "SPEED_ONLY",
+    "ship_angular_velocity.display_mode": "SPEED_ONLY",
+    "ship_angular_velocity": true,
+    "block_velocity": true,
+    "block_mass": true
+  },
   "ars_nouveau": {
     "mob_jar": true
   },
@@ -210,6 +239,12 @@
     "drying_rack": true,
     "chiseled_bookshelf_spawner": true,
     "quest_ram_wool": true
+  },
+  "ae2cs": {
+    "ender_emitter": true,
+    "ender_channels": true,
+    "ender_broadcaster": true,
+    "mirror_pattern_provider": true
   },
   "mysticalagriculture": {
     "infused_farmland": true,

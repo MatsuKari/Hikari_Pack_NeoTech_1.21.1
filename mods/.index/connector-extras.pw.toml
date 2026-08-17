@@ -17,7 +17,23 @@ mod-id = 'FYpiwiBR'
 version = 'dgLCqZyo'
 
 [[x-prismlauncher-dependencies]]
+addonId = 'u58R1TMW'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'umyGl7zF'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
 addonId = 'lhGA9TYQ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
@@ -29,25 +45,9 @@ addonId = 'kkmrDlKT'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'u6dRKJwZ'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'umyGl7zF'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
 addonId = 't5W7Jfwy'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '8BmcQJ2H'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'fRiHVvU7'
 type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'u58R1TMW'
-type = 'REQUIRED'

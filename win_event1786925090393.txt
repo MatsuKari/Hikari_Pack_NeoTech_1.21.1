@@ -1,0 +1,31 @@
+Detected that Windows reported recent critical or error events in the Application log,
+which can indicate that a process (including the Minecraft JVM) terminated unexpectedly.
+Scope: Application log; Levels: Error & Critical; Window: last ~15 seconds.
+
+If no java.exe (or related JVM processes) are listed below, you can disregard this message.
+To inspect these events manually:
+  1) Press Win+R, type "eventvwr.msc", press Enter.
+  2) Open "Windows Logs" → "Application".
+  3) Sort by Date and look for entries with Level = Error or Critical near the crash time.
+
+-----------------------
+Time: 2026-08-16 21:04:47.651 BRT
+Source: Application Hang
+Event ID: 1002
+Level: Error
+
+Message:
+  O programa javaw.exe versão 26.0.2.0 interagiu com o Windows e foi fechado. Para ver se há mais informações disponíveis sobre o problema, verifique o histórico de problemas no painel de controle de Segurança e Manutenção.
+
+
+Details:
+  - AppName: javaw.exe
+  - AppVersion: 26.0.2.0
+  - Process ID: 35132 [0x893c]
+  - Start Time: 2026-08-16 20:58:32.913 BRT [0x1dd2ddb24c7a1be]
+  - TerminationTime: 97
+  - ExeFileName: C:\Users\Andre\AppData\Roaming\PrismLauncher\java\azul_zulu_jre26.0.2\bin\javaw.exe
+  - ReportId: adcae055-baa2-4d4f-9f10-9f8f869fd506
+  - HangType: Unknown
+-----------------------
+
