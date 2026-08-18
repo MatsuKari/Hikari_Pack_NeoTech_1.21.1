@@ -27,3 +27,9 @@ net.minecraft.client.gui.screens.PauseScreen {
 com.terraformersmc.mod_menu.gui.ModsScreen {
 }
 
+net.neoforged.neoforge.client.gui.ConfigurationScreen {
+}
+
+net.neoforged.neoforge.client.gui.ConfigurationScreen$ConfigurationSectionScreen {
+}
+

@@ -85,6 +85,14 @@
     "curseForgeHash": 2133732777,
     "modrinthHash": "4434d42eace0e574ecb42dffb7770f9f927d71e1"
   },
+  "ae2jeiintegration-1.2.1.jar": {
+    "jarName": "ae2jeiintegration-1.2.1.jar",
+    "modId": "ae2jeiintegration",
+    "name": "AE2 JEI Integration",
+    "version": "1.2.1",
+    "curseForgeHash": 2865319449,
+    "modrinthHash": "e99898b3e9c32bf6ac757e7ad50247746622cdfc"
+  },
   "ae2omnicells-1.21.1-neoforge-1.1.6.jar": {
     "jarName": "ae2omnicells-1.21.1-neoforge-1.1.6.jar",
     "modId": "ae2omnicells",
@@ -364,6 +372,14 @@
     "version": "9.0.1+1.21.1",
     "curseForgeHash": 3175932501,
     "modrinthHash": "13d12989930705e645f82c625d25ac26bce589e5"
+  },
+  "BadOptimizations-2.4.1-1.21.1.jar": {
+    "jarName": "BadOptimizations-2.4.1-1.21.1.jar",
+    "modId": "badoptimizations",
+    "name": "BadOptimizations",
+    "version": "2.4.1",
+    "curseForgeHash": 3053351722,
+    "modrinthHash": "1461d8e46391efd32a3085150e86094c9f6f5c9d"
   },
   "balm-neoforge-1.21.1-21.0.65.jar": {
     "jarName": "balm-neoforge-1.21.1-21.0.65.jar",
@@ -653,19 +669,6 @@
     "curseForgeHash": 1001771497,
     "modrinthHash": "e977d86eec39d49295df4e2c4265d6710ae065e8"
   },
-  "connector-2.0.0-beta.17+1.21.1-full.jar": {
-    "jarName": "connector-2.0.0-beta.17+1.21.1-full.jar",
-    "curseForgeHash": 3401352050,
-    "modrinthHash": "ba08b534af7982d0bd25a25b45cb654c09ffec8f"
-  },
-  "ConnectorExtras-1.12.1+1.21.1.jar": {
-    "jarName": "ConnectorExtras-1.12.1+1.21.1.jar",
-    "modId": "connectorextras",
-    "name": "Connector Extras",
-    "version": "1.12.1+1.21.1",
-    "curseForgeHash": 423041515,
-    "modrinthHash": "8ea07df55b26c8343d06df77936505a23e0d2140"
-  },
   "ConstructionSticks-1.21.1-1.4.2.jar": {
     "jarName": "ConstructionSticks-1.21.1-1.4.2.jar",
     "modId": "constructionstick",
@@ -785,6 +788,14 @@
     "version": "9.5.1+1.21.1",
     "curseForgeHash": 933317947,
     "modrinthHash": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4"
+  },
+  "CustomSkinLoader_Universal-15.0.1.jar": {
+    "jarName": "CustomSkinLoader_Universal-15.0.1.jar",
+    "modId": "customskinloader-bootstrap",
+    "name": "CustomSkinLoader Bootstrap",
+    "version": "15.0.1",
+    "curseForgeHash": 3474237027,
+    "modrinthHash": "ab8dd841cafc3b4ecbf0250d3f5aee8a1fdb506a"
   },
   "customtimecycle-neoforge-0.1.6-1.21.1.jar": {
     "jarName": "customtimecycle-neoforge-0.1.6-1.21.1.jar",
@@ -1113,14 +1124,6 @@
     "curseForgeHash": 858109102,
     "modrinthHash": "14f2dd9f43254b8c06af04b6f0c8ae5192f658b5"
   },
-  "forgified-fabric-api-0.116.15+2.3.3+1.21.1.jar": {
-    "jarName": "forgified-fabric-api-0.116.15+2.3.3+1.21.1.jar",
-    "modId": "fabric_api",
-    "name": "Forgified Fabric API",
-    "version": "0.116.15+2.3.3+1.21.1",
-    "curseForgeHash": 589269931,
-    "modrinthHash": "573e4ef7d172d9b14b1a366a7cda171b8e42e93c"
-  },
   "ftb-chunks-neoforge-2101.1.21.jar": {
     "jarName": "ftb-chunks-neoforge-2101.1.21.jar",
     "modId": "ftbchunks",
@@ -1128,6 +1131,14 @@
     "version": "2101.1.21",
     "curseForgeHash": 2297845790,
     "modrinthHash": "37e1c12393d44d5f3e612cf9a5958dd8f1d77675"
+  },
+  "ftb-jei-extras-21.1.7.jar": {
+    "jarName": "ftb-jei-extras-21.1.7.jar",
+    "modId": "ftbjeiextras",
+    "name": "FTB Jei Extras",
+    "version": "21.1.7",
+    "curseForgeHash": 1577462223,
+    "modrinthHash": "ef01126201a805991bbfe5351cff7d0a9e3a077b"
   },
   "ftb-library-neoforge-2101.1.35.jar": {
     "jarName": "ftb-library-neoforge-2101.1.35.jar",
@@ -1537,6 +1548,14 @@
     "curseForgeHash": 3382086651,
     "modrinthHash": "fc7c50a12243aad12df0a184f8dffb6cb3e29cf1"
   },
+  "JEI Ores-1.21.1-1.0.0.jar": {
+    "jarName": "JEI Ores-1.21.1-1.0.0.jar",
+    "modId": "jei_ores",
+    "name": "JEI Ores",
+    "version": "1.21.1-1.0.0",
+    "curseForgeHash": 2060596660,
+    "modrinthHash": "6dc68da22265851f3c5e9e5fefb6e4288550ec08"
+  },
   "jei-1.21.1-neoforge-19.44.0.401.jar": {
     "jarName": "jei-1.21.1-neoforge-19.44.0.401.jar",
     "modId": "jei",
@@ -1677,6 +1696,14 @@
     "version": "4.8.10+1.21.1",
     "curseForgeHash": 1180065415,
     "modrinthHash": "7d2e36037c88d24e40e0fdd4bf2bed9f8c2dd092"
+  },
+  "languagereload-neoforge-1.21.1-1.0.2.jar": {
+    "jarName": "languagereload-neoforge-1.21.1-1.0.2.jar",
+    "modId": "languagereload",
+    "name": "LanguageReload",
+    "version": "1.0.2",
+    "curseForgeHash": 3972451008,
+    "modrinthHash": "4a9c4c762facbd9d4691763e0a6315c5b7ab3835"
   },
   "ldlib2-neoforge-1.21.1-2.2.35-all.jar": {
     "jarName": "ldlib2-neoforge-1.21.1-2.2.35-all.jar",
@@ -1942,6 +1969,14 @@
     "curseForgeHash": 899969855,
     "modrinthHash": "4b70454b56ade333e68eb7c56ba508958b8c3579"
   },
+  "modelfix-1.21-1.10.jar": {
+    "jarName": "modelfix-1.21-1.10.jar",
+    "modId": "modelfix",
+    "name": "Model Gap Fix",
+    "version": "1.21-1.10",
+    "curseForgeHash": 2008040170,
+    "modrinthHash": "9608b1bff92e075ad8c2feb07f7ef095f6887117"
+  },
   "modernfix-neoforge-5.27.20+mc1.21.1.jar": {
     "jarName": "modernfix-neoforge-5.27.20+mc1.21.1.jar",
     "modId": "modernfix",
@@ -1957,6 +1992,14 @@
     "version": "2.0.1",
     "curseForgeHash": 2149904061,
     "modrinthHash": "169c22905fe7568aae14e285fac1173383dcd1ff"
+  },
+  "modnametooltip-1.21.1-neoforge-2.3.0.jar": {
+    "jarName": "modnametooltip-1.21.1-neoforge-2.3.0.jar",
+    "modId": "modnametooltip",
+    "name": "Mod Name Tooltip",
+    "version": "2.3.0",
+    "curseForgeHash": 3179636749,
+    "modrinthHash": "9d9897541c798d379d2b586f28a4b414dab224c7"
   },
   "modonomicon-1.21.1-neoforge-1.120.4.jar": {
     "jarName": "modonomicon-1.21.1-neoforge-1.120.4.jar",
@@ -2547,6 +2590,14 @@
     "curseForgeHash": 2158872702,
     "modrinthHash": "991055113a165bef7d0b620c091165d55f7dbb24"
   },
+  "silentgearjei-1.1.9.jar": {
+    "jarName": "silentgearjei-1.1.9.jar",
+    "modId": "silentgearjei",
+    "name": "Silent Gear JEI",
+    "version": "1.1.9",
+    "curseForgeHash": 1300558528,
+    "modrinthHash": "01a8bc92e223c10f5b08053681ff2303b1d58c59"
+  },
   "simplemagnets-1.1.12c-neoforge-mc1.21.jar": {
     "jarName": "simplemagnets-1.1.12c-neoforge-mc1.21.jar",
     "modId": "simplemagnets",
@@ -2906,14 +2957,6 @@
     "version": "21.1.0",
     "curseForgeHash": 3680155991,
     "modrinthHash": "bdf3f78f90b94e7557421421721d1ae5d355f689"
-  },
-  "unlim-1.1.0-neoforge-1.21.1.jar": {
-    "jarName": "unlim-1.1.0-neoforge-1.21.1.jar",
-    "modId": "unlim",
-    "name": "Unlim",
-    "version": "1.1.0",
-    "curseForgeHash": 3350539298,
-    "modrinthHash": "4d587b41a44e5e16cb150e55b4d90401c8a51f5a"
   },
   "utilitarian-1.21.1-0.13.4.jar": {
     "jarName": "utilitarian-1.21.1-0.13.4.jar",

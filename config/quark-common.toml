@@ -1537,7 +1537,7 @@
 
 [client]
 	"Auto Walk Keybind" = true
-	"Back Button Keybind" = true
+	"Back Button Keybind" = false
 	"Buckets Show Inhabitants" = true
 	Camera = true
 	"Chest Searching" = true

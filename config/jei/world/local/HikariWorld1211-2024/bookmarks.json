@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"wcwt:wireless_comprehensive_work_terminal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"wcwt:tool_slots_box_card","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
+]

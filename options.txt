@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","mod/ae2omnicells:resourcepacks/optional_textures","mod/wcwt:resourcepacks/dark_ae_ui","builtin/aether_tips","builtin/aether_tooltips","mod/subtle_effects:resourcepacks/biome_color_water_particles","mod/neoecoae:classic_pack","file/§bDer\u0027s Shaded Font §916x §3v20§8.zip","file/§0§lOLED §f§lColourful Containers§8.zip","file/§5§lModded §f§lContainers §8§lDark§8.zip","file/enchant icons 1.21 v1.3.zip","file/Roman Numerals for Enchant Icons (gray).zip","file/Modded Omelet [120] [162].zip","file/GEO - v1.108.0.zip","file/EvenBetterEnchants_v2_r1.zip","file/Enchantment Outlines.zip","file/Crystal-Tooltips.zip","file/BuildingGadgets 0.27.zip"]
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","mod/wcwt:resourcepacks/dark_ae_ui","mod/ae2omnicells:resourcepacks/optional_textures","file/§bDer\u0027s Shaded Font §916x §3v20§8.zip","file/§0§lOLED §f§lColourful Containers§8.zip","file/§5§lModded §f§lContainers §8§lDark§8.zip","file/enchant icons 1.21 v1.3.zip","file/Roman Numerals for Enchant Icons (gray).zip","file/Modded Omelet [120] [162].zip","file/GEO - v1.108.0.zip","file/EvenBetterEnchants_v2_r1.zip","file/Enchantment Outlines.zip","file/Crystal-Tooltips.zip","file/BuildingGadgets 0.27.zip","file/AE2DarkMode-V1.0.6.zip","file/AECS-DarkMode-V1.0.1.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -148,8 +148,8 @@ key_key.integratedterminals.terminal.craftinggrid.balance:key.keyboard.b
 key_key.integratedterminals.terminal.portable.open:key.keyboard.c
 key_config.chatimage.key:key.keyboard.end
 key_key.modernfix.config:key.keyboard.unknown
-key_Toggle Farting:key.keyboard.p
-key_Open Exalted Crafter:key.keyboard.c
+key_Alternar Peido:key.keyboard.p
+key_Abrir Criador Exaltado:key.keyboard.c
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
@@ -377,10 +377,10 @@ key_key.aether.gravitite_jump_ability.desc:key.keyboard.space
 key_key.aether.invisibility_toggle.desc:key.keyboard.v
 key_key.relics.research_relic:key.keyboard.left.shift
 key_key.relics.active_abilities_list:key.keyboard.left.alt
-key_key.twilightforest.red_thread_vision:key.keyboard.unknown
-key_key.twilightforest.zoom:key.keyboard.z
-key_key.twilightforest.swap_hotbar:key.keyboard.v
 key_key.twilightforest.item_display_map_cycle:key.keyboard.c
+key_key.twilightforest.zoom:key.keyboard.z
+key_key.twilightforest.red_thread_vision:key.keyboard.unknown
+key_key.twilightforest.swap_hotbar:key.keyboard.v
 key_key.actualladditions.crafting_stick_open.desc:key.keyboard.unknown
 key_key.ftbultimine:key.keyboard.grave.accent
 key_ftbultimine.change_shape.next:key.keyboard.up

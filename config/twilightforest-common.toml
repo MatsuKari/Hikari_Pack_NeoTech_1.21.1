@@ -85,7 +85,7 @@ multiplayerFightAdjuster = "NONE"
 	flipIdList = false
 	#If true, the uncrafting table will also be allowed to uncraft shapeless recipes.
 	#The table was originally intended to only take shaped recipes, but this option remains for people who wish to keep the functionality.
-	enableShapelessCrafting = false
+	enableShapelessCrafting = true
 	#If true, the uncrafting table will no longer allow you to switch between ingredients if a recipe uses a tag for crafting.
 	#This will remove the functionality for ALL RECIPES!
 	#If you want to prevent certain ingredients from showing up in the first place, use the "twilightforest:banned_uncrafting_ingredients" tag.

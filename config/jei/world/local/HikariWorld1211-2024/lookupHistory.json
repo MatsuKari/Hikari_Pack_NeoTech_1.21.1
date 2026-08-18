@@ -1,0 +1,22 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:diamond_pickaxe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"wcwt:toolkit_card"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:diamond_hoe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:diamond_axe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"wcwt:tool_slots_box_card"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ae2:network_tool"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"wcwt:curios_card"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"wcwt:advanced_coding_card"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"wcwt:wireless_comprehensive_work_terminal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ae2wtlib:wireless_pattern_access_terminal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ae2wtlib:wireless_pattern_encoding_terminal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ae2:pattern_encoding_terminal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ae2:crafting_terminal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ae2:terminal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ae2:wireless_terminal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ae2:wireless_crafting_terminal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ae2wtlib:wireless_universal_terminal","components":"{\"ae2:crafting_inv\":[],\"ae2:energy_capacity\":8000000.0d,\"ae2:exported_settings\":{sort_by:\"AMOUNT\",sort_direction:\"DESCENDING\",view_mode:\"ALL\"},\"ae2:stored_energy\":8000000.0d,\"ae2:upgrades\":[],\"ae2:wireless_link_target\":{dimension:\"allthemodium:mining\",pos:[I;150,258,-358]},\"ae2wtlib:current_terminal\":\"crafting\",\"ae2wtlib:has_crafting_terminal\":{},\"ae2wtlib:has_ex_pattern_access_terminal\":{},\"ae2wtlib:has_pattern_access_terminal\":{},\"ae2wtlib:has_pattern_encoding_terminal\":{},\"ae2wtlib:has_requester_terminal\":{},\"ae2wtlib:pattern_encoding_logic\":{encodedInputs:[{\"#\":1L,\"#t\":\"ae2:i\",id:\"chipped:flat_calcite_tiles\"}],mode:\"CRAFTING\",stonecuttingRecipeId:\"chipped_express:stonecutting_chipped_calcite_bricks_from_chipped_calcite\",substitute:0b,substituteFluids:0b},\"ae2wtlib:singularity\":{}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ae2wtlib:wireless_universal_terminal","components":"{\"ae2:crafting_inv\":[],\"ae2:energy_capacity\":8000000.0d,\"ae2:exported_settings\":{sort_by:\"AMOUNT\",sort_direction:\"DESCENDING\",view_mode:\"ALL\"},\"ae2:stored_energy\":7997818.132982315d,\"ae2:upgrades\":[],\"ae2:wireless_link_target\":{dimension:\"allthemodium:mining\",pos:[I;150,258,-358]},\"ae2wtlib:current_terminal\":\"pattern_encoding\",\"ae2wtlib:has_crafting_terminal\":{},\"ae2wtlib:has_ex_pattern_access_terminal\":{},\"ae2wtlib:has_pattern_access_terminal\":{},\"ae2wtlib:has_pattern_encoding_terminal\":{},\"ae2wtlib:has_requester_terminal\":{},\"ae2wtlib:pattern_encoding_logic\":{encodedInputs:[{\"#\":1L,\"#t\":\"ae2:i\",id:\"chipped:flat_calcite_tiles\"}],mode:\"CRAFTING\",stonecuttingRecipeId:\"chipped_express:stonecutting_chipped_calcite_bricks_from_chipped_calcite\",substitute:0b,substituteFluids:0b},\"ae2wtlib:singularity\":{}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"silentgear:azure_electrum_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

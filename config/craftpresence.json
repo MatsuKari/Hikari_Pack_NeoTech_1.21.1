@@ -12,97 +12,25 @@
     "detectDimensionData": true,
     "detectWorldData": true,
     "clientId": "1258976993693798551",
-    "defaultIcon": "launcher_grass",
+    "defaultIcon": "121_menu1024x1024",
     "enableJoinRequests": false,
     "preferredClientLevel": 3,
     "resetTimeOnInit": false,
     "autoRegister": false
   },
   "biomeSettings": {
-    "fallbackBiomeIcon": "unknown",
+    "fallbackBiomeIcon": "overworld",
     "biomeData": {
       "default": {
-        "textOverride": "In Biome {biome.name}"
+        "textOverride": "Playing in {biome.name}"
       }
     }
   },
   "dimensionSettings": {
-    "fallbackDimensionIcon": "unknown",
+    "fallbackDimensionIcon": "nether",
     "dimensionData": {
-      "the_beyond": {
-        "textOverride": "",
-        "iconOverride": "beyond1024x1024"
-      },
-      "the_other": {
-        "textOverride": "",
-        "iconOverride": "other1024x1024"
-      },
-      "moon_orbit": {
-        "textOverride": "",
-        "iconOverride": "moon_orbit_1024x1024"
-      },
-      "glacio_orbit": {
-        "textOverride": "",
-        "iconOverride": "glacio_orbit_1024x1024"
-      },
-      "mars": {
-        "textOverride": "",
-        "iconOverride": "mars1024x1024"
-      },
-      "mercury": {
-        "textOverride": "",
-        "iconOverride": "mercury1024x1024"
-      },
-      "venus_orbit": {
-        "textOverride": "",
-        "iconOverride": "venus_orbit_1024x1024"
-      },
-      "mining": {
-        "textOverride": "",
-        "iconOverride": "mining1024x1024"
-      },
-      "overworld": {
-        "textOverride": "",
-        "iconOverride": "overworld"
-      },
-      "the_end": {
-        "textOverride": "",
-        "iconOverride": "the_end"
-      },
-      "twilight_forest_type": {
-        "textOverride": "",
-        "iconOverride": "twilight_forest"
-      },
-      "glacio": {
-        "textOverride": "",
-        "iconOverride": "glacio1024x1024"
-      },
       "default": {
-        "textOverride": "On Dimension: [{dimension.name}]"
-      },
-      "moon": {
-        "textOverride": "",
-        "iconOverride": "moon1024x1024"
-      },
-      "earth_orbit": {
-        "textOverride": "",
-        "iconOverride": "earth_orbit_1024x1024"
-      },
-      "mars_orbit": {
-        "textOverride": "",
-        "iconOverride": "mars_orbit_1024x1024"
-      },
-      "the_nether": {
-        "textOverride": "",
-        "iconOverride": "nether"
-      },
-      "venus": {
-        "textOverride": "",
-        "iconOverride": "venus1024x1024"
-      },
-      "mercury_orbit": {
-        "textOverride": "",
-        "iconOverride": "mercury_orbit_1024x1024"
+        "textOverride": "In the {dimension.name}"
       }
     }
   },
@@ -120,8 +48,7 @@
   },
   "statusMessages": {
     "mainMenuData": {
-      "textOverride": "In Main Menu",
-      "iconOverride": "121_menu1024x1024"
+      "textOverride": "In the Main Menu"
     },
     "loadingData": {
       "textOverride": "At Loading Phase...",
@@ -134,7 +61,7 @@
       "textOverride": "Playing World: {world.name}"
     },
     "realmData": {
-      "textOverride": "Jogando no {server.motd.raw}"
+      "textOverride": "Playing on {server.motd.raw}"
     }
   },
   "advancedSettings": {
@@ -145,12 +72,12 @@
     "debugMode": false,
     "verboseMode": false,
     "refreshRate": 2,
-    "allowPlaceholderPreviews": false,
+    "allowPlaceholderPreviews": true,
     "guiSettings": {
       "fallbackGuiIcon": "unknown",
       "guiData": {
         "default": {
-          "textOverride": "Na Tela: [{screen.name}]"
+          "textOverride": "In {screen.name}"
         }
       }
     },
@@ -160,11 +87,8 @@
     "entitySettings": {
       "fallbackEntityIcon": "unknown",
       "targetData": {
-        "Swap-O-Matic": {
-          "textOverride": "{entity.target.name}"
-        },
         "default": {
-          "textOverride": "[{entity.target.name}]"
+          "textOverride": "Targeting {entity.target.name}"
         }
       },
       "ridingData": {
@@ -176,7 +100,7 @@
     "allowEndpointIcons": true,
     "serverIconEndpoint": "https://api.mcsrvstat.us/icon/{server.address.short}",
     "playerSkinEndpoint": "https://mc-heads.net/avatar/{getOrDefault(player.uuid.short, player.name)}",
-    "allowDuplicatePackets": false,
+    "allowDuplicatePackets": true,
     "maxConnectionAttempts": 10,
     "enableClassGraph": false
   },
@@ -195,16 +119,16 @@
       "activityType": 0,
       "statusDisplayType": 0,
       "partyPrivacy": 1,
-      "details": "{getFirst(menu.message, (_general.player != null ? custom.matsuWorldInfo : ''))} Looking at : {entity.target.message}",
+      "details": "{getFirst(menu.message, (_general.player != null ? custom.matsuWorldInfo : ''))} - Playing: [{pack.name}]",
       "detailsUrl": "",
-      "gameState": "[{pack.name}] Player: [{player.name}] {getOrDefault(screen.message)} {_general.player != null ? custom.player_info_health : ''}",
+      "gameState": "Player: [{player.name}] {getOrDefault(screen.message)} {_general.player != null ? custom.player_info_health : ''}",
       "gameStateUrl": "",
       "appName": "",
       "largeImageKey": "{getFirst(menu.icon, dimension.icon)}",
-      "largeImageText": "{getFirst(menu.message, (_general.player != null ? custom.matsuWorldInfo : ''))} Holding: {item.message.holding}",
+      "largeImageText": "{getFirst(menu.message, (_general.player != null ? custom.matsuWorldInfo : ''))} - Playing: [{pack.name}]",
       "largeImageUrl": "",
       "smallImageKey": "{_general.player != null ? player.icon : pack.icon}",
-      "smallImageText": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
+      "smallImageText": "{getFirst(menu.message, (_general.player != null ? custom.matsuWorldInfo : ''))} - Playing: [{pack.name}] Player: [{player.name}] {getOrDefault(screen.message)} Life: {_general.player != null ? custom.player_info_health : ''} Holding: {item.message.holding}",
       "smallImageUrl": "",
       "startTimestamp": "{data.general.time}",
       "endTimestamp": "",
@@ -216,20 +140,20 @@
     },
     "dynamicVariables": {
       "mods": "{general.mods} Mod(s)",
-      "matsuWorldInfo": "Mundo: [{world.name}] No Bioma: [{biome.name}] - Na Dimensão: [{dimension.name}] ",
+      "matsuWorldInfo": "World: [{world.name}] On Biome: [{biome.name}] - On Dimension: [{dimension.name}] ",
       "players": "{server.players.current} / {server.players.max} Players",
       "player_info_items": "Items: {item.main_hand.message}",
-      "myHP": "Vida : [{custom.player_info_health}]",
+      "myHP": "Health : [{custom.player_info_health}]",
       "myTargeting": "{entity.target.message != null ? (entity.target.message)}",
-      "player_info_health": "Vida: {player.health.current}/{player.health.max}",
+      "player_info_health": "Health: {player.health.current}/{player.health.max}",
       "pack": "Modpack: [{pack.name}]",
       "myPos": "Em: (X : {player.position.x} Y: {player.position.y} Z: {player.position.z})",
-      "myCurrentHolding": "{item.message.holding != null ? ('Segurando ' + item.message.holding +'') ",
+      "myCurrentHolding": "{item.message.holding != null ? ('Holding' + item.message.holding +'') ",
       "player_info_coordinate": "Em X: {player.position.x}, Z: {player.position.z}",
       "player_info_in": "({custom.player_info.health})",
       "sayMyName": "{player.name}",
       "player_info_out": "Player: {player.name}",
-      "world_info": "No Mundo: {world.name}",
+      "world_info": "On World: {world.name}",
       "matsu_gui_info": "{entity.target.message != null ? (entity.target.message + '')"
     }
   }
