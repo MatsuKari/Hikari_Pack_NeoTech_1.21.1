@@ -172,6 +172,51 @@ chunk_rebuild_scheduler = "culling"
 				piglich = true
 				alloy_trident = true
 
+			[light_sources.settings.entities.aether]
+				slider = true
+				poison_dart = true
+				sun_spirit = true
+				zephyr = true
+				flying_cow = true
+				whirlwind = true
+				golden_dart = true
+				poison_needle = true
+				floating_block = true
+				skyroot_boat = true
+				mimic = true
+				thunder_crystal = true
+				sentry = true
+				valkyrie_queen = true
+				zephyr_snowball = true
+				cockatrice = true
+				hammer_projectile = true
+				golden_swet = true
+				skyroot_chest_boat = true
+				fire_crystal = true
+				fire_minion = true
+				evil_whirlwind = true
+				golden_parachute = true
+				blue_swet = true
+				cloud_minion = true
+				valkyrie = true
+				phyg = true
+				aerbunny = true
+				lightning_knife = true
+				aerwhale = true
+				cold_parachute = true
+				enchanted_dart = true
+				ice_crystal = true
+				sheepuff = true
+				aechor_plant = true
+				moa = true
+				cloud_crystal = true
+				tnt_present = true
+
+			[light_sources.settings.entities.swplanets]
+				jawa = true
+				laser = true
+				bantha = true
+
 			[light_sources.settings.entities.forbidden_arcanus]
 				dark_trader = true
 				enchanted_lost_soul = true
@@ -262,6 +307,24 @@ chunk_rebuild_scheduler = "culling"
 			[light_sources.settings.entities.integrateddynamics]
 				item_targetted = true
 
+			[light_sources.settings.entities.malum]
+				ascending_block = true
+				scythe_boomerang = true
+				thrown_gluttony = true
+				bound_rite_locus = true
+				natural_spirit = true
+				scythe_maelstrom = true
+				spellweavers_locus = true
+				draining_bolt = true
+				hex_bolt = true
+				etheric_nitrate = true
+				seeking_rite_locus = true
+				hidden_blade_delayed_impact = true
+				vivid_nitrate = true
+				entropic_flame_bolt = true
+				pneuma_void = true
+				sundering_anchor = true
+
 			[light_sources.settings.entities.artifacts]
 				mimic = true
 
@@ -271,6 +334,7 @@ chunk_rebuild_scheduler = "culling"
 				fang_swirl = true
 				eldritch_blast = true
 				summoned_sword = true
+				scapegoat = true
 				devour_jaw = true
 				blood_slash = true
 				thrown_item = true
@@ -279,12 +343,14 @@ chunk_rebuild_scheduler = "culling"
 				firefly_swarm = true
 				cryomancer = true
 				wisp = true
+				echoing_sword = true
 				portal = true
 				electrocute = true
 				pyromancer = true
 				citadel_keeper = true
 				catacombs_zombie = true
 				small_magic_arrow = true
+				echoing_arrow = true
 				fire_breath = true
 				firebolt = true
 				fire_eruption = true
@@ -674,6 +740,26 @@ chunk_rebuild_scheduler = "culling"
 				naga = true
 				penguin = true
 				bighorn_sheep = true
+
+			[light_sources.settings.entities.stellaris]
+				cheese_spit = true
+				alien_zombie = true
+				tiny_rocket = true
+				ice_shard_arrow = true
+				normal_rocket = true
+				star_crawler = true
+				lander = true
+				alien = true
+				small_rocket = true
+				pygro_brute = true
+				ice_spit = true
+				martian_raptor = true
+				big_rocket = true
+				mogler = true
+				cheese_boss = true
+				pygro = true
+				rover = true
+				custom_lightning_bolt = true
 
 [debug]
 	active_dynamic_lighting_cells = false

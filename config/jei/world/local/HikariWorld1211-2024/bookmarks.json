@@ -1,5 +1,15 @@
 [
   {"version":2},
   {"ingredient":{"id":"wcwt:wireless_comprehensive_work_terminal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"recipe":"wcwt:tool_slots_box_card","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
+  {"recipe":"wcwt:tool_slots_box_card","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"minecraft:silence_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"allthemodium:allthemodium_upgrade_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"allthemodium:suspicious_clay"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":"productivebees:sussy","type":"cy.jdkdigital.productivebees.common.crafting.ingredient.BeeIngredient","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:enchanted_book","components":"{\"minecraft:stored_enchantments\":{levels:{\"minecraft:silk_touch\":1}}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"stellaris:rocket_station"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"stellaris:heavy_metal_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"stellaris:iron_plating_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"stellaris:heavy_metal_plate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mekanism:nugget_steel"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

@@ -293,13 +293,13 @@
     "curseForgeHash": 581628875,
     "modrinthHash": "49c18d6a4af487957d7e5a6ad5dcbf71090b8e14"
   },
-  "AppliedFlux-1.21-2.1.4-neoforge.jar": {
-    "jarName": "AppliedFlux-1.21-2.1.4-neoforge.jar",
+  "AppliedFlux-1.21-2.1.5-neoforge.jar": {
+    "jarName": "AppliedFlux-1.21-2.1.5-neoforge.jar",
     "modId": "appflux",
     "name": "AppliedFlux",
-    "version": "1.21-2.1.4-neoforge",
-    "curseForgeHash": 2767699241,
-    "modrinthHash": "741e856b0c928fc15b59e92d98ea75ef98541ee8"
+    "version": "1.21-2.1.5-neoforge",
+    "curseForgeHash": 1187116542,
+    "modrinthHash": "a98eeadf414e6b3f6878324a3fbdee3fa5fcdadf"
   },
   "appliedsorting-1.21.1-neoforge-v2.0.0.jar": {
     "jarName": "appliedsorting-1.21.1-neoforge-v2.0.0.jar",
@@ -372,14 +372,6 @@
     "version": "9.0.1+1.21.1",
     "curseForgeHash": 3175932501,
     "modrinthHash": "13d12989930705e645f82c625d25ac26bce589e5"
-  },
-  "BadOptimizations-2.4.1-1.21.1.jar": {
-    "jarName": "BadOptimizations-2.4.1-1.21.1.jar",
-    "modId": "badoptimizations",
-    "name": "BadOptimizations",
-    "version": "2.4.1",
-    "curseForgeHash": 3053351722,
-    "modrinthHash": "1461d8e46391efd32a3085150e86094c9f6f5c9d"
   },
   "balm-neoforge-1.21.1-21.0.65.jar": {
     "jarName": "balm-neoforge-1.21.1-21.0.65.jar",
@@ -1132,14 +1124,6 @@
     "curseForgeHash": 2297845790,
     "modrinthHash": "37e1c12393d44d5f3e612cf9a5958dd8f1d77675"
   },
-  "ftb-jei-extras-21.1.7.jar": {
-    "jarName": "ftb-jei-extras-21.1.7.jar",
-    "modId": "ftbjeiextras",
-    "name": "FTB Jei Extras",
-    "version": "21.1.7",
-    "curseForgeHash": 1577462223,
-    "modrinthHash": "ef01126201a805991bbfe5351cff7d0a9e3a077b"
-  },
   "ftb-library-neoforge-2101.1.35.jar": {
     "jarName": "ftb-library-neoforge-2101.1.35.jar",
     "modId": "ftblibrary",
@@ -1548,21 +1532,13 @@
     "curseForgeHash": 3382086651,
     "modrinthHash": "fc7c50a12243aad12df0a184f8dffb6cb3e29cf1"
   },
-  "JEI Ores-1.21.1-1.0.0.jar": {
-    "jarName": "JEI Ores-1.21.1-1.0.0.jar",
-    "modId": "jei_ores",
-    "name": "JEI Ores",
-    "version": "1.21.1-1.0.0",
-    "curseForgeHash": 2060596660,
-    "modrinthHash": "6dc68da22265851f3c5e9e5fefb6e4288550ec08"
-  },
-  "jei-1.21.1-neoforge-19.44.0.401.jar": {
-    "jarName": "jei-1.21.1-neoforge-19.44.0.401.jar",
+  "jei-1.21.1-neoforge-19.44.0.403.jar": {
+    "jarName": "jei-1.21.1-neoforge-19.44.0.403.jar",
     "modId": "jei",
     "name": "Just Enough Items",
-    "version": "19.44.0.401",
-    "curseForgeHash": 2500322922,
-    "modrinthHash": "09415a5bc04e818b9ac5c910694ec7769fa53301"
+    "version": "19.44.0.403",
+    "curseForgeHash": 1080911592,
+    "modrinthHash": "f027864a444572205a546c78c48b882335540eb2"
   },
   "jeioptimizer-1.21.1-1.1.0-19.42.jar": {
     "jarName": "jeioptimizer-1.21.1-1.1.0-19.42.jar",
@@ -1705,13 +1681,13 @@
     "curseForgeHash": 3972451008,
     "modrinthHash": "4a9c4c762facbd9d4691763e0a6315c5b7ab3835"
   },
-  "ldlib2-neoforge-1.21.1-2.2.35-all.jar": {
-    "jarName": "ldlib2-neoforge-1.21.1-2.2.35-all.jar",
+  "ldlib2-neoforge-1.21.1-2.2.36-all.jar": {
+    "jarName": "ldlib2-neoforge-1.21.1-2.2.36-all.jar",
     "modId": "ldlib2",
     "name": "LowDragLib2",
-    "version": "2.2.35",
-    "curseForgeHash": 551014641,
-    "modrinthHash": "09c736b32264724e2a80c24f351e514b99b921b7"
+    "version": "2.2.36",
+    "curseForgeHash": 755468363,
+    "modrinthHash": "6ac445f70fbb374caf6b8aaf6699aa551f8b66f8"
   },
   "LeavesBeGone-v21.1.1-1.21.1-NeoForge.jar": {
     "jarName": "LeavesBeGone-v21.1.1-1.21.1-NeoForge.jar",
@@ -2009,13 +1985,13 @@
     "curseForgeHash": 3586170747,
     "modrinthHash": "1377fec77ba0cb3e4adda0da9ce2f14847e21e40"
   },
-  "moonlight-1.21.1-3.3.4-neoforge.jar": {
-    "jarName": "moonlight-1.21.1-3.3.4-neoforge.jar",
+  "moonlight-1.21.1-3.4.0-neoforge.jar": {
+    "jarName": "moonlight-1.21.1-3.4.0-neoforge.jar",
     "modId": "moonlight",
     "name": "Moonlight Lib",
-    "version": "1.21.1-3.3.4",
-    "curseForgeHash": 94694129,
-    "modrinthHash": "42d91d2b760362b168b126d8596cfb42efdeb663"
+    "version": "1.21.1-3.4.0",
+    "curseForgeHash": 3090935053,
+    "modrinthHash": "cb78a6acf9be5e67779e37f922b488584dfdfb37"
   },
   "moredragoneggs-5.0.jar": {
     "jarName": "moredragoneggs-5.0.jar",
@@ -2521,13 +2497,13 @@
     "curseForgeHash": 1365948812,
     "modrinthHash": "eb16ecfd4cde2bbc5ae6649054de644dc2bc4a3f"
   },
-  "sable-neoforge-1.21.1-2.0.3.jar": {
-    "jarName": "sable-neoforge-1.21.1-2.0.3.jar",
+  "sable-neoforge-1.21.1-2.0.5.jar": {
+    "jarName": "sable-neoforge-1.21.1-2.0.5.jar",
     "modId": "sable",
     "name": "Sable",
-    "version": "2.0.3",
-    "curseForgeHash": 2953750138,
-    "modrinthHash": "f3ba9a497122ba29d9e94ebe6f9a3a3aaa5fa756"
+    "version": "2.0.5",
+    "curseForgeHash": 2399697702,
+    "modrinthHash": "05f666e973d32baaaf405acb9bbed6615b909971"
   },
   "sablejade-1.2.1.jar": {
     "jarName": "sablejade-1.2.1.jar",
@@ -2590,14 +2566,6 @@
     "curseForgeHash": 2158872702,
     "modrinthHash": "991055113a165bef7d0b620c091165d55f7dbb24"
   },
-  "silentgearjei-1.1.9.jar": {
-    "jarName": "silentgearjei-1.1.9.jar",
-    "modId": "silentgearjei",
-    "name": "Silent Gear JEI",
-    "version": "1.1.9",
-    "curseForgeHash": 1300558528,
-    "modrinthHash": "01a8bc92e223c10f5b08053681ff2303b1d58c59"
-  },
   "simplemagnets-1.1.12c-neoforge-mc1.21.jar": {
     "jarName": "simplemagnets-1.1.12c-neoforge-mc1.21.jar",
     "modId": "simplemagnets",
@@ -2638,13 +2606,13 @@
     "curseForgeHash": 4235676049,
     "modrinthHash": "4fea33926fafbd59f7434d1e4e64938ddee5d5db"
   },
-  "smoothgui-neoforge-2.0.2+mc1.21.jar": {
-    "jarName": "smoothgui-neoforge-2.0.2+mc1.21.jar",
+  "smoothgui-neoforge-2.0.4+mc1.21.jar": {
+    "jarName": "smoothgui-neoforge-2.0.4+mc1.21.jar",
     "modId": "smoothgui",
     "name": "SmoothGui",
-    "version": "2.0.2",
-    "curseForgeHash": 1521379621,
-    "modrinthHash": "0a5fc9a26b956e67e0e981a64b3c9f7be657daab"
+    "version": "2.0.4",
+    "curseForgeHash": 44793401,
+    "modrinthHash": "096acf143fe76b6a05df6fd86a82fcdefecb7996"
   },
   "smoothscrolling-1.21.1-NeoForge-1.0.1.jar": {
     "jarName": "smoothscrolling-1.21.1-NeoForge-1.0.1.jar",
