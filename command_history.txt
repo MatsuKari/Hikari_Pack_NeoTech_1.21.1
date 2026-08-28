@@ -1,6 +1,4 @@
 /gamemode survival
-/gamemode spectator
-/gamemode survival
 /summon minecraft:cow
 /locate structure minecraft:pillager_outpost
 /tp @s 672 ~ -992
@@ -48,3 +46,5 @@
 /weather clear
 /give MatsuKari minecraft:emerald 64
 /reload
+/gamerule keepInventory
+/kill

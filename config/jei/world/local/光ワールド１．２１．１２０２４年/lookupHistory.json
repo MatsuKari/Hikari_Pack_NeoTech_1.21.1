@@ -1,0 +1,21 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"stellaris:fuel"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:matsu_stellar_fuel"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"stellaris:fuel_refinery"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mekanism:electrolytic_separator"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"enderio:vat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:water"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"enderio:fluid_vapor_of_levity_still"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justdirethings:xp_fluid_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justdirethings:portal_fluid_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justdirethings:unstable_portal_fluid_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justdirethings:refined_t3_fluid_source"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justdirethings:portal_fluid_source"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"industrialforegoing:fluid_sieving_machine"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"enderio:fluid_nutrient_distillation_still"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"stellaris:hydrogen"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mekanism:rotary_condensentrator"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":"mekanism:water_vapor","type":"mekanism.api.chemical.ChemicalStack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mekanism:gauge_dropper"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

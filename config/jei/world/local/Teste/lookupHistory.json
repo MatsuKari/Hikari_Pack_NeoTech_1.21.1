@@ -1,6 +1,10 @@
 [
   {"version":1},
+  {"ingredient":{"id":"kubejs:fissile_stellar_fuel"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"advanced_ae:reaction_chamber"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"stellaris:fuel"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":"kubejs:custom_stellar_fuel","type":"mekanism.api.chemical.ChemicalStack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"stellaris:fuel_refinery"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":"mekanism:sodium","type":"mekanism.api.chemical.ChemicalStack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mekanism:electrolytic_separator"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"mekanism:pressurized_reaction_chamber"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

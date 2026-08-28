@@ -1,20 +1,20 @@
-filename = 'wcwt-1.3.7.jar'
+filename = 'wcwt-1.3.8.jar'
 name = 'AE2 WCWT'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '1.3.7'
+x-prismlauncher-version-number = '1.3.8'
 
 [download]
-hash = 'a9da0885fdca14e4f0e72d93eaf27a85fbed740d86549d531ef38be6ed854d5cb84eacdaaf84d21027841f040dd728e66e84d17266314950ad478984fc44737e'
+hash = '44cc13190975f7c7bf742f05aa0678f1c7f7550ea88862856774823c79f20d0d81d9da4a1ffeadbd69ce0128d669019a5bf88ddac60af9a50df99009005f3f27'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/4inoel9g/versions/dvJIUOLF/wcwt-1.3.7.jar'
+url = 'https://cdn.modrinth.com/data/4inoel9g/versions/Zg3OnxBb/wcwt-1.3.8.jar'
 
 [update.modrinth]
 mod-id = '4inoel9g'
-version = 'dvJIUOLF'
+version = 'Zg3OnxBb'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'pNabrMMw'
