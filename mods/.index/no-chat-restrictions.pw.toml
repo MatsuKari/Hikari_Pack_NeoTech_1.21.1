@@ -1,4 +1,4 @@
-filename = 'NoChatRestrictions-NeoForge-MC1.21.11-v1.0.1.jar'
+filename = 'NoChatRestrictions-NeoForge-MC1.21.11-v1.0.2.jar'
 name = 'No Chat Restrictions'
 side = ''
 x-prismlauncher-dependencies = []
@@ -18,14 +18,14 @@ x-prismlauncher-mc-versions = [
     '1.21.11'
 ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'NeoForge-MC1.21.11-v1.0.1'
+x-prismlauncher-version-number = 'NeoForge-MC1.21.11-v1.0.2'
 
 [download]
-hash = 'be38dc123d8be712336a6a77a190106a5b0efd2918ec9e7d398f0b6c41db6e2510c7382c57827a9995811316b318038c8d997dc2421bfedc2cfa8b01bfd4a601'
+hash = '6f9308b06c882b1e0e9b39790be1fe42b5a35c8b534319aaa326b88240c356a53e34866f601778fd74d7973e609285974897761212305224ac4f49126085359c'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/z440MEwJ/versions/3fvbnsyQ/NoChatRestrictions-NeoForge-MC1.21.11-v1.0.1.jar'
+url = 'https://cdn.modrinth.com/data/z440MEwJ/versions/W4xlmhAG/NoChatRestrictions-NeoForge-MC1.21.11-v1.0.2.jar'
 
 [update.modrinth]
 mod-id = 'z440MEwJ'
-version = '3fvbnsyQ'
+version = 'W4xlmhAG'

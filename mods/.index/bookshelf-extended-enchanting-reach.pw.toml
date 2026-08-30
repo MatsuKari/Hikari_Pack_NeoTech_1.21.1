@@ -1,18 +1,18 @@
-filename = 'beer-1.21.1-1.4.1.jar'
-name = 'Bookshelf Extended Enchanting Reach'
-side = ''
+filename = 'beer-1.21.1-1.4.4.jar'
+name = 'BEER'
+side = 'server'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Beer 1.4.1'
+x-prismlauncher-version-number = 'BEER 1.21.1-1.4.4'
 
 [download]
-hash = '1e036eb9e57414a0b97dfbd58fd37983fcebfdab'
+hash = '14867ad1bee1cc53b58c42a8d33a898a99551e1a'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6968233
+file-id = 8717958
 project-id = 1274736

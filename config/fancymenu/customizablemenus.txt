@@ -33,3 +33,9 @@ net.neoforged.neoforge.client.gui.ConfigurationScreen {
 net.neoforged.neoforge.client.gui.ConfigurationScreen$ConfigurationSectionScreen {
 }
 
+com.blamejared.controlling.client.NewKeyBindsScreen {
+}
+
+net.minecraft.client.gui.screens.options.controls.ControlsScreen {
+}
+

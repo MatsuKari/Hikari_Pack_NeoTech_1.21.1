@@ -3,7 +3,7 @@
     "weather_quality": "FANCY",
     "leaves_quality": "FANCY",
     "enable_vignette": true,
-    "use_closest_point_entity_sort": false
+    "use_closest_point_entity_sort": true
   },
   "advanced": {
     "enable_memory_tracing": false,

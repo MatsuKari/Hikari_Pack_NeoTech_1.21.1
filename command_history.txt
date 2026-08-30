@@ -1,14 +1,3 @@
-/gamemode survival
-/summon minecraft:cow
-/locate structure minecraft:pillager_outpost
-/tp @s 672 ~ -992
-/summon minecraft:chicken
-/summon minecraft:ravager
-/summon minecraft:wandering_trader
-/summon minecraft:chicken
-/summon minecraft:pig
-/gamemode creative
-/gamemode survival
 /summon minecraft:pig
 /summon minecraft:chicken
 /summon minecraft:wandering_trader
@@ -48,3 +37,14 @@
 /reload
 /gamerule keepInventory
 /kill
+/reload
+/time set day
+/kick Nejeisu
+/time set day
+/tp Nejeisu MatsuKari
+/time set day
+/tp Nejeisu
+/gamemode survival Nejeisu
+/tp Nejeisu
+/tp Nejeisu MatsuKari
+/time set day
