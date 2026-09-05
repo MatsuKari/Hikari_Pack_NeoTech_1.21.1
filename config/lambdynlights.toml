@@ -761,6 +761,28 @@ chunk_rebuild_scheduler = "culling"
 				rover = true
 				custom_lightning_bolt = true
 
+			[light_sources.settings.entities.ad_astra]
+				corrupted_lunarian = true
+				air_vortex = true
+				star_crawler = true
+				tier_1_rover = true
+				tier_4_rocket = true
+				lander = true
+				pygro_brute = true
+				zombified_pygro = true
+				ice_spit = true
+				tier_3_rocket = true
+				tier_1_rocket = true
+				tier_2_rocket = true
+				martian_raptor = true
+				sulfur_creeper = true
+				mogler = true
+				lunarian = true
+				pygro = true
+				zombified_mogler = true
+				glacian_ram = true
+				lunarian_wandering_trader = true
+
 [debug]
 	active_dynamic_lighting_cells = false
 	cell_display_radius = 0

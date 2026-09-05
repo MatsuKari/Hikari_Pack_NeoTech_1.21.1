@@ -32,3 +32,7 @@ lastViewCellsPanelVisible = true
 favoritedItemsFirst = false
 #Serialized client-side favorite AE keys for WCWT terminal sorting and overlays.
 favoritedKeys = []
+#If true: when the crafting grid is locked, JEI/EMI recipe-transfer buttons keep their existing highlight and draw a red border.
+lockedCraftingGridJeiTransferBorder = true
+#If true: EMI craftable actions (left-click / Shift+left-click on a bookmarked or recipe-context stack) fill the full recipe into WCWT, same as the recipe-page + button.
+emiPreviewRecipeFill = true

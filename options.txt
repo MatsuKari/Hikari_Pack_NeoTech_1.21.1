@@ -16,7 +16,7 @@ fullscreen:true
 gamma:1.0
 graphicsMode:1
 guiScale:3
-maxFps:110
+maxFps:120
 mipmapLevels:4
 narrator:0
 particles:0
@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","mod/wcwt:resourcepacks/dark_ae_ui","mod/ae2omnicells:resourcepacks/optional_textures","file/§bDer\u0027s Shaded Font §916x §3v20§8.zip","file/§0§lOLED §f§lColourful Containers§8.zip","file/§5§lModded §f§lContainers §8§lDark§8.zip","file/enchant icons 1.21 v1.3.zip","file/Roman Numerals for Enchant Icons (gray).zip","file/Modded Omelet [120] [162].zip","file/GEO - v1.108.0.zip","file/Enchantment Outlines.zip","file/Crystal-Tooltips.zip","file/BuildingGadgets 0.27.zip","file/Beautiful Enchanted Books - MC 1.21.1 - 8.0.0.zip","file/AE2DarkMode-V1.0.6.zip","file/AECS-DarkMode-V1.0.1.zip"]
+resourcePacks:["mod/ae2omnicells:resourcepacks/optional_textures","vanilla","fabric","mod_resources","moonlight:merged_pack","mod/wcwt:resourcepacks/dark_ae_ui","file/§bDer\u0027s Shaded Font §916x §3v20§8.zip","file/§0§lOLED §f§lColourful Containers§8.zip","file/§5§lModded §f§lContainers §8§lDark§8.zip","file/enchant icons 1.21 v1.3.zip","file/Roman Numerals for Enchant Icons (gray).zip","file/Modded Omelet [120] [162].zip","file/GEO - v1.108.0.zip","file/EvenBetterEnchants_v2_r1.zip","file/Enchantment Outlines.zip","file/Crystal-Tooltips.zip","file/BuildingGadgets 0.27.zip","file/AE2DarkMode-V1.0.6.zip","file/AECS-DarkMode-V1.0.1.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -220,10 +220,10 @@ key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
 key_key.hostilenetworks.open_deep_learner:key.keyboard.unknown
 key_keyinfo.copycats.fill_copycat:key.keyboard.unknown
 key_artifacts.key.helium_flamingo.activate:key.keyboard.unknown
@@ -363,10 +363,10 @@ key_key.aether.gravitite_jump_ability.desc:key.keyboard.unknown
 key_key.aether.invisibility_toggle.desc:key.keyboard.unknown
 key_key.relics.research_relic:key.keyboard.unknown
 key_key.relics.active_abilities_list:key.keyboard.unknown
-key_key.twilightforest.swap_hotbar:key.keyboard.unknown
-key_key.twilightforest.zoom:key.keyboard.unknown
-key_key.twilightforest.red_thread_vision:key.keyboard.unknown
 key_key.twilightforest.item_display_map_cycle:key.keyboard.unknown
+key_key.twilightforest.swap_hotbar:key.keyboard.unknown
+key_key.twilightforest.red_thread_vision:key.keyboard.unknown
+key_key.twilightforest.zoom:key.keyboard.unknown
 key_key.actualladditions.crafting_stick_open.desc:key.keyboard.unknown
 key_key.ftbultimine:key.mouse.4
 key_ftbultimine.change_shape.next:key.keyboard.unknown
@@ -466,10 +466,11 @@ key_key.wcwt.open_tool_slots_box:key.keyboard.unknown
 key_key.wcwt.open_terminal:key.keyboard.unknown
 key_key.wcwt.open_toolkit:key.keyboard.unknown
 key_key.wcwt.open_resonating_lightning_pattern_coding:key.keyboard.unknown
-key_key.wcwt.toggle_crafting_grid_lock:key.keyboard.unknown
 key_key.wcwt.toggle_favorite_item:key.keyboard.unknown
-key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
+key_key.wcwt.toolkit_bar_left:key.keyboard.left
+key_key.wcwt.toolkit_bar_right:key.keyboard.right
 key_legendarytooltips.key.scrollTooltips:key.keyboard.left.shift
+key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
 key_quark.keybind.autorun:key.keyboard.unknown
 key_quark.keybind.back:key.keyboard.unknown
 key_quark.keybind.camera_mode:key.keyboard.f12

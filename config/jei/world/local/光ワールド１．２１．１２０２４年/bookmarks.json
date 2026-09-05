@@ -1,6 +1,5 @@
 [
   {"version":2},
-  {"ingredient":{"id":"stellaris:moon_stone_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"chipped:flat_diorite_tiles"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"chipped:flat_cobblestone_tiles"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"chipped:flat_andesite_tiles"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -14,5 +13,17 @@
   {"ingredient":{"id":"chipped:dripstone_block_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"chipped:granite_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"quark:permafrost_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"malum:tainted_rock_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"malum:tainted_rock_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ad_astra:tier_1_rocket","components":"{\"ad_astra:fluids\":[{amount:3000L,id:\"ad_astra:fuel\"}]}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ad_astra:fuel"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ad_astra:fuel_refinery"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ad_astra_giselle_addon:netherite_oxygen_can"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ad_astra:launch_pad"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ad_astra_giselle_addon:rocket_sensor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:observer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ad_astra:nasa_workbench"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ad_astra:iron_rod"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ad_astra:steel_plate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ad_astra:oil"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ad_astra_giselle_addon:oxygen_can"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

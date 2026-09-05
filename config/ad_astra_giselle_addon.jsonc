@@ -8,9 +8,9 @@
         },
         "oxygen_can": {
             // Type: Long
-            "fluid_capacity": 500,
+            "fluid_capacity": 3000,
             // Type: Long
-            "fluid_transfer": 125
+            "fluid_transfer": 100
         },
         "netherite_oxygen_can": {
             // Type: Long
@@ -127,7 +127,7 @@
                  * Energy usage per mb when produce Mekanism oxygen to player in water, rain
                  * Type: Integer
                  */
-                "energy_using_produce": 200
+                "energy_using_produce": 0
             },
             "modules_space_fire_proof": {
                 /*
