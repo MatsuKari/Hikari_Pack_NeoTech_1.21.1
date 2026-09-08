@@ -1,6 +1,7 @@
 [
   {"version":1},
   {"ingredient":{"id":"ad_astra:raw_desh"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ad_astra:desh_plate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"ad_astra:desh_plating"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"ad_astra:desh_plating_slab"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"mekanism:electrolytic_core"},"type":"item_stack","bookmarkType":"INGREDIENT"},

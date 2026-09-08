@@ -1,18 +1,18 @@
-filename = 'jei-1.21.1-neoforge-19.52.0.424.jar'
+filename = 'jei-1.21.1-neoforge-19.53.0.426.jar'
 name = 'Just Enough Items'
 side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '19.52.0.424'
+x-prismlauncher-version-number = '19.53.0.426'
 
 [download]
-hash = '82be7d0c9f67b59b944121b2fecca3fab9f04cdc2e132d0a5e1eb09507d2c4ca178be98acc8cf60ce9f672f543ea0f482ccbe6c530864a73a5143b5915f34afd'
+hash = '8bbb00619864613115ed49da2498a51ed100ceb5f38f7405277a5af98f363b1649c62ce87bd12a1be87201014c96c54c35a77d3dedb780e502978a076f0527e6'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/u6dRKJwZ/versions/xeGtmWrM/jei-1.21.1-neoforge-19.52.0.424.jar'
+url = 'https://cdn.modrinth.com/data/u6dRKJwZ/versions/WXSjjcqV/jei-1.21.1-neoforge-19.53.0.426.jar'
 
 [update.modrinth]
 mod-id = 'u6dRKJwZ'
-version = 'xeGtmWrM'
+version = 'WXSjjcqV'

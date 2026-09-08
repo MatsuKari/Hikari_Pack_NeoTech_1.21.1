@@ -487,7 +487,8 @@
       "particular:ww_cypress_leaf": true,
       "particular:ww_palm_leaf": true,
       "subtle_effects:yellow_blue_parrot_feather": true,
-      "irons_spellbooks:zap": true
+      "irons_spellbooks:zap": true,
+      "relics:ghostly_fog": true
     }
   },
   "detail_settings": {
@@ -533,8 +534,8 @@
   "extra_settings": {
     "overlay_corner": "TOP_RIGHT",
     "text_contrast": "NONE",
-    "show_fps": true,
-    "show_f_p_s_extended": true,
+    "show_fps": false,
+    "show_f_p_s_extended": false,
     "show_coords": false,
     "reduce_resolution_on_mac": false,
     "wayland_fullscreen_resolution": false,

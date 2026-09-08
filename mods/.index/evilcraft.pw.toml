@@ -1,20 +1,20 @@
-filename = 'evilcraft-1.21.1-neoforge-1.2.89.jar'
+filename = 'evilcraft-1.21.1-neoforge-1.2.95-1075.jar'
 name = 'EvilCraft'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.1-1.2.89'
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.21.1-1.2.95-1075'
 
 [download]
-hash = '3bd19821e38a24ef7136e7330723f4e2dcea76546a312048418ab569302347a58e225fc2c96955d43bff9e784c4e2a9b73e9f8fbab2330be1a70d67cbc6e8779'
+hash = '362a3019126c6be01fc94f5f4f651c3d18e3d2541b55c24901ac9809987d2d008f0ca639587a06f3834f66a93810eb07ef560a33f83054cb9af387d0bddf11b8'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/3ANq2btA/versions/GU8P6YhY/evilcraft-1.21.1-neoforge-1.2.89.jar'
+url = 'https://cdn.modrinth.com/data/3ANq2btA/versions/vDQlzuhW/evilcraft-1.21.1-neoforge-1.2.95-1075.jar'
 
 [update.modrinth]
 mod-id = '3ANq2btA'
-version = 'GU8P6YhY'
+version = 'vDQlzuhW'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'Z9DM0LJ4'

@@ -39,3 +39,24 @@ com.blamejared.controlling.client.NewKeyBindsScreen {
 net.minecraft.client.gui.screens.options.controls.ControlsScreen {
 }
 
+dev.dediamondpro.resourcify.gui.browsepage.BrowseScreen {
+}
+
+dev.dediamondpro.resourcify.gui.projectpage.ProjectScreen {
+}
+
+net.minecraft.client.gui.screens.options.SkinCustomizationScreen {
+}
+
+net.minecraft.client.gui.screens.options.SoundOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.options.MouseSettingsScreen {
+}
+
+net.minecraft.client.gui.screens.options.ChatOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.options.AccessibilityOptionsScreen {
+}
+

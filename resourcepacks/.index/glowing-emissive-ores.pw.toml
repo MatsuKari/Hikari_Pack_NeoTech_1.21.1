@@ -1,6 +1,6 @@
-filename = 'GEO - v1.108.0.zip'
+filename = 'GEO - v1.112.0.zip'
 name = 'Glowing Emissive Ores'
-side = ''
+side = 'client'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [
@@ -14,13 +14,25 @@ x-prismlauncher-mc-versions = [
     '1.19.4',
     '1.20',
     '1.20.1',
+    '1.20.2 Pre-Release 1',
+    '1.20.2-pre1',
     '1.20.2',
     '1.20.3',
     '1.20.4',
+    '1.20.5 Pre-Release 1',
+    '1.20.5 Pre-Release 2',
+    '1.20.5 Pre-Release 3',
+    '1.20.5-pre1',
+    '1.20.5-pre2',
+    '1.20.5-pre3',
     '1.20.5',
     '1.20.6',
     '1.21',
     '1.21.1',
+    '1.21.2 Pre-Release 1',
+    '1.21.2 Pre-Release 2',
+    '1.21.2-pre1',
+    '1.21.2-pre2',
     '1.21.2',
     '1.21.3',
     '1.21.4',
@@ -31,20 +43,59 @@ x-prismlauncher-mc-versions = [
     '1.21.9',
     '1.21.10',
     '1.21.11',
+    '23w31a',
+    '23w32a',
+    '23w33a',
+    '23w35a',
+    '23w42a',
+    '23w43a',
+    '23w43b',
+    '23w44a',
+    '23w45a',
+    '23w46a',
+    '24w03a',
+    '24w03b',
+    '24w04a',
+    '24w05a',
+    '24w05b',
+    '24w06a',
+    '24w07a',
+    '24w09a',
+    '24w10a',
+    '24w11a',
+    '24w12a',
+    '24w13a',
+    '24w14a',
+    '24w14potato',
+    '24w18a',
+    '24w19a',
+    '24w19b',
+    '24w20a',
+    '24w33a',
+    '24w34a',
+    '24w35a',
+    '24w36a',
+    '24w37a',
+    '24w38a',
+    '24w39a',
+    '24w40a',
+    '24w44a',
+    '24w45a',
+    '24w46a',
     '26.1',
     '26.1.1',
     '26.1.2',
     '26.2'
 ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'GEO - v1.108.0'
+x-prismlauncher-version-number = 'v1.112.0'
 
 [download]
-hash = 'b1b32ebe19d9b8583bff756a089fb7b17eaaf1b5'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '53d1733a1c61d21b5abf954976ea85f27d39e6df619760de9bae86e87ee837793e4259f65d2c6da66d0eeffe35a5d456f18e19d16288e0d28b79469bcd2deed7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/l8XRSfMu/versions/iAxwHHla/GEO - v1.112.0.zip'
 
-[update.curseforge]
-file-id = 8522486
-project-id = 990484
+[update.modrinth]
+mod-id = 'l8XRSfMu'
+version = 'iAxwHHla'

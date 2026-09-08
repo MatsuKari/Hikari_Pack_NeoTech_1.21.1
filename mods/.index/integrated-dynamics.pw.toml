@@ -1,20 +1,20 @@
-filename = 'integrateddynamics-1.21.1-neoforge-1.34.0.jar'
+filename = 'integrateddynamics-1.21.1-neoforge-1.36.0-2045.jar'
 name = 'IntegratedDynamics'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.1-1.34.0'
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.21.1-1.36.0-2045'
 
 [download]
-hash = '513e17cde517f91fb6959cacbbf366bbdf339b1d050fb2455dd5a8065fdf5257f1e2b7ab1d1f379836602923022a4051efa96522cccbdcd28af12d8c2f7b25aa'
+hash = '14cbef859f742bdd0c61a26cf52189591c71bae3e3e035e5bf04e566ba0f586999996dc682cc6c3f511ab1fe86973d437abbccb37e39fe8c1b3f4282a5f5b792'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/yYzdQHJI/versions/qB7fUitH/integrateddynamics-1.21.1-neoforge-1.34.0.jar'
+url = 'https://cdn.modrinth.com/data/yYzdQHJI/versions/QkZaFzOp/integrateddynamics-1.21.1-neoforge-1.36.0-2045.jar'
 
 [update.modrinth]
 mod-id = 'yYzdQHJI'
-version = 'qB7fUitH'
+version = 'QkZaFzOp'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'Z9DM0LJ4'

@@ -25,5 +25,6 @@
   {"ingredient":{"id":"ad_astra:iron_rod"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"ad_astra:steel_plate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"ad_astra:oil"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"ad_astra_giselle_addon:oxygen_can"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"ad_astra_giselle_addon:oxygen_can"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ad_astra:desh_plate"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

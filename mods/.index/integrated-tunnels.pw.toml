@@ -1,20 +1,20 @@
-filename = 'integratedtunnels-1.21.1-neoforge-1.9.4-652.jar'
+filename = 'integratedtunnels-1.21.1-neoforge-1.11.0-750.jar'
 name = 'IntegratedTunnels'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '1.21.1-1.9.4-652'
+x-prismlauncher-version-number = '1.21.1-1.11.0-750'
 
 [download]
-hash = 'fcc5d2b400c9ad7e0c17cd7fe2cbc3c0ba3d1df8735eb6488fdca04b4810e3bf2b514b98a4dc06269106a214e55907955ff8b90a141502f1991bf1477b242a8f'
+hash = 'e0ed7724a5c54939b7e695b32255b4d5e5f597284a0f45c5e9062274393d63a34e3b433615e690cddeba14e2b29dec4d121a0d4c0278c848a0abed20cd05c0a6'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Etqy1Omb/versions/HQAujdWb/integratedtunnels-1.21.1-neoforge-1.9.4-652.jar'
+url = 'https://cdn.modrinth.com/data/Etqy1Omb/versions/3HGHnw2p/integratedtunnels-1.21.1-neoforge-1.11.0-750.jar'
 
 [update.modrinth]
 mod-id = 'Etqy1Omb'
-version = 'HQAujdWb'
+version = '3HGHnw2p'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'Z9DM0LJ4'
