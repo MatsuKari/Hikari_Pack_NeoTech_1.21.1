@@ -1,20 +1,20 @@
-filename = 'commoncapabilities-1.21.1-neoforge-2.11.5-363.jar'
+filename = 'commoncapabilities-1.21.1-neoforge-2.11.5-373.jar'
 name = 'CommonCapabilities'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '1.21.1-2.11.5-363'
+x-prismlauncher-version-number = '1.21.1-2.11.5-373'
 
 [download]
-hash = 'ae852dc5d7b5857e3be4c8c7fd5fcdd4e4fda8f649747315e1d78528becadfeaa01856acedafedb400eb4ca2a3f39d8c85e839e8606e0ba535cbba2bd8030b1e'
+hash = '6d50fb8f5b8fba0f212ca457be337910e8fbe4341820b1a1e4ebbbfaa08261864817eafb74ce17abc595f5be60514b118a6667c290403f26a6f909d396eb4a11'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/oFXrCkDI/versions/TOl9njea/commoncapabilities-1.21.1-neoforge-2.11.5-363.jar'
+url = 'https://cdn.modrinth.com/data/oFXrCkDI/versions/7Ip7zyIX/commoncapabilities-1.21.1-neoforge-2.11.5-373.jar'
 
 [update.modrinth]
 mod-id = 'oFXrCkDI'
-version = 'TOl9njea'
+version = '7Ip7zyIX'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'Z9DM0LJ4'

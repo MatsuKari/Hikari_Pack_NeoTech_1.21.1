@@ -1,3 +1,0 @@
-#Sat Sep 05 14:10:37 GMT-03:00 2026
-shadowDistance=512.0
-shadowMapResolution=3072

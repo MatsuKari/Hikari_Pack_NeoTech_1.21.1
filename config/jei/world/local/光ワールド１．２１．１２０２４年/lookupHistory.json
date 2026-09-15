@@ -1,5 +1,8 @@
 [
   {"version":1},
+  {"ingredient":{"id":"mekmm:basic_stamping_factory"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mekmm:cnc_stamper"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mekmm:multiversal_stamping_factory"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"ad_astra:raw_desh"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"ad_astra:desh_plate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"ad_astra:desh_plating"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -57,7 +60,6 @@
   {"ingredient":{"id":"ad_astra:compressor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"silentgear:iron_rod"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"alltheores:steel_plate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"mekmm:cnc_stamper"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"ad_astra:steel_plate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"alltheores:iron_plate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"ad_astra_giselle_addon:rocket_sensor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -97,6 +99,5 @@
   {"ingredient":{"id":"justdirethings:portal_fluid_source"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"industrialforegoing:fluid_sieving_machine"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"enderio:fluid_nutrient_distillation_still"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":"mekanism:water_vapor","type":"mekanism.api.chemical.ChemicalStack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"mekanism:gauge_dropper"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":"mekanism:water_vapor","type":"mekanism.api.chemical.ChemicalStack","bookmarkType":"INGREDIENT"}
 ]

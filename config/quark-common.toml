@@ -20,7 +20,7 @@
 	#The amount of slots the chest button system should seek when trying to figure out if a container should be eligible for them.
 	"Chest Button Slot Target" = 27
 	#Set this to false to not show the Quark Programmer Art resource pack in the resource pack selection screen
-	"Generate Programmer Art" = true
+	"Generate Programmer Art" = false
 	#Set this to false to prevent Quark from ever disabling any vanilla data files. This will break certain modules, so only do this if you know what you're doing!
 	"Quark V D O" = true
 
@@ -1825,7 +1825,7 @@
 		"Convert Variant Items" = false
 		#Enable the hammer, allowing variants to be swapped between eachother, including the original block. Do this ONLY under the same circumstances as Convert Variant Items.
 		"Enable Hammer" = false
-		"Show Tooltip" = true
+		"Show Tooltip" = false
 		"Align Hud To Hotbar" = false
 		"Show Simple Hud" = false
 		"Show Hud" = true
@@ -2009,3 +2009,5 @@
 		"Destroy Lost Items" = false
 		#Set this to false to only allow the owner of a totem to collect its items rather than any player
 		"Allow Anyone To Collect" = true
+		#Set this to true to make the totem drop everything when punched once
+		"Drop All Items On Hit" = false
