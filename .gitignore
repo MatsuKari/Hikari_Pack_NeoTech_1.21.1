@@ -1,6 +1,10 @@
 .mixin.out
 .probe
+.sable
+
 /backups
+/chatimagecache
+/customskinloader
 /crash-reports
 /cache
 /.cache
@@ -15,6 +19,8 @@
 /dynamic-resource-pack-cache
 /ESM
 /fancymenu_data
+/justzoom_instance_data
+/ldlib2
 /moddata
 /moonlight-global-datapacks
 /Potionsmaster
@@ -47,6 +53,12 @@ whitelist.json
 servers.essential.dat
 twitchIntegration.dat
 servers.dat_old
+121.png
+.qmenu_opened_marker
+icon.png
+instance 2.png
+README.md
+servers.dat
 
 #ignorando extensões de arquivos
 *.log
