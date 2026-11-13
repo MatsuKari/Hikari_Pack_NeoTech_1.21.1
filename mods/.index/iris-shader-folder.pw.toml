@@ -1,6 +1,6 @@
-filename = 'iris_shader_folder-1.4.1-neoforge.jar'
-name = 'Iris/Oculus Shader Folder'
-side = 'client'
+filename = 'iris_shader_folder-1.4.3-neoforge.jar'
+name = 'Iris Shader Folder'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [
     '1.21',
@@ -215,20 +215,53 @@ x-prismlauncher-mc-versions = [
     '26.2-snapshot-7',
     '26.2-snapshot-8',
     '26.2',
+    '26.3 Pre-Release  1',
+    '26.3 Pre-Release  2',
+    '26.3 Pre-Release  3',
+    '26.3 rc 1',
+    '26.3 rc 2',
+    '26.3 rc 3',
+    '26.3 snapshot 1',
+    '26.3 snapshot 2',
+    '26.3 snapshot 3',
+    '26.3 snapshot 4',
+    '26.3 snapshot 5',
+    '26.3 snapshot 6',
+    '26.3 snapshot 7',
+    '26.3 snapshot 8',
+    '26.3 snapshot 9',
+    '26.3 snapshot 10',
+    '26.3-pre-1',
+    '26.3-pre-2',
+    '26.3-pre-3',
+    '26.3-rc-1',
+    '26.3-rc-2',
+    '26.3-rc-3',
+    '26.3-snapshot-1',
+    '26.3-snapshot-2',
+    '26.3-snapshot-3',
+    '26.3-snapshot-4',
+    '26.3-snapshot-5',
+    '26.3-snapshot-6',
+    '26.3-snapshot-7',
+    '26.3-snapshot-8',
+    '26.3-snapshot-9',
+    '26.3-snapshot-10',
+    '26.3',
     '26w14a'
 ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.4.1-neoforge'
+x-prismlauncher-version-number = '1.4.3-neoforge'
 
 [download]
-hash = '5b3e7f9b50ade95700caf34c0789da22f9e52a6596a9dbf0408075c7caca1a5453a6437a106216cf1b964a613e639d56683400ec2b626c21b07094449cb3e2bb'
+hash = 'c22560f1e81e3ab3e1a1aceff39cb1cc6fc9a200f0dbf0f91aaf40c110bfd8428ddae58d2c77187162459611eafc82696cb7f779a8aa6ed926b4bb208949b278'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/yv6sGJzN/versions/RdmddaSy/iris_shader_folder-1.4.1-neoforge.jar'
+url = 'https://cdn.modrinth.com/data/yv6sGJzN/versions/WvgTEMyF/iris_shader_folder-1.4.3-neoforge.jar'
 
 [update.modrinth]
 mod-id = 'yv6sGJzN'
-version = 'RdmddaSy'
+version = 'WvgTEMyF'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'YL57xq9U'

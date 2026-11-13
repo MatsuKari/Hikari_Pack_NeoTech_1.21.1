@@ -1,25 +1,25 @@
-filename = 'itemzoomer-neoforge-2.2.2-1.21.1.jar'
+filename = 'itemzoomer-neoforge-2.3.0-1.21.1.jar'
 name = 'Item Zoomer'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'itemzoomer-neoforge-2.2.2-1.21.1.jar'
+x-prismlauncher-version-number = 'itemzoomer-neoforge-2.3.0-1.21.1.jar'
 
 [download]
-hash = 'e6648c43a6a870397bcf50be045ec55523f7a82c'
+hash = '57bce1fc92dccdffa62daaf2f9bf9d36a1f716d5'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8481330
+file-id = 9193504
 project-id = 1233458
 
 [[x-prismlauncher-dependencies]]
-addonId = '419699'
+addonId = '348521'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = '348521'
+addonId = '419699'
 type = 'REQUIRED'

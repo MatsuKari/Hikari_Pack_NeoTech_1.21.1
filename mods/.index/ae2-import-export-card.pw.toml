@@ -1,29 +1,33 @@
-filename = 'ae2importexportcard-1.21.1-1.6.0.jar'
+filename = 'ae2importexportcard-1.21.1-1.9.1.jar'
 name = 'AE2 Import Export Card'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.1-1.6.0'
+x-prismlauncher-version-number = '1.21.1-1.9.1'
 
 [download]
-hash = '4fe4b5e1febc36a7bd09d659b721523f78538adc021eab378ec4ec7f311b8311d136dc23e49332f5229d4c30a06c37894abb12aab00d785a2562ef4d5d3f5b8a'
+hash = '1129b0ae543a19d1bfee1ed589ab8603ff0435077e7c2566585edb71e2cd4775e908cb5ec0736c73888ddffc7984a9eddb691ce6edbf1da4756d56bd7cb0f728'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/qelfSMnn/versions/UNYpf7A1/ae2importexportcard-1.21.1-1.6.0.jar'
+url = 'https://cdn.modrinth.com/data/qelfSMnn/versions/CuP91rXX/ae2importexportcard-1.21.1-1.9.1.jar'
 
 [update.modrinth]
 mod-id = 'qelfSMnn'
-version = 'UNYpf7A1'
+version = 'CuP91rXX'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vvuO3ImH'
+type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'IiATswDj'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'XxWD5pD3'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
 addonId = 'Ce6I4WUE'
 type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'XxWD5pD3'
+type = 'REQUIRED'

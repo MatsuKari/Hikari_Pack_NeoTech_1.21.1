@@ -1,20 +1,20 @@
-filename = 'immersivehotbar-1.2.1-neoforge-1.21-1.21.1.jar'
+filename = 'immersivehotbar-1.3.0-neoforge-1.21-1.21.1.jar'
 name = 'Immersive Hotbar'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.2.1-neoforge-1.21.1'
+x-prismlauncher-version-number = '1.3.0-neoforge-1.21-1.21.1'
 
 [download]
-hash = '58d9743d1c15e8410a40057cd21684114ff1e98918fe9b6d158aa67560ad4eb8877e17dc26b502a639daf4cd6b94369ac3f61dc764b748e34b2c2967b7ae7531'
+hash = '777ce86b87b3f598b2681473ff2cc90dc9f632e8342c0a6421544263df42fda310567b77a35e7257f72a3d02c48f03ddd06769df20c780231360906235067254'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/hsPB5xMD/versions/mmBy8PSp/immersivehotbar-1.2.1-neoforge-1.21-1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/hsPB5xMD/versions/aUGL2knt/immersivehotbar-1.3.0-neoforge-1.21-1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'hsPB5xMD'
-version = 'mmBy8PSp'
+version = 'aUGL2knt'
 
 [[x-prismlauncher-dependencies]]
 addonId = '1eAoo2KR'

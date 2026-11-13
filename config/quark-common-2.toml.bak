@@ -20,7 +20,7 @@
 	#The amount of slots the chest button system should seek when trying to figure out if a container should be eligible for them.
 	"Chest Button Slot Target" = 27
 	#Set this to false to not show the Quark Programmer Art resource pack in the resource pack selection screen
-	"Generate Programmer Art" = true
+	"Generate Programmer Art" = false
 	#Set this to false to prevent Quark from ever disabling any vanilla data files. This will break certain modules, so only do this if you know what you're doing!
 	"Quark V D O" = true
 
@@ -554,6 +554,8 @@
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
+		#If true, recipes that have no output will be skipped from unlock
+		"Skip Empty Recipes" = true
 
 	[tweaks.campfires_boost_elytra]
 		"Boost Strength" = 0.5
@@ -753,6 +755,10 @@
 		"Easy Sticks" = true
 		#Can raw ore blocks be smelted, taking 9x the time a normal item?
 		"Smelt Raw Ore Blocks" = true
+
+	[tweaks.slabs_to_blocks]
+		#Slabs that should NOT be convertible back into full-blocks
+		"Banned Slabs" = []
 
 [world]
 	#(Ashen Trees)
@@ -1531,7 +1537,7 @@
 
 [client]
 	"Auto Walk Keybind" = true
-	"Back Button Keybind" = true
+	"Back Button Keybind" = false
 	"Buckets Show Inhabitants" = true
 	Camera = true
 	"Chest Searching" = true
@@ -1819,7 +1825,7 @@
 		"Convert Variant Items" = false
 		#Enable the hammer, allowing variants to be swapped between eachother, including the original block. Do this ONLY under the same circumstances as Convert Variant Items.
 		"Enable Hammer" = false
-		"Show Tooltip" = true
+		"Show Tooltip" = false
 		"Align Hud To Hotbar" = false
 		"Show Simple Hud" = false
 		"Show Hud" = true
@@ -1939,7 +1945,7 @@
 		"Allow Books" = true
 		#Set this to true to allow treasure enchantments to be rolled as pieces
 		"Allow Treasures" = false
-		#Set this to true to allow undiscoverable enchantments to be rolled as pieces
+		#Set this to true to allow undiscoverable enchantments (that is, enchantments that are not in the #minecraft:in_enchanting_table tag) to be rolled as pieces
 		"Allow Undiscoverable Enchantments" = false
 		#Any treasure enchantment IDs here will be able to appear in books in matrix enchanting
 		"Treasure Whitelist" = []
@@ -1971,6 +1977,8 @@
 		"Influence Power" = 0.125
 		#If you set this to false, the vanilla Enchanting Table will no longer automatically convert to the Matrix Enchanting table. You'll have to add a recipe for the Matrix Enchanting Table to make use of this.
 		"Automatically Convert" = true
+		#If true, items that have 0 enchantability, but are in the #c:enchantables tag, such as Shears and Shields, can be enchanted in the Matrix Enchanter
+		"Allow Zero Enchantability" = false
 
 	[oddities.pipes]
 		#How long it takes for an item to cross a pipe. Bigger = slower.

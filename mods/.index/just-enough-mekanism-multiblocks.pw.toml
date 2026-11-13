@@ -1,19 +1,19 @@
-filename = 'JustEnoughMekanismMultiblocks-1.21.1-7.20.jar'
+filename = 'JustEnoughMekanismMultiblocks-1.21.1-7.23.jar'
 name = 'Just Enough Mekanism Multiblocks'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.1-7.20'
+x-prismlauncher-version-number = '1.21.1-7.23'
 
 [download]
-hash = 'bc5b6ad75ee7c8c978d666a561b8b67df8688820'
+hash = 'b991df7554af8532d507eeccdef3797bec78f958'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8811291
+file-id = 9068212
 project-id = 898746
 
 [[x-prismlauncher-dependencies]]
@@ -21,7 +21,15 @@ addonId = '238222'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
+addonId = '602409'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
 addonId = '1026040'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '268566'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
@@ -29,15 +37,7 @@ addonId = '268560'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = '268566'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
 addonId = '1230085'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '602409'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]

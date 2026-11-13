@@ -1,25 +1,25 @@
-filename = 'ars_ocultas-1.21.1-2.6.1.jar'
+filename = 'ars_ocultas-1.21.1-2.6.2.jar'
 name = 'Ars Ocultas'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.1-2.6.1'
+x-prismlauncher-version-number = '1.21.1-2.6.2'
 
 [download]
-hash = '89cd67402f37f2a49ea30325719098925baa5c671bcd5b4d39da49623edce837b96c4440d48d3efcad970e27f7e04f8d22334138b534c62eb7b466f1bcb4c8af'
+hash = '4a673096a2d0b9a5a83aca2747a8a08211205ed40875b4c22061f774146d9d4fff9c872e2c1b6b59e5fef2d1bf3b3a08732f22743ade4e0a82ba08636dc701a5'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Tsw8vbks/versions/FFn9Oxki/ars_ocultas-1.21.1-2.6.1.jar'
+url = 'https://cdn.modrinth.com/data/Tsw8vbks/versions/qLGJRyji/ars_ocultas-1.21.1-2.6.2.jar'
 
 [update.modrinth]
 mod-id = 'Tsw8vbks'
-version = 'FFn9Oxki'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'TKB6INcv'
-type = 'REQUIRED'
+version = 'qLGJRyji'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'sbJh4AZw'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'TKB6INcv'
 type = 'REQUIRED'

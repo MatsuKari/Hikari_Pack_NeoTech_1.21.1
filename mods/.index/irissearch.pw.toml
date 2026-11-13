@@ -1,4 +1,4 @@
-filename = 'IrisSearch-1.8.0-neoforge.jar'
+filename = 'IrisSearch-1.8.4-neoforge.jar'
 name = 'IrisSearch'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -215,20 +215,53 @@ x-prismlauncher-mc-versions = [
     '26.2-snapshot-7',
     '26.2-snapshot-8',
     '26.2',
+    '26.3 Pre-Release  1',
+    '26.3 Pre-Release  2',
+    '26.3 Pre-Release  3',
+    '26.3 rc 1',
+    '26.3 rc 2',
+    '26.3 rc 3',
+    '26.3 snapshot 1',
+    '26.3 snapshot 2',
+    '26.3 snapshot 3',
+    '26.3 snapshot 4',
+    '26.3 snapshot 5',
+    '26.3 snapshot 6',
+    '26.3 snapshot 7',
+    '26.3 snapshot 8',
+    '26.3 snapshot 9',
+    '26.3 snapshot 10',
+    '26.3-pre-1',
+    '26.3-pre-2',
+    '26.3-pre-3',
+    '26.3-rc-1',
+    '26.3-rc-2',
+    '26.3-rc-3',
+    '26.3-snapshot-1',
+    '26.3-snapshot-2',
+    '26.3-snapshot-3',
+    '26.3-snapshot-4',
+    '26.3-snapshot-5',
+    '26.3-snapshot-6',
+    '26.3-snapshot-7',
+    '26.3-snapshot-8',
+    '26.3-snapshot-9',
+    '26.3-snapshot-10',
+    '26.3',
     '26w14a'
 ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.8.0-neoforge'
+x-prismlauncher-version-number = '1.8.4-neoforge'
 
 [download]
-hash = 'a3e63dc113cd2e8f02b3ae2bb07378022e994adfa2a7ba367d09633b2e5405e2611d87d769a27f9532638c0f245cde10f62f4d9b4dc0a959766e4085a7ebf40f'
+hash = '787f177ede95dfa71b88abee82f03a0181023e3fb5de1e9ed31a21197b78db0e00b902e16d58a3bcca84851c8b2e34915928860e0610f13514c7a5477c8ae977'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/bkAgg84v/versions/WLQxpMtR/IrisSearch-1.8.0-neoforge.jar'
+url = 'https://cdn.modrinth.com/data/bkAgg84v/versions/CSSRafns/IrisSearch-1.8.4-neoforge.jar'
 
 [update.modrinth]
 mod-id = 'bkAgg84v'
-version = 'WLQxpMtR'
+version = 'CSSRafns'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'YL57xq9U'

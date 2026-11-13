@@ -164,9 +164,14 @@
     "broom": true
   },
   "neoecoae": {
+    "large_workstation_current_inputs": true,
+    "eco_computation_system": true,
     "eco_drive": true,
     "eco_crafting_worker": true,
-    "eco_crafting_system": true
+    "eco_storage_interface": true,
+    "eco_storage_system": true,
+    "eco_crafting_system": true,
+    "eco_computation_drive": true
   },
   "jade_access": {
     "held_item": true,
@@ -174,10 +179,6 @@
     "block": true,
     "entity": true,
     "entity_variant": true
-  },
-  "tombstone": {
-    "decorative_graves": true,
-    "player_graves": true
   },
   "mekajadeupgrade": {
     "upgrades": true

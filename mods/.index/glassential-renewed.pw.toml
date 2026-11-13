@@ -1,18 +1,18 @@
-filename = 'Glassential-renewed-1.21.1-3.4.5.jar'
+filename = 'Glassential-renewed-1.21.1-3.4.7.jar'
 name = 'Glassential-renewed'
 side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '3.4.5'
+x-prismlauncher-version-number = '3.4.7'
 
 [download]
-hash = '62ccb9057aab96ba656ec8ce357977360c1cc7761fedd7ac995a40b1f16e389c75d753746840b11d30077b6b896938246fb281ec481e560a05084e22098c31d8'
+hash = 'f61f3c503321c0efc8450be29a0512934375bfb2237355d79ea7a198f78742492806c76b2f4b4d19765dd00c8eaa44ecf881bf83b2c7baa9a5ebc7f10e1ff184'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/kc9FSsYx/versions/ZU9ErRM9/Glassential-renewed-1.21.1-3.4.5.jar'
+url = 'https://cdn.modrinth.com/data/kc9FSsYx/versions/knYwchce/Glassential-renewed-1.21.1-3.4.7.jar'
 
 [update.modrinth]
 mod-id = 'kc9FSsYx'
-version = 'ZU9ErRM9'
+version = 'knYwchce'

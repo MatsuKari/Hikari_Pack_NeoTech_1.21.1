@@ -1,23 +1,23 @@
-filename = 'easy-villagers-neoforge-1.21.1-1.1.42.jar'
+filename = 'easy-villagers-neoforge-1.21.1-1.1.49.jar'
 name = 'Easy Villagers'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'neoforge-1.21.1-1.1.42'
+x-prismlauncher-version-number = 'neoforge-1.21.1-1.1.49'
 
 [download]
-hash = '584bcd5449996f0bcc66d97a88da3a148087f1b29e077983c06137ff18c1dc302df8f84eef7d835e61ebcd9fd221f98c67cbe9cb480fb33a46de6245614a68e4'
+hash = '8d74ed2130cc8b5b07b71378abb645f2e6326580b5f3a8ceb5ab3ae7be8a80d17b2e9afb302b82173d572f65e415696786de58676968c818879731404e23806e'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Kaov2qgi/versions/uXQvvtUt/easy-villagers-neoforge-1.21.1-1.1.42.jar'
+url = 'https://cdn.modrinth.com/data/Kaov2qgi/versions/Z8Z2WZUm/easy-villagers-neoforge-1.21.1-1.1.49.jar'
 
 [update.modrinth]
 mod-id = 'Kaov2qgi'
-version = 'uXQvvtUt'
+version = 'Z8Z2WZUm'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'Eyw0UxEx'
+addonId = 'nvQzSEkH'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
@@ -25,5 +25,5 @@ addonId = 'u6dRKJwZ'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'nvQzSEkH'
+addonId = 'Eyw0UxEx'
 type = 'OPTIONAL'

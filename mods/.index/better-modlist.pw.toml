@@ -1,20 +1,20 @@
-filename = 'better_modlist-21.1.1.jar'
+filename = 'better_modlist-21.1.5.jar'
 name = 'Better ModList'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '21.1.1'
+x-prismlauncher-version-number = '21.1.5'
 
 [download]
-hash = 'cabcf78010f1d1ef599184a515704d84984c1eddcb41fd1bc77ee709cc804ea5a6ff25810e4a5a8c26dd0acd785fde7c4d05222dca850f02dabf9cd7f07138ae'
+hash = '65f47d2e3d72d9411dd07ac0740c771a1ea2693a1e72d69b83ba7edf3b20abf67510abc88e6fc9f6f71899783315a62e252d08b945a13e8d1baacba6a284d680'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/sbpqhzIG/versions/XavNSFnf/better_modlist-21.1.1.jar'
+url = 'https://cdn.modrinth.com/data/sbpqhzIG/versions/QRL2q28j/better_modlist-21.1.5.jar'
 
 [update.modrinth]
 mod-id = 'sbpqhzIG'
-version = 'XavNSFnf'
+version = 'QRL2q28j'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'KUZAAwdD'
