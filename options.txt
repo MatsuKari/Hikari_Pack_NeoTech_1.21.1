@@ -17,9 +17,9 @@ gamma:1.0
 graphicsMode:1
 guiScale:3
 maxFps:130
-mipmapLevels:3
+mipmapLevels:4
 narrator:0
-particles:2
+particles:0
 reducedDebugInfo:true
 renderClouds:"false"
 renderDistance:8
@@ -232,11 +232,11 @@ key_placebo.toggleWings:key.keyboard.unknown
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_key.hostilenetworks.open_deep_learner:key.keyboard.unknown
 key_artifacts.key.helium_flamingo.activate:key.keyboard.unknown
 key_artifacts.key.charm_of_shrinking.toggle:key.keyboard.unknown
@@ -530,7 +530,7 @@ key_key.inventoryhud.toggleall:key.keyboard.unknown
 key_key.craftpresence.config_keycode.name:key.keyboard.grave.accent
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:0.38401541804635764
-soundCategory_music:1.0
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.4102882922535212
 soundCategory_block:0.528169014084507
