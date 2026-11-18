@@ -12,7 +12,7 @@ darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
-fullscreen:false
+fullscreen:true
 gamma:1.0
 graphicsMode:1
 guiScale:3
@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
-resourcePacks:["vanilla","mod_resources","file/§0§lOLED §f§lColourful Containers§8.zip","file/§5§lModded §f§lContainers §8§lDark§8.zip","file/§bDer\u0027s Shaded Font §916x §3v21§8.zip","mod/wcwt:resourcepacks/dark_ae_ui","file/AE2DarkMode-V1.0.6.zip","file/AECS-DarkMode-V1.0.1.zip","file/Crystal-Tooltips.zip","file/enchant-icons-26.2-v1.3.zip","file/Roman Numerals for Enchant Icons (gray).zip","file/§dEffect§8_§dTooltip§8_§dIcons§8.zip","file/Icons - Tooltips v.1.3.zip","file/GEO - v1.112.0.zip","file/EvenBetterEnchants_v2_r1.zip","file/xali\u0027s potion v1.2.0.zip","file/xali\u0027s Potions Addon v1.1 for 1.21+.zip","file/Modded Omelet [120] [162].zip","file/Brewing Potion Guide 1.1.3.zip"]
+resourcePacks:["vanilla","mod_resources","mod/wcwt:resourcepacks/dark_ae_ui","file/§dEffect_Tooltip_Icons1.20-26.x.zip","file/§0§lOLED §f§lColourful Containers§8 (1).zip","file/§5§lModded §f§lContainers §8§lDark§8.zip","file/xali\u0027s potion v1.2.0.zip","file/xali\u0027s Potions Addon v1.1 for 1.21+.zip","file/enchant-icons-26.2-v1.3.zip","file/Roman Numerals for Enchant Icons (gray).zip","file/Modded Omelet [120] [171].zip","file/Icons - Tooltips v.1.3.zip","file/GEO - v1.117.0.zip","file/EvenBetterEnchants_v2_r1.zip","file/Crystal-Tooltips (1).zip","file/Brewing Potion Guide 1.1.3.zip","file/AE2DarkMode-V1.0.6.zip","file/AECS-DarkMode-V1.0.1.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -232,11 +232,11 @@ key_placebo.toggleWings:key.keyboard.unknown
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
 key_key.hostilenetworks.open_deep_learner:key.keyboard.unknown
 key_artifacts.key.helium_flamingo.activate:key.keyboard.unknown
 key_artifacts.key.charm_of_shrinking.toggle:key.keyboard.unknown
@@ -244,7 +244,7 @@ key_artifacts.key.charm_of_sinking.toggle:key.keyboard.unknown
 key_artifacts.key.night_vision_goggles.toggle:key.keyboard.unknown
 key_artifacts.key.scarf_of_invisibility.toggle:key.keyboard.unknown
 key_artifacts.key.universal_attractor.toggle:key.keyboard.unknown
-key_key.usetiab:key.mouse.4
+key_key.usetiab:key.keyboard.minus
 key_key.enderio.travel_staff:key.keyboard.unknown
 key_key.enderio.toggle_magnet:key.keyboard.unknown
 key_key.easy_villagers.pick_up:key.keyboard.unknown
@@ -278,8 +278,6 @@ key_justzoom.keybinds.keybind.zoom_in:key.mouse.9
 key_justzoom.keybinds.keybind.zoom_out:key.mouse.10
 key_justzoom.keybinds.keybind.open_options:key.keyboard.unknown
 key_key.ponder.ponder:key.keyboard.w
-key_key.better_tooltips.scroll_key:key.keyboard.left.alt
-key_key.better_tooltips.horizontal_scroll_key:key.keyboard.left.control
 key_key.silentgear.cycle.back:key.keyboard.z
 key_key.silentgear.cycle.next:key.keyboard.c
 key_key.silentgear.displayItemProperties:key.keyboard.left.control
@@ -382,9 +380,9 @@ key_key.aether.gravitite_jump_ability.desc:key.keyboard.space
 key_key.aether.invisibility_toggle.desc:key.keyboard.v
 key_key.relics.research_relic:key.keyboard.unknown
 key_key.relics.active_abilities_list:key.keyboard.unknown
-key_key.twilightforest.zoom:key.keyboard.unknown
 key_key.twilightforest.red_thread_vision:key.keyboard.unknown
 key_key.twilightforest.item_display_map_cycle:key.keyboard.unknown
+key_key.twilightforest.zoom:key.keyboard.unknown
 key_key.twilightforest.swap_hotbar:key.keyboard.unknown
 key_key.actualladditions.crafting_stick_open.desc:key.keyboard.unknown
 key_key.ftbultimine:key.mouse.4
@@ -461,7 +459,7 @@ key_key.ae2.ae2wtlib_stow:key.keyboard.unknown
 key_key.ae2.portable_fluid_cell:key.keyboard.unknown
 key_key.ae2.wireless_terminal:key.keyboard.unknown
 key_key.ae2.wireless_requester_terminal:key.keyboard.unknown
-key_key.ae2.wireless_pattern_access_terminal:key.keyboard.unknown
+key_key.ae2.wireless_pattern_access_terminal:key.keyboard.keypad.3
 key_key.ae2.wireless_quantum_crafter_terminal:key.keyboard.unknown
 key_key.ae2.wireless_pattern_encoding_access_terminal:key.keyboard.unknown
 key_key.ae2.portable_item_cell:key.keyboard.unknown

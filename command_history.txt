@@ -1,9 +1,3 @@
-/summon minecraft:villager
-/tiab time add MatsuKari 99999999
-/summon minecraft:villager
-/kill
-/gamemode creative
-/gamemode survival
 /time set midnight
 /gamerule keepInventory
 /kill MatsuKari
@@ -48,3 +42,9 @@
 /reload
 /locate structure minecraft:fortress
 /tp @s 64 ~ 80
+/weather rain
+/locate biome minecraft:soul_sand_valley
+/tp @s 48 74 -21
+/locate biome minecraft:ocean
+/tp @s -330 76 -259
+/weather clear

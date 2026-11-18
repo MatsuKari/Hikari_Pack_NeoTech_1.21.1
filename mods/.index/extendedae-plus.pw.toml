@@ -1,20 +1,20 @@
-filename = 'extendedae_plus-1.6.4.1.jar'
+filename = 'extendedae_plus-1.6.4.2.jar'
 name = 'ExtendedAE-Plus'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.6.4.1'
+x-prismlauncher-version-number = '1.6.4.2'
 
 [download]
-hash = 'ee5819be711c7ce800462fc59f1712ad595d0ac42472919b773dab6e1923bdfe76665ce0e49079bc45a60a3b572c8d7b5edd20238f70f49d2c0ae8ef269dec96'
+hash = '638c3898e982b689fca56a6d84dd7d60817222db7d9f09d350076e0d61dc7e96b93ba51f9d39a276f11d78db33b9a8a01df960133df0e77d6d4545365376e89b'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/xr109llC/versions/rfBfT1Uq/extendedae_plus-1.6.4.1.jar'
+url = 'https://cdn.modrinth.com/data/xr109llC/versions/Bm8LwH2q/extendedae_plus-1.6.4.2.jar'
 
 [update.modrinth]
 mod-id = 'xr109llC'
-version = 'rfBfT1Uq'
+version = 'Bm8LwH2q'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'udZtKfzP'

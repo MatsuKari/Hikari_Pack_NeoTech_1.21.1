@@ -13,7 +13,6 @@
   {"ingredient":{"id":"chipped:dripstone_block_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"chipped:granite_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"quark:permafrost_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"malum:tainted_rock_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"ad_astra:tier_1_rocket","components":"{\"ad_astra:fluids\":[{amount:3000L,id:\"ad_astra:fuel\"}]}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"ad_astra:fuel"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"ad_astra:fuel_refinery"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -28,5 +27,6 @@
   {"ingredient":{"id":"ad_astra_giselle_addon:oxygen_can"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"ad_astra:desh_plate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"mekmm:multiversal_stamping_factory"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"mekmm:basic_stamping_factory"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"mekmm:basic_stamping_factory"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mysticalagriculture:zinc_seeds"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

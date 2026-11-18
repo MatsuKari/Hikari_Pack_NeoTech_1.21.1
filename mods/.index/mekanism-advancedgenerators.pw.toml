@@ -1,20 +1,28 @@
-filename = 'mekanismadvancedgenerators-2.2.2.jar'
+filename = 'mekanismadvancedgenerators-neoforge-1.21.1-2.3.2.jar'
 name = 'Mekanism Advanced Generators'
-side = ''
+side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'AdvancedGenerators 1.21.1-2.2.2'
+x-prismlauncher-version-number = 'Mekanism Advanced Generators 2.3.2'
 
 [download]
-hash = 'ef7e7fdc3afb0c2a00b5893b91c64caf1e1ad1fc'
+hash = '4ff33e127940707ed21196343d12cfe411c1d655'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7987267
+file-id = 9314413
 project-id = 844063
+
+[[x-prismlauncher-dependencies]]
+addonId = '324717'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '268566'
+type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
 addonId = '268560'
