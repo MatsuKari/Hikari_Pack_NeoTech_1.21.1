@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"integrateddynamics:logic_programmer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"integrateddynamics:portable_logic_programmer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"integrateddynamics:crystalized_menril_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"integratedtunnels:part_importer_item"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

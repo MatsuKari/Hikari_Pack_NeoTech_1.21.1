@@ -1,0 +1,25 @@
+filename = 'easyapothcompat-1.0.1.jar'
+name = 'Easy Magic + Apotheosis Compat'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'easyapothcompat-1.0.1.jar'
+
+[download]
+hash = 'b4470f562fef0fb0c2ef14efdd0783bafa4d3aab'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8980618
+project-id = 1531461
+
+[[x-prismlauncher-dependencies]]
+addonId = '1063926'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '456239'
+type = 'REQUIRED'

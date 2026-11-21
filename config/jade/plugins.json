@@ -244,6 +244,9 @@
     "ender_broadcaster": true,
     "mirror_pattern_provider": true
   },
+  "mekanismadvancedgenerators": {
+    "solar_generator": true
+  },
   "mysticalagriculture": {
     "infused_farmland": true,
     "crop": true,

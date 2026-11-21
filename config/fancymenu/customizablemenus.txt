@@ -60,3 +60,6 @@ net.minecraft.client.gui.screens.options.ChatOptionsScreen {
 net.minecraft.client.gui.screens.options.AccessibilityOptionsScreen {
 }
 
+dev.dediamondpro.resourcify.gui.update.UpdateGui {
+}
+
